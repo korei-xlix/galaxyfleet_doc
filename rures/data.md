@@ -382,3 +382,8 @@ COST
 
 
 
+***
+::Project= Galaxy Fleet Document  
+::Admin= Korei (@korei-xlix)  
+::github= https://github.com/korei-xlix/  
+::Homepage= https://koreixlix.wixsite.com/profile  
