@@ -1,0 +1,302 @@
+# Galaxy Fleet
+  
+<h1>～兵器仕様～ :: 戦略支援艦</h1>  
+<h2>～Weapon Specifications～ :: Strategy Support Ship</h2>  
+  
+
+**★このドキュメントの改造、流用、配布、クローンは禁止です★**  
+    **Modification, diversion, distribution, and cloning of this document are prohibited**  
+  
+
+<h1 id="aHowto">このドキュメントについて / About this document</h1>  
+このドキュメントは「Galaxy Fleet」の兵器のうち、戦略支援艦の定義を記載するものです。  
+その他の仕様についてはreadmeの目次を確認してください。  
+  
+
+
+
+
+
+<h1 id="aMokuji">目次 / Table of contents</h1>  
+
+* [readme.md](/readme.md)
+  * [兵器仕様](../readme.md)
+  * [兵器種類](../../strategypart/readme.md#aUnitKind)
+  * [兵器分類](../readme.md#aUnitClass)
+
+  * [兵器分類：戦略支援艦](../readme.md#aStrategySupportShip)
+
+  * 兵器標準仕様
+    * [SSSS-STD：戦略支援艦](#aStrategySupportShip)
+    * [SSSS-CNS：大型建設艦](#aLargeConstructionShip)
+    * [SSSS-DOC：浮遊ドック](#aFloatingDockShip)
+    * [SSSS-MIN：資源採掘艦](#aMiningShip)
+    * [SSSS-WOK：移動工房艦](#aMobileWorkshopShip)
+    * [SSSS-OBS：気象観測艦](#aWeatherObservationShip)
+    * [SSSS-TNG：練習艦](#aTrainingShip)
+    * [SSSS-TST：試験艦](#aTestShip)
+    * [SSSS-DCY：欺瞞艦](#aDecoyShip)
+    * [SSSS-TRG：転送ゲート艦](#aTransportGateShip)
+  
+
+
+
+
+
+<h1 id="aStrategySupportShip">SSSS-STD：戦略支援艦 / Strategy Support Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+あらゆる戦略機能を搭載し、多用途に使える超大型の支援艦です。  
+戦艦か大型貨物船がベースとなってます。  
+曳航艦、敷設回収艦、建設艦、補給輸送艦、資源採掘艦、移動工房、浮遊ドックの機能を搭載します。  
+武器はありません。  
+艦船のなかでは一番コストが高いです。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |(なし)  |
+|標準  |貨物室設備  |
+|      |艦船曳航用設備  |
+|      |敷設用設備  |
+|      |建設用設備  |
+|      |浮きドック設備  |
+|      |兵器生産設備  |
+|      |補給用設備  |
+|      |資源採掘設備  |
+|機能  |運び屋、船引き、曳航  |
+|      |工事屋、敷設、回収  |
+|      |土建屋、移動修理、移動改造  |
+|      |補給係、補給  |
+|      |工夫、資源採掘、ドリル交換、陸揚げ  |
+|      |工場長、兵器生産、兵器補充  |
+|搭載  |浮遊兵器、工作用資材、修理用物資、補給用物資  |
+|      |マイニング用レーザドリル  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ・   | ×   | 〇   | 〇   | 〇(+4)   |
+  
+
+
+
+
+
+<h1 id="aLargeConstructionShip">SSSS-CNS：大型建設艦 / Large Construction Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+土木作業ができる大型の支援艦です。  
+基地施設を素早く建築することができます。専用の建築設備を搭載します。  
+武器はありません。工作艦と違って防御がやや薄いため、前線での建築には向きません。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |(なし)  |
+|標準  |建設用設備  |
+|機能  |土建屋、建設、応急修理、陸揚げ  |
+|搭載  |浮遊兵器、工作用資材、修理用物資  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ・   | ×   | ×   | 〇   | 〇(+4)   |
+  
+
+
+
+
+
+<h1 id="aFloatingDockShip">SSSS-DOC：浮遊ドック / Floating Dock Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+遠隔地で艦船の修理や改造ができる移動式のドック艦です。  
+工作艦よりも早く修理ができ、改造も遠隔地で行えます。  
+武器はありません。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |(なし)  |
+|標準  |浮きドック設備  |
+|機能  |船大工、移動修理、移動改造、陸揚げ  |
+|搭載  |修理用物資  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ・   | ×   | ×   | 〇   | 〇(+4)   |
+  
+
+
+
+
+
+<h1 id="aMiningShip">SSSS-MIN：資源採掘艦 / Mining Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+戦場でも資源を採掘できる支援艦です。  
+専用の資源採掘設備が搭載できます。  
+武器はありません。荷物の輸送路を確保した港でないと荷物の搬出入はできません。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |(なし)  |
+|標準  |資源採掘設備  |
+|機能  |工夫、資源採掘、ドリル交換、陸揚げ  |
+|搭載  |マイニング用レーザドリル  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| 〇   | ▲   | ×   | ×   | 〇(+4)   |
+  
+
+
+
+
+
+<h1 id="aMobileWorkshopShip">SSSS-WOK：移動工房艦 / Mobile Workshop Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+戦闘兵器の生産と補充が行えるミニ工場を搭載した超大型の支援艦です。  
+戦闘兵器の生産と補充が行えます。  
+エリアマップ中でも空母などを横づけして生産した戦闘兵器を補充することができます。  
+荷物の輸送路を確保した港であれば、生産した戦闘兵器を荷降ろしできます。  
+武器はありません。コストが非常に高いです。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |(なし)  |
+|標準  |兵器生産設備  |
+|機能  |工場長、兵器生産、兵器補充、陸揚げ  |
+|搭載  |機動兵器、陸戦兵器、資源（生産用）  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ▲   | ×   | ×   | ・   | ▲(+4)   |
+  
+
+
+
+
+
+<h1 id="aWeatherObservationShip">SSSS-OBS：気象観測艦 / Weather Observation Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+戦場の地形を把握したり、気象予測ができる特殊な支援艦です。多用途支援艦がベースとなってます。  
+予測により戦場に様々な効果を与えます。  
+武器はありません。コストが高いです。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |(なし)  |
+|標準  |気象観測設備  |
+|機能  |気象予報士、気象観測  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ▲   | ×   | 〇   | 〇(+4)   |
+  
+
+
+
+
+
+<h1 id="aTrainingShip">SSSS-TNG：練習艦 / Training Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+無人標的機や訓練設備を搭載し、士官やAIの育成を目的とする艦船です。戦闘支援艦がベースとなってます。  
+練習用設備として戦艦、空母の装備が搭載でき、戦闘力は戦闘艦だけは匹敵します。  
+本格的な戦闘は想定してないので、耐久性能は低いです。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |大型主砲、中型主砲、小型主砲、対空砲  |
+|標準  |大型レーザ  |
+|      |バスターキャノン  |
+|      |小型ビームキャノン  |
+|      |中型対空砲  |
+|機能  |空母直掩、護衛指示、訓練  |
+|搭載  |すべての艦載機  |
+|      |機動歩兵  |
+|      |重戦闘機、歩兵輸送機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ▲   | ▲   | 〇   | 〇   | ▲(+8)   |
+  
+
+
+
+
+
+<h1 id="aTestShip">SSSS-TST：試験艦 / Test Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+武装や新装備のテストをおこなうための戦闘用艦船です。  
+様々な装備を搭載することが可能です。  
+レギュレーションで通常のイベントや戦闘での出撃は許可されません。  
+  
+
+
+
+
+
+<h1 id="aDecoyShip">SSSS-DCY：欺瞞艦 / Decoy Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+欺瞞用の艦船です。  
+遠隔操作で制御したり、自動制御をおこなうこともできます。  
+武装を搭載すれば、搭載武装の制御もできます。  
+ただし、防御力は脆弱で、攻撃を受けるとすぐ壊れます。  
+壊れた欺瞞艦の回収もできますが、手間やコストを考えると放棄されるほうがよいと思います。  
+  
+
+
+
+
+
+<h1 id="aTransportGateShip">SSSS-TRG：転送ゲート艦 / Transport Gate Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
+巨大な転送装置を搭載した特殊な艦船です。建造コスト、時間がかかる、大変希少な艦船です。  
+味方の艦船を前線に転送することができます。  
+武器はありません。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |(なし)  |
+|標準  |転送設備  |
+|機能  |転送者、転送  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ▲   | ×   | ×   | 〇   | 〇(+4)   |
+  
+
+
+
+
+
+***
+::Game Site= [https://galaxy-fleet.koreis-labo.com/](https://galaxy-fleet.koreis-labo.com/)  
+::github= [https://github.com/korei-xlix/galaxyfleet](https://github.com/korei-xlix/galaxyfleet)  
+::Public X= [https://twitter.com/korei_sup](https://twitter.com/korei_sup)  
+  
+::Deverop= Samafeald (@samafeald)  
+::Twitter= [https://twitter.com/samafeald](https://twitter.com/samafeald)  
+  
+
+***
+[[トップへ戻る]](/readme.md)　/
+[[兵器仕様]](/galaxyfleet_doc/unit/readme.md)  
+  
+::Admin= Korei (@korei-xlix)  
+::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
+::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
+::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

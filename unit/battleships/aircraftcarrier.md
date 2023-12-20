@@ -1,0 +1,276 @@
+# Galaxy Fleet
+  
+<h1>～兵器仕様～ :: 航空母艦</h1>  
+<h2>～Weapon Specifications～ :: Aircraft Carrier</h2>  
+  
+
+**★このドキュメントの改造、流用、配布、クローンは禁止です★**  
+    **Modification, diversion, distribution, and cloning of this document are prohibited**  
+  
+
+<h1 id="aHowto">このドキュメントについて / About this document</h1>  
+このドキュメントは「Galaxy Fleet」の兵器のうち、航空母艦の定義を記載するものです。  
+その他の仕様についてはreadmeの目次を確認してください。  
+  
+
+
+
+
+
+<h1 id="aMokuji">目次 / Table of contents</h1>  
+
+* [readme.md](/readme.md)
+  * [兵器仕様](../readme.md)
+  * [兵器種類](../../strategypart/readme.md#aUnitKind)
+  * [兵器分類](../readme.md#aUnitClass)
+
+  * [兵器分類：航空母艦](../readme.md#aAircraftCarrier)
+
+  * 兵器標準仕様
+    * [BSAC-STD：航空母艦](#aAircraftCarrier)
+    * [BSAC-AMD：装甲空母](#aArmoredAircraftCarrier)
+    * [BSAC-ATK：攻撃空母](#aAttackAircraftCarrier)
+    * [BSAC-MUS：多段式空母](#aMultiStageAircraftCarrier)
+    * [BSAC-BAC：戦闘空母](#aBattleAircraftCarrier)
+    * [BSAC-ICP：要撃空母](#aInterceptAircraftCarrier)
+    * [BSAC-SRK：戦略空母](#aStrikeAircraftCarrier)
+    * [BSAC-SCT：制宙艦](#aSpaceControlShip)
+  
+
+
+
+
+
+<h1 id="aAircraftCarrier">BSAC-STD：航空母艦 / Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+船体に巨大な飛行甲板を搭載し、艦載機を大量に運用できる大型の戦列艦です。いわゆる"空母"です。  
+ほとんどの空母航空機が運用できます。少ないですが機動歩兵も運用できます。  
+対空砲しか搭載できず、単艦の戦闘力は貧弱です。  
+飛行甲板が損傷すると艦載機の離着陸が発進できなくなります。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |対空砲  |
+|標準  |大型対空砲  |
+|機能  |空母直掩、護衛指示  |
+|搭載  |空母航空機  |
+|      |機動歩兵  |
+|      |重戦闘機、歩兵輸送機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ・   | ・   | ・   | ・(+6)   |
+  
+
+
+
+
+
+<h1 id="aArmoredAircraftCarrier">BSAC-AMD：装甲空母 / Armored Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+飛行甲板と艦体の防御力を強化した大型空母です。飛行甲板が壊れにくく、激戦でも艦載機の運用がしやすくなってます。  
+専用の装甲甲板が搭載できます。  
+搭載機で爆弾が運用できないため、航空攻撃力が落ちます。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |対空砲  |
+|標準  |大型対空砲  |
+|      |甲板重装甲化  |
+|機能  |空母直掩、護衛指示、装甲甲板  |
+|搭載  |高速爆撃機、戦闘爆撃機以外の空母航空機  |
+|      |機動歩兵  |
+|      |重戦闘機、歩兵輸送機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ▲   | ▲   | ・   | ・   | ・(+6)   |
+  
+
+
+
+
+
+<h1 id="aAttackAircraftCarrier">BSAC-ATK：攻撃空母 / Attack Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+飛行甲板を強化し、艦載機の運用能力を向上し、航空攻撃力全体を向上させた大型空母です。  
+専用の発進強化甲板が搭載できます。艦載機の連続発進ができ、航空攻撃の回数が向上します。  
+機動歩兵が運用できないため、機動歩兵での防空や作戦に影響があります。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |対空砲  |
+|標準  |大型対空砲  |
+|      |強化カタパルト  |
+|機能  |空母直掩、護衛指示、強化甲板、反転攻撃  |
+|搭載  |空母航空機  |
+|      |重戦闘機、歩兵輸送機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ・   | ・   | ・   | ・(+6)   |
+  
+
+
+
+
+
+<h1 id="aMultiStageAircraftCarrier">BSAC-MUS：多段式空母 / Multi Stage Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+複数の飛行甲板と格納設備を搭載し、艦載機の搭載能力と発進能力を向上させた超大型空母です。  
+ほとんどの空母航空機、大型航空機が運用でき、機動歩兵も運用できます。運用できる航空戦力数は戦列艦のなかでで一番です。  
+飛行甲板に占める割合が多いため、艦体の耐久性が落ち、被弾すると被害が大きくなりやすいです。
+
+|項目  |設定  |
+|:--|:--|
+|武器  |対空砲  |
+|標準  |大型対空砲  |
+|機能  |空母直掩、護衛指示、多段式甲板  |
+|搭載  |すべての空母航空機  |
+|      |すべての大型航空機  |
+|      |機動歩兵  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ・   | ・   | ・   | ・(+6)   |
+  
+
+
+
+
+
+<h1 id="aBattleAircraftCarrier">BSAC-BAC：戦闘空母 / Battle Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+飛行甲板の中に主砲や装備類を格納し、艦でも砲撃戦がおこなえるようにした大型空母です。  
+空母機能はそのままに、戦艦の主砲や巡航艦クラスの武装が搭載できます。  
+ただ、火器類を使うには飛行甲板を格納しなければならず、格納中はもちろん航空機の運用はできません。  
+ほとんどの空母航空機と機動歩兵が運用できます。  
+
+|項目  |設定  |
+|:--|:--|
+|武器１|対空砲  |
+|武器２|中型主砲、小型主砲、対空砲  |
+|標準  |中型レーザ  |
+|      |ビームキャノン  |
+|      |小型ビームキャノン  |
+|      |大型対空砲  |
+|機能  |空母直掩、護衛指示、戦闘甲板切替  |
+|搭載  |空母航空機  |
+|      |機動歩兵  |
+|      |重戦闘機、歩兵輸送機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ・   | ・   | ・   | ・(+6)   |
+  
+
+
+
+
+
+<h1 id="aInterceptAircraftCarrier">BSAC-ICP：要撃空母 / Intercept Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+搭載機での防空力と要撃能力を強化した大型空母です。  
+空母で捕捉している敵機動兵器がいる場合、先制攻撃ができます。  
+対空砲が多く搭載できます。  
+搭載機の搭載量が調整され、要撃機、戦闘機、重戦闘機が増え、それ以外の搭載機の搭載量が減ります。  
+飛行甲板が損傷すると艦載機の離着陸が発進できなくなります。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |◎対空砲  |
+|標準  |大型対空砲  |
+|      |大型パルスレーザ  |
+|機能  |艦隊防空、護衛指示、航空要撃、要撃基地  |
+|搭載  |すべての空母航空機  |
+|      |機動歩兵  |
+|      |重戦闘機、歩兵輸送機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ▲   | ・   | 〇   | ・   | ▲(+8)   |
+  
+
+
+
+
+
+<h1 id="aStrikeAircraftCarrier">BSAC-SRK：戦略空母 / Strike Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+ほとんどの機動兵器が運用できる超大型空母です。建造コスト、時間がかかるため、数が少ない特別な戦列艦です。  
+すべての艦載機、汎用機以外の航空機、機動歩兵、装載艇、陸戦爆撃機が運用できます。  
+また搭載機の容量が増えます。対空砲が多く搭載できます。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |◎対空砲  |
+|標準  |大型対空砲  |
+|      |大型パルスレーザ  |
+|機能  |空母直掩、護衛指示、舟艇護衛、巨大甲板  |
+|搭載  |すべての空母航空機  |
+|      |すべての大型航空機  |
+|      |機動歩兵  |
+|      |装載艇  |
+|      |陸戦爆撃機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ▲   | ▲   | 〇   | 〇   | ▲(+8)   |
+  
+
+
+
+
+
+<h1 id="aSpaceControlShip">BSAC-SCT：制宙艦 / Space Control Ship</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+主に対潜哨戒機の運用や、対潜戦闘能力が充実した大型航空母艦です。  
+電子性能が高く、空母の機能に加え、高度な対潜戦闘能力を保有します。  
+ほとんどの空母航空機が運用できます。少ないですが機動歩兵も運用できます。特に対潜哨戒機、偵察機などの支援機の搭載数が増加します。  
+武装は爆雷やソナーなど電子戦装備、対潜用装備が搭載できます。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |対空砲、爆雷  |
+|標準  |大型デプスチャージランチャー  |
+|      |次元探知拡張装置  |
+|      |大型対空砲  |
+|機能  |空母直掩、護衛指示、制宙  |
+|搭載  |空母航空機  |
+|      |重戦闘機、歩兵輸送機  |
+|      |早期警戒機、対潜哨戒機、電子作戦機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ・   | 〇   | 〇   | ▲(+8)   |
+  
+
+
+
+
+
+***
+::Game Site= [https://galaxy-fleet.koreis-labo.com/](https://galaxy-fleet.koreis-labo.com/)  
+::github= [https://github.com/korei-xlix/galaxyfleet](https://github.com/korei-xlix/galaxyfleet)  
+::Public X= [https://twitter.com/korei_sup](https://twitter.com/korei_sup)  
+  
+::Deverop= Samafeald (@samafeald)  
+::Twitter= [https://twitter.com/samafeald](https://twitter.com/samafeald)  
+  
+
+***
+[[トップへ戻る]](/readme.md)　/
+[[兵器仕様]](/galaxyfleet_doc/unit/readme.md)  
+  
+::Admin= Korei (@korei-xlix)  
+::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
+::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
+::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

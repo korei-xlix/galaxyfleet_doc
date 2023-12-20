@@ -1,0 +1,285 @@
+# Galaxy Fleet
+  
+<h1>～兵器仕様～ :: 改造空母</h1>  
+<h2>～Weapon Specifications～ :: Modified Aircraft Carrier</h2>  
+  
+
+**★このドキュメントの改造、流用、配布、クローンは禁止です★**  
+    **Modification, diversion, distribution, and cloning of this document are prohibited**  
+  
+
+<h1 id="aHowto">このドキュメントについて / About this document</h1>  
+このドキュメントは「Galaxy Fleet」の兵器のうち、改造空母の定義を記載するものです。  
+その他の仕様についてはreadmeの目次を確認してください。  
+  
+
+
+
+
+
+<h1 id="aMokuji">目次 / Table of contents</h1>  
+
+* [readme.md](/readme.md)
+  * [兵器仕様](../readme.md)
+  * [兵器種類](../../strategypart/readme.md#aUnitKind)
+  * [兵器分類](../readme.md#aUnitClass)
+
+  * [兵器分類：改造空母](../readme.md#aModifiedAircraftCarrier)
+
+  * 兵器標準仕様
+    * [BSMC-STD：改造空母](#aModifiedAircraftCarrier)
+    * [BSMC-LIG：軽空母](#aLightAircraftCarrier)
+    * [BSMC-SPT：高速空母](#aSprintAircraftCarrier)
+    * [BSMC-STM：強襲空母](#aStormAircraftCarrier)
+    * [BSMC-MUL：商船空母](#aMerchantAircraftCarrier)
+    * [BSMC-SMK：対潜空母](#aSubmarineKillerAircraftCarrier)
+    * [BSMC-CNT：コンテナ空母](#aContainerAircraftCarrier)
+    * [BSMC-GIT：超大型空母](#aGiantAircraftCarrier)
+  
+
+
+
+
+
+<h1 id="aModifiedAircraftCarrier">BSMC-STD：改造空母 / Modified Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+大型の商船や客船の船体を流用して建造した大型の航空母艦です。  
+空母航空機と、少ないですが機動歩兵も運用できます。主砲が搭載できます。  
+飛行甲板が損傷すると艦載機の離着陸が発進できなくなります。  
+簡易的な飛行甲板のため大型航空機は運用できず、搭載機数も航空母艦より少ないです。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |中型主砲、小型主砲、対空砲  |
+|標準  |中型レーザ  |
+|      |小型ビームキャノン  |
+|      |大型対空砲  |
+|機能  |空母直掩、護衛指示  |
+|搭載  |すべての空母航空機  |
+|      |機動歩兵  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ▲   | ▲   | ・   | ・   | ・(+6)   |
+  
+
+
+
+
+
+<h1 id="aLightAircraftCarrier">BSMC-LIG：軽空母 / Light Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+小型の航空母艦です。対潜能力、対空防御に優れ、周辺宙域の哨戒や、船団護衛に向いています。  
+空母航空機と、少ないですが機動歩兵も運用できます。主砲、爆雷が搭載できます。対空砲が多めに搭載できます。  
+建造においては駆逐艦の船体が流用されることもあります。  
+搭載機数はかなり少ないです。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |小型主砲、爆雷、◎対空砲  |
+|標準  |小型ビームキャノン  |
+|      |中型デプスチャージランチャー  |
+|      |小型対空砲  |
+|      |小型ディフューズレーザ  |
+|機能  |空母直掩、護衛指示  |
+|搭載  |すべての空母航空機  |
+|      |機動歩兵  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ▲   | ▲   | ▲   | ▲   | 〇(+4)   |
+  
+
+
+
+
+
+<h1 id="aSprintAircraftCarrier">BSMC-SPT：高速空母 / Sprint Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+高速艦を改造して建造した中型航空母艦です。高い移動性能を持ち、遠くの戦場に大型航空機を素早く展開することができます。  
+空母航空機、大型航空機と、機動歩兵が運用できます。主砲が搭載できます。  
+搭載機を高速で発艦させ、先制攻撃ができます。  
+高速化するため、ペイロードは他の空母に比べて少ないです。また大型航空機を搭載することで搭載量が減ります。  
+建造においては巡航艦の船体が流用されることもあります。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |小型主砲、対空砲  |
+|標準  |小型ビームキャノン  |
+|      |小型対空砲  |
+|機能  |空母直掩、護衛指示、高速甲板、高速展開  |
+|搭載  |すべての空母航空機  |
+|      |すべての大型航空機  |
+|      |機動歩兵  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ・   | ▲   | ▲   | 〇(+4)   |
+  
+
+
+
+
+
+<h1 id="aStormAircraftCarrier">BSMC-STM：強襲空母 / Storm Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+舟艇が搭載できる大型航空母艦です。  
+装載艇が運用でき、艦載機のほか装載艇とのコンビ攻撃、支援も得られます。  
+建造においては揚陸艦の船体が流用されることもあります。そのため航空機の搭載機数は元々少なめです。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |小型主砲、対空砲  |
+|標準  |小型ビームキャノン  |
+|      |大型対空砲  |
+|      |舟艇用桟橋  |
+|機能  |空母直掩、護衛指示、強襲  |
+|搭載  |すべての空母航空機  |
+|      |機動歩兵  |
+|      |装載艇  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ・   | ・   | ・   | ・(+6)   |
+  
+
+
+
+
+
+<h1 id="aMerchantAircraftCarrier">BSMC-MUL：商船空母 / Merchant Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+貨客輸送を兼用する大型航空母艦です。空母機能に加え、大量の物資を輸送する機能をもち、主砲も搭載できます。  
+輸送船団の護衛をしながら、自らにも輸送機能があるため、輸送任務に向いています。  
+空母としての性能は改造空母と遜色なく、コストも安めです。  
+しかし貨客船ベースのため装甲は薄く、重量があるため機動性能は低いです。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |小型主砲、対空砲  |
+|標準  |小型ビームキャノン  |
+|      |大型対空砲  |
+|      |貨物室設備  |
+|機能  |空母直掩、護衛指示、運び屋、入港  |
+|搭載  |すべての空母航空機  |
+|      |機動歩兵  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ×   | ・   | ・   | ○(+4)   |
+  
+
+
+
+
+
+<h1 id="aSubmarineKillerAircraftCarrier">BSMC-SMK：対潜空母 / Submarine Killer Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+周辺海域の哨戒や、船団護衛用の小型航空母艦です。
+空母自体に対潜能力があり、対潜攻撃も可能です。また大型航空機の対潜哨戒機も運用できます。  
+船体が小さく搭載機数は少なく、装甲も脆弱です。  
+建造においては護衛艦の船体が流用されることもあります。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |対空砲、爆雷  |
+|標準  |小型デプスチャージランチャー  |
+|      |次元探知拡張装置  |
+|      |大型対空砲  |
+|機能  |空母直掩、護衛指示  |
+|搭載  |空母航空機  |
+|      |機動歩兵  |
+|      |対潜哨戒機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ▲   | 〇   | ・   | ・(+6)   |
+  
+
+
+
+
+
+<h1 id="aContainerAircraftCarrier">BSMC-CNT：コンテナ空母 / Container Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+廃棄品の大型コンテナや、機能モジュールを繋ぎ合わせて建造した特殊な空母です。  
+空母としての機能は他と変わりありませんが、機能コンテナを積み替えることで様々な支援機能を搭載することができます。  
+電子性能と防空性能が非常に高く高性能の電子兵器が扱えます。コストが空母のなかでも低めです。  
+被弾にとても弱いです。  
+
+参考：  
+米海軍のアラパホ・システム  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |小型主砲、◎対空砲  |
+|標準  |小型ビームキャノン  |
+|      |大型対空砲  |
+|      |大型パルスレーザ  |
+|      |コンテナユニット  |
+|機能  |空母直掩、護衛指示、コンテナ  |
+|搭載  |すべての空母航空機  |
+|      |機動歩兵  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ×   | ×   | ○   | ○   | ・(+6)   |
+  
+
+
+
+
+
+<h1 id="aGiantAircraftCarrier">BSMC-GIT：超大型空母 / Giant Aircraft Carrier</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+大型戦艦の船体や、施設の廃材をリサイクルして建造した超大型空母で、航空戦艦を究極化した姿と言われています。  
+特に攻撃機や爆撃機などの運用数を増強し、航空攻撃による打撃力が高いです。主砲が搭載できます。  
+すべての艦載機、汎用機以外の航空機、陸戦爆撃機が運用できます。  
+大型空母でありながら搭載機数は少なめです。  
+
+|項目  |設定  |
+|:--|:--|
+|武器  |中型主砲、小型主砲、対空砲  |
+|標準  |中型レーザ  |
+|      |小型ビームキャノン  |
+|      |大型対空砲  |
+|機能  |空母直掩、護衛指示、爆撃基地  |
+|搭載  |すべての空母航空機  |
+|      |すべての大型航空機  |
+|      |機動歩兵  |
+|      |陸戦爆撃機  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| ・   | ▲   | ・   | ○   | ▲(+8)   |
+  
+
+
+
+
+
+***
+::Game Site= [https://galaxy-fleet.koreis-labo.com/](https://galaxy-fleet.koreis-labo.com/)  
+::github= [https://github.com/korei-xlix/galaxyfleet](https://github.com/korei-xlix/galaxyfleet)  
+::Public X= [https://twitter.com/korei_sup](https://twitter.com/korei_sup)  
+  
+::Deverop= Samafeald (@samafeald)  
+::Twitter= [https://twitter.com/samafeald](https://twitter.com/samafeald)  
+  
+
+***
+[[トップへ戻る]](/readme.md)　/
+[[兵器仕様]](/galaxyfleet_doc/unit/readme.md)  
+  
+::Admin= Korei (@korei-xlix)  
+::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
+::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
+::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
