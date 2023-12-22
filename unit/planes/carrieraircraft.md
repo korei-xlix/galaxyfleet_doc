@@ -27,36 +27,30 @@
   * [兵器分類：空母航空機](../readme.md#aCarrierAircraft)
 
   * 兵器標準仕様
-    * [BSAC-STD：航空母艦](#aAircraftCarrier)
-    * [BSAC-AMD：装甲空母](#aArmoredAircraftCarrier)
-    * [BSAC-ATK：攻撃空母](#aAttackAircraftCarrier)
-    * [BSAC-MUS：多段式空母](#aMultiStageAircraftCarrier)
-    * [BSAC-BAC：戦闘空母](#aBattleAircraftCarrier)
-    * [BSAC-ICP：要撃空母](#aInterceptAircraftCarrier)
-    * [BSAC-SRK：戦略空母](#aStrikeAircraftCarrier)
-    * [BSAC-SCT：制宙艦](#aSpaceControlShip)
+    * [MUCB-FIG：戦闘機](#aFighter)
+    * [MUCB-ICP：要撃機](#aIntercepter)
+    * [MUCB-ATK：攻撃機](#aAttacker)
+    * [MUCB-TPD：雷撃機](#aTorpedoAttacker)
+    * [MUCB-BMB：高速爆撃機](#aBomber)
+    * [MUCB-AFG：戦闘攻撃機](#aAttackFighter)
+    * [MUCB-SRK：戦闘爆撃機](#aStrikeFighter)
+    * [MUCB-AIF：機動戦闘機](#aAntiInfantryFighter)
+    * [MUCB-MRA：多用途攻撃機](#aMultiRoleAttacker)
+    * [MUCB-TAC：戦術戦闘機](#aTacticalFighter)
+    * [MUCB-REC：偵察機](#aRecommendAircraft)
+    * [MUCB-SMK：対潜攻撃機](#aSubmarineKillerAircraft)
+    * [MUCB-ELW：電子支援機](#aElectronicSupportAircraft)
+    * [MUCB-CAG：補給輸送機](#aSupplyCargoAircraft)
   
 
 
 
 
 
-<h1 id="aAircraftCarrier">BSAC-STD：航空母艦 / Aircraft Carrier</h1>  
+<h1 id="aFighter">MUCB-FIG：戦闘機 / Fighter</h1>  
   [目次へ戻る](#aMokuji)  
   
 
-
-<a id="aCarrierAircraft"></a>
-# MUCR：空母航空機
-**[Carrier Aircraft]**  
-航空母艦で運用する小型、中型の航空機です。航空戦と対艦攻撃が得意です。  
-戦略マップでしか運用できません。  
-対空武器、機動歩兵によわいです。  
-　　主な武器：機関砲、対空機関砲  
-
-
-## MUCR-FIG：戦闘機
-**[Fighter]**  
 空母搭載用でとくに対空戦を得意とする戦闘機です。  
 対艦攻撃用の武器として機関砲も搭載していますが、非常に微力です。  
 
@@ -73,11 +67,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+  
 
 
 
-## MUCR-ICP：要撃機
-**[Intercepter]**  
+
+
+<h1 id="aIntercepter">MUCB-ICP：要撃機 / Intercepter</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で敵の戦闘機を迎撃するための戦闘機です。  
 航空機に対して先制攻撃ができます。
 対艦攻撃用の武器はありません。  
@@ -94,11 +93,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+  
 
 
 
-## MUCR-ATK：攻撃機
-**[Attacker]**  
+
+
+<h1 id="aAttacker">MUCB-ATK：攻撃機 / Attacker</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で対艦攻撃を得意とする攻撃機です。  
 ロケット弾、対艦ミサイル、爆弾に切り替えられます。  
 ロケット弾、爆弾装備時は対空ミサイルも装備できます。  
@@ -119,10 +123,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+  
 
 
-## MUCR-TPD：雷撃機
-**[Torpedo Attacker]**  
+
+
+
+<h1 id="aTorpedoAttacker">MUCB-TPD：雷撃機 / Torpedo Attacker</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で魚雷での対艦攻撃を得意とする攻撃機です。  
 
 |項目  |設定  |
@@ -137,10 +147,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+  
 
 
-## MUCR-BMB：高速爆撃機
-**[Bomber]**  
+
+
+
+<h1 id="aBomber">MUCB-BMB：高速爆撃機 / Bomber</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で爆弾での対艦攻撃を得意とする爆撃機です。  
 対艦攻撃時は雷撃機より生存性が高いです。  
 
@@ -155,10 +171,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ・   | ▲   | ・   | ・(+6)   |
+  
 
 
-## MUCR-AFG：戦闘攻撃機
-**[Attack Fighter]**  
+
+
+
+<h1 id="aAttackFighter">MUCB-AFG：戦闘攻撃機 / Attack Fighter</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で装備を切り替えることで各任務に対応できる多用途戦闘機です。  
 機関砲、対空ミサイルを基本装備し、ロケット弾、爆弾、対艦ミサイル、魚雷、迎撃ミサイルに切り替えられます。  
 コストが高いです。武器の換装項目が多いので、武器の切り替えタイミングの見定めが難しいです。  
@@ -183,10 +205,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+  
 
 
-## MUCR-SRK：戦闘爆撃機
-**[Strike Fighter]**  
+
+
+
+<h1 id="aStrikeFighter">MUCB-SRK：戦闘爆撃機 / Strike Fighter</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用の高性能戦闘機です。  
 対空ミサイル、ロケット弾、爆弾を搭載します。主に爆撃能力に優れます。  
 コストが高いです。  
@@ -204,12 +232,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ▲   | ▲   | ・(+6)   |
+  
 
 
 
 
-* **MUCR-AIF：機動戦闘機**  
-Anti Infantry Fighter
+
+<h1 id="aAntiInfantryFighter">MUCB-AIF：機動戦闘機 / Anti Infantry Fighter</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用でとくに対機動歩兵戦を得意とする戦闘機です。  
 機動歩兵に対する攻撃力が非常に高くなり、回避力も高いです。  
 
@@ -224,13 +256,16 @@ Anti Infantry Fighter
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+  
 
 
 
 
 
-* **MUCR-MRA：多用途攻撃機**  
-Multi Role Attacker
+<h1 id="aMultiRoleAttacker">MUCB-MRA：多用途攻撃機 / Multi Role Attacker</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で装備を切り替えることで各任務に対応できる多用途戦闘機です。  
 機関砲、対空ミサイルを基本装備し、ロケット弾、爆弾、対艦ミサイル、魚雷に切り替えられます。  
 各装備は多連装や誘導方式のものが搭載でき、戦闘攻撃機より攻撃力が高くなります。また戦略兵器も搭載できます。  
@@ -255,11 +290,16 @@ Multi Role Attacker
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+  
 
 
 
-## MUCR-TAC：戦術戦闘機
-**[Tactical Fighter]**  
+
+
+<h1 id="aTacticalFighter">MUCB-TAC：戦術戦闘機 / Tactical Fighter</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用の最高性能の戦闘機です。単騎で敵地に乗り込んでいける戦闘力をもってます。  
 対空ミサイル、対艦ミサイル、ロケット弾、爆弾を搭載します。特殊武器として小型主砲も搭載できます。  
 また戦略兵器も搭載できます。  
@@ -282,11 +322,16 @@ Multi Role Attacker
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ・   | ・   | ▲(+8)   |
+  
 
 
 
-## MUCR-REC：偵察機
-**[Recommend Aircraft]**  
+
+
+<h1 id="aRecommendAircraft">MUCB-REC：偵察機 / Recommend Aircraft</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で偵察用の小型航空機です。  
 自衛程度であるが対空ミサイルが装備できます。  
 機関砲も対空ミサイルも護身用で、攻撃力は低いです。  
@@ -304,11 +349,16 @@ Multi Role Attacker
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ・   | ▲   | ・(+6)   |
+  
 
 
 
-## MUCR-SMK：対潜攻撃機
-**[Submarine Killer Aircraft]**  
+
+
+<h1 id="aSubmarineKillerAircraft">MUCB-SMK：対潜攻撃機 / Submarine Killer Aircraft</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で対潜用の小型航空機です。  
 爆雷を装備し、潜航艦の探知と対潜攻撃ができます。  
 爆雷以外は装備できません。  
@@ -322,11 +372,16 @@ Multi Role Attacker
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | ・   | ×   | 〇(+4)   |
+  
 
 
 
-## MUCR-ELW：電子支援機
-**[Electronic Support Aircraft]**  
+
+
+<h1 id="aElectronicSupportAircraft">MUCB-ELW：電子支援機 / Electronic Support Aircraft</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で電子戦能力がある小型航空機です。  
 ジャミングがおこなえます。  
 護身用に対空機関砲を搭載できるだけで、攻撃力は低いです。  
@@ -342,11 +397,16 @@ Multi Role Attacker
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | 〇   | ▲   | ・(+6)   |
+  
 
 
 
-## MUCR-CAG：補給輸送機
-**[Supply Cargo Aircraft]**  
+
+
+<h1 id="aSupplyCargoAircraft">MUCB-CAG：補給輸送機 / Supply Cargo Aircraft</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 空母搭載用で歩兵の輸送と補給、航空機への空中給油がおこなえる航空機です。  
 武器はありません。  
 
@@ -360,24 +420,15 @@ Multi Role Attacker
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ×   | ×   | 〇(+4)   |
-
-
-
-
-
-
-***
-::Game Site= [https://galaxy-fleet.koreis-labo.com/](https://galaxy-fleet.koreis-labo.com/)  
-::github= [https://github.com/korei-xlix/galaxyfleet](https://github.com/korei-xlix/galaxyfleet)  
-::Public X= [https://twitter.com/korei_sup](https://twitter.com/korei_sup)  
   
-::Deverop= Samafeald (@samafeald)  
-::Twitter= [https://twitter.com/samafeald](https://twitter.com/samafeald)  
-  
+
+
+
+
 
 ***
 [[トップへ戻る]](/readme.md)　/
-[[兵器仕様]](/galaxyfleet_doc/unit/readme.md)  
+[[兵器仕様]](../readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  

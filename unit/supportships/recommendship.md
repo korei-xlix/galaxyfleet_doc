@@ -139,17 +139,8 @@
 
 
 ***
-::Game Site= [https://galaxy-fleet.koreis-labo.com/](https://galaxy-fleet.koreis-labo.com/)  
-::github= [https://github.com/korei-xlix/galaxyfleet](https://github.com/korei-xlix/galaxyfleet)  
-::Public X= [https://twitter.com/korei_sup](https://twitter.com/korei_sup)  
-  
-::Deverop= Samafeald (@samafeald)  
-::Twitter= [https://twitter.com/samafeald](https://twitter.com/samafeald)  
-  
-
-***
 [[トップへ戻る]](/readme.md)　/
-[[兵器仕様]](/galaxyfleet_doc/unit/readme.md)  
+[[兵器仕様]](../readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  

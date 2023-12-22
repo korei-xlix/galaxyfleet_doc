@@ -56,7 +56,7 @@
   * [人員](/galaxyfleet_doc/senario/crew.md)
 
 * データベース
-  * [兵器仕様](/galaxyfleet_doc/unit/readme.md)
+  * [兵器仕様](/unit/readme.md)
   * [装備品仕様](/galaxyfleet_doc/equip/readme.md)
   * [特殊機能](/galaxyfleet_doc/skill/readme.md)
 

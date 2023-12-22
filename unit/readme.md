@@ -67,7 +67,7 @@
 
 <h2 id="aBattleShips">BS：戦列艦 / Battle Ships</h2>  
 
-* **<a id="aDestroyer">[BSDS：駆逐艦　Destroyer](/galaxyfleet_doc/unit/battleships/destroyer.md)</a>**  
+* **<a id="aDestroyer">[BSDS：駆逐艦　Destroyer](battleships/destroyer.md)</a>**  
   小型で小回りのきく戦列艦です。  
   小型の火砲、魚雷、爆雷、対潜ソナーを装備し、近接での対艦戦闘と、対潜戦闘を得意とします。  
   機動性能、回避性能、高機動による索敵能力が高く、コストが安いです。  
@@ -75,7 +75,7 @@
   　　主な武器：小型主砲、魚雷、爆雷、対空砲  
   
 
-* **<a id="aCruiser">[BSCR：巡航艦　Cruiser](/galaxyfleet_doc/unit/battleships/cruiser.md)</a>**  
+* **<a id="aCruiser">[BSCR：巡航艦　Cruiser](battleships/cruiser.md)</a>**  
   中型で電子性能が高い戦列艦です。  
   中型の火砲を装備し、近距離から中距離の砲撃戦が得意です。  
   また高性能の電探、偵察機を装備し、電探による索敵や電子戦対空戦闘力を得意とします。  
@@ -83,7 +83,7 @@
   　　主な武器：中型主砲、小型主砲、偵察機、対空砲  
   
 
-* **<a id="aBattleShip">[BSBB：戦艦　Battle Ship](/galaxyfleet_doc/unit/battleships/battleship.md)</a>**  
+* **<a id="aBattleShip">[BSBB：戦艦　Battle Ship](battleships/battleship.md)</a>**  
   大型で非常に戦闘力が高い戦列艦で、艦隊戦の花形です。  
   大型の火砲やミサイルを搭載し、中距離から遠距離の砲撃戦に秀でます。  
   また装甲やシールドが非常に厚く、生存性が高いです。偵察機も搭載でき、ある程度の索敵も可能です。  
@@ -91,7 +91,7 @@
   　　主な武器：大型主砲、中型主砲、ミサイル、偵察機、対空砲  
   
 
-* **<a id="aAircraftCarrier">[BSAC：航空母艦　Aircraft Carrier](/galaxyfleet_doc/unit/battleships/aircraftcarrier.md)</a>**  
+* **<a id="aAircraftCarrier">[BSAC：航空母艦　Aircraft Carrier](battleships/aircraftcarrier.md)</a>**  
   大型で多数の艦載機を搭載、運用するための母艦型の戦列艦です。  
   母艦機能に特化しており、艦載機の整備、搭載武器の換装、修理などができます。  
   空母自体の武装は少なく、単艦での戦闘力は貧弱です。  
@@ -99,7 +99,7 @@
   　　主な武器：対空砲  
   
 
-* **<a id="aModifiedAircraftCarrier">[BSMC：改造空母　Modified Aircraft Carrier](/galaxyfleet_doc/unit/battleships/modifiedcarrier.md)</a>**  
+* **<a id="aModifiedAircraftCarrier">[BSMC：改造空母　Modified Aircraft Carrier](battleships/modifiedcarrier.md)</a>**  
   巡航艦や支援艦、大型の客船の船体をベースに建造した改装型の空母です。  
   空母としての母艦機能に加え、航空母艦よりも耐久性と経済性に優れます。  
   空母自体の武装は少なく、単艦での戦闘力は貧弱です。また航空母艦よりも鈍足です。  
@@ -107,7 +107,7 @@
   　　主な武器：中型砲、小型砲、対空砲  
   
 
-* **<a id="aGeneralPurposeMotherShip">[BSMS：汎用母艦　General Purpose Mother Ship](/galaxyfleet_doc/unit/battleships/mothership.md)</a>**  
+* **<a id="aGeneralPurposeMotherShip">[BSMS：汎用母艦　General Purpose Mother Ship](battleships/mothership.md)</a>**  
   空母では運用できない大型の航空機や爆撃機、汎用戦闘機、装載艇などを運用するための特設空母です。  
   母艦機能により搭載機の整備、搭載武器の換装、修理などができます。  
   船体の構造が巨大なため、航空母艦、改造空母よりも耐久性、機動性に難があります。  
@@ -115,7 +115,7 @@
   　　主な武器：小型主砲、対空砲  
   
 
-* **<a id="aLandCarrier">[BSLC：揚陸艦　Land Carrier](/galaxyfleet_doc/unit/battleships/landcarrier.md)</a>**  
+* **<a id="aLandCarrier">[BSLC：揚陸艦　Land Carrier](battleships/landcarrier.md)</a>**  
   装載艇や陸戦兵器、歩兵を搭載し、泊地や要塞に揚陸させることができる戦列艦です。  
   中型で巡航艦程度の大きさの船体を持ち、装甲と機動性が高めです。  
   敵の艦船に強行接舷して歩兵を送ることもできます。  
@@ -123,7 +123,7 @@
   　　主な武器：野戦砲、対空砲  
   
 
-* **<a id="aSubmarine">[BSSB：潜航艦　Submarine](/galaxyfleet_doc/unit/battleships/submarine.md)</a>**  
+* **<a id="aSubmarine">[BSSB：潜航艦　Submarine](battleships/submarine.md)</a>**  
   亜空間潜航が可能な特殊な戦列艦です。  
   小型で駆逐艦程度の大きさの船体を持ちます。  
   潜航中はビームやミサイルなどの兵器ではダメージが与えられず、駆逐艦や対潜哨戒機などでしか攻撃できません。  
@@ -132,7 +132,7 @@
   　　主な武器：小型主砲、魚雷、対空砲  
   
 
-* **<a id="aBattleWizardShip">[BSWZ：魔導戦艦　Battle Wizard Ship](/galaxyfleet_doc/unit/battleships/battlewizardship.md)</a>**  
+* **<a id="aBattleWizardShip">[BSWZ：魔導戦艦　Battle Wizard Ship](battleships/battlewizardship.md)</a>**  
   魔導技術で作られた特殊な戦列艦です。  
   強力な魔導砲や魔導ミサイル、魔導兵器を搭載、運用でき、魔導エネルギーを使った戦闘ができます。  
   エネルギーの無限生成と自我をもちます。  
@@ -145,7 +145,7 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **<a id="aFrigate">[ESFG：護衛艦　Frigate](/galaxyfleet_doc/unit/escortships/frigate.md)</a>**  
+* **<a id="aFrigate">[ESFG：護衛艦　Frigate](escortships/frigate.md)</a>**  
   電子性能、防空性能に優れ、大型の艦船の接近防御、艦隊の防空を担う護衛用の中型艦艇です。  
   敵機動兵器からの対空防御、接近してくる敵艦の妨害、揚陸してきた歩兵の排除がおこなえます。  
   護衛艦としての機能は万能ですが、コストが非常に高いです。  
@@ -154,7 +154,7 @@
   　　主な武器：対空砲  
   
 
-* **<a id="aCorvet">[ESCV：防護艦　Corvet](/galaxyfleet_doc/unit/escortships/corvet.md)</a>**  
+* **<a id="aCorvet">[ESCV：防護艦　Corvet](escortships/corvet.md)</a>**  
   護衛艦の機能から電子戦、機動戦に限定してコストダウンをおこなった小型の護衛艦です。  
   電子戦や機動戦による早期警戒、電子妨害や攪乱、電子妨害からの防御がおこなえます。  
   護衛艦と比較して機動性能、コストに優れますが、電子性能、対空防御力は劣ります。  
@@ -163,7 +163,7 @@
   　　主な武器：対空砲  
   
 
-* **<a id="aEscortMotherShip">[ESMS：護衛母艦　Escort Mother Ship](/galaxyfleet_doc/unit/escortships/escortmothership.md)</a>**  
+* **<a id="aEscortMotherShip">[ESMS：護衛母艦　Escort Mother Ship](escortships/escortmothership.md)</a>**  
   制空、哨戒用の艦載機で艦隊の防空、対潜哨戒、周辺索敵をおこなう母艦型の護衛艦です。  
   護衛艦で艦載機を運用することで、航空機による艦隊の防空、警戒能力をあげることができます。  
   艦載機の運用に特化することでコストダウンを計っています。  
@@ -171,7 +171,7 @@
   　　主な武器：対空砲  
   
 
-* **<a id="aEscortWizardShip">[ESWZ：魔導護衛艦　Escort Wizard Ship](/galaxyfleet_doc/unit/escortships/escortwizardship.md)</a>**  
+* **<a id="aEscortWizardShip">[ESWZ：魔導護衛艦　Escort Wizard Ship](escortships/escortwizardship.md)</a>**  
   魔導技術で作られた護衛艦です。  
   魔導により艦隊防空、早期発見、敵艦の妨害がおこなえ、魔導装甲により艦体が守られてます。  
   エネルギーの無限生成と自我をもちます。  
@@ -184,7 +184,7 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **<a id="aRecommendShip">[SSRE：偵察艦　Recommend Ship](/galaxyfleet_doc/unit/supportships/recommendship.md)</a>**  
+* **<a id="aRecommendShip">[SSRE：偵察艦　Recommend Ship](supportships/recommendship.md)</a>**  
   索敵能力と隠蔽能力、機動性に秀でる偵察用の支援艦です。  
   船体は巡航艦がベースになっています。  
   単艦で敵地の奥まで侵入し、敵の情報の収集、収集した情報を味方に共有します。  
@@ -192,7 +192,7 @@
   　　主な武器：なし  
   
 
-* **<a id="aElectronicSupportShip">[SSEL：電子支援艦　Electronic Support Ship](/galaxyfleet_doc/unit/supportships/electronicsupportship.md)</a>**  
+* **<a id="aElectronicSupportShip">[SSEL：電子支援艦　Electronic Support Ship](supportships/electronicsupportship.md)</a>**  
   電子戦による妨害工作と、対電子戦を専門とする支援艦です。  
   船体は巡航艦がベースになっています。  
   電子戦性能においては、他の艦船の追随を許しません。  
@@ -200,7 +200,7 @@
   　　主な武器：なし  
   
 
-* **<a id="aSupplyCargoShip">[SSSC：補給輸送艦　Supply Cargo Ship](/galaxyfleet_doc/unit/supportships/supprycargoship.md)</a>**  
+* **<a id="aSupplyCargoShip">[SSSC：補給輸送艦　Supply Cargo Ship](supportships/supprycargoship.md)</a>**  
   兵器や大量の資源や物資を輸送したり、艦船の補給をおこなうための支援艦です。  
   船体は戦艦や大型客船、巡航艦がベースになっています。  
   搭載容量は他の艦船よりもかなり多く、防衛兵器もバラして搭載できます。  
@@ -210,7 +210,7 @@
   　　主な武器：なし  
   
 
-* **<a id="aCommandSupportShip">[SSCM：指揮支援艦　Command Support Ship](/galaxyfleet_doc/unit/supportships/commandsupportship.md)</a>**  
+* **<a id="aCommandSupportShip">[SSCM：指揮支援艦　Command Support Ship](supportships/commandsupportship.md)</a>**  
   戦闘の指揮や、艦隊の通信管制をおこなうための支援艦です。  
   船体は巡航艦がベースになってます。  
   指揮機能のほか、電子性能が高いです。  
@@ -218,21 +218,21 @@
   　　主な武器：ビーム砲  
   
 
-* **<a id="aStrikeSupportShip">[SSKS：打撃支援艦　Strike Support Ship](/galaxyfleet_doc/unit/supportships/strikesupportship.md)</a>**  
+* **<a id="aStrikeSupportShip">[SSKS：打撃支援艦　Strike Support Ship](supportships/strikesupportship.md)</a>**  
   長距離の打撃火力を補助するための予備火力戦力を要する、戦闘支援のための艦船です。  
   船体は巡航艦がベースになってます。  
   長距離の火力が高いです。  
   装甲や機動性能は低いため、近接での打撃戦には向きません。  
   
 
-* **<a id="aLandWarSupportShip">[SSLS：陸戦支援艦　Land War Support Ship](/galaxyfleet_doc/unit/supportships/landsupportship.md)</a>**  
+* **<a id="aLandWarSupportShip">[SSLS：陸戦支援艦　Land War Support Ship](supportships/landsupportship.md)</a>**  
   軌道上から陸戦部隊を支援するための艦船です。  
   船体は巡航艦がベースになってます。  
   揚陸艦と違って陸戦部隊の揚陸機能はありませんが、桟橋に接続しなくても軌道上から支援することができます。  
   また武装は搭載しないことが多く、あっても自衛用の小型砲くらいしか武装できません。  
   
 
-* **<a id="aFieldEngineerShip">[SSFE：戦場工作艦　Field Engineer Ship](/galaxyfleet_doc/unit/supportships/fieldengineership.md)</a>**  
+* **<a id="aFieldEngineerShip">[SSFE：戦場工作艦　Field Engineer Ship](supportships/fieldengineership.md)</a>**  
   戦場の工作や、機雷の敷設回収、艦船の補修などをおこなうための支援艦です。  
   船体は巡航艦がベースになってます。  
   ドックでなくても艦船の仮補修をおこなったり、戦場に機雷を敷設したり、戦術的な機能が充実しており、装甲や耐久性にも優れます。  
@@ -240,14 +240,14 @@
   また武装は搭載しないことが多く、あっても自衛用の小型砲くらいしか武装できません。  
   
 
-* **<a id="aStrategySupportShip">[SSSS：戦略支援艦　Strategy Support Ship](/galaxyfleet_doc/unit/supportships/strategysupportship.md)</a>**  
+* **<a id="aStrategySupportShip">[SSSS：戦略支援艦　Strategy Support Ship](supportships/strategysupportship.md)</a>**  
   建物を建築したり、戦略的な情報を収集するための支援艦です。  
   船体は戦艦や大型客船がベースになってます。  
   戦略的な機能が充実してます。  
   ただし、戦闘力はほぼなく、攻撃に弱いです。また武装はしてません。  
   
 
-* **<a id="aSupportWizardShip">[SSWZ：魔導支援艦　Support Wizard Ship](/galaxyfleet_doc/unit/supportships/supportwizardship.md)</a>**  
+* **<a id="aSupportWizardShip">[SSWZ：魔導支援艦　Support Wizard Ship](supportships/supportwizardship.md)</a>**  
   魔導技術で作られた支援艦です。  
   魔導により戦闘支援、艦隊防御、工作がおこなえ、魔導装甲により艦体が守られてます。  
   エネルギーの無限生成と自我をもちます。コストが高いです。  
@@ -259,24 +259,27 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **<a id="aCarrierAircraft">[MUCB：空母航空機　Carrier Aircraft](/galaxyfleet_doc/unit/planes/carrieraircraft.md)</a>**  
+* **<a id="aCarrierAircraft">[MUCB：空母航空機　Carrier Aircraft](planes/carrieraircraft.md)</a>**  
   航空母艦専用で運用できる小型、中型の航空機です。エリアマップでしか運用できません。  
   航空戦と対艦攻撃が得意です。  
   対空武器、機動歩兵によわいです。  
+  　　主な武器：機関砲、ミサイル、爆弾、対空機関砲  
   
 
-* **MUML：汎用航空機　Multipurpose Aircraft**  
+* **<a id="aMultipurposeAircraft">[MUML：汎用航空機　Multipurpose Aircraft](planes/multipurposesircraft.md)</a>**  
   巡航艦や戦艦で運用する小型の航空機です。  
   広大な飛行甲板でなくても運用できるよう工夫されてます。  
   戦闘力は空母航空機より低く、搭載装備も少ないです。  
   対空武器、機動歩兵によわいです。  
+  　　主な武器：機関砲、ミサイル、爆弾、対空機関砲  
   
 
-* **MULG：大型航空機　Large Aircraft**  
+* **<a id="aLargeAircraft">[MULG：大型航空機　Large Aircraft](planes/largeaircraft.md)</a>**  
   大型の航空機です。ペイロードが大きく高性能の武器や機能を搭載します。  
   機体が巨大なため専用の母艦や超大型の空母でしか運用できません。  
   非常に強力な兵器ですが、機動性は空母航空機より下がります。  
   対空武器、機動歩兵によわいです。  
+  　　主な武器：機関砲、対空機関砲  
   
 
 * **MUMI：機動歩兵　Movable Infantry**  
@@ -289,7 +292,7 @@
   陸戦兵器によわいです。  
   
 
-* **MUMB：装載艇　Mounted Boats**  
+* **<a id="aMountedBoats">[MUMB：装載艇　Mounted Boats](planes/mountedboats.md)</a>**  
   艦船に搭載できる小型の舟艇です。  
   艦載用の武器が搭載できるため攻撃力が非常に高いです。  
   航空機によわいです。  
@@ -301,7 +304,7 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **LULA：陸戦攻撃機　Land Airplane**  
+* **<a id="aLandAirplane">[LULA：陸戦攻撃機　Land Airplane](planes/landairplane.md)</a>**  
   戦術マップや要塞など極局地でのみ運用できる飛行機です。  
   航空機、機動歩兵、陸戦歩兵、戦車につよいです。  
   対空武器によわいです。  
@@ -827,38 +830,38 @@
 * **SSWZ-CAG：魔導輸送艦**  
 
 
-<h2>MUCR：空母航空機 / Carrier Aircraft</h2>  
+<h2>MUCB：空母航空機 / Carrier Aircraft</h2>  
   
   [目次へ戻る](#aMokuji)  
   
 
-* **MUCR-FIG：戦闘機**  
+* **MUCB-FIG：戦闘機**  
 
-* **MUCR-ICP：要撃機**  
+* **MUCB-ICP：要撃機**  
 
-* **MUCR-ATK：攻撃機**  
+* **MUCB-ATK：攻撃機**  
 
-* **MUCR-TPD：雷撃機**  
+* **MUCB-TPD：雷撃機**  
 
-* **MUCR-BMB：高速爆撃機**  
+* **MUCB-BMB：高速爆撃機**  
 
-* **MUCR-AFG：戦闘攻撃機**  
+* **MUCB-AFG：戦闘攻撃機**  
 
-* **MUCR-SRK：戦闘爆撃機**  
+* **MUCB-SRK：戦闘爆撃機**  
 
-* **MUCR-AIF：機動戦闘機**  
+* **MUCB-AIF：機動戦闘機**  
 
-* **MUCR-MRA：多用途攻撃機**  
+* **MUCB-MRA：多用途攻撃機**  
 
-* **MUCR-TAC：戦術戦闘機**  
+* **MUCB-TAC：戦術戦闘機**  
 
-* **MUCR-REC：偵察機**  
+* **MUCB-REC：偵察機**  
 
-* **MUCR-SMK：対潜攻撃機**  
+* **MUCB-SMK：対潜攻撃機**  
 
-* **MUCR-ELW：電子支援機**  
+* **MUCB-ELW：電子支援機**  
 
-* **MUCR-CAG：補給輸送機**  
+* **MUCB-CAG：補給輸送機**  
 
 
 <h2>MUML：汎用航空機 / Multipurpose Aircraft</h2>  
@@ -892,7 +895,7 @@
 
 * **MULG-HBM：重爆撃機**  
 
-* **MUCR-MRF：多用途戦闘機**  
+* **MULG-MRF：多用途戦闘機**  
 
 * **MULG-ESC：護衛戦闘機**  
 
@@ -1452,15 +1455,6 @@
 
 
 
-
-***
-::Game Site= [https://galaxy-fleet.koreis-labo.com/](https://galaxy-fleet.koreis-labo.com/)  
-::github= [https://github.com/korei-xlix/galaxyfleet](https://github.com/korei-xlix/galaxyfleet)  
-::Public X= [https://twitter.com/korei_sup](https://twitter.com/korei_sup)  
-  
-::Deverop= Samafeald (@samafeald)  
-::Twitter= [https://twitter.com/samafeald](https://twitter.com/samafeald)  
-  
 
 ***
 [[トップへ戻る]](/readme.md)　/
