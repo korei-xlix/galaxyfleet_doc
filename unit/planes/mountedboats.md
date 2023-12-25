@@ -27,46 +27,36 @@
   * [兵器分類：装載艇](../readme.md#aMountedBoats)
 
   * 兵器標準仕様
-    * [MUCB-FIG：戦闘機](#aFighter)
-    * [MUCB-ICP：要撃機](#aIntercepter)
-    * [MUCB-ATK：攻撃機](#aAttacker)
-    * [MUCB-TPD：雷撃機](#aTorpedoAttacker)
-    * [MUCB-BMB：高速爆撃機](#aBomber)
-    * [MUCB-AFG：戦闘攻撃機](#aAttackFighter)
-    * [MUCB-SRK：戦闘爆撃機](#aStrikeFighter)
-    * [MUCB-AIF：機動戦闘機](#aAntiInfantryFighter)
-    * [MUCB-MRA：多用途攻撃機](#aMultiRoleAttacker)
-    * [MUCB-TAC：戦術戦闘機](#aTacticalFighter)
-    * [MUCB-REC：偵察機](#aRecommendAircraft)
-    * [MUCB-SMK：対潜攻撃機](#aSubmarineKillerAircraft)
-    * [MUCB-ELW：電子支援機](#aElectronicSupportAircraft)
-    * [MUCB-CAG：補給輸送機](#aSupplyCargoAircraft)
+    * [MUMB-STD：装載艇](#aBattleBoat)
+    * [MUMB-AMG：装甲砲撃艇](#aArmedGunBoat)
+    * [MUMB-MIS：高速ミサイル艇](#aSprintMissileBoat)
+    * [MUMB-ROK：ロケット砲艇](#aRocketBoat)
+    * [MUMB-PTD：重雷撃艇](#aHeavyTorpedoBoat)
+    * [MUMB-ADW：防空警戒艇](#aAirDefensiveWarningBoat)
+    * [MUMB-ICP：要撃艇](#aInterceptBoat)
+    * [MUMB-PAT：巡視艇](#aPatrolBoat)
+    * [MUMB-RCM：偵察指揮艇](#aRecommendCommandBoat)
+    * [MUMB-SMK：対潜哨戒艇](#aSubmarineKillPatrolBoat)
+    * [MUMB-ELW：電子作戦艇](#aElectronicWarBoat)
+    * [MUMB-CAG：補給輸送艇](#aSupplyCargoBoat)
+    * [MUMB-LND：揚陸艇](#aLandingBoat)
+    * [MUMB-INF：歩兵装載艇](#aInfantryBattleBoat)
+    * [MUMB-EST：護衛装載艇](#aEscoatBoat)
+    * [MUMB-RES：救護艇](#aRescureBoat)
+    * [MUMB-SMN：潜航艇](#aSubmarineBoat)
+    * [MUMB-ENG：工作艇](#aEngineerBoat)
+    * [MUMB-MSW：掃宙艇](#aMineSweepingBoat)
+    * [MUMB-SPA：特殊攻撃艇](#aSpecialAttackBoat)
   
 
 
 
 
 
-<h1 id="aFighter">MUCB-FIG：戦闘機 / Fighter</h1>  
+<h1 id="aBattleBoat">MUMB-STD：装載艇 / Battle Boat</h1>  
   [目次へ戻る](#aMokuji)  
   
 
-
-
-
-
-
-<a id="aMountedBoats"></a>
-# MUMB：装載艇
-**[Mounted Boats]**  
-艦艇に搭載できる小型の舟艇です。  
-艦載用の武器が搭載できるため攻撃力が非常に高いです。
-航空機、機動歩兵によわいです。  
-　　主な武器：小型主砲、機関砲、対空機関砲  
-
-
-## MUMB-STD：装載艇
-**[Battle Boat]**  
 対艦戦闘用の小型舟艇です。装載艇ではこの標準タイプが一番高性能です。  
 装甲が厚く、大型砲、ロケット、魚雷、爆雷も搭載できます。  
 コスト高です。換装メニューが多いので、武器の切り替えタイミングの見定めが難しいです。  
@@ -87,10 +77,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ▲   | ▲   | ・(+6)   |
+  
 
 
-## MUMB-AMG：装甲砲撃艇
-**[Armed Gun Boat]**  
+
+
+
+<h1 id="aArmedGunBoat">MUMB-AMG：装甲砲撃艇 / Armed Gun Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 砲戦能力を強化した装載艇です。  
 大型主砲が多めに搭載できます。ロケットも搭載できます。  
 装甲とシールドも強く、防御にも向いています。  
@@ -107,10 +103,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ▲   | ▲   | ・   | ・(+6)   |
+  
 
 
-## MUMB-MIS：高速ミサイル艇
-**[Sprint Missile Boat]**  
+
+
+
+<h1 id="aSprintMissileBoat">MUMB-MIS：高速ミサイル艇 / Sprint Missile Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 長射程攻撃力と機動性能を向上させた装載艇です。  
 ミサイルが搭載できます。  
 
@@ -126,10 +128,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ×   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-ROK：ロケット砲艇
-**[Rocket Boat]**  
+
+
+
+<h1 id="aRocketBoat">MUMB-ROK：ロケット砲艇 / Rocket Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 ロケットランチャーを多数搭載した装載艇です。  
 近距離からロケット弾で攻撃することを想定しています。装甲も厚めです。  
 ロケットが搭載できます。  
@@ -146,10 +154,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ・   | ×   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-PTD：重雷撃艇
-**[Torpedo Boat]**  
+
+
+
+<h1 id="aHeavyTorpedoBoat">MUMB-PTD：重雷撃艇 / Heavy Torpedo Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 雷撃戦に特化した装載艇です。  
 魚雷の一斉発射ができます。魚雷が多く搭載できます。  
 コストが安いです。  
@@ -165,10 +179,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ×   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-ADW：防空警戒艇
-**[Air Defensive Warning Boat]**  
+
+
+
+<h1 id="aAirDefensiveWarningBoat">MUMB-ADW：防空警戒艇 / Air Defensive Warning Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 対空砲による対空戦闘と索敵能力に優れる装載艇です。  
 電子性能が高く、電子戦や偵察にも向きます。  
 対艦攻撃力は低いです。性能のわりにコストは低めです。  
@@ -185,10 +205,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ・   | ×   | ・(+6)   |
+  
 
 
-## MUMB-ICP：要撃艇
-**[Intercept Boat]**  
+
+
+
+<h1 id="aInterceptBoat">MUMB-ICP：要撃艇 / Intercept Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 戦闘機やミサイルの迎撃力に特化した装載艇です。  
 航空機に対して先制攻撃ができます。  
 迎撃ミサイルを装備します。  
@@ -206,10 +232,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-PAT：巡視艇
-**[Patrol Boat]**  
+
+
+
+<h1 id="aPatrolBoat">MUMB-PAT：巡視艇 / Patrol Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 沿岸警備や艦隊の周囲警戒に使われる小型舟艇です。軍以外では警察や沿岸警備隊でも運用されています。  
 機関砲が多めに搭載できます。  
 臨検用の設備が充実していて、戦闘よりは取り締まりの能力に優れています。  
@@ -225,10 +257,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-RCM：偵察指揮艇
-**[Recommend Command Boat]**  
+
+
+
+<h1 id="aRecommendCommandBoat">MUMB-RCM：偵察指揮艇 / Recommend Command Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 広範囲の索敵と、偵察部隊からの情報収集と統制機能を備える舟艇です。  
 周辺を飛行する偵察部隊の索敵能力が向上します。  
 電子性能が高く、偵察性能にも優れます。  
@@ -245,10 +283,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | 〇   | ×   | ・(+6)   |
+  
 
 
-## MUMB-SMK：対潜哨戒艇
-**[Maritime Patrol Boat]**  
+
+
+
+<h1 id="aSubmarineKillPatrolBoat">MUMB-SMK：対潜哨戒艇 / Submarine Kill Patrol Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 対潜攻撃に特化した装載艇です。  
 爆雷が搭載できます。対潜攻撃力に優れます。  
 電子性能が高く、潜水艦の探知性能にも優れます。  
@@ -267,10 +311,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ・   | 〇   | ×   | ・(+6)   |
+  
 
 
-## MUMB-ELW：電子作戦艇
-**[Electronic War Boat]**  
+
+
+
+<h1 id="aElectronicWarBoat">MUMB-ELW：電子作戦艇 / Electronic War Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 高い電子戦能力をもつ装載艇です。  
 電子性能が高く、高度な電子戦ができます。  
 武器は貧弱で戦闘性能は低いです。コスト高です。  
@@ -284,10 +334,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ・   | 〇   | ×   | ・(+6)   |
+  
 
 
-## MUMB-CAG：補給輸送艇
-**[Supply Cargo Boat]**  
+
+
+
+<h1 id="aSupplyCargoBoat">MUMB-CAG：補給輸送艇 / Supply Cargo Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 航空隊への補給と、地上部隊の輸送ができる大型舟艇です。  
 輸送性、生存性が高く、大量の陸戦兵器を安全に輸送ができます。  
 陸戦歩兵、戦車、陸戦攻撃機を輸送します。  
@@ -305,10 +361,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ×   | ×   | ・   | ○(+4)   |
+  
 
 
-## MUMB-LND：揚陸艇
-**[Landing Boat]**  
+
+
+
+<h1 id="aLandingBoat">MUMB-LND：揚陸艇 / Landing Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 揚陸用の舟艇です。  
 機動歩兵、陸戦兵器を運用できます。野戦砲も搭載します。  
 対艦用の武器はありません。  
@@ -324,10 +386,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ×   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-INF：歩兵装載艇
-**[Infantry Battle Boat]**  
+
+
+
+<h1 id="aInfantryBattleBoat">MUMB-INF：歩兵装載艇 / Infantry Battle Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 機動歩兵の輸送と、支援攻撃ができる装載艇です。  
 ロケットを搭載できます。  
 機動歩兵歩兵を搭載できます。補給機能もあります。  
@@ -345,10 +413,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ×   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-EST：護衛装載艇
-**[Escoat Boat]**  
+
+
+
+<h1 id="aEscoatBoat">MUMB-EST：護衛装載艇 / Escoat Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 艦隊護衛用の舟艇です。大型の火器を取り外し、装甲を強化しました。  
 ロケット、爆雷を搭載できます。  
 コストカットされています。  
@@ -365,10 +439,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | 〇   | ×   | ▲   | ・(+6)   |
+  
 
 
-## MUMB-RES：救護艇
-**[Rescure Boat]**  
+
+
+
+<h1 id="aRescureBoat">MUMB-RES：救護艇 / Rescure Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 対揚陸兵戦を重視した舟艇です。  
 陸戦移乗された味方艦の代わりに移乗を引き継ぎ、搭載している歩兵で迎撃することができます。  
 
@@ -384,10 +464,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ・   | ×   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-SMN：潜航艇
-**[Submarine Boat]**  
+
+
+
+<h1 id="aSubmarineBoat">MUMB-SMN：潜航艇 / Submarine Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 次元航行が可能な装載艇です。探知外の近距離から魚雷で攻撃するのを得意とします。  
 潜航中はビームやミサイルなどの兵器ではダメージが与えられず、爆雷しか効きません。  
 魚雷しか武器がありません。装載艇に有利な機動性がないのが弱点です。  
@@ -402,10 +488,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ×   | ▲   | ○   | 〇(+4)   |
+  
 
 
-## MUMB-ENG：工作艇
-**[Engineer Boat]**  
+
+
+
+<h1 id="aEngineerBoat">MUMB-ENG：工作艇 / Engineer Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 土木作業や艦船の修理ができる大型舟艇です。  
 基地施設を建築することができます。専用の工作設備を搭載します。  
 浮遊兵器が運用できます。また設置兵器の回収ができます。  
@@ -421,10 +513,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | 〇   | ▲   | ×   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-MSW：掃宙艇
-**[Mine Sweeping Boat]**  
+
+
+
+<h1 id="aMineSweepingBoat">MUMB-MSW：掃宙艇 / Mine Sweeping Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 戦場におかれた敷設兵器を回収するための装載艇です。  
 機関砲が搭載できます。  
 
@@ -440,10 +538,16 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ×   | ×   | 〇(+4)   |
+  
 
 
-## MUMB-SPA：特殊攻撃艇
-**[Special Attack Boat]**  
+
+
+
+<h1 id="aSpecialAttackBoat">MUMB-SPA：特殊攻撃艇 / Special Attack Boat</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 爆弾で自爆攻撃ができる装載艇です。  
 敵艦や港湾に突撃させて壊滅的な打撃を与えることができます。  
 戦略兵器（核爆弾とか）も搭載できます。  
@@ -466,7 +570,7 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ×   | ×   | 〇(+4)   |
-
+  
 
 
 
