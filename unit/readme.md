@@ -292,7 +292,7 @@
   陸戦兵器によわいです。  
   
 
-* **<a id="aMountedBoats">[MUMB：装載艇　Mounted Boats](planes/mountedboats.md)</a>**  
+* **<a id="aMountedBoat">[MUMB：装載艇　Mounted Boat](planes/mountedboat.md)</a>**  
   艦船に搭載できる小型の舟艇です。  
   艦載用の武器が搭載できるため攻撃力が非常に高いです。  
   航空機によわいです。  
@@ -309,19 +309,45 @@
   戦術マップや要塞など極局地でのみ運用できる飛行機です。  
   航空機、機動歩兵、陸戦歩兵、戦車につよいです。  
   対空武器によわいです。  
+  　　主な武器：機関砲、ロケット、爆弾、対空機関砲  
   
 
-* **LULI：陸戦歩兵　Land Infantry**  
+* **<a id="aLandInfantry">[LULI：陸戦歩兵　Land Infantry](infantrys/landinfantry.md)</a>**  
   陸戦に特化した人型のロボットです。  
   泊地や要塞への揚陸や、陸戦移譲への護衛など、特殊な状況下でのみ運用できます。  
   機動歩兵、防衛兵器につよいです。  
   陸戦攻撃機、戦車によわいです。  
+  　　主な武器：機関砲、手投げ弾、接近戦用武器、対空機関砲  
   
 
-* **LUBT：戦闘車両　Battle Tank**  
+* **<a id="aMainTank">[LUMT：主力戦車　Main Tank](cars/maintank.md)</a>**  
   地上や要塞など極局地でのみ運用できる戦闘車両です。  
-  主に歩兵を攻撃するのに向いてます。  
+  主に戦車、車両、歩兵を攻撃するのに向いてます。  
   陸戦攻撃機によわいです。  
+  
+
+* **LUST：支援戦車 / Support Tank**  
+  主力戦車を支援したり、その他の支援機能がついている戦車です。  
+  主に戦車、車両を攻撃するのにも向いてます。  
+  陸戦攻撃機によわいです。  
+  
+
+* **LUPT：自走戦車 / Self Propelled Tank**  
+  戦車の台座に様々な火砲を搭載する火力戦車です。  
+  長距離から戦車、車両、歩兵、建物を攻撃するのに向いてます。  
+  攻撃にはよわいです。  
+  
+
+* **LUAV：装甲車両 / Armoed Vehicle**  
+  装甲で強化した戦闘支援用の車両です。  
+  歩兵を攻撃するのにも向いてますが、支援機能もついてます。  
+  戦車、陸戦攻撃機によわいです。  
+  
+
+* **LUMV：機動車両 / Mobility Vehicle**  
+  機動力が高い支援用の車両です。  
+  ユニットを乗せ換えることで様々な支援機能に変えることができます。  
+  攻撃にはよわいです。  
   
 
 * **LUSV：支援車両　Support Vehicle**  
@@ -362,6 +388,12 @@
   陸地に簡易的に設置できる兵器や陣地です。  
   陸戦兵器の侵攻を妨害します。  
   工兵で設置できます。  
+  
+
+* **DUBS：防衛基地　Defense Base**  
+  陸地に設置できる軍事施設です。  
+  ローカルマップにおいては拠点となります。  
+  建設には時間がかかります。  
   
 
 
@@ -481,17 +513,17 @@
   
 
 
-<h2 id="aCivilBases">CB：民間施設 / Civil Bases</h2>  
+<h2 id="aCivilFacility">CB：民間施設 / Civil Facility</h2>  
   
   [目次へ戻る](#aMokuji)  
   
 
-* **CBSP：宇宙施設　Space Facility**  
-  宇宙にある基地の中枢機能がある施設です。  
+* **<a id="aSpaceFacility">[CBSP：宇宙施設　Space Facility](civilunits/spacefacility.md)</a>**  
+  エリアマップ（宇宙）にある民間施設です。  
   
 
 * **CBLD：地上施設　Land Facility**  
-  地上にある基地の中枢機能がある施設です。  
+  ローカルマップ（地上）にある民間施設です。  
   
 
 
@@ -1037,58 +1069,79 @@
 * **LULI-SPL：特戦型**  
 
 
-<h2>LUBT：戦闘車両 / Battle Tank</h2>  
+<h2>LUMT：主力戦車 / Main Tank</h2>  
 
-* **LUBT-MBT：主力戦車**  
+* **LUMT-STD：主力戦車**  
 
-* **LUBT-LBT：軽戦車**  
+* **LUMT-LMT：軽戦車**  
 
-* **LUBT-HBT：重戦車**  
+* **LUMT-HMT：重戦車**  
 
-* **LUBT-MOB：機動戦車**  
+* **LUMT-MMT：機動戦車**  
+
+* **LUMT-AMT：空中戦車**  
+
+* **LUMT-VER：万能戦車**  
+
+
+<h2>LUST：支援戦車 / Support Tank</h2>  
+
+* **LUST-STD：支援戦車**  
+
+* **LUST-AMD：装甲戦車**  
 
 * **LUBT-INF：歩兵戦車**  
 
-* **LUBT-AAT：対空戦車**  
+* **LUST-AST：突撃戦車**  
 
-* **LUBT-AMT：両用戦車**  
+* **LUST-JGP：駆逐戦車**  
 
-* **LUBT-VER：万能戦車**  
-
-* **LUBT-AST：突撃戦車**  
-
-* **LUBT-JGP：駆逐戦車**  
-
-* **LUBT-SLC：自走砲**  
-
-* **LUBT-SLR：自走ロケット**  
+* **LUST-ENG：工作戦車**  
 
 
-<h2>LUSV：支援車両 / Support Vehicle</h2>  
+<h2>LUPT：自走戦車 / Self Propelled Tank</h2>  
 
-* **LUSV-STD：高機動車**  
+* **LUPT-STD：自走野戦砲**  
 
-* **LUSV-COM：陸戦指揮車**  
+* **LUPT-AAT：自走対空砲**  
 
-* **LUSV-MFG：機動野砲車**  
+* **LUPT-SLR：自走ロケット**  
 
-* **LUSV-MRK：機動ロケット車**  
+* **LUPT-MIS：自走ミサイル**  
 
-* **LUSV-CAG：装甲輸送車**  
+* **LUPT-MIS：自走弩砲**  
 
-* **LUSV-REC：偵察警戒車**  
+* **LUPT-MOV：浮遊機動砲**  
 
-* **LUSV-HOV：ホバーバイク**  
 
-* **LUSV-CAG：補給修理車**  
+<h2>LUAV：装甲車両 / Armoed Vehicle</h2>  
 
-* **LUSV-CEG：戦闘工兵車**  
+* **LUAV-STD：装甲輸送車**  
 
-* **LUSV-ENG：工作車**  
+* **LUAV-AMP：両用戦車**  
 
-* **LUSV-ORM：障害除去車**  
+* **LUAV-INF：歩兵戦車**  
 
-* **LUSV-TOB：地形観測車**  
+* **LUAV-REC：偵察警戒車**  
+
+* **LUAV-TKR：戦場回収車**  
+
+* **LUAV-ENG：戦場工作車**  
+
+
+<h2>LUMV：機動車両 / Mobility Vehicle</h2>  
+
+* **LUMV-STD：機動車両**  
+
+* **LUMV-HOV：ホバーバイク**  
+
+* **LUMV-ELW：電子支援車**  
+
+* **LUMV-COM：陸戦指揮車**  
+
+* **LUMV-CAG：補給輸送車**  
+
+* **LUMV-MTP：多目的車両**  
 
 
 <h2>LUTR：被牽引車 / Trailer</h2>  
@@ -1177,6 +1230,25 @@
 * **DUIU-CMP：陣地**  
 
 * **DUIU-ENG：工作設備**  
+
+
+<h2>DUBS：防衛基地 / Defense Base</h2>  
+
+* **DUBS-CCC：防衛基地**  
+
+* **DUBS-CCF：要塞**  
+
+* **DUBS-CCL：陸戦基地**  
+
+* **DUBS-GAR：駐屯地**  
+
+* **DUBS-APT：航空基地**  
+
+* **DUBS-MPT：軍港**  
+
+* **DUBS-FAC：兵器工場**  
+
+* **DUBS-MIN：採掘基地**  
   
 
 
@@ -1441,17 +1513,29 @@
 
 <h2>CBSP：宇宙施設  / Space Facility</h2>  
 
-* **CBSP-CNT：中枢施設**  
+* **CBSP-CCC：中枢施設**  
+
+* **CBSP-RST：居住施設**  
+
+* **CBSP-CMM：商業施設**  
+
+* **CBSP-IND：工業施設**  
+
+* **CBSP-MIN：採掘施設**  
 
 
 <h2>CBLD：地上施設  / Land Facility</h2>  
 
-* **CBSP-CNT：中枢施設**  
+* **CBLD-CCC：中枢施設**  
+
+* **CBLD-RST：居住施設**  
+
+* **CBLD-CMM：商業施設**  
+
+* **CBLD-IND：工業施設**  
+
+* **CBLD-MIN：採掘施設**  
   
-
-
-
-
 
 
 
