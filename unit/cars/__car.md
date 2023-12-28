@@ -768,6 +768,120 @@
 
 
 
+
+
+<h2>LUMT：主力戦車 / Main Tank</h2>  
+
+* **LUMT-STD：主力戦車**  
+Main Tank
+
+* **LUMT-LMT：軽戦車**  
+Light Tank
+
+* **LUMT-HMT：重戦車**  
+Heavy Tank
+
+* **LUMT-MMT：機動戦車**  
+Mobillity Tank
+
+* **LUMT-AMT：空中戦車**  
+Air Tank
+
+* **LUMT-VER：万能戦車**  
+Versatile Tank
+
+
+<h2>LUST：支援戦車 / Support Tank</h2>  
+
+* **LUST-STD：支援戦車**  
+Support Tank
+
+* **LUST-AMD：装甲戦車**  
+Armoed Tank
+
+* **LUBT-INF：歩兵戦車**  
+Infantry Tank
+
+* **LUST-AST：突撃戦車**  
+Assault Tank
+
+* **LUST-JGP：駆逐戦車**  
+Jagdpanzer
+
+* **LUST-ENG：工作戦車**  
+Engineer Tank
+
+
+
+<h2>LUPT：自走戦車 / Self Propelled Tank</h2>  
+
+* **LUPT-STD：自走野戦砲**  
+Self Propelled Cannon
+
+* **LUPT-AAT：自走対空砲**  
+Self Propelled Anti Air Gun
+
+* **LUPT-ROC：自走ロケット**  
+Self Propelled Rocket
+
+* **LUPT-MIS：自走ミサイル**  
+Self Propelled Missile
+
+* **LUPT-MIS：自走弩砲**  
+Self Propelled Arch Cannon
+
+* **LUPT-MOV：浮遊機動砲**  
+Self Propelled Hover Cannon
+
+
+
+<h2>LUAV：装甲車両 / Armoed Vehicle</h2>  
+
+* **LUAV-STD：装甲輸送車**  
+Armoed Cargo Vehicle
+
+* **LUAV-AMP：両用戦車**  
+Amphibious Tank
+
+* **LUAV-ADT：対物戦車**  
+Anti Defense Tank
+
+* **LUAV-REC：偵察警戒車**  
+Recommend Guard Vehicle
+
+* **LUAV-TKR：戦場回収車**  
+Field Recovery Vehicle
+
+* **LUAV-ENG：戦場工作車**  
+Field Engineering Vehicle
+
+
+<h2>LUMV：機動車両 / Mobility Vehicle</h2>  
+
+* **LUMV-STD：機動車両**  
+Mobility Vehicle
+
+* **LUMV-HOV：ホバーバイク**  
+Hover Bike
+
+* **LUMV-ELW：電子支援車**  
+Electronic Support Vehicle
+
+* **LUMV-COM：陸戦指揮車**  
+Land Command Vehicle
+
+* **LUMV-CAG：補給輸送車**  
+Supply Cargo Vehicle
+
+* **LUMV-MTP：多目的車両**  
+Multipurpose Vehicle
+
+
+
+
+
+
+
 ***
 [トップへ戻る](/readme.md) / [兵器仕様](/unit/readme.md)  
   

@@ -227,14 +227,46 @@
 
 
 
-# BFLD：地上施設 <a name="iDestroyer"></a>
-**[Land Facility]**  
-地上にある基地の中枢機能がある施設です。  
+<h2>CBSP：宇宙施設  / Space Facility</h2>  
+
+* **CBSP-CCC：中枢施設**  
+Space Center Facility
+
+* **CBSP-RST：居住施設**  
+Space Residential Facility
+
+* **CBSP-CMM：商業施設**  
+Space Commercial Facility
+
+* **CBSP-IND：工業施設**  
+Space Industrial Facility
+
+* **CBSP-ADM：行政施設**  
+Administrative Facility
+
+* **CBSP-MIN：採掘施設**  
+Space Mining Facility
+
+* **CBSP-CNT：通信施設**  
+Space Communication Facility
 
 
-## BFLD-CNT：中枢施設
-**[Central Facility]**  
 
+<h2>CBLD：地上施設  / Land Facility</h2>  
+
+* **CBLD-CCC：中枢施設**  
+
+* **CBLD-RST：居住施設**  
+
+* **CBLD-CMM：商業施設**  
+
+* **CBLD-IND：工業施設**  
+
+* **CBLD-ADM：行政施設**  
+
+* **CBLD-MIN：採掘施設**  
+
+* **CBLD-CNT：通信施設**  
 
 
 

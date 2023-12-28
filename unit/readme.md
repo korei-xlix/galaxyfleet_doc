@@ -40,7 +40,7 @@
   * 民間用
     * [民間船](#aCivilShips)
     * [民間機](#aCivilUnits)
-    * [民間施設](#aCivilBases)
+    * [民間施設](#aCivilFacilities)
   
 
 
@@ -344,10 +344,12 @@
   戦車、陸戦攻撃機によわいです。  
   
 
-* **LUMV：機動車両 / Mobility Vehicle**  
+* **<a id="aMobilityVehicle">[LUMV：機動車両 / Mobility Vehicle](cars/maintank.md)</a>**  
   機動力が高い支援用の車両です。  
   ユニットを乗せ換えることで様々な支援機能に変えることができます。  
+  陸戦指揮にかかわる車両もあります。  
   攻撃にはよわいです。  
+  　　主な武器：機関砲  
   
 
 * **LUSV：支援車両　Support Vehicle**  
@@ -390,8 +392,13 @@
   工兵で設置できます。  
   
 
-* **DUBS：防衛基地　Defense Base**  
-  陸地に設置できる軍事施設です。  
+* **<a id="aSpaceBase">[DUBS：宇宙基地　Space Base](defenseunits/spacebase.md)</a>**  
+  エリアマップに設置できる軍事施設です。  
+  建設には時間がかかります。  
+  
+
+* **<a id="aLandBase">[DULB：地上基地　Land Base](defenseunits/landbase.md)</a>**  
+  ローカルマップに設置できる軍事施設です。  
   ローカルマップにおいては拠点となります。  
   建設には時間がかかります。  
   
@@ -463,7 +470,7 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **CSSS：民間船　Civil Ship**  
+* **<a id="aCivilShip">[CSSS：民間船　Civil Ship](civilunits/civilship.md)</a>**  
   非武装の民間企業の定期便、プライベートシップ、超大型輸送船、超大型タンカーなどが該当します。  
   民生品の運搬などをおこないます。  
   
@@ -513,7 +520,7 @@
   
 
 
-<h2 id="aCivilFacility">CB：民間施設 / Civil Facility</h2>  
+<h2 id="aCivilFacilities">CB：民間施設 / Civil Facilities</h2>  
   
   [目次へ戻る](#aMokuji)  
   
@@ -522,7 +529,7 @@
   エリアマップ（宇宙）にある民間施設です。  
   
 
-* **CBLD：地上施設　Land Facility**  
+* **<a id="aLandFacility">[CBLD：宇宙施設　Land Facility](civilunits/landfacility.md)</a>**  
   ローカルマップ（地上）にある民間施設です。  
   
 
@@ -1105,7 +1112,7 @@
 
 * **LUPT-AAT：自走対空砲**  
 
-* **LUPT-SLR：自走ロケット**  
+* **LUPT-ROC：自走ロケット**  
 
 * **LUPT-MIS：自走ミサイル**  
 
@@ -1120,7 +1127,7 @@
 
 * **LUAV-AMP：両用戦車**  
 
-* **LUAV-INF：歩兵戦車**  
+* **LUAV-ADT：対物戦車**  
 
 * **LUAV-REC：偵察警戒車**  
 
@@ -1232,23 +1239,50 @@
 * **DUIU-ENG：工作設備**  
 
 
-<h2>DUBS：防衛基地 / Defense Base</h2>  
+<h2>DUSB：宇宙基地 / Space Base</h2>  
 
-* **DUBS-CCC：防衛基地**  
+* **DUSB-CCC：防衛基地**  
 
-* **DUBS-CCF：要塞**  
+* **DUSB-CCP：泊地**  
 
-* **DUBS-CCL：陸戦基地**  
+* **DUSB-CCF：要塞**  
 
-* **DUBS-GAR：駐屯地**  
+* **DUSB-CCB：宇宙基地**  
 
-* **DUBS-APT：航空基地**  
+* **DUSB-CCT：軍港**  
 
-* **DUBS-MPT：軍港**  
+* **DUSB-STA：防衛詰所**  
 
-* **DUBS-FAC：兵器工場**  
+* **DUSB-FAC：兵器工場**  
 
-* **DUBS-MIN：採掘基地**  
+* **DUSB-SUP：補給基地**  
+
+* **DUSB-MIN：採掘基地**  
+
+* **DUSB-REC：偵察基地**  
+
+
+<h2>DULB：地上基地 / Land Base</h2>  
+
+* **DULB-CCC：防衛基地**  
+
+* **DULB-CCP：防衛陣地**  
+
+* **DULD-CCF：要塞**  
+
+* **DULB-CCB：陸戦基地**  
+
+* **DULB-GAR：駐屯地**  
+
+* **DULB-AIR：航空基地**  
+
+* **DULB-FAC：兵器工場**  
+
+* **DULB-SUP：補給基地**  
+
+* **DULB-MIN：採掘基地**  
+
+* **DULB-ELV：軌道エレベータ**  
   
 
 
@@ -1521,7 +1555,11 @@
 
 * **CBSP-IND：工業施設**  
 
+* **CBSP-ADM：行政施設**  
+
 * **CBSP-MIN：採掘施設**  
+
+* **CBSP-CNT：通信施設**  
 
 
 <h2>CBLD：地上施設  / Land Facility</h2>  
@@ -1534,7 +1572,11 @@
 
 * **CBLD-IND：工業施設**  
 
+* **CBLD-ADM：行政施設**  
+
 * **CBLD-MIN：採掘施設**  
+
+* **CBLD-CNT：通信施設**  
   
 
 

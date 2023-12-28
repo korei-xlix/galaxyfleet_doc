@@ -341,6 +341,40 @@
 
 
 
+<h2>DULB：地上基地 / Land Base</h2>  
+
+* **DULB-CCC：防衛基地**  
+Land Center Base
+
+* **DULB-CCP：防衛陣地**  
+Land Player Base
+
+* **DULD-CCF：要塞**  
+Fortress
+
+* **DULB-CCB：陸戦基地**  
+Land Millitary Base
+
+* **DULB-GAR：駐屯地**  
+Garrison
+
+* **DULB-AIR：航空基地**  
+Air Base
+
+* **DULB-FAC：兵器工場**  
+Land Factory
+
+* **DULB-SUP：補給基地**  
+Land Supply Base
+
+* **DULB-MIN：採掘基地**  
+Land Mining Base
+
+* **DULB-ELV：軌道エレベータ**  
+Orbital Elevator
+
+
+
 
 
 
