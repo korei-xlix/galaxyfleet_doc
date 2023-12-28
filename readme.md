@@ -33,7 +33,9 @@
   * [謝辞](#aAcknowledgment)
   * [参考資料](#aMaterial)
 
-* [ログインパート仕様](/galaxyfleet_doc/loginpart/readme.md)
+* [セットアップ手順書](/readme_setup.md)
+
+* [ログインパート仕様](/loginpart/readme.md)
 
 * [戦略パート仕様](/galaxyfleet_doc/strategypart/readme.md)
   * [基礎情報](/galaxyfleet_doc/strategypart/readme.md#aBaseInfo)
@@ -56,7 +58,7 @@
   * [人員](/galaxyfleet_doc/senario/crew.md)
 
 * データベース
-  * [兵器仕様](/unit/readme.md)
+  * [兵器仕様](unit/readme.md)
   * [装備品仕様](/galaxyfleet_doc/equip/readme.md)
   * [特殊機能](/galaxyfleet_doc/skill/readme.md)
 
@@ -145,28 +147,48 @@ AI可もみ  大型の兵器や要塞もほぼ自動化されていった結果
 ブラウザ部はHTML、Javascript、CSSで記述し、nginxなどwebサーバアプリで出力の補助をおこないます。  
 ゲームの内部データ、セーブデータの加工、出力はメンテしやすいように別途処理用のサーバ（Linux系）を用意します。そちらのソースはPythonで記述し、実行の補助としてuwsgiを使用します。すべてSSL通信に対応します。なお、レンタルサーバによってはゲーム利用を禁止している会社さんもあるので、処理サーバでの処理はゲームの基礎データの格納と出力のみを負荷がかからない範囲でおこなうようにします。ゲームの実処理や判定はブラウザでおこなうようにします。  
   
-全体としてWindows 10のローカル環境でも実行可能なようにします。  
-（開発は諸事情でWindows 10上で行います）  
 
+なお、当方は開発、運用で [X Server(レンタルサーバ)](https://www.xserver.ne.jp/) を利用してます。  
+本仕様はX Serverのレンタルサーバを前提に記載しております。  
+  
 
 ## システム要件（最低限）
   
 |項目 |条件 |備考 |
 |:--|:--|:--|
-| OS              | Windows10        |    |
-| python          | python3          |    |
-| Webサーバ       | nginx            |    |
-| DBサーバ        | MySQL            |    |
-| python実行      | uWsgi            | web→python実行アプリ  |
-| 疑似サーバ      | cygwin           | web、処理、DB実行環境  |
-| エンコード      | utf-8            |    |
-| その他          | githubアカウント |    |
+| OS                | Linux            |    |
+| python            | python3          |    |
+| Webサーバ         | nginx            |    |
+| DBサーバ          | MySQL            |    |
+| python実行        | fastCGI          | web→python実行アプリ  |
+| ターミナルソフト  | Teraterm         | サーバ管理アプリ       |
+| githubアプリ      | git              | github制御アプリ       |
+| 拡張ライブラリ    | Homebrew         | 管理アプリ             |
+
+
+| エンコード        | utf-8            |    |
+| その他            | githubアカウント |    |
 
 * githubアカウントは持ってる前提で記載します。  
-* 以上の前提が異なると一部機能が誤動作の可能性があります。
-* 開発環境はWindows 10上でおこなうため、Linuxエミュレーション可能なCygwinを使用します。  
-* Webサーバ、データ処理系、データベースともにCygwin上でおこなうようにします。  
-* インストールなどの作業は、shバッチか、phthonスクリプトから実行できるようにします。  
+* 以上の前提が異なると一部機能が誤動作の可能性があります。  
+* 他のソフトウェアでも要件があえば使用できると思いますが、動作保証はいたしません。  
+  また本書の手順と異なる場合があります。ご留意ください。  
+  
+
+## Galaxy Fleetのリポジトリ
+  
+Galaxy Fleetのリポジトリは３つに分かれています。  
+  
+* [galaxy_fleet_doc](https://github.com/korei-xlix/galaxyfleet_doc)  
+  Galaxy Fleetのドキュメント、取扱説明書などです。
+
+* [galaxy_fleet_web](https://github.com/korei-xlix/galaxyfleet_web)  
+  Galaxy Fleetのwebソフトウェア。  
+  Webサーバで公開します。  
+
+* [galaxy_fleet_uwsgi](https://github.com/korei-xlix/galaxyfleet_uwsgi)  
+  Galaxy Fleetのサーバソフトウェア。  
+  主にデータベースの制御をおこないます。  
   
 
 

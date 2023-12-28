@@ -1,81 +1,73 @@
 # Galaxy Fleet
-  
-<h1>～セットアップ手順書～</h1>  
-<h2>～Setup Manual～</h2>  
-  
+**～セットアップ手順～**  
 
-**★このリポジトリの改造、流用、配布、クローンは禁止です★**  
-    **Modification, diversion, distribution, and cloning of this repository are prohibited**  
-  
 
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
+# このドキュメントについて <a name="aHowto"></a>
 このドキュメント群ではブラウザで動作する艦隊ストラテジゲーム「Galaxy Fleet」のセットアップ手順を示します。  
   
 前提としてサーバへの支援ソフト導入や、設定変更が必要で難易度は高いです。自己責任で行ってください。  
 機能概要、バージョンアップ方法、その他については readme.md をご参照ください。  
-[readme.md](https://github.com/korei-xlix/galaxy_fleet_doc/readme.md)
+* [readme.md](https://github.com/korei-xlix/galaxy_fleet/readme.md)
   
 なお、現バージョンは要求仕様まとめ段階のものであり、今後予告なく改版されます。  
-  
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
 
+# 目次 <a name="aMokuji"></a>
 * [readme.md](/readme.md)
 
-* [前提環境・ソフトウェア](#aPremise)
-
+* [前提](#aPremise)
 * [github環境の構築](#aSetup_github)
-* [環境構築](#aSetup)
-
-* [Linuxbrewのインストール](#aSetup_linuxbrew)
-* [python3のインストール](#aSetup_python3)
-* [python3ライブラリのインストール](#aSetup_python3lib)
-
-
-
-
-
-
-
-<h1 id="aPremise">前提環境・ソフトウェア</h1>  
-  
-  [目次へ戻る](#aMokuji)  
-  
-readmeの[システム概要](/readme.md#システム要件最低限)をご参照ください。  
-  
+* [サーバ環境の構築](#aSetup)
+	* [Cygwinのインストール](#aSetup_Cygwin)
+	* [nxingのインストール](#aSetup_nginx)
+	* [python3ライブラリのインストール](#aSetup_python3lib)
+	* [エンコードの確認と設定](#aSetup_endode)
+	* [uwsgiのインストール](#aSetup_uwsgi)
+	* [postgreSQLのインストール](#aSetup_postgresql)
+	* [Galaxy Fleetのリポジトリ設置](#aSetup_repository)
+	* [SSL証明書の発行](#aSetup_SSL)
+	* [Galaxy Fleetの設定](#aSetup_galaxyfleet)
 
 
 
 
 
-<h1 id="aSetup_github">github環境の構築</h1>  
-  
-  [目次へ戻る](#aMokuji)  
-  
+# 前提 <a name="aPremise"></a>
+* Linux
+* cygwin（Windows上の開発・実行環境）
+* python3
+* nginx（webサーバ）
+* PostgreSQL（DBサーバ）
+* uWsgi（web→python実行アプリ）
+* githubアカウント（所持前提）
+* OSのデフォルトエンコード：utf-8
 
-本章ではgithub環境の構築について記載します。  
+
+
+
+
+# github環境の構築 <a name="aSetup_github"></a>
 **既にgithubアカウント、github desktopを持ってる場合はスキップできます**  
   
-
-Galaxy Fleetは **githubリポジトリ** で管理しています。
-そのため、**Galaxy Fleetを運用するにはguthubアカウントが必要になります。**  
+Galaxy Fleetはgithubリポジトリで管理しています。
+そのため、Galaxy Fleetを遊ぶにはguthubアカウントが必要になります。  
 リポジトリの管理、アップデートなどのために、github環境を構築します。  
-  
 
-<h2>githubアカウントの取り方</h2>  
+
+## githubアカウントの取り方
 おそらくこのドキュメントを見られてる方はgithubアカウントをお持ちと思いますが念のため。  
 githubのホームページから取得できます。  
   [github](https://github.com)  
-  
 
-<h2>github desktopのインストール</h2>  
+
+## github desktopのインストール
 github Desktopをインストールします。  
 インストーラを以下から取得します。入手したインストーラで好きな場所にセットアップします。  
   [github HP](https://desktop.github.com)  
-  
+
 
 
 
@@ -86,101 +78,172 @@ github Desktopをインストールします。
   
 
 Galaxy Fleetを実行するための環境構築をします。  
+  
+
+なおWindows10下では、エミュレータとしてCygwinをインストールします。  
+その場合、以下のインストールでは、Cygwin Terminalを使ってLinuxエミュレータ上でインストール作業をおこないます。  
 ここでは次のアプリケーションをインストールします。  
+  
 
+* Cygwin  
+* nginx  
 * python3  
+* uwsgi  
 * MySQL  
-* Teraterm  
-
-
-
-> 本仕様ではnginx、fastCGIはインストール済みの前提です。  
+  
 
 
 
 
 
-<h1 id="aSetup_linuxbrew">Linuxbrewのインストール</h1>  
+<h1 id="aSetup_Cygwin">Cygwinのインストール</h1>  
   
   [目次へ戻る](#aMokuji)  
   
 
-Galaxy Fleetではpython3のライブラリを利用しますが、X Serverの場合権限がないため、そのままの環境では利用できません。  
-そこで、自前のライブラリ環境を整えた上でインストールをおこないます。  
-**Cygwin、X Server以外はこの手順はスキップできます。**  
+仮想サーバのコンソールとして使うCygwinをインストールします。  
+**なお、レンタルサーバなどを利用する場合は本手順はスキップできます。**  
   
 
-  [参考記事](https://yururi-do.com/install-python-pipenv-with-homebrew-on-xserver/)
+* 1.インストーラを以下から取得します。  
+  [Cygwin HP](https://www.cygwin.com/)  
+
+* 2.入手したインストーラで好きな場所にセットアップします。  
+  パッケージは以下を選択します（選択しないとスキップされてしまうので注意）。  
+  上記全てのライブラリを選択しないと正常にセットアップできません。  
+
+  * python3-deval  
+  * wget  
+  * libcrypt-devel  
+  * libintl-devel  
+  * libssl-dev  
+  * libreadline-deval  
+  * zlib  
+  * zlib-devel  
+  * make  
+  * gcc-core  
+  * unzip  
+  * gettext  
+  * gettext-deval  
+  * libpcre-devel  
+  * git
+  * git-cvs
+  * git-debuginfo
+  * git-email
+  * git-gui
+  * git-svn
+  * gitk
+
+  デフォルトか、環境にあわせてオプションを選択しましょう。  
+  仮想環境はセットアップしたカレント配下にできます。  
+
+* 3.ホームユーザ名を確認します  ★以後[Cygwinユーザ]で統一します  
+
+```text
+whoamiコマンドで確認できます
+
+$ whoami
+```  
   
 
-<h2>本手順でインストールするライブラリ</h2>
-|ライブラリ  |備考  |
-|:--|:--|
-| git               | githubライブラリ          |
-| gittext           | gitインストールに必要     |
-
-
-
-| Homebrew               | Linuxバージョン管理ライブラリ          |
-
-> **補足**  
-> git系のライブラリは元々入ってるものではHomebrewのインストール時にエラーがでるため、  
-> 手間でもインストールが必要です。  
-
-
-ユーザ→webサーバ→cgi(FastCGI)→python→MySQL
-で、python→Flask→webサーバ→ユーザ
 
 
 
 
-
-
-
-
-<h1 id="aSetup_python3">python3のインストール</h1>  
+<h1 id="aSetup_nginx">nxingのインストール</h1>  
   
   [目次へ戻る](#aMokuji)  
   
 
-python3をインストールします。  
-> なお、X Server、Cygwin環境ではこの時点でインストール済です。  
-> 念のためインストール済か確認するので、手順1のみ実行してください。  
+nginxをインストールします。  
+この手順ではPCREライブラリのソースが必要なので、そちらもセットアップします。  
+**X Serverをご利用の場合は、この手順はスキップできます。**
   
 
-* 1.pythonがインストールされてるか確認します。  
-  バージョン番号が表示されなければ、手順2以降を継続してください。  
+* 1.アーカイブのURLを以下で確認します。  
+  nginxのソース  
+  [nginx HP](https://nginx.org/)  
+  
+  PCREライブラリのソース  
+  [OSDN](https://ja.osdn.net/projects/sfnet_pcre/)
+
+* 2.workフォルダを作成し、アーカイブを取得、展開します。  
 
 ```text
-バージョン表示が出ればOKです
-$ python3 -V
-Python 3.12.1 ←バージョン番号
-```
+$ cd 
+$ mkdir work
+$ cd work
 
-* 2.python公式からpython3のソースコードをダウンロードします。  
+nginxのソース取得
+$ wget [1項で確認したnginxのURL]
+v1.23.1の場合
+$ wget https://nginx.org/download/nginx-1.23.1.tar.gz
 
-```text
-バージョン3.12.1の場合
-$ wget https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tar.xz
+PCREライブラリのソース取得
+$ wget [1項で確認したPCREライブラリのURL]
+v8.45の場合
+$ wget https://ja.osdn.net/projects/sfnet_pcre/downloads/pcre/8.45/pcre-8.45.tar.gz
 
-ソースの展開
+nginxの展開
 $ tar xvzf [アーカイブ名]
+v1.23.1の場合
+$ tar xvzf nginx-1.23.1.tar.gz
+
+PCREの展開
+$ tar xvzf [アーカイブ名]
+v8.45の場合
+$ tar xvzf pcre-8.45.tar.gz
+
 ```
 
-* 3.ビルドします。  
+* 3.nginxをメイク、インストールします。  
+  --with-pcreのパスは、相対パスで、PCREライブラリのソースを解凍したフォルダを指定します。  
 
 ```text
-リファレンスのコマンドを実行します
-$ ./configure --with-pydebug && make -j
+インストーラが入ってるので、コマンドを実行します
+$ cd [展開フォルダ名]
+$ ./configure --sbin-path="/usr/sbin/" --conf-path="/etc/nginx/nginx.conf" --pid-path="/var/run/nginx.pid" --with-pcre="../pcre-8.45/" --with-http_ssl_module --with-http_v2_module --prefix="/usr/local/nginx/"
+$ make
+$ make install
 ```
+  
 
-* 4.pythonが正常にインストールされたか確認します。  
-  バージョン番号が表示されなければ、手順2以降を継続してください。  
+* 4.プロファイルに実行パスを読ませます。  
+  **既に設定済みの場合はスキップできます**  
 
 ```text
-バージョン表示が出ればOKです
-$ python3 -V
-Python 3.12.1 ←バージョン番号
+$ vi /home/[Cygwinユーザ]/.bash_profile
+
+以下を追加
+export PATH=$PATH:/usr/sbin:/usr/local/bin
+
+追加したら以下を実行して、読み込ませます。  
+$ source ~/.bash_profile
+```
+  
+
+* 5.コマンドを入力してnginxを実行します。  
+  実行するとサービスインスタンスが起動されます。  
+  Cygwin環境の場合でファイアウォールの通知が出た場合は許可します。  
+
+```text
+nginxの起動コマンドを入力します
+$ nginx
+```
+  
+
+* 6.ブラウザでnginxのスタートページを表示します。  
+  URLはローカルホストを指定します。  
+  **[http://localhost]**  
+  
+  Welcome to nginx! と表示されればセットアップは正常です。  
+
+* 7.コマンドを入力してnginxを終了します。  
+  nginxのインスタンスが停止されます。  
+
+```text
+nginxのインスタンス停止コマンドを入力します。
+$ nginx -s quit
 ```
   
 
@@ -188,44 +251,27 @@ Python 3.12.1 ←バージョン番号
 
 
 
-<h1 id="aSetup_python3lib">python3ライブラリのインストール</h1>  
+
+## python3ライブラリのインストール <a name="aSetup_python3lib"></a>
+python3の処理で必要なライブラリをインストールします。  
+python3の本体はCygwinと一緒にインストールされてるはずです。  
   
-  [目次へ戻る](#aMokuji)  
-  
+なお、Galaxy Fleetで使うライブラリは以下の通りです。  
+* requests 
+* requests_oauthlib 
+* python-dateutil 
+* psycopg2
+* flask （要らないかも？）
+* apt-cyg（apt-getのcygwin版）
+* procps（apt-cygでインストール）
 
-python3ライブラリをインストールし、Galaxy Fleet環境で必要な機能を拡張します。  
-なお、X ServerとCygwinとで利用するライブラリが異なります。  
-
-
-<h2>X Serverの場合</h2>
-|ライブラリ  |備考  |
-|:--|:--|
-| flask               | ?          |
-
-
-<h2>Cygwinの場合</h2>
-|ライブラリ  |備考  |
-|:--|:--|
-| requests            | ?          |
-| requests_oauthlib   | ?          |
-| python-dateutil     | ?          |
-| psycopg2            | ?          |
-| flask               | ?          |
-| apt-cyg             |apt-getのcygwin版      |
-| procps              |システムコマンド用。   |
-
-
-* 1.インストールされているライブラリを確認します。  
-
-```text
-phton3のライブラリ一覧を表示します
-$ pip3 list
-
-
-
+以下手順です。  
+* 1.以下のコマンドでpythonの動作テストしてみます。  
 ```
-
-
+$ python -V
+Python 3.8.2
+  ※Windowsの場合、python3ではなく、pythonらしいです  
+```
 
 * 2.pip3でライブラリをインストールします。  
 ```
@@ -1063,10 +1109,10 @@ $ exit
 
 
 
+
+
 ***
-[[トップへ戻る]](/readme.md)  
-  
+::Project= Galaxy Fleet  
 ::Admin= Korei (@korei-xlix)  
-::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
-::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::github= https://github.com/korei-xlix/  
+::Homepage= https://koreixlix.wixsite.com/profile  
