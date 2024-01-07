@@ -30,11 +30,11 @@
     * [CUCS-EXP：民間探査衛星](#aCivilExplorationSatellite)
     * [CUCS-GUD：警備衛星](#aGuardSatellite)
 
-  * [兵器分類：公用衛星](../readme.md#aOfficialSatellite)
-    * [CUOS-CMN：公用通信衛星](#aOfficialCommunicationSatellite)
-    * [CUOS-EXP：公用探査衛星](#aOfficialExplorationSatellite)
-    * [CUOS-REL：公用中継衛星](#aOfficialRelaySatellite)
-    * [CUOS-COC：戦時監視衛星](#aCombatOversightCommitteeSatellite)
+  * [兵器分類：公用衛星](../readme.md#aGovernmentSatellite)
+    * [CUGS-CMN：公用通信衛星](#aGovernmentCommunicationSatellite)
+    * [CUGS-EXP：公用探査衛星](#aGovernmentExplorationSatellite)
+    * [CUGS-REL：公用中継衛星](#aGovernmentRelaySatellite)
+    * [CUGS-COC：戦時監視衛星](#aCombatOversightCommitteeSatellite)
   
 
 
@@ -125,7 +125,7 @@
 
 
 
-<h1 id="aOfficialCommunicationSatellite">CUOS-CMN：公用通信衛星 / Official Communication Satellite</h1>  
+<h1 id="aGovernmentCommunicationSatellite">CUGS-CMN：公用通信衛星 / Government Communication Satellite</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -146,7 +146,7 @@
 
 
 
-<h1 id="aOfficialExplorationSatellite">CUOS-EXP：公用探査衛星 / Official Exploration Satellite</h1>  
+<h1 id="aGovernmentExplorationSatellite">CUGS-EXP：公用探査衛星 / Government Exploration Satellite</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -167,7 +167,7 @@
 
 
 
-<h1 id="aOfficialRelaySatellite">CUOS-REL：公用中継衛星 / Official Relay Satellite</h1>  
+<h1 id="aGovernmentRelaySatellite">CUGS-REL：公用中継衛星 / Government Relay Satellite</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -188,7 +188,7 @@
 
 
 
-<h1 id="aCombatOversightCommitteeSatellite">CUOS-COC：戦時監視衛星 / Combat Oversight Committee Satellite</h1>  
+<h1 id="aCombatOversightCommitteeSatellite">CUGS-COC：戦時監視衛星 / Combat Oversight Committee Satellite</h1>  
   [目次へ戻る](#aMokuji)  
   
 

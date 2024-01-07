@@ -30,11 +30,11 @@
     * [CUCP-EXP：民間探査機](#aCivilExplorationPlane)
     * [CUCP-CAG：民間輸送機](#aCivilCargoPlane)
 
-  * [兵器分類：公用機](../readme.md#aOfficialPlane)
-    * [CUOP-FER：公用連絡機](#aOfficialFerryPlane)
-    * [CUOP-CAG：公用輸送機](#aOfficialCargoPlane)
-    * [CUOP-EXP：公用探査機](#aOfficialExplorationPlane)
-    * [CUOP-COC：戦時監視機](#aCombatOversightCommitteePlane)
+  * [兵器分類：公用機](../readme.md#aGovernmentPlane)
+    * [CUGP-FER：公用連絡機](#aGovernmentFerryPlane)
+    * [CUGP-CAG：公用輸送機](#aGovernmentCargoPlane)
+    * [CUGP-EXP：公用探査機](#aGovernmentExplorationPlane)
+    * [CUGP-COC：戦時監視機](#aCombatOversightCommitteePlane)
   
 
 
@@ -125,7 +125,7 @@
 
 
 
-<h1 id="aOfficialFerryPlane">CUOP-FER：公用連絡機 / Official Ferry Plane</h1>  
+<h1 id="aGovernmentFerryPlane">CUGP-FER：公用連絡機 / Government Ferry Plane</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -146,7 +146,7 @@
 
 
 
-<h1 id="aOfficialCargoPlane">CUOP-CAG：公用輸送機 / Official Cargo Plane</h1>  
+<h1 id="aGovernmentCargoPlane">CUGP-CAG：公用輸送機 / Government Cargo Plane</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -167,7 +167,7 @@
 
 
 
-<h1 id="aOfficialExplorationPlane">CUOP-EXP：公用探査機 / Official Exploration Plane</h1>  
+<h1 id="aGovernmentExplorationPlane">CUGP-EXP：公用探査機 / Government Exploration Plane</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -188,7 +188,7 @@
 
 
 
-<h1 id="aCombatOversightCommitteePlane">CUOP-COC：戦時監視機 / Combat Oversight Committee Plane</h1>  
+<h1 id="aCombatOversightCommitteePlane">CUGP-COC：戦時監視機 / Combat Oversight Committee Plane</h1>  
   [目次へ戻る](#aMokuji)  
   
 
