@@ -29,8 +29,8 @@
 
 * [github環境の構築](#aSetup_github)
 * [環境構築](#aSetup)
+* [Homebrewのインストール](#aSetup_homebrew)
 
-* [Linuxbrewのインストール](#aSetup_linuxbrew)
 * [python3のインストール](#aSetup_python3)
 * [python3ライブラリのインストール](#aSetup_python3lib)
 
@@ -86,53 +86,446 @@ github Desktopをインストールします。
   
 
 Galaxy Fleetを実行するための環境構築をします。  
-ここでは次のアプリケーションをインストールします。  
+Pythonの拡張ライブラリを使用するため、仮想環境Homebrewをインストールし、その上に環境を整えます。  
+インストールするアプリケーションは次の通りです。  
 
+* openssl  
+* curl  
+* gittext  
+* git  
+
+* Homebrew  
 * python3  
 * MySQL  
 * Teraterm  
 
+> 本仕様ではnginx、fastCGI、TeraTermはインストール済みの前提です。  
+> TeraTermはX Serverを構築する際にインストールしてると思いますが、  
+> 念のため以下からダウンロードできます。  
+> 
+> [Tera Term(窓の社)](https://forest.watch.impress.co.jp/library/software/utf8teraterm/)  
+> 
+  
 
 
-> 本仕様ではnginx、fastCGIはインストール済みの前提です。  
 
 
 
-
-
-<h1 id="aSetup_linuxbrew">Linuxbrewのインストール</h1>  
+<h1 id="aSetup_homebrew">Homebrewのインストール</h1>  
   
   [目次へ戻る](#aMokuji)  
   
 
-Galaxy Fleetではpython3のライブラリを利用しますが、X Serverの場合権限がないため、そのままの環境では利用できません。  
+Galaxy Fleetではpython3のライブラリを利用しますが、X Serverのレンタルサーバの場合権限がないため、そのままの環境では利用できません。  
 そこで、自前のライブラリ環境を整えた上でインストールをおこないます。  
-**Cygwin、X Server以外はこの手順はスキップできます。**  
+**X Serverのレンタルサーバ以外はこの手順はスキップできます。**  
   
 
-  [参考記事](https://yururi-do.com/install-python-pipenv-with-homebrew-on-xserver/)
+## ディレクトリ構成（イメージ）
+
+```text
+home
+|-- _tmp
+|-- opt
+|   |-- curl
+|   |-- gettext
+|   |-- git
+|   `-- ssl
+`-- .linuxbrew
+    |-- Homebrew
+    |-- bin
+    `-- (その他インストール済みライブラリ)
+```
   
 
-<h2>本手順でインストールするライブラリ</h2>
-|ライブラリ  |備考  |
-|:--|:--|
-| git               | githubライブラリ          |
-| gittext           | gitインストールに必要     |
+* 1.環境変数を変更します。  
+
+```text
+プロファイルをviエディタで開く
+$ vi .bash_profile
+
+export PATH    に上書きする
+
+export PATH=/usr/bin:${HOME}/opt/curl/bin:${HOME}/opt/git/bin:${HOME}/opt/gettext/bin:${HOME}/opt/ssl/bin:${HOME}/opt/python3/bin
+
+export CFLAGS=-fPIC
+export LD_LIBRARY_PATH=${HOME}/opt/ssl/lib64/
+
+:wq  ←保存・終了コマンド
+
+プロファイル再読み込み
+$ source .bash_profile
+
+```
+
+* 2.ディレクトリを作成します。  
+
+```text
+mkdirで作成していく
+$ mkdir -p ~/opt/curl
+$ mkdir -p ~/opt/git
+$ mkdir -p ~/opt/gettext
+$ mkdir -p ~/opt/ssl
+$ mkdir -p ~/opt/python3
+$ mkdir ~/_tmp
+
+```
+
+* 3.作業フォルダに移動し、opensslをインストールします。gitのインストールに必要です。  
+  wgetでダウンロードするバージョンは以下で確認してください。  
+  参考記事だと1.1.1で紹介されてますが、サポートされてないので最新を使います。  
+  [openssl](http://www.openssl.org/source/)  
+  
+
+```text
+作業フォルダに移動
+$ cd ~/_tmp
+
+ダウンロード
+$ wget [opensslのリンク]
+$ tar xvfz [アーカイブ名]
+$ cd [アーカイブ名]
+
+v3.2.0の場合
+$ wget https://www.openssl.org/source/openssl-3.2.0.tar.gz
+$ tar xvfz openssl-3.2.0.tar.gz
+$ cd openssl-3.2.0
+
+ビルド＆インストール
+$ ./config shared --prefix=${HOME}/opt/ssl --openssldir=${HOME}/opt/ssl
 
 
 
-| Homebrew               | Linuxバージョン管理ライブラリ          |
-
-> **補足**  
-> git系のライブラリは元々入ってるものではHomebrewのインストール時にエラーがでるため、  
-> 手間でもインストールが必要です。  
+$ ./config shared --prefix=${HOME}/opt/ssl --openssldir=${HOME}/opt/ssl '-Wl,-rpath,$(LIBRPATH)'
 
 
-ユーザ→webサーバ→cgi(FastCGI)→python→MySQL
-で、python→Flask→webサーバ→ユーザ
+$ make
+$ make install
+$ cd ~
+
+opensslのエイリアス変更（pythonの切り替え）
+$ alias openssl='${HOME}/opt/ssl/bin/openssl'
+
+インストールの正常確認
+$ openssl version
+OpenSSL 3.2.0
+
+$ which openssl
+~/opt/ssl/bin/openssl
+```
+
+**もしエラーがでたら？**  
+sslのバージョンによっては使用するライブラリが異なるため、ライブラリパスが見えない場合があります。  
+その場合、ライブラリパスを通してください。  
+
+```text
+ライブラリパスの確認
+$ find ~/opt -name libssl.so.3
+/opt/ssl/lib64/libssl.so.3
+
+ライブラリの依存関係の確認
+$ ldd ~/opt/ssl/bin/openssl
+
+ホームパスの確認
+$ echo $HOME
+[ホームパス] ルートであればOK
+
+プロファイルをviエディタで開く
+$ vi .bash_profile
+
+export LD_LIBRARY_PATH=${HOME}/opt/ssl/lib64/
+
+:wq  ←保存・終了コマンド
+
+プロファイルを読み込む
+$ source ~/.bash_profile
+
+$ openssl version
+OpenSSL 3.2.0
+```
+  
+
+* 4.作業フォルダに移動し、curlをインストールします。gitのインストールに必要です。  
+  wgetでダウンロードするバージョンは以下で確認してください。  
+  参考記事だと7.65.3で紹介されてます。  
+  v7系でないとHomebrewから認識しないみたいです。この手順ではHomebrewで推奨しているv7.41.0で記載します。  
+  [curl](https://curl.haxx.se/download/)  
+  
+
+```text
+作業フォルダに移動
+$ cd ~/_tmp
+
+ダウンロード
+$ wget [curlのリンク]
+$ tar xvfz [アーカイブ名]
+$ cd [アーカイブ名]
+
+v8.5.0の場合
+$ wget https://curl.se/download/curl-8.5.0.tar.gz
+$ tar xvfz curl-8.5.0.tar.gz
+$ cd curl-8.5.0
+
+ビルド＆インストール
+$ ./configure --with-openssl=${HOME}/opt/ssl --enable-libcurl-option --prefix=${HOME}/opt/curl --enable-shared
+$ make
+$ make install
+
+ライブラリ libssl、libcrypto の設定
+$ ls ~/opt/ssl/lib64
+cmake      libcrypto.a   libcrypto.so.3  libssl.so    ossl-modules
+engines-3  libcrypto.so  libssl.a        libssl.so.3  pkgconfig
+
+$ pushd ~/opt/curl/lib
+$ ln -s ../../ssl/lib/libssl.so.3 libssl.so.3
+$ ln -s ../../ssl/lib/libcrypto.so.3 libcrypto.so.3
+
+$ ls
+libcrypto.so.3  libcurl.la  libcurl.so.4      libcurl.so.4.8.0  pkgconfig
+libcurl.a       libcurl.so  libcurl.so.4.3.0  libssl.so.3
+
+$ popd
+$ cd ~
+
+インストールの正常確認
+Protocolにhttpsが含まれることを確認する
+$ curl -V
+curl 8.5.0 (x86_64-pc-linux-gnu) libcurl/8.5.0 OpenSSL/3.2.0 zlib/1.2.7
+Release-Date: 2023-12-06
+Protocols: dict file ftp ftps gopher gophers http https imap imaps mqtt pop3 pop3s rtsp smb smbs smtp smtps telnet tftp
+Features: alt-svc AsynchDNS HSTS HTTPS-proxy Largefile libz NTLM SSL threadsafe TLS-SRP UnixSockets
+
+$ which curl
+~/opt/ssl/bin/curl
+```
+  
+
+* 5.作業フォルダに移動し、gittextをインストールします。gitのインストールに必要です。  
+  wgetでダウンロードするバージョンは以下で確認してください。  
+  参考記事だと0.21で紹介されてます。  
+  [gittext](https://ftp.gnu.org/pub/gnu/gettext/)  
+  
+
+```text
+作業フォルダに移動
+$ cd ~/_tmp
+
+ダウンロード
+$ wget [gittextのリンク]
+$ tar xvfz [アーカイブ名]
+$ cd [アーカイブ名]
+
+v0.22.4の場合
+$ wget https://ftp.gnu.org/pub/gnu/gettext/gettext-0.22.4.tar.gz
+$ tar xvfz gettext-0.22.4.tar.gz
+$ cd gettext-0.22.4
+
+ビルド＆インストール
+$ ./configure --prefix=${HOME}/opt/gettext
+$ make
+$ make install
+```
+  
+
+* 6.作業フォルダに移動し、gitをインストールします。  
+  wgetでダウンロードするバージョンは以下で確認してください。  
+  参考記事だと2.17.0で紹介されてます。  
+  [git](https://mirrors.edge.kernel.org/pub/software/scm/git/)  
+  
+
+```text
+作業フォルダに移動
+$ cd ~/_tmp
+
+ダウンロード
+$ wget [gitのリンク]
+$ tar xvfz [アーカイブ名]
+$ cd [アーカイブ名]
+
+v2.43.0の場合
+$ wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.43.0.tar.gz
+$ tar xvfz git-2.43.0.tar.gz
+$ cd git-2.43.0
+
+ビルド＆インストール
+$ ./configure --prefix=${HOME}/opt/git --with-openssl=${HOME}/opt/ssl --with-curl=${HOME}/opt/curl
+$ make
+$ make install
+$ cd ~
+
+インストールの正常確認
+
+$ git --version
+git version 2.43.0
+
+$ which git
+~/opt/git/bin/git
+
+$ cd ~
+```
+
+* 7.作業フォルダを削除します。  
+
+```text
+削除コマンド
+$ rm -rf ~/_tmp
+```
+  
+
+* 8.python3をインストールします。  
+  wgetでダウンロードするバージョンは以下で確認してください。  
+  [python3](https://www.python.org/downloads/source/)  
+  
+
+```text
+作業フォルダに移動
+$ cd ~/_tmp
+
+ダウンロード
+$ wget [python3のリンク]
+$ tar xvfz [アーカイブ名]
+$ cd [アーカイブ名]
+
+v3.12.1の場合
+$ wget https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tar.xz
+$ tar xJf Python-3.12.1.tar.xz
+
+opensslライブラリへのシンボリックリンクを作成する
+$ mkdir -p Modules/openssl
+$ pushd Modules
+$ ln -s ~/opt/ssl/include/openssl/evp.h evp.h
+
+$ mkdir -p Include/openssl
+$ pushd Include/openssl
+$ ln -s ~/opt/ssl/include/openssl/evp.h evp.h
 
 
 
+$ popd
+$ cd ~
+
+
+
+
+ビルド＆インストール
+$ ./configure --prefix=${HOME}/opt/python3
+
+
+$ ./configure --with-openssl=${HOME}/opt/ssl --prefix=${HOME}/opt/python3
+
+$ ./configure --enable-optimizations --with-openssl=${HOME}/opt/ssl --with-openssl-rpath=auto --prefix=${HOME}/opt/python3 OPENSSL_LDFLAGS=${HOME}/_tmp/openssl-3.2.0 OPENSSL_INCLUDES=${HOME}/_tmp/openssl-3.2.0/include OPENSSL_LIBS=${HOME}/opt/ssl
+
+
+OPENSSL_LDFLAGS=${HOME}/_tmp/openssl-3.2.0
+OPENSSL_INCLUDES=${HOME}/_tmp/openssl-3.2.0/include
+OPENSSL_LIBS=${HOME}/opt/ssl/lib64
+
+
+
+OPENSSL_LDFLAGS=${HOME}/opt/ssl
+OPENSSL_INCLUDES=${HOME}/opt/ssl/include
+OPENSSL_LIBS=${HOME}/opt/ssl/lib64
+
+
+
+./configure --enable-optimizations --with-openssl-rpath=no --with-openssl=$HOME/openssl-3.0.7 OPENSSL_LDFLAGS=-L$HOME/openssl-3.0.7 OPENSSL_LIBS=-l$HOME/openssl-3.0.7/ssl OPENSSL_INCLUDES=-I$HOME/openssl-3.0.7
+
+
+
+
+
+
+
+$ make
+$ make install
+
+python3のエイリアス変更（pythonの切り替え）
+$ alias python3='${HOME}/opt/python3/bin/python3'
+$ alias pip3='${HOME}/opt/python3/bin/pip3'
+
+インストールの正常確認
+$ python3 -V
+Python 3.12.1
+```
+
+
+
+$ alias openssl='${HOME}/opt/ssl/bin/openssl'
+
+
+
+vi Mosules/Setup
+
+_ssl _ssl.c
+
+
+
+```text
+# OpenSSL bindings
+#_ssl _ssl.c $(OPENSSL_INCLUDES) $(OPENSSL_LDFLAGS) $(OPENSSL_LIBS)
+#_hashlib _hashopenssl.c $(OPENSSL_INCLUDES) $(OPENSSL_LDFLAGS) -lcrypto
+
+### OPENSSL_ANK=/home/koreislabo/_tmp/openssl-3.2.0
+### OPENSSL_ANK=/home/koreislabo/_tmp/openssl-1.1.1w
+
+# To statically link OpenSSL:
+_ssl _ssl.c $(OPENSSL_INCLUDES) $(OPENSSL_LDFLAGS) \
+### _ssl _ssl.c $(OPENSSL_ANK) $(OPENSSL_ANK)/include \
+    -l:libssl.a -Wl,--exclude-libs,libssl.a \
+    -l:libcrypto.a -Wl,--exclude-libs,libcrypto.a
+_hashlib _hashopenssl.c $(OPENSSL_INCLUDES) $(OPENSSL_LDFLAGS) \
+### _hashlib _hashopenssl.c $(OPENSSL_ANK) $ $(OPENSSL_ANK)/include \
+    -l:libcrypto.a -Wl,--exclude-libs,libcrypto.a
+
+
+```
+
+
+
+Modules/_hashlib$(EXT_SUFFIX):  Modules/_hashopenssl.o; $(BLDSHARED)  Modules/_hashopenssl.o  $(OPENSSL_LDFLAGS) -lcrypto  -o Modules/_hashlib$(EXT_SUFFIX)
+
+
+dule.o  Modules/errnomodule.o  Modules/_io/_iomodule.o Modules/_io/iobase.o Modules/_io/fileio.o Modules/_io/bytesio.o Modules/_io/bufferedio.o Modules/_io/textio.o Modules/_io/stringio.o  Modules/itertoolsmodule.o  Modules/_sre/sre.o  Modules/_threadmodule.o  Modules/timemodule.o  Modules/_typingmodule.o  Modules/_weakref.o  Modules/_abc.o  Modules/_functoolsmodule.o  Modules/_localemodule.o  Modules/_operator.o  Modules/_stat.o  Modules/symtablemodule.o  Modules/pwdmodule.o  Modules/_ssl.o  Modules/_hashopenssl.o -lpthread -ldl  -lutil                            -lcrypto  -lm
+/usr/bin/ld: -lcrypto が見つかりません
+collect2: エラー: ld はステータス 1 で終了しました
+make[2]: *** [Programs/_freeze_module] エラー 1
+
+
+
+
+
+
+
+[koreislabo@sv14429 Python-3.12.1]$ ls ~/_tmp/openssl-1.1.1w
+ACKNOWLEDGEMENTS  LICENSE        NOTES.WIN      config.com     fuzz              libssl.map     ssl
+AUTHORS           Makefile       README         configdata.pm  include           libssl.pc      test
+CHANGES           NEWS           README.ENGINE  crypto         libcrypto.a       libssl.so      tools
+CONTRIBUTING      NOTES.ANDROID  README.FIPS    demos          libcrypto.map     libssl.so.1.1  util
+Configurations    NOTES.DJGPP    VMS            doc            libcrypto.pc      ms             wycheproof
+Configure         NOTES.PERL     apps           e_os.h         libcrypto.so      openssl.pc
+FAQ               NOTES.UNIX     build.info     engines        libcrypto.so.1.1  os-dep
+INSTALL           NOTES.VMS      config         external       libssl.a          pod2htmd.tmp
+
+
+
+checking for include/openssl/ssl.h in /home/koreislabo/opt/ssl... yes
+checking whether compiling and linking against OpenSSL works... no
+checking for --with-openssl-rpath...
+checking whether OpenSSL provides required ssl module APIs... no
+checking whether OpenSSL provides required hashlib module APIs... no
+
+
+
+MODULE__CRYPT_LDFLAGS=-lcrypt
+
+
+/usr/bin/ls
+
+
+
+  
+> [参考記事](https://yururi-do.com/install-python-pipenv-with-homebrew-on-xserver/)  
+  
 
 
 
