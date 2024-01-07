@@ -145,35 +145,53 @@ AI可もみ  大型の兵器や要塞もほぼ自動化されていった結果
 <h1 id="aSystemOverview">システム概要 / System overview</h1>  
 「Galaxy Fleet」はブラウザで動作する艦隊ストラテジゲームです。  
 ブラウザ部はHTML、Javascript、CSSで記述し、nginxなどwebサーバアプリで出力の補助をおこないます。  
-ゲームの内部データ、セーブデータの加工、出力はメンテしやすいように別途処理用のサーバ（Linux系）を用意します。そちらのソースはPythonで記述し、実行の補助としてuwsgiを使用します。すべてSSL通信に対応します。なお、レンタルサーバによってはゲーム利用を禁止している会社さんもあるので、処理サーバでの処理はゲームの基礎データの格納と出力のみを負荷がかからない範囲でおこなうようにします。ゲームの実処理や判定はブラウザでおこなうようにします。  
+ゲームの内部データ、セーブデータの加工、出力はメンテしやすいように別途処理用のサーバ（Linux系）を用意します。  
+サーバはHomebrewという仮想環境を用意し、Pythonで記述したソースを実行します。また、実行の補助としてfasuCGIとも使用します。ユーザとサーバ間の通信はSSL通信に対応します。  
+なお、レンタルサーバによってはゲーム利用を禁止している会社さんもありますが、処理サーバでの処理はゲームの基礎データの格納と出力のみを負荷がかからない範囲でおこなうようにしてますので問題はないと思います（個人で確認はしてください）。  
+ゲームの実処理や判定はブラウザでおこなうようにしてます。  
   
 
-なお、当方は開発、運用で [X Server(レンタルサーバ)](https://www.xserver.ne.jp/) を利用してます。  
+当方は開発、運用で [X Server(レンタルサーバ)](https://www.xserver.ne.jp/) を利用してます。  
 本仕様はX Serverのレンタルサーバを前提に記載しております。  
-  
+サーバはweb部とデータ部の２つ用意したほうがいいですが、サブドメイン化で運用する前提とします。  
+
 
 ## システム要件（最低限）
   
 |項目 |条件 |備考 |
 |:--|:--|:--|
-| OS                | Linux            |    |
-| python            | python3          |    |
-| Webサーバ         | nginx            |    |
-| DBサーバ          | MySQL            |    |
-| python実行        | fastCGI          | web→python実行アプリ  |
-| ターミナルソフト  | Teraterm         | サーバ管理アプリ       |
-| githubアプリ      | git              | github制御アプリ       |
-| 拡張ライブラリ    | Homebrew         | 管理アプリ             |
-
-
-| エンコード        | utf-8            |    |
-| その他            | githubアカウント |    |
+| OS                  | Linux            |    |
+| python              | python3          |    |
+| Webサーバ           | nginx            |    |
+| DBサーバ            | MySQL            |    |
+| python実行          | fastCGI          | web→python実行アプリ  |
+| ターミナルソフト    | Teraterm         | サーバ管理アプリ       |
+| githubアプリ        | git、gittext     |    |
+| sslアプリ           | openssl          | Homebrewで使用   |
+| データ転送アプリ    | curl             | Homebrewで使用   |
+| 仮想環境アプリ      | Homebrew         |    |
+| エンコード          | utf-8            |    |
+| その他              | githubアカウント |    |
 
 * githubアカウントは持ってる前提で記載します。  
 * 以上の前提が異なると一部機能が誤動作の可能性があります。  
 * 他のソフトウェアでも要件があえば使用できると思いますが、動作保証はいたしません。  
   また本書の手順と異なる場合があります。ご留意ください。  
   
+
+## クライアント～サーバ アクセスイメージ
+  
+
+```text
+**データ入力**  
+[ユーザ] → [webサーバ]→[cgi(FastCGI)]→[pythonプログラム]→[MySQL]  
+  
+**データ出力**  
+[pythonプログラム]→[Flask]→[webサーバ]→[ユーザ]  
+  
+```
+  
+
 
 ## Galaxy Fleetのリポジトリ
   
@@ -190,6 +208,12 @@ Galaxy Fleetのリポジトリは３つに分かれています。
   Galaxy Fleetのサーバソフトウェア。  
   主にデータベースの制御をおこないます。  
   
+
+
+
+
+
+
 
 
 
@@ -354,11 +378,11 @@ Galaxy Fleetのリポジトリは３つに分かれています。
 <h1 id="aAcknowledgment">謝辞 / Acknowledgment</h1>  
 **※敬称略**  
 * [プリ画像](https://prcm.jp/)  
-  壁紙(星空)
+  壁紙(星空)  
   
 
 * [オニコス(株)](https://www.onicos.co.jp/)  
-  暗号化スクリプト
+  暗号化スクリプト  
   
 
 
@@ -367,9 +391,12 @@ Galaxy Fleetのリポジトリは３つに分かれています。
 
 <h1 id="aMaterial">参考資料 / Reference material</h1>  
 **※敬称略**  
-* [アニヲタWiki(仮)](https://w.atwiki.jp/aniwotawiki/pages/39066.html)  
-  
+* [ゆるりーど](https://yururi-do.com/)  
+  環境構築の参考。  
 
+* [アニヲタWiki(仮)](https://w.atwiki.jp/aniwotawiki/pages/39066.html)  
+  名称の参考。  
+  
 
 
 
