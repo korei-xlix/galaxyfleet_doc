@@ -496,13 +496,13 @@
   主に人員、資源の惑星間移動、惑星開拓や調査として利用されます。  
   
 
-* **<a id="aOfficialShip">[CSOF：公用船　Official Ship](civilunits/civilship.md)</a>**  
+* **<a id="aGovernmentShip">[CSGV：公用船　Government Ship](civilunits/civilship.md)</a>**  
   政府機関、官公庁、戦闘監視委員会が運用する艦船です。  
   連絡船、輸送船、調査船、監視船が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
   
 
-* **<a id="aGuardShip">[CSOF：警備船　Guard Ship](civilunits/civilship.md)</a>**  
+* **<a id="aGuardShip">[CSGU：警備船　Guard Ship](civilunits/civilship.md)</a>**  
   星系警察、医療機関、消防、災害対応関係の機関会が運用する艦船です。  
   警備船、救急船、消防船、巡視船が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
@@ -519,7 +519,7 @@
   旅客機、自家用機、探査機、輸送機が該当します。  
   
 
-* **<a id="aOfficialPlane">[CUOP：公用機　Official Plane](civilunits/civilplane.md)</a>**  
+* **<a id="aGovernmentPlane">[CUGP：公用機　Government Plane](civilunits/civilplane.md)</a>**  
   政府、官公庁、戦時監視委員会が運用する非武装の航空機です。  
   連絡機、輸送機、探査機、監視機が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
@@ -530,7 +530,7 @@
   作業ロボット、自家用ロボット、探査ロボット、警備ロボットが該当します。  
   
 
-* **<a id="aOfficialRobot">[CUOR：公用ロボット　Official Robot](civilunits/civilrobot.md)</a>**  
+* **<a id="aGovernmentRobot">[CUGR：公用ロボット　Government Robot](civilunits/civilrobot.md)</a>**  
   政府、官公庁、戦時監視委員会が運用する非武装の人型ロボットです。  
   作業ロボット、探査ロボット、要人用ロボット、戦時監視ロボットが該当します。  
   この付近での戦闘は厳重に禁止されてます。  
@@ -541,7 +541,7 @@
   連絡艇、自家用舟艇、探査艇、輸送艇が該当します。  
   
 
-* **<a id="aOfficialBoat">[CUOB：公用舟艇 　Official Boat](civilunits/civilboat.md)</a>**  
+* **<a id="aGovernmentBoat">[CUGB：公用舟艇 　Government Boat](civilunits/civilboat.md)</a>**  
   政府、官公庁、戦時監視委員会が運用する非武装の舟艇 です。  
   連絡艇、輸送艇、探査艇、監視艇が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
@@ -552,7 +552,7 @@
   作業車、自家用車、探査車、輸送車が該当します。  
   
 
-* **<a id="aOfficialCar">[CUOC：公用車両 　Official Car](civilunits/civilcar.md)</a>**  
+* **<a id="aGovernmentCar">[CUGC：公用車両 　Government Car](civilunits/civilcar.md)</a>**  
   政府、官公庁、戦時監視委員会が運用する非武装の車両です。  
   連絡車、輸送車、探査車、監視車が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
@@ -563,7 +563,7 @@
   通信衛星、自家用衛星、探査衛星、警備衛星が該当します。  
   
 
-* **<a id="aOfficialSatellite">[CUOS：公用衛星 　Official Satellite](civilunits/civilsatellite.md)</a>**  
+* **<a id="aGovernmentSatellite">[CUGS：公用衛星 　Government Satellite](civilunits/civilsatellite.md)</a>**  
   政府、官公庁、戦時監視委員会が運用する人工衛星です。  
   通信衛星、探査衛星、中継衛星、監視衛星が該当します。  
   
@@ -1579,15 +1579,15 @@
 * **CSCO-MIN：企業採掘船**  
 
 
-<h2>CSOF：公用船 / Official Ship</h2>  
+<h2>CSGV：公用船 / Government Ship</h2>  
 
-* **CSOF-FER：公用連絡船**  
+* **CSGV-FER：公用連絡船**  
 
-* **CSOF-CAG：公用輸送船**  
+* **CSGV-CAG：公用輸送船**  
 
-* **CSOF-EXP：公用探査船**  
+* **CSGV-EXP：公用探査船**  
 
-* **CSOF-COC：戦時監視船**  
+* **CSGV-COC：戦時監視船**  
 
 
 <h2>CSGU：警備船 / Guard Ship</h2>  
@@ -1616,15 +1616,15 @@
 * **CUCP-CAG：民間輸送機**  
 
 
-<h2>CUOP：公用機 / Official Plane</h2>  
+<h2>CUGP：公用機 / Government Plane</h2>  
 
-* **CUOP-FER：公用連絡機**  
+* **CUGP-FER：公用連絡機**  
 
-* **CUOP-CAG：公用輸送機**  
+* **CUGP-CAG：公用輸送機**  
 
-* **CUOP-EXP：公用探査機**  
+* **CUGP-EXP：公用探査機**  
 
-* **CUOP-COC：戦時監視機**  
+* **CUGP-COC：戦時監視機**  
 
 
 <h2>CUCR：民間ロボット / Civil Robot</h2>  
@@ -1641,15 +1641,15 @@
 * **CUCR-GUD：警備ロボット**  
 
 
-<h2>CUCR：公用ロボット / Official Robot</h2>  
+<h2>CUGR：公用ロボット / Government Robot</h2>  
 
-* **CUOR-ENG：公用作業ロボット**  
+* **CUGR-ENG：公用作業ロボット**  
 
-* **CUOR-EXP：公用探査ロボット**  
+* **CUGR-EXP：公用探査ロボット**  
 
-* **CUOR-VIP：要人用ロボット**  
+* **CUGR-VIP：要人用ロボット**  
 
-* **CUOR-COC：戦時監視ロボット**  
+* **CUGR-COC：戦時監視ロボット**  
 
 
 
@@ -1667,15 +1667,15 @@
 * **CUCB-CAG：民間輸送艇**  
 
 
-<h2>CUOB：公用舟艇  / Official Boat</h2>  
+<h2>CUGB：公用舟艇  / Government Boat</h2>  
 
-* **CUOB-FER：公用連絡艇**  
+* **CUGB-FER：公用連絡艇**  
 
-* **CUOB-CAG：公用輸送艇**  
+* **CUGB-CAG：公用輸送艇**  
 
-* **CUOB-EXP：公用探査艇**  
+* **CUGB-EXP：公用探査艇**  
 
-* **CUOB-COC：戦時監視艇**  
+* **CUGB-COC：戦時監視艇**  
 
 
 
@@ -1693,15 +1693,15 @@
 * **CUCC-CAG：民間輸送車**  
 
 
-<h2>CUOC：公用車両  / Official Car</h2>  
+<h2>CUGC：公用車両  / Government Car</h2>  
 
-* **CUOC-FER：公用連絡車**  
+* **CUGC-FER：公用連絡車**  
 
-* **CUOC-CAG：公用輸送車**  
+* **CUGC-CAG：公用輸送車**  
 
-* **CUOC-EXP：公用探査車**  
+* **CUGC-EXP：公用探査車**  
 
-* **CUOC-COC：戦時監視車**  
+* **CUGC-COC：戦時監視車**  
 
 
 
@@ -1719,15 +1719,15 @@
 * **CUCS-GUD：警備衛星**  
 
 
-<h2>CUOS：公用衛星  / Official Satellite</h2>  
+<h2>CUGS：公用衛星  / Government Satellite</h2>  
 
-* **CUOS-CMN：公用通信衛星**  
+* **CUGS-CMN：公用通信衛星**  
 
-* **CUOS-EXP：公用探査衛星**  
+* **CUGS-EXP：公用探査衛星**  
 
-* **CUOS-REL：公用中継衛星**  
+* **CUGS-REL：公用中継衛星**  
 
-* **CUOS-COC：戦時監視衛星**  
+* **CUGS-COC：戦時監視衛星**  
 
 
 <h2>CBSP：宇宙施設  / Space Facility</h2>  

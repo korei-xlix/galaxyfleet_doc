@@ -30,11 +30,11 @@
     * [CUCC-EXP：民間探査車](#aCivilExplorationCar)
     * [CUCC-CAG：民間輸送車](#aCivilCargoCar)
 
-  * [兵器分類：公用車両](../readme.md#aOfficialBoat)
-    * [CUOC-FER：公用連絡車](#aOfficialFerryCar)
-    * [CUOC-CAG：公用輸送車](#aOfficialCargoCar)
-    * [CUOC-EXP：公用探査車](#aOfficialExplorationCar)
-    * [CUOC-COC：戦時監視車](#aCombatOversightCommitteeCar)
+  * [兵器分類：公用車両](../readme.md#aGovernmentBoat)
+    * [CUGC-FER：公用連絡車](#aGovernmentFerryCar)
+    * [CUGC-CAG：公用輸送車](#aGovernmentCargoCar)
+    * [CUGC-EXP：公用探査車](#aGovernmentExplorationCar)
+    * [CUGC-COC：戦時監視車](#aCombatOversightCommitteeCar)
   
 
 
@@ -125,7 +125,7 @@
 
 
 
-<h1 id="aOfficialFerryCar">CUOC-FER：公用連絡車 / Official Ferry Car</h1>  
+<h1 id="aGovernmentFerryCar">CUGC-FER：公用連絡車 / Government Ferry Car</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -146,7 +146,7 @@
 
 
 
-<h1 id="aOfficialCargoCar">CUOC-CAG：公用輸送車 / Official Cargo Car</h1>  
+<h1 id="aGovernmentCargoCar">CUGC-CAG：公用輸送車 / Government Cargo Car</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -167,7 +167,7 @@
 
 
 
-<h1 id="aOfficialExplorationCar">CUOC-EXP：公用探査車 / Official Exploration Car</h1>  
+<h1 id="aGovernmentExplorationCar">CUGC-EXP：公用探査車 / Government Exploration Car</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -188,7 +188,7 @@
 
 
 
-<h1 id="aCombatOversightCommitteeCar">CUOC-COC：戦時監視車 / Combat Oversight Committee Car</h1>  
+<h1 id="aCombatOversightCommitteeCar">CUGC-COC：戦時監視車 / Combat Oversight Committee Car</h1>  
   [目次へ戻る](#aMokuji)  
   
 

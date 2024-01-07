@@ -30,11 +30,11 @@
     * [CUCR-EXP：民間探査ロボット](#aCivilExplorationRobot)
     * [CUCR-GUD：警備ロボット](#aGuardRobot)
 
-  * [兵器分類：公用ロボット](../readme.md#aOfficialRobot)
-    * [CUOR-ENG：公用作業ロボット](#aOfficialWorkRobot)
-    * [CUOR-EXP：公用探査ロボット](#aOfficialExplorationRobot)
-    * [CUOR-VIP：要人用ロボット](#aVIPRobot)
-    * [CUOP-COC：戦時監視ロボット](#aCombatOversightCommitteeRobot)
+  * [兵器分類：公用ロボット](../readme.md#aGovernmentRobot)
+    * [CUGR-ENG：公用作業ロボット](#aGovernmentWorkRobot)
+    * [CUGR-EXP：公用探査ロボット](#aGovernmentExplorationRobot)
+    * [CUGR-VIP：要人用ロボット](#aVIPRobot)
+    * [CUGR-COC：戦時監視ロボット](#aCombatOversightCommitteeRobot)
   
 
 
@@ -125,7 +125,7 @@
 
 
 
-<h1 id="aOfficialWorkRobot">CUOR-ENG：公用作業ロボット / Official Work Robot</h1>  
+<h1 id="aGovernmentWorkRobot">CUGR-ENG：公用作業ロボット / Government Work Robot</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -146,7 +146,7 @@
 
 
 
-<h1 id="aOfficialExplorationRobot">CUOR-EXP：公用探査ロボット / Official Exploration Robot</h1>  
+<h1 id="aGovernmentExplorationRobot">CUGR-EXP：公用探査ロボット / Government Exploration Robot</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -167,7 +167,7 @@
 
 
 
-<h1 id="aVIPRobot">CUOR-VIP：要人用ロボット / VIP Robot</h1>  
+<h1 id="aVIPRobot">CUGR-VIP：要人用ロボット / VIP Robot</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -188,7 +188,7 @@
 
 
 
-<h1 id="aCombatOversightCommitteeRobot">CUOR-COC：戦時監視ロボット / Combat Oversight Committee Robot</h1>  
+<h1 id="aCombatOversightCommitteeRobot">CUGR-COC：戦時監視ロボット / Combat Oversight Committee Robot</h1>  
   [目次へ戻る](#aMokuji)  
   
 

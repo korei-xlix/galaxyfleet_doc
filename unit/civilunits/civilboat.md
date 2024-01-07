@@ -30,11 +30,11 @@
     * [CUCB-EXP：民間探査艇](#aCivilExplorationBoat)
     * [CUCB-CAG：民間輸送艇](#aCivilCargoBoat)
 
-  * [兵器分類：公用舟艇](../readme.md#aOfficialBoat)
-    * [CUOB-FER：公用連絡艇](#aOfficialFerryBoat)
-    * [CUOB-CAG：公用輸送艇](#aOfficialCargoBoat)
-    * [CUOB-EXP：公用探査艇](#aOfficialExplorationBoat)
-    * [CUOB-COC：戦時監視艇](#aCombatOversightCommitteeBoat)
+  * [兵器分類：公用舟艇](../readme.md#aGovernmentBoat)
+    * [CUGB-FER：公用連絡艇](#aGovernmentFerryBoat)
+    * [CUGB-CAG：公用輸送艇](#aGovernmentCargoBoat)
+    * [CUGB-EXP：公用探査艇](#aGovernmentExplorationBoat)
+    * [CUGB-COC：戦時監視艇](#aCombatOversightCommitteeBoat)
   
 
 
@@ -125,7 +125,7 @@
 
 
 
-<h1 id="aOfficialFerryBoat">CUOP-FER：公用連絡機 / Official Ferry Boat</h1>  
+<h1 id="aGovernmentFerryBoat">CUGB-FER：公用連絡艇 / Government Ferry Boat</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -146,7 +146,7 @@
 
 
 
-<h1 id="aOfficialCargoBoat">CUOB-CAG：公用輸送艇 / Official Cargo Boat</h1>  
+<h1 id="aGovernmentCargoBoat">CUGB-CAG：公用輸送艇 / Government Cargo Boat</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -167,7 +167,7 @@
 
 
 
-<h1 id="aOfficialExplorationBoat">CUOB-EXP：公用探査艇 / Official Exploration Boat</h1>  
+<h1 id="aGovernmentExplorationBoat">CUGB-EXP：公用探査艇 / Government Exploration Boat</h1>  
   [目次へ戻る](#aMokuji)  
   
 
@@ -188,7 +188,7 @@
 
 
 
-<h1 id="aCombatOversightCommitteeBoat">CUOB-COC：戦時監視艇 / Combat Oversight Committee Boat</h1>  
+<h1 id="aCombatOversightCommitteeBoat">CUGB-COC：戦時監視艇 / Combat Oversight Committee Boat</h1>  
   [目次へ戻る](#aMokuji)  
   
 
