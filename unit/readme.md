@@ -282,14 +282,16 @@
   　　主な武器：機関砲、対空機関砲  
   
 
-* **MUMI：機動歩兵　Movable Infantry**  
+* **<a id="aMovableInfantry">[MUMI：機動歩兵　Movable Infantry](infantrys/movableinfantry.md)</a>**  
   人型のロボットです。航空戦以外の用途でも運用できます。  
   航空機につよいです。  
+  　　主な武器：機関砲、手投げ弾、接近戦用武器、対空機関砲  
   
 
-* **MUVI：万能歩兵　Versatile Infantry**  
+* **<a id="aVersatileInfantry">[MUVI：万能歩兵　Versatile Infantry](infantrys/versatileinfantry.md)</a>**  
   最高性能の機動歩兵です。大気圏内でも活動できます。  
   陸戦兵器によわいです。  
+  　　主な武器：機関砲、手投げ弾、接近戦用武器、対空機関砲  
   
 
 * **<a id="aMountedBoat">[MUMB：装載艇　Mounted Boat](planes/mountedboat.md)</a>**  
@@ -323,25 +325,30 @@
 * **<a id="aMainTank">[LUMT：主力戦車　Main Tank](cars/maintank.md)</a>**  
   地上や要塞など極局地でのみ運用できる戦闘車両です。  
   主に戦車、車両、歩兵を攻撃するのに向いてます。  
+  耐久性も高く、防御力が高いです。  
   陸戦攻撃機によわいです。  
+  　　主な武器：小型主砲（小型野戦砲）、機関砲  
   
 
-* **LUST：支援戦車 / Support Tank**  
-  主力戦車を支援したり、その他の支援機能がついている戦車です。  
-  主に戦車、車両を攻撃するのにも向いてます。  
-  陸戦攻撃機によわいです。  
+* **<a id="aSupportTank">[LUST：支援戦車 / Support Tank](cars/supporttank.md)</a>**  
+  主力戦車から歩兵を守ったり、攻撃の支援をする戦車です。  
+  主に戦車、装甲車両、歩兵を攻撃するのに向いてます。  
+  耐久性、防御力は主力戦車より低いですが、歩兵からの攻撃には耐えやすいです。  
+  主力戦車、陸戦攻撃機によわいです。  
   
 
-* **LUPT：自走戦車 / Self Propelled Tank**  
+* **<a id="aSelfPropelledTank">[LUPT：自走戦車 / Self Propelled Tank](cars/selfpropelledtank.md)</a>**  
   戦車の台座に様々な火砲を搭載する火力戦車です。  
-  長距離から戦車、車両、歩兵、建物を攻撃するのに向いてます。  
+  載せる砲台によって、対地、対空に分類が分かれます。  
+  耐久性、防御力は低いですが、歩兵からの攻撃にはやや耐えやすいです。  
   攻撃にはよわいです。  
   
 
-* **LUAV：装甲車両 / Armoed Vehicle**  
+* **<a id="aArmoedVehicle">[LUAV：装甲車両 / Armoed Vehicle](cars/armoedvehicle.md)</a>**  
   装甲で強化した戦闘支援用の車両です。  
-  歩兵を攻撃するのにも向いてますが、支援機能もついてます。  
-  戦車、陸戦攻撃機によわいです。  
+  主に、支援戦車、歩兵を攻撃するのに向いてます。  
+  耐久性、防御力は支援戦車より高いすが。  
+  支援戦車、陸戦攻撃機によわいです。  
   
 
 * **<a id="aMobilityVehicle">[LUMV：機動車両 / Mobility Vehicle](cars/maintank.md)</a>**  
@@ -352,12 +359,7 @@
   　　主な武器：機関砲  
   
 
-* **LUSV：支援車両　Support Vehicle**  
-  地上や要塞など極局地での作業支援をおこなう車両です。  
-  攻撃にはよわいです。  
-  
-
-* **LUTR：被牽引車　Trailer**  
+* **<a id="aTrailer">[LUTR：牽引車両　Trailer](cars/trailer.md)</a>**  
   地上や要塞など極局地でのみ運用できるトレーラーです。  
   荷台に砲や荷物を載せて運用し、牽引車両で牽引します。  
   攻撃にはよわいです。  
@@ -369,24 +371,36 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **DUDU：防衛兵器　Defense Unit**  
-  拠点防衛のための超巨大兵器です。  
-  １基で数個艦隊を凌駕する戦力を持ちます。  
-  ゲームではボスキャラ扱いです。陸戦歩兵によわいです。  
+* **<a id="aDefenseSystem">[DUSY：防衛システム　Defense System](defenseunits/defensesystem.md)</a>**  
+  拠点防衛のための超巨大システムです。  
+  ローカルマップの奥に設置され、ゲームではボスキャラ扱いです。  
+  陸戦兵器でしか攻撃できません。特に陸戦歩兵によわいです。  
   
 
-* **DUBT：砲台　Battery**  
+* **<a id="aGiantWepon">[DUGW：巨人兵器　Giant Wepon](defenseunits/giantwepon.md)</a>**  
+  拠点攻撃、防衛のための超巨大兵器です。  
+  １基で数個艦隊を凌駕する戦力を持ちます。ゲームではボスキャラ扱いです。  
+  外から攻撃して破壊することは非常に難しく、内部に陸戦兵器を送り込むしかないです。  
+  陸戦歩兵によわいです。  
+  
+
+* **<a id="aSpaceBattery">[DUST：宇宙砲台　Space Battery](defenseunits/spacebattery.md)</a>**  
+  拠点防衛のための武器を置く施設です。  
+  航空機、歩兵によわいです。  
+  
+
+* **<a id="aLandBattery">[DULT：野戦砲台　Land Battery](defenseunits/landbattery.md)</a>**  
   拠点防衛のための武器を置く施設です。  
   陸戦歩兵、陸戦攻撃機によわいです。  
   
 
-* **DUFU：浮遊兵器　Floating Unit**  
+* **<a id="aFloatingUnit">[DUFU：浮遊兵器　Floating Unit](defenseunits/floatingunit.md)</a>**  
   敷設艦で簡易的に設置できる兵器や陣地です。  
   宇宙空間でしか使えません。  
   攻撃に対しては脆弱です。  
   
 
-* **DUIU：設置兵器　Installed Unit**  
+* **<a id="aInstalledUnit">[DUIU：設置兵器　Installed Unit](defenseunits/installedunit.md)</a>**  
   陸地に簡易的に設置できる兵器や陣地です。  
   陸戦兵器の侵攻を妨害します。  
   工兵で設置できます。  
@@ -470,18 +484,27 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **<a id="aCivilShip">[CSSS：民間船　Civil Ship](civilunits/civilship.md)</a>**  
-  非武装の民間企業の定期便、プライベートシップ、超大型輸送船、超大型タンカーなどが該当します。  
-  民生品の運搬などをおこないます。  
+* **<a id="aPassengerShip">[CSPA：旅客船　Passenger Ship](civilunits/civilship.md)</a>**  
+  民間が運用する人員輸送、旅客が目的の艦船です。  
+  旅客船、連絡船、自家用船、個別営業船が該当します。  
+  主に人員の惑星間移動、旅行、定期船として利用されます。  
   
 
-* **CSPS：旅客船　Passenger Ship**  
-  非武装の客船、惑星開拓船、恒星間開拓船などが該当します。  
-  超大型のエンジンなどで恒星間、銀河間の移動に向いてます。  
+* **<a id="aCorporateShip">[CSCO：企業船　Corporate Ship](civilunits/civilship.md)</a>**  
+  民間企業が運用する艦船です。  
+  連絡船、輸送船、探査船、採掘船が該当します。  
+  主に人員、資源の惑星間移動、惑星開拓や調査として利用されます。  
   
 
-* **CSOS：公用船　Official Ship**  
-  政府機関、官公庁などのの輸送船、使節団の船、戦闘監視委員会の船などが該当します。  
+* **<a id="aOfficialShip">[CSOF：公用船　Official Ship](civilunits/civilship.md)</a>**  
+  政府機関、官公庁、戦闘監視委員会が運用する艦船です。  
+  連絡船、輸送船、調査船、監視船が該当します。  
+  この付近での戦闘は厳重に禁止されてます。  
+  
+
+* **<a id="aGuardShip">[CSOF：警備船　Guard Ship](civilunits/civilship.md)</a>**  
+  星系警察、医療機関、消防、災害対応関係の機関会が運用する艦船です。  
+  警備船、救急船、消防船、巡視船が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
   
 
@@ -491,32 +514,58 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **CUPL：民間航空機　Civil Plane**  
-  非武装の大型旅客機、プライベートジェットなどが該当します。  
+* **<a id="aCivilPlane">[CUCP：民間機　Civil Plane](civilunits/civilplane.md)</a>**  
+  民間が運用する非武装の航空機です。  
+  旅客機、自家用機、探査機、輸送機が該当します。  
   
 
-* **CURT：民間ロボット　Civil Robot**  
-  非武装の作業用ロボット、調査用ロボットなどが該当します。  
-  
-
-* **CUBT：民間舟艇　Civil Boat**  
-  非武装の舟艇です。  
-  短距離シャトル、連絡艇、調査艇などが該当します。  
-  
-
-* **CUCR：民間車両　Civil Car**  
-  非武装の車両です。  
-  送迎車、探査車、輸送車、工事用車両などが該当します。  
-  
-
-* **CUST：民間衛星　Civil Satellite**  
-  非武装の衛星です。  
-  気象衛星、通信衛星、探査衛星などが該当します。  
-  
-
-* **CUOC：公用車両　Official Car**  
-  政府機関、官公庁などの車両、戦闘監視委員会の車両などが該当します。  
+* **<a id="aOfficialPlane">[CUOP：公用機　Official Plane](civilunits/civilplane.md)</a>**  
+  政府、官公庁、戦時監視委員会が運用する非武装の航空機です。  
+  連絡機、輸送機、探査機、監視機が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
+  
+
+* **<a id="aCivilRobot">[CUCR：民間ロボット　Civil Robot](civilunits/civilrobot.md)</a>**  
+  民間が運用する非武装の人型ロボットです。  
+  作業ロボット、自家用ロボット、探査ロボット、警備ロボットが該当します。  
+  
+
+* **<a id="aOfficialRobot">[CUOR：公用ロボット　Official Robot](civilunits/civilrobot.md)</a>**  
+  政府、官公庁、戦時監視委員会が運用する非武装の人型ロボットです。  
+  作業ロボット、探査ロボット、要人用ロボット、戦時監視ロボットが該当します。  
+  この付近での戦闘は厳重に禁止されてます。  
+  
+
+* **<a id="aCivilBoat">[CUCB：民間舟艇　Civil Boat](civilunits/civilboat.md)</a>**  
+  民間が運用する非武装の舟艇 です。  
+  連絡艇、自家用舟艇、探査艇、輸送艇が該当します。  
+  
+
+* **<a id="aOfficialBoat">[CUOB：公用舟艇 　Official Boat](civilunits/civilboat.md)</a>**  
+  政府、官公庁、戦時監視委員会が運用する非武装の舟艇 です。  
+  連絡艇、輸送艇、探査艇、監視艇が該当します。  
+  この付近での戦闘は厳重に禁止されてます。  
+  
+
+* **<a id="aCivilCar">[CUCC：民間車両　Civil Car](civilunits/civilcar.md)</a>**  
+  民間が運用する非武装の車両です。  
+  作業車、自家用車、探査車、輸送車が該当します。  
+  
+
+* **<a id="aOfficialCar">[CUOC：公用車両 　Official Car](civilunits/civilcar.md)</a>**  
+  政府、官公庁、戦時監視委員会が運用する非武装の車両です。  
+  連絡車、輸送車、探査車、監視車が該当します。  
+  この付近での戦闘は厳重に禁止されてます。  
+  
+
+* **<a id="aCivilSatellite">[CUCS：民間衛星　Civil Satellite](civilunits/civilsatellite.md)</a>**  
+  民間が運用する人工衛星です。  
+  通信衛星、自家用衛星、探査衛星、警備衛星が該当します。  
+  
+
+* **<a id="aOfficialSatellite">[CUOS：公用衛星 　Official Satellite](civilunits/civilsatellite.md)</a>**  
+  政府、官公庁、戦時監視委員会が運用する人工衛星です。  
+  通信衛星、探査衛星、中継衛星、監視衛星が該当します。  
   
 
 
@@ -525,11 +574,11 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **<a id="aSpaceFacility">[CBSP：宇宙施設　Space Facility](civilunits/spacefacility.md)</a>**  
+* **<a id="aSpaceFacility">[CBSP：宇宙施設　Space Facility](civilunits/civulfacility.md)</a>**  
   エリアマップ（宇宙）にある民間施設です。  
   
 
-* **<a id="aLandFacility">[CBLD：宇宙施設　Land Facility](civilunits/landfacility.md)</a>**  
+* **<a id="aLandFacility">[CBLD：宇宙施設　Land Facility](civilunits/civulfacility.md)</a>**  
   ローカルマップ（地上）にある民間施設です。  
   
 
@@ -1157,9 +1206,9 @@
 
 * **LUTR-CAG：大型貨物車両**  
 
-* **LUTR-FGN：野砲車両**  
+* **LUTR-FGN：野戦砲車両**  
 
-* **LUTR-AAC：対空戦闘車両**  
+* **LUTR-AAG：対空砲車両**  
 
 * **LUTR-ROC：ロケット車両**  
 
@@ -1178,54 +1227,92 @@
 * **LUTR-BAS：移動基地車両**  
 
 
-<h2>DUDU：防衛兵器 / Defense Unit</h2>  
+<h2>DUSY：防衛システム / Defense System</h2>  
   
   [目次へ戻る](#aMokuji)  
   
 
-* **DUDU-STD：防衛システム**  
+* **DUSY-CCC：システムコア**  
 
-* **DUDU-TAN：列車兵器**  
+* **DUSY-ATT：攻撃システム**  
 
-* **DUDU-SHP：巨大戦艦**  
+* **DUSY-ICP：迎撃システム**  
 
-* **DUDU-STL：戦略衛星**  
+* **DUSY-DEF：防御システム**  
 
-* **DUDU-GIT：巨人兵器**  
+* **DUSY-RPR：修復システム**  
 
-* **DUDU-GBT：巨大戦車**  
+* **DUSY-POW：発電システム**  
 
-* **DUDU-ABS：空中戦艦**  
+* **DUSY-ONB：搭載システム**  
+
+* **DUSY-SSP：自給システム**  
+
+* **DUSY-MOV：機動システム**  
+
+* **DUSY-ELW：電戦システム**  
 
 
-<h2>DUBT：砲台 / Battery</h2>  
+<h2>DUGW：巨人兵器 / Giant Wepon</h2>  
 
-* **DUBT-STD：対艦砲台**  
+* **DUGW-BAT：超巨大戦艦**  
 
-* **DUBT-HUG：要塞砲台**  
+* **DUGW-CAR：超巨大空母**  
 
-* **DUBT-LND：野戦砲台**  
+* **DUGW-SUB：超巨大潜航艦**  
 
-* **DUBT-AAC：対空砲台**  
+* **DUGW-MFT：超機動要塞**  
 
-* **DUBT-LOK：ロケット発射台**  
+* **DUGW-INF：巨人歩兵**  
 
-* **DUBT-MIS：ミサイル発射台**  
+* **DUGW-AIC：巨人爆撃機**  
 
-* **DUBT-MOV：可動式デッキ**  
+* **DUGW-TAN：巨大戦車**  
 
-* **DUBT-SBY：待機デッキ**  
+* **DUGW-MGN：超機動砲座**  
 
-* **DUBT-SUP：補給デッキ**  
+* **DUGW-DEV：魔神**  
 
-* **DUBT-MNT：監視台**  
+* **DUGW-WIZ：魔導要塞**  
+
+
+<h2>DUST：宇宙砲台 / Space Battery</h2>  
+
+* **DUST-STD：対艦砲台**  
+
+* **DUST-HUG：要塞砲台**  
+
+* **DUST-AAC：対空砲台**  
+
+* **DUST-ONB：搭載デッキ**  
+
+* **DUST-SUP：補給デッキ**  
+
+* **DUST-ELW：監視台**  
+
+
+<h2>DULT：野戦砲台 / Land Battery</h2>  
+
+* **DULT-STD：野戦砲台**  
+
+* **DULT-OBT：軌道砲台**  
+
+* **DULT-AAC：対空砲台**  
+
+* **DULT-AIR：航空デッキ**  
+
+* **DULT-GRG：車庫デッキ**  
+
+* **DULT-ELW：監視台**  
 
 
 <h2>DUFU：浮遊兵器 / Floating Unit</h2>  
 
 * **DUFU-STD：浮遊砲台**  
 
-* **DUFU-CMP：浮遊陣地**  
+* **DUFU-ECN：浮遊陣地**  
+
+* **DUFU-MIN：浮遊機雷**  
 
 * **DUFU-SAT：衛星**  
 
@@ -1234,7 +1321,9 @@
 
 * **DUIU-STD：設置砲台**  
 
-* **DUIU-CMP：陣地**  
+* **DUIU-ECN：陣地**  
+
+* **DUIU-MIN：地雷**  
 
 * **DUIU-ENG：工作設備**  
 
@@ -1465,87 +1554,186 @@
 * **WUWH-HEL：英雄馬**  
 
 
-<h2>CSSS：民間船 / Civil Ship</h2>  
+<h2>CSPA：旅客船 / Passenger Ship</h2>  
   
   [目次へ戻る](#aMokuji)  
   
 
-* **CSSS-REG：民間定期便**  
+* **CSPA-PSG：旅客船**  
 
-* **CSSS-PRV：プライベートシップ**  
+* **CSPA-FER：民間連絡船**  
 
-* **CSSS-CAG：超大型輸送船**  
+* **CSPA-PRV：自家用船**  
 
-* **CSSS-TNK：超大型タンカー**  
-
-
-<h2>CSPS：旅客船 / Passenger Ship</h2>  
-
-* **CSPS-CRU：客船**  
-
-* **CSPS-PIO：開拓船**  
+* **CSPA-TAX：個別営業船**  
 
 
-<h2>CSOS：公用船 / Official Ship</h2>  
+<h2>CSCO：企業船 / Corporate Ship</h2>  
 
-* **CSOS-OSS：公用艦**  
+* **CSCO-FER：企業連絡船**  
 
-* **CSOS-ENV：使節船**  
+* **CSCO-CAG：企業輸送船**  
 
-* **CSOS-COC：監視船**  
+* **CSCO-EXP：企業探査船**  
 
-
-<h2>CUPL：民間航空機  / Civil Plane</h2>  
-
-* **CUPL-CRU：大型旅客機**  
-
-* **CUPL-PRV：プライベートジェット**  
+* **CSCO-MIN：企業採掘船**  
 
 
-<h2>CURT：民間ロボット  / Civil Robot</h2>  
+<h2>CSOF：公用船 / Official Ship</h2>  
 
-* **CURT-ENG：作業用ロボット**  
+* **CSOF-FER：公用連絡船**  
 
-* **CURT-RES：調査用ロボット**  
+* **CSOF-CAG：公用輸送船**  
 
+* **CSOF-EXP：公用探査船**  
 
-<h2>CUBT：民間舟艇  / Civil Boat</h2>  
-
-* **CUBT-STD：短距離シャトル**  
-
-* **CUBT-LIA：連絡艇**  
-
-* **CUBT-SUR：調査艇**  
+* **CSOF-COC：戦時監視船**  
 
 
-<h2>CUCR：民間車両  / Civil Car</h2>  
+<h2>CSGU：警備船 / Guard Ship</h2>  
 
-* **CUCR-STD：送迎車**  
+* **CSGU-GUD：警備船**  
 
-* **CUCR-ROV：探査車**  
+* **CSGU-AMB：救急船**  
 
-* **CUCR-CAG：輸送車**  
+* **CSGU-FIR：消防船**  
 
-* **CUCR-ENG：工事用車両**  
+* **CSGU-PAT：巡視船**  
 
 
-<h2>CUST：民間衛星  / Civil Satellite</h2>  
 
-* **CUST-WEA：気象衛星**  
+<h2>CUCP：民間機 / Civil Plane</h2>  
+  
+  [目次へ戻る](#aMokuji)  
+  
 
-* **CUST-COM：通信衛星**  
+* **CUCP-PSG：旅客機**  
 
-* **CUST-EXP：探査衛星**  
+* **CUCP-PRV：自家用機**  
+
+* **CUCP-EXP：民間探査機**  
+
+* **CUCP-CAG：民間輸送機**  
+
+
+<h2>CUOP：公用機 / Official Plane</h2>  
+
+* **CUOP-FER：公用連絡機**  
+
+* **CUOP-CAG：公用輸送機**  
+
+* **CUOP-EXP：公用探査機**  
+
+* **CUOP-COC：戦時監視機**  
+
+
+<h2>CUCR：民間ロボット / Civil Robot</h2>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+* **CUCR-ENG：民間作業ロボット**  
+
+* **CUCR-PRV：自家用ロボット**  
+
+* **CUCR-EXP：民間探査ロボット**  
+
+* **CUCR-GUD：警備ロボット**  
+
+
+<h2>CUCR：公用ロボット / Official Robot</h2>  
+
+* **CUOR-ENG：公用作業ロボット**  
+
+* **CUOR-EXP：公用探査ロボット**  
+
+* **CUOR-VIP：要人用ロボット**  
+
+* **CUOR-COC：戦時監視ロボット**  
+
+
+
+<h2>CUCB：民間舟艇  / Civil Boat</h2>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+* **CUCB-FER：民間連絡艇**  
+
+* **CUCB-PRV：自家用舟艇**  
+
+* **CUCB-EXP：民間探査艇**  
+
+* **CUCB-CAG：民間輸送艇**  
+
+
+<h2>CUOB：公用舟艇  / Official Boat</h2>  
+
+* **CUOB-FER：公用連絡艇**  
+
+* **CUOB-CAG：公用輸送艇**  
+
+* **CUOB-EXP：公用探査艇**  
+
+* **CUOB-COC：戦時監視艇**  
+
+
+
+<h2>CUCC：民間車両  / Civil Car</h2>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+* **CUCC-ENG：民間作業車**  
+
+* **CUCC-PRV：自家用車**  
+
+* **CUCC-EXP：民間探査車**  
+
+* **CUCC-CAG：民間輸送車**  
 
 
 <h2>CUOC：公用車両  / Official Car</h2>  
 
-* **CUOC-STD：公用車**  
+* **CUOC-FER：公用連絡車**  
 
-* **CUOC-COC：監視車**  
+* **CUOC-CAG：公用輸送車**  
+
+* **CUOC-EXP：公用探査車**  
+
+* **CUOC-COC：戦時監視車**  
+
+
+
+<h2>CUCS：民間衛星  / Civil Satellite</h2>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+* **CUCS-CMN：民間通信衛星**  
+
+* **CUCS-PRV：自家用衛星**  
+
+* **CUCS-EXP：民間探査衛星**  
+
+* **CUCS-GUD：警備衛星**  
+
+
+<h2>CUOS：公用衛星  / Official Satellite</h2>  
+
+* **CUOS-CMN：公用通信衛星**  
+
+* **CUOS-EXP：公用探査衛星**  
+
+* **CUOS-REL：公用中継衛星**  
+
+* **CUOS-COC：戦時監視衛星**  
 
 
 <h2>CBSP：宇宙施設  / Space Facility</h2>  
+  
+  [目次へ戻る](#aMokuji)  
+  
 
 * **CBSP-CCC：中枢施設**  
 
