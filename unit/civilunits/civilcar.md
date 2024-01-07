@@ -1,7 +1,7 @@
 # Galaxy Fleet
   
-<h1>～兵器仕様～ :: 宇宙施設</h1>  
-<h2>～Weapon Specifications～ :: Space Facility</h2>  
+<h1>～兵器仕様～ :: 民間車両</h1>  
+<h2>～Weapon Specifications～ :: Civil Car</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
@@ -9,7 +9,7 @@
   
 
 <h1 id="aHowto">このドキュメントについて / About this document</h1>  
-このドキュメントは「Galaxy Fleet」の兵器のうち、宇宙施設の定義を記載するものです。  
+このドキュメントは「Galaxy Fleet」の兵器のうち、民間車両、公用車両の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
   
 
@@ -24,27 +24,26 @@
   * [兵器種類](../../strategypart/readme.md#aUnitKind)
   * [兵器分類](../readme.md#aUnitClass)
 
-  * [兵器分類：宇宙施設](../readme.md#aSpaceFacility)
+  * [兵器分類：民間車両](../readme.md#aCivilBoat)
+    * [CUCC-ENG：民間作業車](#aCivilWorlCar)
+    * [CUCC-PRV：自家用車](#aPrivateCar)
+    * [CUCC-EXP：民間探査車](#aCivilExplorationCar)
+    * [CUCC-CAG：民間輸送車](#aCivilCargoCar)
 
-  * 兵器標準仕様
-    * [CBSP-CCC：中枢施設](#aSpaceCenterFacility)
-    * [CBSP-RST：居住施設](#aSpaceResidentialFacility)
-    * [CBSP-CMM：商業施設](#aSpaceCommercialFacility)
-    * [CBSP-IND：工業施設](#aSpaceIndustrialFacility)
-    * [CBSP-ADM：行政施設](#aSpaceAdministrativeFacility)
-    * [CBSP-MIN：採掘施設](#aSpaceMiningFacility)
-    * [CBSP-CNT：通信施設](#aSpaceCommunicationFacility)
+  * [兵器分類：公用車両](../readme.md#aOfficialBoat)
+    * [CUOC-FER：公用連絡車](#aOfficialFerryCar)
+    * [CUOC-CAG：公用輸送車](#aOfficialCargoCar)
+    * [CUOC-EXP：公用探査車](#aOfficialExplorationCar)
+    * [CUOC-COC：戦時監視車](#aCombatOversightCommitteeCar)
   
 
 
 
 
 
-<h1 id="aSpaceCenterFacility">CBSP-CCC：中枢施設 / Space Center Facility</h1>  
+<h1 id="aCivilWorlCar">CUCC-ENG：民間作業車 / Civil Worl Car</h1>  
   [目次へ戻る](#aMokuji)  
   
-
-民間施設の中枢部です。  
 
 |項目  |設定  |
 |:--|:--|
@@ -63,11 +62,9 @@
 
 
 
-<h1 id="aSpaceResidentialFacility">CBSP-RST：居住施設 / Space Residential Facility</h1>  
+<h1 id="aPrivateCar">CUCC-PRV：自家用車 / Private Car</h1>  
   [目次へ戻る](#aMokuji)  
   
-
-民間人が住む施設です。  
 
 |項目  |設定  |
 |:--|:--|
@@ -86,12 +83,9 @@
 
 
 
-<h1 id="aSpaceCommercialFacility">CBSP-CMM：商業施設 / Space Commercial Facility</h1>  
+<h1 id="aCivilExplorationCar">CUCC-EXP：民間探査車 / Civil Exploration Car</h1>  
   [目次へ戻る](#aMokuji)  
   
-
-民間のショップや企業が詰める施設です。  
-買い物もできます。  
 
 |項目  |設定  |
 |:--|:--|
@@ -110,11 +104,9 @@
 
 
 
-<h1 id="aSpaceIndustrialFacility">CBSP-IND：工業施設 / Space Industrial Facility</h1>  
+<h1 id="aCivilCargoCar">CUCC-CAG：民間輸送車 / Civil Cargo Car</h1>  
   [目次へ戻る](#aMokuji)  
   
-
-民間の工場や造船所などが詰める施設です。  
 
 |項目  |設定  |
 |:--|:--|
@@ -133,11 +125,9 @@
 
 
 
-<h1 id="aSpaceAdministrativeFacility">CBSP-ADM：行政施設 / Space Administrative Facility</h1>  
+<h1 id="aOfficialFerryCar">CUOC-FER：公用連絡車 / Official Ferry Car</h1>  
   [目次へ戻る](#aMokuji)  
   
-
-行政や自治体の団体、警備隊が詰める施設です。  
 
 |項目  |設定  |
 |:--|:--|
@@ -156,12 +146,9 @@
 
 
 
-<h1 id="aSpaceMiningFacility">CBSP-MIN：採掘施設 / Space Mining Facility</h1>  
+<h1 id="aOfficialCargoCar">CUOC-CAG：公用輸送車 / Official Cargo Car</h1>  
   [目次へ戻る](#aMokuji)  
   
-
-資源採掘ができる施設です。  
-ここを占領することもできます。  
 
 |項目  |設定  |
 |:--|:--|
@@ -180,11 +167,30 @@
 
 
 
-<h1 id="aSpaceCommunicationFacility">CBSP-CNT：通信施設 / Space Communication Facility</h1>  
+<h1 id="aOfficialExplorationCar">CUOC-EXP：公用探査車 / Official Exploration Car</h1>  
   [目次へ戻る](#aMokuji)  
   
 
-通信機能や分析機能が詰める施設です。  
+|項目  |設定  |
+|:--|:--|
+|武器  |xxx  |
+|標準  |xxx  |
+|      |xxx  |
+|機能  |xxx  |
+|搭載  |xxx  |
+
+|耐久  |機動  |電子  |動力  |評価値    |
+|:--|:--|:--|:--|:--|
+| xxx   | xxx   | xxx   | xxx   | xxx(xxx)   |
+  
+
+
+
+
+
+<h1 id="aCombatOversightCommitteeCar">CUOC-COC：戦時監視車 / Combat Oversight Committee Car</h1>  
+  [目次へ戻る](#aMokuji)  
+  
 
 |項目  |設定  |
 |:--|:--|
