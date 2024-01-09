@@ -423,7 +423,7 @@
   [目次へ戻る](#aMokuji)  
   
 
-* **WISO：魔導士　Sorcery**  
+* **<a id="aSorcery">[WISO：魔導士　Sorcery](wizardinfantrys/sorcery.md)</a>**  
   攻撃、妨害、召喚の法術に優れた魔導兵器です。  
   中距離、長距離の法撃攻撃力に優れます。  
   装甲が薄く、耐久性が低いです。  
@@ -1375,183 +1375,183 @@
   
 
 
-<h2>WUSO：魔導士 / Sorcery</h2>  
+<h2>WISO：魔導士 / Sorcery</h2>  
   
   [目次へ戻る](#aMokuji)  
   
 
-* **WUSO-STD：魔導士**  
+* **WISO-STD：魔導士**  
 
-* **WUSO-MAG：魔術士**  
+* **WISO-MAG：魔術士**  
 
-* **WUSO-THA：法術士**  
+* **WISO-THA：法術士**  
 
-* **WUSO-ILL：幻術士**  
+* **WISO-ILL：幻術士**  
 
-* **WUSO-CON：呪術師**  
+* **WISO-CON：呪術師**  
 
-* **WUSO-ENC：付与術士**  
+* **WISO-ENC：付与術士**  
 
-* **WUSO-ALC：錬金術師**  
+* **WISO-ALC：錬金術師**  
 
-* **WUSO-SAG：賢者**  
+* **WISO-SAG：賢者**  
 
 
-<h2>WUMO：修道士 / Monk</h2>  
+<h2>WIMO：修道士 / Monk</h2>  
 
-* **WUMO-STD：修道士**  
+* **WIMO-STD：修道士**  
 
-* **WUMO-PAS：司祭**  
+* **WIMO-PAS：司祭**  
 
-* **WUMO-BIS：司教**  
+* **WIMO-BIS：司教**  
 
-* **WUMO-PRI：神官**  
+* **WIMO-PRI：神官**  
 
-* **WUMO-CRU：聖戦士**  
+* **WIMO-CRU：聖戦士**  
 
-* **WUMO-SAN：修道拳士**  
+* **WIMO-SAN：修道拳士**  
 
-* **WUMO-MAR：神拳士**  
+* **WIMO-MAR：神拳士**  
 
-* **WUMO-APO：使徒**  
+* **WIMO-APO：使徒**  
 
 
-<h2>WUEM：使役士 / Employer</h2>  
+<h2>WIEM：使役士 / Employer</h2>  
 
-* **WUEM-STD：使役士**  
+* **WIEM-STD：使役士**  
 
-* **WUEM-TRA：動物使い**  
+* **WIEM-TRA：動物使い**  
 
-* **WUEM-BEA：魔獣使い**  
+* **WIEM-BEA：魔獣使い**  
 
-* **WUEM-BOY：言霊使い**  
+* **WIEM-BOY：言霊使い**  
 
-* **WUEM-ELE：精霊使い**  
+* **WIEM-ELE：精霊使い**  
 
-* **WUEM-SHA：祈祷師**  
+* **WIEM-SHA：祈祷師**  
 
-* **WUEM-NEC：死霊使い**  
+* **WIEM-NEC：死霊使い**  
 
-* **WUEM-SUM：召喚者**  
+* **WIEM-SUM：召喚者**  
 
 
-<h2>WUWA：戦士 / Warrior</h2>  
+<h2>WIWA：戦士 / Warrior</h2>  
 
-* **WUWA-STD：戦士**  
+* **WIWA-STD：戦士**  
 
-* **WUWA-BER：狂戦士**  
+* **WIWA-BER：狂戦士**  
 
-* **WUWA-AVE：聖戦士**  
+* **WIWA-AVE：聖戦士**  
 
-* **WUWA-FEN：剣士**  
+* **WIWA-FEN：剣士**  
 
-* **WUWA-GLA：剣闘士**  
+* **WIWA-GLA：剣闘士**  
 
-* **WUWA-ROG：悪党**  
+* **WIWA-ROG：悪党**  
 
-* **WUWA-PIR：海賊**  
+* **WIWA-PIR：海賊**  
 
-* **WUWA-ARM：魔剣戦士**  
+* **WIWA-ARM：魔剣戦士**  
 
 
-<h2>WUHU：狩人 / Hunter</h2>  
+<h2>WIHU：狩人 / Hunter</h2>  
 
-* **WUHU-STD：狩人**  
+* **WIHU-STD：狩人**  
 
-* **WUHU-SHO：銃術士**  
+* **WIHU-SHO：銃術士**  
 
-* **WUHU-GUN：砲撃術師**  
+* **WIHU-GUN：砲撃術師**  
 
-* **WUHU-ARC：弓戦士**  
+* **WIHU-ARC：弓戦士**  
 
-* **WUHU-SNI：弓闘士**  
+* **WIHU-SNI：弓闘士**  
 
-* **WUHU-SEE：探索者**  
+* **WIHU-SEE：探索者**  
 
-* **WUHU-ASS：暗殺者**  
+* **WIHU-ASS：暗殺者**  
 
-* **WUHU-COM：特殊隊員**  
+* **WIHU-COM：特殊隊員**  
 
 
-<h2>WUKN：騎士 / Knight</h2>  
+<h2>WIKN：騎士 / Knight</h2>  
 
-* **WUKN-SQU：騎士見習い**  
+* **WIKN-SQU：騎士見習い**  
 
-* **WUKN-STD：騎士**  
+* **WIKN-STD：騎士**  
 
-* **WUKN-FRE：自由騎士**  
+* **WIKN-FRE：自由騎士**  
 
-* **WUKN-ROY：近衛騎士**  
+* **WIKN-ROY：近衛騎士**  
 
-* **WUKN-PAL：聖騎士**  
+* **WIKN-PAL：聖騎士**  
 
-* **WUKN-SHA：暗黒騎士**  
+* **WIKN-SHA：暗黒騎士**  
 
-* **WUKN-DRA：竜騎士**  
+* **WIKN-DRA：竜騎士**  
 
-* **WUKN-MAG：魔導騎士**  
+* **WIKN-MAG：魔導騎士**  
 
 
-<h2>WUEG：技師 / Engineer</h2>  
+<h2>WIEG：技師 / Engineer</h2>  
 
-* **WUEG-ENG：機械技師**  
+* **WIEG-ENG：機械技師**  
 
-* **WUEG-PHA：薬剤師**  
+* **WIEG-PHA：薬剤師**  
 
-* **WUEG-FAR：農民**  
+* **WIEG-FAR：農民**  
 
-* **WUEG-MIN：炭鉱夫**  
+* **WIEG-MIN：炭鉱夫**  
 
-* **WUEG-BLA：鍛冶屋**  
+* **WIEG-BLA：鍛冶屋**  
 
-* **WUEG-COK：料理人**  
+* **WIEG-COK：料理人**  
 
-* **WUEG-ADM：管理者**  
+* **WIEG-ADM：管理者**  
 
 
-<h2>WUST：一般職 / Staff</h2>  
+<h2>WIST：一般職 / Staff</h2>  
 
-* **WUST-GAM：遊び人**  
+* **WIST-GAM：遊び人**  
 
-* **WUST-MER：商人**  
+* **WIST-MER：商人**  
 
-* **WUST-BAR：詩人**  
+* **WIST-BAR：詩人**  
 
-* **WUST-DAN：舞踏家**  
+* **WIST-DAN：舞踏家**  
 
-* **WUST-PER：演奏家**  
+* **WIST-PER：演奏家**  
 
-* **WUST-SCH：学者**  
+* **WIST-SCH：学者**  
 
-* **WUST-EXE：経営者**  
+* **WIST-EXE：経営者**  
 
 
-<h2>WULH：英雄 / Legend of Hero</h2>  
+<h2>WILH：英雄 / Legend of Hero</h2>  
 
-* **WULH-LOA：王者**  
+* **WILH-LOA：王者**  
 
-* **WULH-HER：隠者**  
+* **WILH-HER：隠者**  
 
-* **WULH-BRA：勇者**  
+* **WILH-BRA：勇者**  
 
-* **WULH-DEM：魔王**  
+* **WILH-DEM：魔王**  
 
 
-<h2>WUWH：魔導馬 / Wizard Horse</h2>  
+<h2>WIWH：魔導馬 / Wizard Horse</h2>  
 
-* **WUWH-STD：魔導馬**  
+* **WIWH-STD：魔導馬**  
 
-* **WUWH-CAG：運搬馬**  
+* **WIWH-CAG：運搬馬**  
 
-* **WUWH-BAT：戦闘馬**  
+* **WIWH-BAT：戦闘馬**  
 
-* **WUWH-ARM：装甲馬**  
+* **WIWH-ARM：装甲馬**  
 
-* **WUWH-SPT：競走馬**  
+* **WIWH-SPT：競走馬**  
 
-* **WUWH-GUN：砲座馬**  
+* **WIWH-GUN：砲座馬**  
 
-* **WUWH-HEL：英雄馬**  
+* **WIWH-HEL：英雄馬**  
 
 
 <h2>CSPA：旅客船 / Passenger Ship</h2>  
@@ -1773,7 +1773,7 @@
 
 ***
 [[トップへ戻る]](/readme.md)　/
-[[兵器仕様]](/galaxyfleet_doc/unit/readme.md)  
+[[兵器仕様]](/unit/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
