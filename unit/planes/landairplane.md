@@ -1,6 +1,6 @@
 # Galaxy Fleet
   
-<h1>～兵器仕様～ :: 装載艇</h1>  
+<h1>～兵器仕様～ :: 陸戦攻撃機</h1>  
 <h2>～Weapon Specifications～ :: Mounted Boats</h2>  
   
 
@@ -9,7 +9,7 @@
   
 
 <h1 id="aHowto">このドキュメントについて / About this document</h1>  
-このドキュメントは「Galaxy Fleet」の兵器のうち、装載艇の定義を記載するものです。  
+このドキュメントは「Galaxy Fleet」の兵器のうち、陸戦攻撃機の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
   
 
@@ -24,47 +24,27 @@
   * [兵器種類](../../strategypart/readme.md#aUnitKind)
   * [兵器分類](../readme.md#aUnitClass)
 
-  * [兵器分類：装載艇](../readme.md#aMountedBoats)
+  * [兵器分類：陸戦攻撃機](../readme.md#aLandAirplane)
 
   * 兵器標準仕様
-    * [MUCB-FIG：戦闘機](#aFighter)
-    * [MUCB-ICP：要撃機](#aIntercepter)
-    * [MUCB-ATK：攻撃機](#aAttacker)
-    * [MUCB-TPD：雷撃機](#aTorpedoAttacker)
-    * [MUCB-BMB：高速爆撃機](#aBomber)
-    * [MUCB-AFG：戦闘攻撃機](#aAttackFighter)
-    * [MUCB-SRK：戦闘爆撃機](#aStrikeFighter)
-    * [MUCB-AIF：機動戦闘機](#aAntiInfantryFighter)
-    * [MUCB-MRA：多用途攻撃機](#aMultiRoleAttacker)
-    * [MUCB-TAC：戦術戦闘機](#aTacticalFighter)
-    * [MUCB-REC：偵察機](#aRecommendAircraft)
-    * [MUCB-SMK：対潜攻撃機](#aSubmarineKillerAircraft)
-    * [MUCB-ELW：電子支援機](#aElectronicSupportAircraft)
-    * [MUCB-CAG：補給輸送機](#aSupplyCargoAircraft)
+    * [LULA-ATK：陸戦攻撃機](#aLandAttacker)
+    * [LULA-BMB：陸戦爆撃機](#aLandBomber)
+    * [LULA-SPR：陸戦制圧機](#aLandSuppressor)
+    * [LULA-OBS：陸戦観測機](#aLandObservationAircraft)
+    * [LULA-INF：陸戦支援機](#aLandSupportAircraft)
+    * [LULA-CAG：陸戦輸送機](#aLandCargoAircraft)
+    * [LULA-LFI：局地戦闘機](#aLocalFighter)
+    * [LULA-OBT：軌道要撃機](#aOrbitalInterceptor)
   
 
 
 
 
 
-<h1 id="aFighter">MUCB-FIG：戦闘機 / Fighter</h1>  
+<h1 id="aLandAttacker">LULA-ATK：陸戦攻撃機 / Land Attacker</h1>  
   [目次へ戻る](#aMokuji)  
   
 
-
-
-<a id="iLandAirplane"></a>
-# LULA：陸戦攻撃機
-**[Land Airplane]**  
-居住地域や要塞など極局地でのみ運用できる飛行機です。  
-戦術マップでしか運用できません。また一部を除いて飛行場がないと運用できません。  
-航空機、機動歩兵、陸戦歩兵、戦車につよいです。  
-対空武器によわいです。  
-　　主な武器：機関砲、対空機関砲  
-
-
-## LULA-ATK：陸戦攻撃機
-**[Land Attacker]**  
 局地専用の戦闘攻撃機です。  
 対地ミサイル、ロケットを装備します。  
 陸戦歩兵、戦闘車両につよい。防衛兵器にも若干効果あり。  
@@ -83,10 +63,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ×   | ▲   | 〇(+4)   |
+  
 
 
-## LULA-BMB：陸戦爆撃機
-**[Land Bomber]**  
+
+
+
+<h1 id="aLandBomber">LULA-BMB：陸戦爆撃機 / Land Bomber</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 局地専用の中型爆撃機です。  
 大量の爆弾と対地ミサイルを装備します。対地性能が高く、高性能なわりにコストが安めです。  
 揚陸艦で運ぶにはバラして部品として運ぶしかないです。  
@@ -105,10 +91,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | 〇   | ・   | ×   | 〇   | ▲(+8)   |
+  
 
 
-## LULA-SPR：陸戦制圧機
-**[Land Suppressor]**  
+
+
+
+<h1 id="aLandSuppressor">LULA-SPR：陸戦制圧機 / Land Suppressor</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 局地専用の中型攻撃機です。垂直離着陸ができ、滑走路がなくても運用できます。  
 小型砲と機関砲を上空から連続的に打ち込み、地上の陸戦歩兵や車両を制圧できます。  
 陸戦歩兵、戦闘車両につよい。  
@@ -126,10 +118,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ▲   | ×   | ▲   | 〇(+4)   |
+  
 
 
-## LULA-OBS：陸戦観測機
-**[Land Observation Aircraft]**  
+
+
+
+<h1 id="aLandObservationAircraft">LULA-OBS：陸戦観測機 / Land Observation Aircraft</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 局地専用の偵察機です。垂直離着陸ができ、滑走路がなくても運用できます。  
 護身用の機関砲、ロケットか対地ミサイルを装備します。偵察性能が高いです。  
 対空用の武器はありません。  
@@ -149,10 +147,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | ・   | ×   | 〇(+4)   |
+  
 
 
-## LULA-INF：陸戦支援機
-**[Land Support Aircraft]**  
+
+
+
+<h1 id="aLandSupportAircraft">LULA-INF：陸戦支援機 / Land Support Aircraft</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 局地専用の小型輸送機です。垂直離着陸ができ、滑走路がなくても運用できます。  
 対歩兵ロケット、機関砲、少ないですが対地ミサイルを装備します。陸戦歩兵が搭載できます。  
 対空用の武器はありません。  
@@ -171,10 +175,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | ×   | ・   | ○(+4)   |
+  
 
 
-## LULA-CAG：陸戦輸送機
-**[Land Cargo Aircraft]**  
+
+
+
+<h1 id="aLandCargoAircraft">LULA-CAG：陸戦輸送機 / Land Cargo Aircraft</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 局地専用の中型輸送機です。垂直離着陸ができ、滑走路がなくても運用できます。  
 護身用の機関砲を装備します。  
 対空用の武器はありません。  
@@ -191,10 +201,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ・   | ×   | 〇   | ・(+6)   |
+  
 
 
-## LULA-LFI：局地戦闘機
-**[Local Fighter]**  
+
+
+
+<h1 id="aLocalFighter">LULA-LFI：局地戦闘機 / Local Fighter</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 局地専用の制空戦闘機です。垂直離着陸ができ、滑走路がなくても運用できます。  
 対空ミサイルを装備します。局地における対空戦闘では無敵です。  
 対地用の武器はありません。また後続距離が非常に短いため、基地や陣地周辺しか行動できません。  
@@ -212,10 +228,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | 〇   | 〇   | ×   | ・   | ▲(+8)   |
+  
 
 
-## LULA-OBT：軌道要撃機
-**[Orbital Interceptor]**  
+
+
+
+<h1 id="aOrbitalInterceptor">LULA-OBT：軌道要撃機 / Orbital Interceptor</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 局地防衛用に開発された迎撃用の戦闘機です。打上後に戦略マップで運用できます。  
 対艦ミサイルを装備します。ブースターで宇宙空間に隣接する艦隊を迎撃できます。  
 艦船への搭載はできませんが、補給機能のある兵器から補給を受けることができます。  
@@ -234,8 +256,7 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | 〇   | ▲   | ▲   | 〇   | ▲(+8)   |
-
-
+  
 
 
 
@@ -243,7 +264,7 @@
 
 ***
 [[トップへ戻る]](/readme.md)　/
-[[兵器仕様]](../readme.md)  
+[[兵器仕様]](/unit/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  

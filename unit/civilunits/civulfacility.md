@@ -375,7 +375,7 @@
 
 ***
 [[トップへ戻る]](/readme.md)　/
-[[兵器仕様]](../readme.md)  
+[[兵器仕様]](/unit/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
