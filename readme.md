@@ -58,13 +58,14 @@
   * [人員](/galaxyfleet_doc/senario/crew.md)
 
 * データベース
-  * [兵器仕様](unit/readme.md)
+  * [兵器仕様](/unit/readme.md)
   * [装備品仕様](/galaxyfleet_doc/equip/readme.md)
   * [特殊機能](/galaxyfleet_doc/skill/readme.md)
 
 * 世界設定など
-  * [世界観](/galaxyfleet_doc/strategypart/world.md)
-  * [用語集](/galaxyfleet_doc/strategypart/term.md)
+  * [世界観](/term/world.md)
+  * [用語集](/term/readme.md)
+  * [人物](/people/readme.md)
   
 
 
@@ -396,7 +397,13 @@ Galaxy Fleetのリポジトリは３つに分かれています。
 
 * [アニヲタWiki(仮)](https://w.atwiki.jp/aniwotawiki/pages/39066.html)  
   名称の参考。  
+
+* [各国の軍隊一覧:wikipedia](https://bit.ly/3zEg6Wi)
+
+* [近い恒星の一覧:wikipedia](https://bit.ly/3gyiCWi)
   
+
+
 
 
 
