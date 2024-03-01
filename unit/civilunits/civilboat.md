@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：民間舟艇](../readme.md#aCivilBoat)
-    * [CUCB-FER：民間連絡艇](#aCivilFerryBoat)
-    * [CUCB-PRV：自家用舟艇](#aPrivateBoat)
-    * [CUCB-EXP：民間探査艇](#aCivilExplorationBoat)
-    * [CUCB-CAG：民間輸送艇](#aCivilCargoBoat)
+* [兵器分類：民間舟艇](/unit/readme.md#aCivilBoat)
+  * [CUCB-FER：民間連絡艇](#aCivilFerryBoat)
+  * [CUCB-PRV：自家用舟艇](#aPrivateBoat)
+  * [CUCB-EXP：民間探査艇](#aCivilExplorationBoat)
+  * [CUCB-CAG：民間輸送艇](#aCivilCargoBoat)
 
-  * [兵器分類：公用舟艇](../readme.md#aGovernmentBoat)
-    * [CUGB-FER：公用連絡艇](#aGovernmentFerryBoat)
-    * [CUGB-CAG：公用輸送艇](#aGovernmentCargoBoat)
-    * [CUGB-EXP：公用探査艇](#aGovernmentExplorationBoat)
-    * [CUGB-COC：戦時監視艇](#aCombatOversightCommitteeBoat)
+* [兵器分類：公用舟艇](/unit/readme.md#aGovernmentBoat)
+  * [CUGB-FER：公用連絡艇](#aGovernmentFerryBoat)
+  * [CUGB-CAG：公用輸送艇](#aGovernmentCargoBoat)
+  * [CUGB-EXP：公用探査艇](#aGovernmentExplorationBoat)
+  * [CUGB-COC：戦時監視艇](#aCombatOversightCommitteeBoat)
   
 
 

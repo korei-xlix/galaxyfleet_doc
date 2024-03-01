@@ -20,23 +20,23 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：地上基地](../readme.md#aLandBase)
+  * [兵器分類：地上基地](/unit/readme.md#aLandBase)
 
-  * 兵器標準仕様
-    * [DULB-CCC：防衛基地](#aLandCenterBase)
-    * [DULB-CCP：防衛陣地](#aLandPlayerBase)
-    * [DULD-CCF：要塞](#aFortress)
-    * [DULB-CCB：陸戦基地](#aLandMillitaryBase)
-    * [DULB-GAR：駐屯地](#aGarrison)
-    * [DULB-AIR：航空基地](#aAirBase)
-    * [DULB-FAC：兵器工場](#aLandFactory)
-    * [DULB-SUP：補給基地](#aLandSupplyBase)
-    * [DULB-MIN：採掘基地](#aLandMiningBase)
-    * [DULB-ELV：軌道エレベータ](#aOrbitalElevator)
+* 兵器標準仕様
+  * [DULB-CCC：防衛基地](#aLandCenterBase)
+  * [DULB-CCP：防衛陣地](#aLandPlayerBase)
+  * [DULD-CCF：要塞](#aFortress)
+  * [DULB-CCB：陸戦基地](#aLandMillitaryBase)
+  * [DULB-GAR：駐屯地](#aGarrison)
+  * [DULB-AIR：航空基地](#aAirBase)
+  * [DULB-FAC：兵器工場](#aLandFactory)
+  * [DULB-SUP：補給基地](#aLandSupplyBase)
+  * [DULB-MIN：採掘基地](#aLandMiningBase)
+  * [DULB-ELV：軌道エレベータ](#aOrbitalElevator)
   
 
 

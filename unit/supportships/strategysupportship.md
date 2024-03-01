@@ -26,17 +26,17 @@
 
   * [兵器分類：戦略支援艦](../readme.md#aStrategySupportShip)
 
-  * 兵器標準仕様
-    * [SSSS-STD：戦略支援艦](#aStrategySupportShip)
-    * [SSSS-CNS：大型建設艦](#aLargeConstructionShip)
-    * [SSSS-DOC：浮遊ドック](#aFloatingDockShip)
-    * [SSSS-MIN：資源採掘艦](#aMiningShip)
-    * [SSSS-WOK：移動工房艦](#aMobileWorkshopShip)
-    * [SSSS-OBS：気象観測艦](#aWeatherObservationShip)
-    * [SSSS-TNG：練習艦](#aTrainingShip)
-    * [SSSS-TST：試験艦](#aTestShip)
-    * [SSSS-DCY：欺瞞艦](#aDecoyShip)
-    * [SSSS-TRG：転送ゲート艦](#aTransportGateShip)
+* 兵器標準仕様
+  * [SSSS-STD：戦略支援艦](#aStrategySupportShip)
+  * [SSSS-CNS：大型建設艦](#aLargeConstructionShip)
+  * [SSSS-DOC：浮遊ドック](#aFloatingDockShip)
+  * [SSSS-MIN：資源採掘艦](#aMiningShip)
+  * [SSSS-WOK：移動工房艦](#aMobileWorkshopShip)
+  * [SSSS-OBS：気象観測艦](#aWeatherObservationShip)
+  * [SSSS-TNG：練習艦](#aTrainingShip)
+  * [SSSS-TST：試験艦](#aTestShip)
+  * [SSSS-DCY：欺瞞艦](#aDecoyShip)
+  * [SSSS-TRG：転送ゲート艦](#aTransportGateShip)
   
 
 

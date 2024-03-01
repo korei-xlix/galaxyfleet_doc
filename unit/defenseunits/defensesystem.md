@@ -20,23 +20,23 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：防衛システム](../readme.md#aDefenseSystem)
+  * [兵器分類：防衛システム](/unit/readme.md#aDefenseSystem)
 
-  * 兵器標準仕様
-    * [DUSY-CCC：システムコア](#aSystemCore)
-    * [DUSY-ATT：攻撃システム](#aAttackSystem)
-    * [DUSY-ICP：迎撃システム](#aInterceptSystem)
-    * [DUSY-DEF：防御システム](#aGuardSystem)
-    * [DUSY-RPR：修復システム](#aRepairSystem)
-    * [DUSY-POW：発電システム](#aPowerSystem)
-    * [DUSY-ONB：搭載システム](#aOnboardSystem)
-    * [DUSY-SSP：自給システム](#aSelfSupplySystem)
-    * [DUSY-MOV：機動システム](#aMobillitySystem)
-    * [DUSY-ELW：電戦システム](#aElectronicWarfareSystem)
+* 兵器標準仕様
+  * [DUSY-CCC：システムコア](#aSystemCore)
+  * [DUSY-ATT：攻撃システム](#aAttackSystem)
+  * [DUSY-ICP：迎撃システム](#aInterceptSystem)
+  * [DUSY-DEF：防御システム](#aGuardSystem)
+  * [DUSY-RPR：修復システム](#aRepairSystem)
+  * [DUSY-POW：発電システム](#aPowerSystem)
+  * [DUSY-ONB：搭載システム](#aOnboardSystem)
+  * [DUSY-SSP：自給システム](#aSelfSupplySystem)
+  * [DUSY-MOV：機動システム](#aMobillitySystem)
+  * [DUSY-ELW：電戦システム](#aElectronicWarfareSystem)
   
 
 

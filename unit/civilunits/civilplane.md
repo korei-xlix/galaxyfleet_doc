@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：民間機](../readme.md#aCivilPlane)
-    * [CUCP-PSG：旅客機](#aPassengerPlane)
-    * [CUCP-PRV：自家用機](#aPrivatePlane)
-    * [CUCP-EXP：民間探査機](#aCivilExplorationPlane)
-    * [CUCP-CAG：民間輸送機](#aCivilCargoPlane)
+* [兵器分類：民間機](/unit/readme.md#aCivilPlane)
+  * [CUCP-PSG：旅客機](#aPassengerPlane)
+  * [CUCP-PRV：自家用機](#aPrivatePlane)
+  * [CUCP-EXP：民間探査機](#aCivilExplorationPlane)
+  * [CUCP-CAG：民間輸送機](#aCivilCargoPlane)
 
-  * [兵器分類：公用機](../readme.md#aGovernmentPlane)
-    * [CUGP-FER：公用連絡機](#aGovernmentFerryPlane)
-    * [CUGP-CAG：公用輸送機](#aGovernmentCargoPlane)
-    * [CUGP-EXP：公用探査機](#aGovernmentExplorationPlane)
-    * [CUGP-COC：戦時監視機](#aCombatOversightCommitteePlane)
+* [兵器分類：公用機](/unit/readme.md#aGovernmentPlane)
+  * [CUGP-FER：公用連絡機](#aGovernmentFerryPlane)
+  * [CUGP-CAG：公用輸送機](#aGovernmentCargoPlane)
+  * [CUGP-EXP：公用探査機](#aGovernmentExplorationPlane)
+  * [CUGP-COC：戦時監視機](#aCombatOversightCommitteePlane)
   
 
 

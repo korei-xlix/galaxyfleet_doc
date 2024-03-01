@@ -20,15 +20,15 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：魔導護衛艦](../readme.md#aEscortWizardShip)
+  * [兵器分類：魔導護衛艦](/unit/readme.md#aEscortWizardShip)
 
-  * 兵器標準仕様
-    * [ESWZ-STD：魔導護衛艦](#aWizardFrigate)
-    * [ESWZ-COV：魔導防護艦](#aWizardCorvet)
+* 兵器標準仕様
+  * [ESWZ-STD：魔導護衛艦](#aWizardFrigate)
+  * [ESWZ-COV：魔導防護艦](#aWizardCorvet)
   
 
 

@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：潜航艦](../readme.md#aSubmarine)
+  * [兵器分類：潜航艦](/unit/readme.md#aSubmarine)
 
-  * 兵器標準仕様
-    * [BSSB-STD：潜航艦](#aSubmarine)
-    * [BSSB-ATK：攻撃潜航艦](#aAttackSubmarine)
-    * [BSSB-MIS：ミサイル潜航艦](#aMissileSubmarine)
-    * [BSSB-SPT：高速潜航艦](#aSprintSubmarine)
-    * [BSSB-AVI：潜航空母](#aAviationSubmarine)
-    * [BSSB-STM：強襲潜航艦](#aStormSubmarine)
-    * [BSSB-SRK：戦略潜航艦](#aStrikeSubmarine)
-    * [BSSB-RAD：遊撃艦](#aRaidShip)
+* 兵器標準仕様
+  * [BSSB-STD：潜航艦](#aSubmarine)
+  * [BSSB-ATK：攻撃潜航艦](#aAttackSubmarine)
+  * [BSSB-MIS：ミサイル潜航艦](#aMissileSubmarine)
+  * [BSSB-SPT：高速潜航艦](#aSprintSubmarine)
+  * [BSSB-AVI：潜航空母](#aAviationSubmarine)
+  * [BSSB-STM：強襲潜航艦](#aStormSubmarine)
+  * [BSSB-SRK：戦略潜航艦](#aStrikeSubmarine)
+  * [BSSB-RAD：遊撃艦](#aRaidShip)
   
 
 

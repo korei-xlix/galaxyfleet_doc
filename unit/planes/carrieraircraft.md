@@ -20,27 +20,27 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：空母航空機](../readme.md#aCarrierAircraft)
+  * [兵器分類：空母航空機](/unit/readme.md#aCarrierAircraft)
 
-  * 兵器標準仕様
-    * [MUCB-FIG：戦闘機](#aFighter)
-    * [MUCB-ICP：要撃機](#aIntercepter)
-    * [MUCB-ATK：攻撃機](#aAttacker)
-    * [MUCB-TPD：雷撃機](#aTorpedoAttacker)
-    * [MUCB-BMB：高速爆撃機](#aBomber)
-    * [MUCB-AFG：戦闘攻撃機](#aAttackFighter)
-    * [MUCB-SRK：戦闘爆撃機](#aStrikeFighter)
-    * [MUCB-AIF：機動戦闘機](#aAntiInfantryFighter)
-    * [MUCB-MRA：多用途攻撃機](#aMultiRoleAttacker)
-    * [MUCB-TAC：戦術戦闘機](#aTacticalFighter)
-    * [MUCB-REC：偵察機](#aRecommendAircraft)
-    * [MUCB-SMK：対潜攻撃機](#aSubmarineKillerAircraft)
-    * [MUCB-ELW：電子支援機](#aElectronicSupportAircraft)
-    * [MUCB-CAG：補給輸送機](#aSupplyCargoAircraft)
+* 兵器標準仕様
+  * [MUCB-FIG：戦闘機](#aFighter)
+  * [MUCB-ICP：要撃機](#aIntercepter)
+  * [MUCB-ATK：攻撃機](#aAttacker)
+  * [MUCB-TPD：雷撃機](#aTorpedoAttacker)
+  * [MUCB-BMB：高速爆撃機](#aBomber)
+  * [MUCB-AFG：戦闘攻撃機](#aAttackFighter)
+  * [MUCB-SRK：戦闘爆撃機](#aStrikeFighter)
+  * [MUCB-AIF：機動戦闘機](#aAntiInfantryFighter)
+  * [MUCB-MRA：多用途攻撃機](#aMultiRoleAttacker)
+  * [MUCB-TAC：戦術戦闘機](#aTacticalFighter)
+  * [MUCB-REC：偵察機](#aRecommendAircraft)
+  * [MUCB-SMK：対潜攻撃機](#aSubmarineKillerAircraft)
+  * [MUCB-ELW：電子支援機](#aElectronicSupportAircraft)
+  * [MUCB-CAG：補給輸送機](#aSupplyCargoAircraft)
   
 
 

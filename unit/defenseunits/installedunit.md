@@ -20,17 +20,17 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：設置兵器](../readme.md#aInstalledUnit)
+  * [兵器分類：設置兵器](/unit/readme.md#aInstalledUnit)
 
-  * 兵器標準仕様
-    * [DUIU-STD：設置砲台](#aInstallationBattery)
-    * [DUIU-ECN：陣地](#aEncampment)
-    * [DUIU-MIN：浮遊機雷](#aMine)
-    * [DUIU-ENG：工作設備](#aCraftEquipment)
+* 兵器標準仕様
+  * [DUIU-STD：設置砲台](#aInstallationBattery)
+  * [DUIU-ECN：陣地](#aEncampment)
+  * [DUIU-MIN：浮遊機雷](#aMine)
+  * [DUIU-ENG：工作設備](#aCraftEquipment)
   
 
 

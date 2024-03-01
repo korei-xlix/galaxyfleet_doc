@@ -20,17 +20,17 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：陸戦支援艦(../readme.md#aLandWarSupportShip)
+  * [兵器分類：陸戦支援艦](/unit/readme.md#aLandWarSupportShip)
 
-  * 兵器標準仕様
-    * [SSLS-STD：陸戦支援艦](#aLandWarSupportShip)
-    * [SSLS-CAG：陸戦輸送艦](#aLandCargoShip)
-    * [SSLS-ATK：陸戦攻撃艦](#aLandAttackShip)
-    * [SSLS-TKR：戦車回収艦](#aTankRecoveryShip)
+* 兵器標準仕様
+  * [SSLS-STD：陸戦支援艦](#aLandWarSupportShip)
+  * [SSLS-CAG：陸戦輸送艦](#aLandCargoShip)
+  * [SSLS-ATK：陸戦攻撃艦](#aLandAttackShip)
+  * [SSLS-TKR：戦車回収艦](#aTankRecoveryShip)
   
 
 

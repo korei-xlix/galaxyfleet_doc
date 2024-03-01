@@ -20,17 +20,17 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：万能歩兵](../readme.md#aVersatileInfantry)
+  * [兵器分類：万能歩兵](/unit/readme.md#aVersatileInfantry)
 
-  * 兵器標準仕様
-    * [MUVI-STD：万能型](#aVersatileType)
-    * [MUVI-VAR：可変型](#aVariableCombatType)
-    * [MUVI-CBI：合体型](#aCombinedCombatType)
-    * [MUVI-REP：換装型](#aReplacementCombatType)
+* 兵器標準仕様
+  * [MUVI-STD：万能型](#aVersatileType)
+  * [MUVI-VAR：可変型](#aVariableCombatType)
+  * [MUVI-CBI：合体型](#aCombinedCombatType)
+  * [MUVI-REP：換装型](#aReplacementCombatType)
   
 
 

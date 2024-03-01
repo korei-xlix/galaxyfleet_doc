@@ -20,23 +20,23 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：巨人兵器](../readme.md#aGiantWepon)
+  * [兵器分類：巨人兵器](/unit/readme.md#aGiantWepon)
 
-  * 兵器標準仕様
-    * [DUGW-BAT：超巨大戦艦](#aSuperGiantBattleShip)
-    * [DUGW-CAR：超巨大空母](#aSuperGiantAirCarrier)
-    * [DUGW-SUB：超巨大潜航艦](#aSuperGiantSubmarine)
-    * [DUGW-MFT：超機動要塞](#aSuperGiantMobillityFortress)
-    * [DUGW-INF：巨人歩兵](#aSuperGiantInfantry)
-    * [DUGW-AIC：巨人爆撃機](#aSuperGiantBomber)
-    * [DUGW-TAN：巨大戦車](#aSuperGiantTank)
-    * [DUGW-MGN：超機動砲座](#aSuperGiantMobillityCannon)
-    * [DUGW-DEV：魔神](#aDevil)
-    * [DUGW-WIZ：魔導要塞](#aWizardFortress)
+* 兵器標準仕様
+  * [DUGW-BAT：超巨大戦艦](#aSuperGiantBattleShip)
+  * [DUGW-CAR：超巨大空母](#aSuperGiantAirCarrier)
+  * [DUGW-SUB：超巨大潜航艦](#aSuperGiantSubmarine)
+  * [DUGW-MFT：超機動要塞](#aSuperGiantMobillityFortress)
+  * [DUGW-INF：巨人歩兵](#aSuperGiantInfantry)
+  * [DUGW-AIC：巨人爆撃機](#aSuperGiantBomber)
+  * [DUGW-TAN：巨大戦車](#aSuperGiantTank)
+  * [DUGW-MGN：超機動砲座](#aSuperGiantMobillityCannon)
+  * [DUGW-DEV：魔神](#aDevil)
+  * [DUGW-WIZ：魔導要塞](#aWizardFortress)
   
 
 

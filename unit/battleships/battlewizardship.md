@@ -20,17 +20,17 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：魔導戦艦](../readme.md#aBattleWizardShip)
+  * [兵器分類：魔導戦艦](/unit/readme.md#aBattleWizardShip)
 
-  * 兵器標準仕様
-    * [BSWZ-STD：魔導戦艦](#aBattleWizardShip)
-    * [BSWZ-AMD：魔導装甲艦](#aArmedWizardShip)
-    * [BSWZ-MIS：魔導ミサイル艦](#aMissileWizardShip)
-    * [BSWZ-MOS：魔導母艦](#aMotherWizardShip)
+* 兵器標準仕様
+  * [BSWZ-STD：魔導戦艦](#aBattleWizardShip)
+  * [BSWZ-AMD：魔導装甲艦](#aArmedWizardShip)
+  * [BSWZ-MIS：魔導ミサイル艦](#aMissileWizardShip)
+  * [BSWZ-MOS：魔導母艦](#aMotherWizardShip)
   
 
 

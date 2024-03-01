@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：民間ロボット](../readme.md#aCivilRobot)
-    * [CUCR-ENG：民間作業ロボット](#aCivilWorkRobot)
-    * [CUCR-PRV：自家用ロボット](#aPrivateRobot)
-    * [CUCR-EXP：民間探査ロボット](#aCivilExplorationRobot)
-    * [CUCR-GUD：警備ロボット](#aGuardRobot)
+* [兵器分類：民間ロボット](/unit/readme.md#aCivilRobot)
+  * [CUCR-ENG：民間作業ロボット](#aCivilWorkRobot)
+  * [CUCR-PRV：自家用ロボット](#aPrivateRobot)
+  * [CUCR-EXP：民間探査ロボット](#aCivilExplorationRobot)
+  * [CUCR-GUD：警備ロボット](#aGuardRobot)
 
-  * [兵器分類：公用ロボット](../readme.md#aGovernmentRobot)
-    * [CUGR-ENG：公用作業ロボット](#aGovernmentWorkRobot)
-    * [CUGR-EXP：公用探査ロボット](#aGovernmentExplorationRobot)
-    * [CUGR-VIP：要人用ロボット](#aVIPRobot)
-    * [CUGR-COC：戦時監視ロボット](#aCombatOversightCommitteeRobot)
+* [兵器分類：公用ロボット](/unit/readme.md#aGovernmentRobot)
+  * [CUGR-ENG：公用作業ロボット](#aGovernmentWorkRobot)
+  * [CUGR-EXP：公用探査ロボット](#aGovernmentExplorationRobot)
+  * [CUGR-VIP：要人用ロボット](#aVIPRobot)
+  * [CUGR-COC：戦時監視ロボット](#aCombatOversightCommitteeRobot)
   
 
 

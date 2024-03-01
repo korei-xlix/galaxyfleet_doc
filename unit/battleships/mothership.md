@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：汎用母艦](../readme.md#aGeneralPurposeMotherShip)
+  * [兵器分類：汎用母艦](/unit/readme.md#aGeneralPurposeMotherShip)
 
-  * 兵器標準仕様
-    * [BSMS-STD：汎用機母艦](#aGeneralPurposeMotherShip)
-    * [BSMS-BMB：爆撃機母艦](#aBomberMotherShip)
-    * [BSMS-GIT：巨人機母艦](#aGiantAircraftMotherShip)
-    * [BSMS-STM：強襲母艦](#aStormMotherShip)
-    * [BSMS-INF：歩兵母艦](#aInfantryMotherShip)
-    * [BSMS-LAM：陸攻母艦](#aLandAirplaneMotherShip)
-    * [BSMS-DEF：防衛兵器母艦](#aDefenceMotherShip)
-    * [BSMS-BLM：戦闘母艦](#aBattleMotherShip)
+* 兵器標準仕様
+  * [BSMS-STD：汎用機母艦](#aGeneralPurposeMotherShip)
+  * [BSMS-BMB：爆撃機母艦](#aBomberMotherShip)
+  * [BSMS-GIT：巨人機母艦](#aGiantAircraftMotherShip)
+  * [BSMS-STM：強襲母艦](#aStormMotherShip)
+  * [BSMS-INF：歩兵母艦](#aInfantryMotherShip)
+  * [BSMS-LAM：陸攻母艦](#aLandAirplaneMotherShip)
+  * [BSMS-DEF：防衛兵器母艦](#aDefenceMotherShip)
+  * [BSMS-BLM：戦闘母艦](#aBattleMotherShip)
   
 
 

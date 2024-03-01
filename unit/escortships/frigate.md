@@ -20,18 +20,18 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：護衛艦](../readme.md#aFrigate)
+  * [兵器分類：護衛艦](/unit/readme.md#aFrigate)
 
-  * 兵器標準仕様
-    * [ESFG-STD：護衛艦](#aFrigate)
-    * [ESFG-SMK：対潜護衛艦](#aSubmarineKillerFrigate)
-    * [ESFG-RES：陸戦救護艦](#aLandWarfareRescueFrigate)
-    * [ESFG-ADF：対空砲艦](#aAntiAircraftGunboat)
-    * [ESFG-SRG：格闘戦艦](#aStrugglBattleShip)
+* 兵器標準仕様
+  * [ESFG-STD：護衛艦](#aFrigate)
+  * [ESFG-SMK：対潜護衛艦](#aSubmarineKillerFrigate)
+  * [ESFG-RES：陸戦救護艦](#aLandWarfareRescueFrigate)
+  * [ESFG-ADF：対空砲艦](#aAntiAircraftGunboat)
+  * [ESFG-SRG：格闘戦艦](#aStrugglBattleShip)
   
 
 

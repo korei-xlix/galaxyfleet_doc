@@ -20,17 +20,17 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：浮遊兵器](../readme.md#aFloatingUnit)
+  * [兵器分類：浮遊兵器](/unit/readme.md#aFloatingUnit)
 
-  * 兵器標準仕様
-    * [DUFU-STD：浮遊砲台](#aFloationBattery)
-    * [DUFU-ECN：浮遊陣地](#aFloatingEncampment)
-    * [DUFU-MIN：浮遊機雷](#aFloatingMine)
-    * [DUFU-SAT：衛星](#aSatellite)
+* 兵器標準仕様
+  * [DUFU-STD：浮遊砲台](#aFloationBattery)
+  * [DUFU-ECN：浮遊陣地](#aFloatingEncampment)
+  * [DUFU-MIN：浮遊機雷](#aFloatingMine)
+  * [DUFU-SAT：衛星](#aSatellite)
   
 
 

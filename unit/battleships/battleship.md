@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：戦艦](../readme.md#aBattleShip)
+  * [兵器分類：戦艦](/unit/readme.md#aBattleShip)
 
-  * 兵器標準仕様
-    * [BSBB-STD：戦艦](#aBattleShip)
-    * [BSBB-AMD：装甲戦艦](#aArmoredBattleShip)
-    * [BSBB-BCR：巡航戦艦](#aBattleCruise)
-    * [BSBB-SPT：高速戦艦](#aSprintBattleShip)
-    * [BSBB-AVI：航空戦艦](#aAviationBattleShip)
-    * [BSBB-SRK：戦略打撃艦](#aStrikeBattleShip)
-    * [BSBB-HGN：重砲撃艦](#aHeavyGunShip)
-    * [BSBB-SGN：狙撃戦艦](#aSniperGunShip)
+* 兵器標準仕様
+  * [BSBB-STD：戦艦](#aBattleShip)
+  * [BSBB-AMD：装甲戦艦](#aArmoredBattleShip)
+  * [BSBB-BCR：巡航戦艦](#aBattleCruise)
+  * [BSBB-SPT：高速戦艦](#aSprintBattleShip)
+  * [BSBB-AVI：航空戦艦](#aAviationBattleShip)
+  * [BSBB-SRK：戦略打撃艦](#aStrikeBattleShip)
+  * [BSBB-HGN：重砲撃艦](#aHeavyGunShip)
+  * [BSBB-SGN：狙撃戦艦](#aSniperGunShip)
   
 
 

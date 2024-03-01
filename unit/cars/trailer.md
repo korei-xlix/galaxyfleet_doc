@@ -20,24 +20,25 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：牽引車両](../readme.md#aTrailer)
+  * [兵器分類：牽引車両](/unit/readme.md#aTrailer)
 
-  * 兵器標準仕様
-    * [LUTR-TOW：牽引車](#aTowingTractor)
-    * [LUTR-CAG：大型貨物車両](#aCargoTrailer)
-    * [LUTR-FGN：野戦砲車両](#aFieldCannonTrailer)
-    * [LUTR-AAG：対空砲車両](#aAntiAircraftGunTrailer)
-    * [LUTR-ROC：ロケット車両](#aRocketTrailer)
-    * [LUMT-VER：万能戦車](#aVersatileTank)
-    * [LUMT-VER：万能戦車](#aVersatileTank)
-    * [LUMT-VER：万能戦車](#aVersatileTank)
-    * [LUMT-VER：万能戦車](#aVersatileTank)
-    * [LUMT-VER：万能戦車](#aVersatileTank)
-    * [LUMT-VER：万能戦車](#aVersatileTank)
+* 兵器標準仕様
+  * [LUTR-TOW：牽引車](#aTowingTractor)
+  * [LUTR-CAG：大型貨物車両](#aCargoTrailer)
+  * [LUTR-FGN：野戦砲車両](#aFieldCannonTrailer)
+  * [LUTR-AAG：対空砲車両](#aAntiAircraftGunTrailer)
+  * [LUTR-ROC：ロケット車両](#aRocketTrailer)
+  * [LUTR-MIS：対地ミサイル車両](#aMissileTrailer)
+  * [LUTR-OBT：軌道狙撃砲車両](#aOrbitSniperCannonTrailer)
+  * [LUTR-SRK：戦略ミサイル車両](#aStrategicMissileTrailer)
+  * [LUTR-MUL：汎用支援車両](#aMultipurposeSupportTrailer)
+  * [LUTR-RCY：戦車回収車両](#aTankRecyclingTrailer)
+  * [LUTR-MNG：資源採掘車両](#aMiningTrailer)
+  * [LUTR-BAS：移動基地車両](#aMobiltyBaseTrailer)
   
 
 
@@ -165,12 +166,10 @@
 
 
 
-<h1 id="aRocketTrailer">LUTR-ROC：ロケット車両 / Rocket Trailer</h1>  
+<h1 id="aMissileTrailer">LUTR-MIS：対地ミサイル車両 / Missile Trailer</h1>  
   [目次へ戻る](#aMokuji)  
   
 
-## LUTR-MIS：対地ミサイル車両
-**[Missile Trailer]**  
 ミサイルランチャーを搭載するトレーラです。  
 対地ミサイルを発射できます。ロケットは単装式か多連装式か選択できます。  
 牽引車両で牽引します。  
@@ -187,10 +186,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ×   | ×   | ×   | 〇(+4)   |
+  
 
 
-## LUTR-OBT：軌道狙撃砲車両
-**[Orbit Sniper Cannon Trailer]**  
+
+
+
+<h1 id="aOrbitSniperCannonTrailer">LUTR-OBT：軌道狙撃砲車両 / Orbit Sniper Cannon Trailer</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 オービットスナイパーキャノンを搭載するトレーラです。  
 オービットスナイパーキャノンで地上から軌道に停泊する艦船を狙撃できます。  
 牽引車両で牽引します。  
@@ -205,10 +210,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ×   | ×   | ×   | 〇(+4)   |
+  
 
 
-## LUTR-SRK：戦略ミサイル車両
-**[Strategic Missile Trailer]**  
+
+
+
+<h1 id="aStrategicMissileTrailer">LUTR-SRK：戦略ミサイル車両 / Strategic Missile Trailer</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 戦略ミサイルを搭載するトレーラです。地上の施設や防衛兵器に壊滅的な打撃を与えます。  
 牽引車両で牽引します。  
 攻撃する際、台座を固定する必要があります。  
@@ -223,10 +234,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ×   | ×   | ×   | 〇(+4)   |
+  
 
 
-## LUTR-MUL：汎用支援車両
-**[Multipurpose Support Trailer]**  
+
+
+
+<h1 id="aMultipurposeSupportTrailer">LUTR-MUL：汎用支援車両 / Multipurpose Support Trailer</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 あらゆる戦略機能を搭載し、多用途に使える大型のトレーラです。  
 工作車、輸送車、補給車、資源採掘車、戦車回収車の機能を搭載します。  
 武器はありません。非常にコストが高いです。  
@@ -249,10 +266,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ×   | ×   | ×   | 〇(+4)   |
+  
 
 
-## LUTR-RCY：戦車回収車両
-**[Tank Recycling Trailer]**  
+
+
+
+<h1 id="aTankRecyclingTrailer">LUTR-RCY：戦車回収車両 / Tank Recycling Trailer</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 破壊された陸戦兵器や防衛兵器を回収したり、現場で解体して資源化したりする作業トレーラです。  
 牽引車両で牽引します。  
 回収の際、台座を固定する必要があります。  
@@ -266,10 +289,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ×   | ×   | ×   | 〇(+4)   |
+  
 
 
-## LUTR-MNG：資源採掘車両
-**[Mining Trailer]**  
+
+
+
+<h1 id="aMiningTrailer">LUTR-MNG：資源採掘車両 / Mining Trailer</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 戦場でも資源を採掘できる作業トレーラです。  
 牽引車両で牽引します。  
 採掘の際、台座を固定する必要があります。  
@@ -284,10 +313,16 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ×   | ×   | ×   | 〇(+4)   |
+  
 
 
-## LUTR-BAS：移動基地車両
-**[Mobilty Base Trailer]**  
+
+
+
+<h1 id="aMobiltyBaseTrailer">LUTR-BAS：移動基地車両 / Mobilty Base Trailer</h1>  
+  [目次へ戻る](#aMokuji)  
+  
+
 簡易基地を載せたトレーラです。  
 ほかの陸戦隊との連携がより機能するようになります。電子性能が高いです。  
 補給機能があります。また通信機能もあり、援軍が呼べます。  
@@ -307,6 +342,7 @@
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ×   | 〇   | 〇   | ・(+6)   |
+  
 
 
 

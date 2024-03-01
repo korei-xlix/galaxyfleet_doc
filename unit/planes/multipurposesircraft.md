@@ -20,23 +20,23 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：汎用航空機](../readme.md#aMultipurposeAircraft)
+  * [兵器分類：汎用航空機](/unit/readme.md#aMultipurposeAircraft)
 
-  * 兵器標準仕様
-    * [MUML-FIG：汎用戦闘機](#aMultipurposeFighter)
-    * [MUML-ATK：汎用攻撃機](#aMultipurposeAttacker)
-    * [MUML-TPD：汎用雷撃機](#aMultipurposeTorpedoAttacker)
-    * [MUML-BMB：汎用爆撃機](#aMultipurposeBomber)
-    * [MUML-SRK：汎用戦爆機](#aMultipurposeStrikeFighter)
-    * [MUML-SBM：特務爆撃機](#aSpecialBomber)
-    * [MUML-REC：汎用偵察機](#aMultipurposeRecommendAircraft)
-    * [MUML-ELW：汎用電戦機](#aMultipurposeElectronicSupportAircraft)
-    * [MUML-SMK：汎用哨戒機](#aMultipurposeSubmarineKillerAircraft)
-    * [MUML-CAG：汎用輸送機](#aMultipurposeCargoAircraft)
+* 兵器標準仕様
+  * [MUML-FIG：汎用戦闘機](#aMultipurposeFighter)
+  * [MUML-ATK：汎用攻撃機](#aMultipurposeAttacker)
+  * [MUML-TPD：汎用雷撃機](#aMultipurposeTorpedoAttacker)
+  * [MUML-BMB：汎用爆撃機](#aMultipurposeBomber)
+  * [MUML-SRK：汎用戦爆機](#aMultipurposeStrikeFighter)
+  * [MUML-SBM：特務爆撃機](#aSpecialBomber)
+  * [MUML-REC：汎用偵察機](#aMultipurposeRecommendAircraft)
+  * [MUML-ELW：汎用電戦機](#aMultipurposeElectronicSupportAircraft)
+  * [MUML-SMK：汎用哨戒機](#aMultipurposeSubmarineKillerAircraft)
+  * [MUML-CAG：汎用輸送機](#aMultipurposeCargoAircraft)
   
 
 

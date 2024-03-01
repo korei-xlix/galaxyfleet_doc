@@ -20,23 +20,23 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：魔導士](../readme.md#aSpaceFacility)
+  * [兵器分類：魔導士](/unit/readme.md#aSpaceFacility)
 
   * [クラスアップ図](#aClassUpDiagram)
 
-  * 兵器標準仕様
-    * [WISO-STD：魔導士](#aSorcery)
-    * [WISO-MAG：魔術士](#aMagus)
-    * [WISO-THA：法術士](#aThaumaturge)
-    * [WISO-ILL：幻術士](#aIllusionist)
-    * [WISO-CON：呪術師](#aConjurator)
-    * [WISO-ENC：付与術士](#aEnchanter)
-    * [WISO-ALC：錬金術師](#aAlchemist)
-    * [WISO-SAG：賢者](#aSage)
+* 兵器標準仕様
+  * [WISO-STD：魔導士](#aSorcery)
+  * [WISO-MAG：魔術士](#aMagus)
+  * [WISO-THA：法術士](#aThaumaturge)
+  * [WISO-ILL：幻術士](#aIllusionist)
+  * [WISO-CON：呪術師](#aConjurator)
+  * [WISO-ENC：付与術士](#aEnchanter)
+  * [WISO-ALC：錬金術師](#aAlchemist)
+  * [WISO-SAG：賢者](#aSage)
   
 
 

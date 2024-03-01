@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：改造空母](../readme.md#aModifiedAircraftCarrier)
+  * [兵器分類：改造空母](/unit/readme.md#aModifiedAircraftCarrier)
 
-  * 兵器標準仕様
-    * [BSMC-STD：改造空母](#aModifiedAircraftCarrier)
-    * [BSMC-LIG：軽空母](#aLightAircraftCarrier)
-    * [BSMC-SPT：高速空母](#aSprintAircraftCarrier)
-    * [BSMC-STM：強襲空母](#aStormAircraftCarrier)
-    * [BSMC-MUL：商船空母](#aMerchantAircraftCarrier)
-    * [BSMC-SMK：対潜空母](#aSubmarineKillerAircraftCarrier)
-    * [BSMC-CNT：コンテナ空母](#aContainerAircraftCarrier)
-    * [BSMC-GIT：超大型空母](#aGiantAircraftCarrier)
+* 兵器標準仕様
+  * [BSMC-STD：改造空母](#aModifiedAircraftCarrier)
+  * [BSMC-LIG：軽空母](#aLightAircraftCarrier)
+  * [BSMC-SPT：高速空母](#aSprintAircraftCarrier)
+  * [BSMC-STM：強襲空母](#aStormAircraftCarrier)
+  * [BSMC-MUL：商船空母](#aMerchantAircraftCarrier)
+  * [BSMC-SMK：対潜空母](#aSubmarineKillerAircraftCarrier)
+  * [BSMC-CNT：コンテナ空母](#aContainerAircraftCarrier)
+  * [BSMC-GIT：超大型空母](#aGiantAircraftCarrier)
   
 
 

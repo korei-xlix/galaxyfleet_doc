@@ -20,19 +20,19 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：主力戦車](../readme.md#aMainTank)
+  * [兵器分類：主力戦車](/unit/readme.md#aMainTank)
 
-  * 兵器標準仕様
-    * [LUMT-STD：主力戦車](#aMainTank)
-    * [LUMT-LMT：軽戦車](#aLightTank)
-    * [LUMT-HMT：重戦車](#aHeavyTank)
-    * [LUMT-MMT：機動戦車](#aMobillityTank)
-    * [LUMT-AMT：空中戦車](#aAirTank)
-    * [LUMT-VER：万能戦車](#aVersatileTank)
+* 兵器標準仕様
+  * [LUMT-STD：主力戦車](#aMainTank)
+  * [LUMT-LMT：軽戦車](#aLightTank)
+  * [LUMT-HMT：重戦車](#aHeavyTank)
+  * [LUMT-MMT：機動戦車](#aMobillityTank)
+  * [LUMT-AMT：空中戦車](#aAirTank)
+  * [LUMT-VER：万能戦車](#aVersatileTank)
   
 
 
