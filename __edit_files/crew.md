@@ -19,6 +19,41 @@
 
 
 
+銀河英雄伝説
+
+銀河英雄伝説：帝国軍
+
+ラインハルト・フォン・ローエングラム
+Reinhard von Lohengramm
+Reinhard von Musel
+
+ジークフリード・キルヒアイス
+Siegfried Kircheis
+
+ウォルフガング・ミッターマイヤー
+Wolfgang Mittermeier
+
+
+オスカー・フォン・ロイエンタール
+Oskar von Reuentahl
+
+フリッツ・ヨーゼフ・ビッテンフェルト
+Fritz Josef Wittenfeld
+
+
+
+銀河英雄伝説：同盟軍
+
+
+
+
+
+
+
+
+
+
+
 
 <a id="iCaptain"></a>
 # 艦長
