@@ -20,19 +20,19 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：機動車両](../readme.md#aMobilityVehicle)
+  * [兵器分類：機動車両](/unit/readme.md#aMobilityVehicle)
 
-  * 兵器標準仕様
-    * [LUMV-STD：機動車両](#aMobilityVehicle)
-    * [LUMV-HOV：ホバーバイク](#aHoverBike)
-    * [LUMV-ELW：電子支援車](#aElectronicSupportVehicle)
-    * [LUMV-COM：陸戦指揮車](#aLandCommandVehicle)
-    * [LUMV-CAG：補給輸送車](#aSupplyCargoVehicle)
-    * [LUMV-MTP：多目的車両](#aMultipurposeVehicle)
+* 兵器標準仕様
+  * [LUMV-STD：機動車両](#aMobilityVehicle)
+  * [LUMV-HOV：ホバーバイク](#aHoverBike)
+  * [LUMV-ELW：電子支援車](#aElectronicSupportVehicle)
+  * [LUMV-COM：陸戦指揮車](#aLandCommandVehicle)
+  * [LUMV-CAG：補給輸送車](#aSupplyCargoVehicle)
+  * [LUMV-MTP：多目的車両](#aMultipurposeVehicle)
   
 
 

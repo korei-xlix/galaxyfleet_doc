@@ -20,17 +20,17 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：電子支援艦](../readme.md#aElectronicSupportShip)
+  * [兵器分類：電子支援艦](/unit/readme.md#aElectronicSupportShip)
 
-  * 兵器標準仕様
-    * [SSEL-STD：電子支援艦](#aElectronicSupportShip)
-    * [SSEL-SPT：高速電戦艦](#aSprintElectronicSupportShip)
-    * [SSEL-SMN：潜航電戦艦](#aElectronicSubmarine)
-    * [SSEL-EBS：支援戦艦](#aElectronicBattleShip)
+* 兵器標準仕様
+  * [SSEL-STD：電子支援艦](#aElectronicSupportShip)
+  * [SSEL-SPT：高速電戦艦](#aSprintElectronicSupportShip)
+  * [SSEL-SMN：潜航電戦艦](#aElectronicSubmarine)
+  * [SSEL-EBS：支援戦艦](#aElectronicBattleShip)
   
 
 

@@ -20,18 +20,18 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：護衛母艦](../readme.md#aEscortMotherShip)
+  * [兵器分類：護衛母艦](/unit/readme.md#aEscortMotherShip)
 
-  * 兵器標準仕様
-    * [ESMS-STD：護衛母艦](#aEscortMotherShip)
-    * [ESMS-SMM：哨戒母艦](#aPatrolMotherShip)
-    * [ESMS-STM：強襲護衛艦](#aStormEscortMotherShip)
-    * [ESMS-AVI：航空護衛艦](#aAviationEscortMotherShip)
-    * [ESMS-CAG：輸送護衛艦](#aCargoEscortMotherShip)
+* 兵器標準仕様
+  * [ESMS-STD：護衛母艦](#aEscortMotherShip)
+  * [ESMS-SMM：哨戒母艦](#aPatrolMotherShip)
+  * [ESMS-STM：強襲護衛艦](#aStormEscortMotherShip)
+  * [ESMS-AVI：航空護衛艦](#aAviationEscortMotherShip)
+  * [ESMS-CAG：輸送護衛艦](#aCargoEscortMotherShip)
   
 
 

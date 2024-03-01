@@ -20,22 +20,22 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：機動歩兵](../readme.md#aMovableInfantry)
+  * [兵器分類：機動歩兵](/unit/readme.md#aMovableInfantry)
 
-  * 兵器標準仕様
-    * [MUMI-STD：汎用型](#aGeneralPurposeType)
-    * [MUMI-ATK：攻撃型](#aAttackerType)
-    * [MUMI-AMD：防御型](#aArmoredType)
-    * [MUMI-SPT：機動型](#aSplintType)
-    * [MUMI-SRG：格闘型](#aStrugglType)
-    * [MUMI-HAM：重装型](#aHeavyArmorType)
-    * [MUMI-REC：強行偵察型](#aForcedRecommendType)
-    * [MUMI-ELW：電子作戦型](#aElectronicWarType)
-    * [MUMI-ENG：宙域工作型](#aEngineerType)
+* 兵器標準仕様
+  * [MUMI-STD：汎用型](#aGeneralPurposeType)
+  * [MUMI-ATK：攻撃型](#aAttackerType)
+  * [MUMI-AMD：防御型](#aArmoredType)
+  * [MUMI-SPT：機動型](#aSplintType)
+  * [MUMI-SRG：格闘型](#aStrugglType)
+  * [MUMI-HAM：重装型](#aHeavyArmorType)
+  * [MUMI-REC：強行偵察型](#aForcedRecommendType)
+  * [MUMI-ELW：電子作戦型](#aElectronicWarType)
+  * [MUMI-ENG：宙域工作型](#aEngineerType)
   
 
 

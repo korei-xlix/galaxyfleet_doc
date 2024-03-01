@@ -20,19 +20,19 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：装甲車両](../readme.md#aArmoedVehicle)
+  * [兵器分類：装甲車両](/unit/readme.md#aArmoedVehicle)
 
-  * 兵器標準仕様
-    * [LUAV-STD：装甲輸送車](#aArmoedCargoVehicle)
-    * [LUAV-AMP：両用戦車](#aAmphibiousVehicle)
-    * [LUAV-ADT：対物戦車](#aAntiDefenseTank)
-    * [LUAV-REC：偵察警戒車](#aRecommendGuardVehicle)
-    * [LUAV-TKR：戦場回収車](#aFieldRecoveryVehicle)
-    * [LUAV-ENG：戦場工作車](#aFieldEngineeringVehicle)
+* 兵器標準仕様
+  * [LUAV-STD：装甲輸送車](#aArmoedCargoVehicle)
+  * [LUAV-AMP：両用戦車](#aAmphibiousVehicle)
+  * [LUAV-ADT：対物戦車](#aAntiDefenseTank)
+  * [LUAV-REC：偵察警戒車](#aRecommendGuardVehicle)
+  * [LUAV-TKR：戦場回収車](#aFieldRecoveryVehicle)
+  * [LUAV-ENG：戦場工作車](#aFieldEngineeringVehicle)
   
 
 

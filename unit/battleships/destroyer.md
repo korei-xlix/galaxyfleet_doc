@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：駆逐艦](../readme.md#aDestroyer)
+  * [兵器分類：駆逐艦](/unit/readme.md#aDestroyer)
 
-  * 兵器標準仕様
-    * [BSDS-STD：駆逐艦](#aDestroyer)
-    * [BSDS-AMD：装甲駆逐艦](#aArmoredDestroyer)
-    * [BSDS-ADF：防空駆逐艦](#aAirDefensiveDestroyer)
-    * [BSDS-MIS：ミサイル駆逐艦](#aMissileDestroyer)
-    * [BSDS-INF：歩兵駆逐艦](#aInfantryDestroyer)
-    * [BSDS-TPD：重雷装艦](#aTorpedoDestroyer)
-    * [BSDS-AST：突撃艦](#aAssaultDestroyer)
-    * [BSDS-SMK：駆潜艦](#aSubmarineKiller)
+* 兵器標準仕様
+  * [BSDS-STD：駆逐艦](#aDestroyer)
+  * [BSDS-AMD：装甲駆逐艦](#aArmoredDestroyer)
+  * [BSDS-ADF：防空駆逐艦](#aAirDefensiveDestroyer)
+  * [BSDS-MIS：ミサイル駆逐艦](#aMissileDestroyer)
+  * [BSDS-INF：歩兵駆逐艦](#aInfantryDestroyer)
+  * [BSDS-TPD：重雷装艦](#aTorpedoDestroyer)
+  * [BSDS-AST：突撃艦](#aAssaultDestroyer)
+  * [BSDS-SMK：駆潜艦](#aSubmarineKiller)
   
 
 

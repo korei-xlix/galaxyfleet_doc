@@ -20,17 +20,17 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：補給輸送艦](../readme.md#aSupplyCargoShip)
+  * [兵器分類：補給輸送艦](/unit/readme.md#aSupplyCargoShip)
 
-  * 兵器標準仕様
-    * [SSSC-STD：補給輸送艦](#aSuppryCargoShip)
-    * [SSSC-SPT：高速輸送艦](#aSplintSuppryCargoShip)
-    * [SSSC-MOT：輸送母艦](#aCargoMotherShip)
-    * [SSSC-UCG：兵器輸送艦](#aUnitCargoShip)
+* 兵器標準仕様
+  * [SSSC-STD：補給輸送艦](#aSuppryCargoShip)
+  * [SSSC-SPT：高速輸送艦](#aSplintSuppryCargoShip)
+  * [SSSC-MOT：輸送母艦](#aCargoMotherShip)
+  * [SSSC-UCG：兵器輸送艦](#aUnitCargoShip)
   
 
 

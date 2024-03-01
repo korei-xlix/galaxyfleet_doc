@@ -33,36 +33,22 @@
   * [謝辞](#aAcknowledgment)
   * [参考資料](#aMaterial)
 
-* [ログインパート仕様](/galaxyfleet_doc/loginpart/readme.md)
+* 各仕様書
+  * [ログインパート仕様](/loginpart/readme.md)
+  * [戦略パート仕様](/strategypart/readme.md)
+  * [戦術パート仕様](/tacticalpart/readme.md)
+  * [戦闘パート仕様](/battlepart/readme.md)
+  * [データ仕様](/data/readme.md)
+  * [シナリオ仕様](/senario/readme.md)
 
-* [戦略パート仕様](/galaxyfleet_doc/strategypart/readme.md)
-  * [基礎情報](/galaxyfleet_doc/strategypart/readme.md#aBaseInfo)
-    * [各パート](/galaxyfleet_doc/strategypart/readme.md#aParts)
-    * [マップ](/galaxyfleet_doc/strategypart/readme.md#aMap)
-    * [区分記号](/galaxyfleet_doc/strategypart/readme.md#aUnitClassificationSymbol)
-    * [兵器種類](/galaxyfleet_doc/strategypart/readme.md#aUnitKind)
-    * [艦隊](/galaxyfleet_doc/strategypart/readme.md#aFleet)
-    * [戦隊](/galaxyfleet_doc/strategypart/readme.md#aSquadron)
-    * [資材](/galaxyfleet_doc/strategypart/readme.md#aMaterial)
+  * データベース
+    * [兵器仕様](/unit/readme.md)
+    * [装備品仕様](/equip/readme.md)
+    * [特殊機能](/skill/readme.md)
 
-* [戦術パート仕様](/galaxyfleet_doc/tacticalpart/readme.md)
-
-* [戦闘パート仕様](/galaxyfleet_doc/battlepart/readme.md)
-
-* [データ仕様](/galaxyfleet_doc/data/readme.md)
-
-* [シナリオ仕様](/galaxyfleet_doc/senario/readme.md)
-  * [シナリオ種類](/galaxyfleet_doc/senario/readme.md#aKind)
-  * [人員](/galaxyfleet_doc/senario/crew.md)
-
-* データベース
-  * [兵器仕様](/unit/readme.md)
-  * [装備品仕様](/galaxyfleet_doc/equip/readme.md)
-  * [特殊機能](/galaxyfleet_doc/skill/readme.md)
-
-* 世界設定など
-  * [世界観](/galaxyfleet_doc/strategypart/world.md)
-  * [用語集](/galaxyfleet_doc/strategypart/term.md)
+  * 世界設定など
+    * [世界観](/strategypart/world.md)
+    * [用語集](/strategypart/term.md)
   
 
 

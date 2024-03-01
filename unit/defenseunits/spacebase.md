@@ -20,23 +20,23 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：宇宙基地](../readme.md#aSpaceBase)
+  * [兵器分類：宇宙基地](/unit/readme.md#aSpaceBase)
 
-  * 兵器標準仕様
-    * [DUSB-CCC：防衛基地](#aSpaceCenterBase)
-    * [DUSB-CCP：泊地](#aSpacePlayerBase)
-    * [DUSB-CCF：要塞](#aFortress)
-    * [DUSB-CCB：宇宙基地](#aSpaceMillitaryBase)
-    * [DUSB-CCT：軍港](#aSpacePort)
-    * [DUSB-STA：防衛詰所](#aDefenseStation)
-    * [DUSB-FAC：兵器工場](#aSpaceFactory)
-    * [DUSB-SUP：補給基地](#aSpaceSupplyBase)
-    * [DUSB-MIN：採掘基地](#aSpaceMiningBase)
-    * [DUSB-REC：偵察基地](#aSpaceRecommendBase)
+* 兵器標準仕様
+  * [DUSB-CCC：防衛基地](#aSpaceCenterBase)
+  * [DUSB-CCP：泊地](#aSpacePlayerBase)
+  * [DUSB-CCF：要塞](#aFortress)
+  * [DUSB-CCB：宇宙基地](#aSpaceMillitaryBase)
+  * [DUSB-CCT：軍港](#aSpacePort)
+  * [DUSB-STA：防衛詰所](#aDefenseStation)
+  * [DUSB-FAC：兵器工場](#aSpaceFactory)
+  * [DUSB-SUP：補給基地](#aSpaceSupplyBase)
+  * [DUSB-MIN：採掘基地](#aSpaceMiningBase)
+  * [DUSB-REC：偵察基地](#aSpaceRecommendBase)
   
 
 

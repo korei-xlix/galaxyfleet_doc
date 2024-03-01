@@ -20,17 +20,17 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：指揮支援艦](../readme.md#aCommandSupportShip)
+  * [兵器分類：指揮支援艦](/unit/readme.md#aCommandSupportShip)
 
-  * 兵器標準仕様
-    * [SSCM-STD：戦術指揮艦](#aTacticalCommandShip)
-    * [SSCM-ACM：航空指揮艦](#aAirstrikeCommandShip)
-    * [SSCM-LCM：陸戦指揮艦](#aLandWarCommandShip)
-    * [SSCM-CBS：指揮戦艦](#aCommandBattleShip)
+* 兵器標準仕様
+  * [SSCM-STD：戦術指揮艦](#aTacticalCommandShip)
+  * [SSCM-ACM：航空指揮艦](#aAirstrikeCommandShip)
+  * [SSCM-LCM：陸戦指揮艦](#aLandWarCommandShip)
+  * [SSCM-CBS：指揮戦艦](#aCommandBattleShip)
   
 
 

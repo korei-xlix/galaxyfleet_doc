@@ -20,34 +20,34 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：旅客船](../readme.md#aPassengerShip)
-    * [CSPA-PSG：旅客船](#aPassengerShip)
-    * [CSPA-FER：民間連絡船](#aCivilFerryShip)
-    * [CSPA-PRV：自家用船](#aPrivateShip)
-    * [CSPA-TAX：個別営業船](#aTaxiShip)
+* [兵器分類：旅客船](/unit/readme.md#aPassengerShip)
+  * [CSPA-PSG：旅客船](#aPassengerShip)
+  * [CSPA-FER：民間連絡船](#aCivilFerryShip)
+  * [CSPA-PRV：自家用船](#aPrivateShip)
+  * [CSPA-TAX：個別営業船](#aTaxiShip)
 
-  * [兵器分類：企業船](../readme.md#aCorporateShip)
-    * [CSCO-FER：企業連絡船](#aCorporateFerryShip)
-    * [CSCO-CAG：企業輸送船](#aCorporateCargoShip)
-    * [CSCO-EXP：企業探査船](#aCorporateExplorationShip)
-    * [CSCO-MIN：企業採掘船](#aCorporateMiningShip)
+* [兵器分類：企業船](/unit/readme.md#aCorporateShip)
+  * [CSCO-FER：企業連絡船](#aCorporateFerryShip)
+  * [CSCO-CAG：企業輸送船](#aCorporateCargoShip)
+  * [CSCO-EXP：企業探査船](#aCorporateExplorationShip)
+  * [CSCO-MIN：企業採掘船](#aCorporateMiningShip)
 
-  * [兵器分類：公用船](../readme.md#aGovernmentShip)
-    * [CSGV-FER：公用連絡船](#aGovernmentFerryShip)
-    * [CSGV-CAG：公用輸送船](#aGovernmentCargoShip)
-    * [CSGV-EXP：公用探査船](#aGovernmentExplorationShip)
-    * [CSGV-COC：戦時監視船](#aCombatOversightCommitteeShip)
+* [兵器分類：公用船](/unit/readme.md#aGovernmentShip)
+  * [CSGV-FER：公用連絡船](#aGovernmentFerryShip)
+  * [CSGV-CAG：公用輸送船](#aGovernmentCargoShip)
+  * [CSGV-EXP：公用探査船](#aGovernmentExplorationShip)
+  * [CSGV-COC：戦時監視船](#aCombatOversightCommitteeShip)
 
-  * [兵器分類：警備船](../readme.md#aGuardShip)
-    * [CSGU-GUD：警備船](#aGuardShip)
-    * [CSGU-AMB：救急船](#aAmbulanceShip)
-    * [CSGU-FIR：消防船](#aFireShip)
-    * [CSGU-PAT：巡視船](#aPatrolShip)
-
+* [兵器分類：警備船](/unit/readme.md#aGuardShip)
+  * [CSGU-GUD：警備船](#aGuardShip)
+  * [CSGU-AMB：救急船](#aAmbulanceShip)
+  * [CSGU-FIR：消防船](#aFireShip)
+  * [CSGU-PAT：巡視船](#aPatrolShip)
+  
 
 
 

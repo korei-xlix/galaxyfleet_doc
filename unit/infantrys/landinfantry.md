@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：陸戦歩兵](../readme.md#aLandInfantry)
+  * [兵器分類：陸戦歩兵](/unit/readme.md#aLandInfantry)
 
-  * 兵器標準仕様
-    * [LULI-STD：陸戦型](#aLandBattleType)
-    * [LULI-AIB：空挺型](#aAirborneType)
-    * [LULI-ATK：砲兵型](#aArtilleryType)
-    * [LULI-STG：護衛型](#aEscortType)
-    * [LULI-REC：偵察型](#aRecommendType)
-    * [LULI-CEG：戦闘工兵型](#aCombatEngineerType)
-    * [LULI-ENG：陸戦工作型](#aLandEngineerType)
-    * [LULI-SPL：特戦型](#aSpecialType)
+* 兵器標準仕様
+  * [LULI-STD：陸戦型](#aLandBattleType)
+  * [LULI-AIB：空挺型](#aAirborneType)
+  * [LULI-ATK：砲兵型](#aArtilleryType)
+  * [LULI-STG：護衛型](#aEscortType)
+  * [LULI-REC：偵察型](#aRecommendType)
+  * [LULI-CEG：戦闘工兵型](#aCombatEngineerType)
+  * [LULI-ENG：陸戦工作型](#aLandEngineerType)
+  * [LULI-SPL：特戦型](#aSpecialType)
   
 
 

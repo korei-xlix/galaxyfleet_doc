@@ -20,27 +20,27 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：大型航空機](../readme.md#aLargeAircraft)
+  * [兵器分類：大型航空機](/unit/readme.md#aLargeAircraft)
 
-  * 兵器標準仕様
-    * [MULG-HFI：重戦闘機](#aHeavyFighter)
-    * [MULG-HAT：重攻撃機](#aHeavyAttacker)
-    * [MULG-HBM：重爆撃機](#aHeavyBomber)
-    * [MULG-MRF：多用途戦闘機](#aMultiRoleFighter)
-    * [MULG-ESC：護衛戦闘機](#aEscortFighter)
-    * [MULG-LRB：渡宙爆撃機](#aLongRangeBomber)
-    * [MULG-SRK：戦略爆撃機](#aStrikeBomber)
-    * [MULG-INF：歩兵支援機](#aInfantryBattleAircraft)
-    * [MULG-MII：ミサイル迎撃機](#aMissileInterceptorAircraft)
-    * [MULG-REC：強行偵察機](#aForcedRecommendAircraft)
-    * [MULG-EAW：早期警戒機](#aEarlyWarningAircraft)
-    * [MULG-SMK：対潜哨戒機](#aLargeSubmarineKillerAircraft)
-    * [MULG-ELW：電子作戦機](#aLargeElectronicWarfareAircraft)
-    * [MULG-CAG：大型輸送機](#aLargeSupplyCargoAircraft)
+* 兵器標準仕様
+  * [MULG-HFI：重戦闘機](#aHeavyFighter)
+  * [MULG-HAT：重攻撃機](#aHeavyAttacker)
+  * [MULG-HBM：重爆撃機](#aHeavyBomber)
+  * [MULG-MRF：多用途戦闘機](#aMultiRoleFighter)
+  * [MULG-ESC：護衛戦闘機](#aEscortFighter)
+  * [MULG-LRB：渡宙爆撃機](#aLongRangeBomber)
+  * [MULG-SRK：戦略爆撃機](#aStrikeBomber)
+  * [MULG-INF：歩兵支援機](#aInfantryBattleAircraft)
+  * [MULG-MII：ミサイル迎撃機](#aMissileInterceptorAircraft)
+  * [MULG-REC：強行偵察機](#aForcedRecommendAircraft)
+  * [MULG-EAW：早期警戒機](#aEarlyWarningAircraft)
+  * [MULG-SMK：対潜哨戒機](#aLargeSubmarineKillerAircraft)
+  * [MULG-ELW：電子作戦機](#aLargeElectronicWarfareAircraft)
+  * [MULG-CAG：大型輸送機](#aLargeSupplyCargoAircraft)
   
 
 

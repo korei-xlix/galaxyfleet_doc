@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：揚陸艦](../readme.md#aLandCarrier)
+  * [兵器分類：揚陸艦](/unit/readme.md#aLandCarrier)
 
-  * 兵器標準仕様
-    * [BSLC-STD：揚陸艦](#aLandingShip)
-    * [BSLC-TNK：戦車揚陸艦](#aTankLandingShip)
-    * [BSLC-CST：建設揚陸艦](#aConstructionLandingShip)
-    * [BSLC-SPT：高速揚陸艦](#aSprintLandingShip)
-    * [BSLC-SMN：潜航揚陸艦](#aLandingSubmarineShip)
-    * [BSLC-STM：強襲揚陸艦](#aStormLandingShip)
-    * [BSLC-MOT：揚陸母艦](#aLandingMotherShip)
-    * [BSLC-BLD：戦闘揚陸艦](#aBattleLandingShip)
+* 兵器標準仕様
+  * [BSLC-STD：揚陸艦](#aLandingShip)
+  * [BSLC-TNK：戦車揚陸艦](#aTankLandingShip)
+  * [BSLC-CST：建設揚陸艦](#aConstructionLandingShip)
+  * [BSLC-SPT：高速揚陸艦](#aSprintLandingShip)
+  * [BSLC-SMN：潜航揚陸艦](#aLandingSubmarineShip)
+  * [BSLC-STM：強襲揚陸艦](#aStormLandingShip)
+  * [BSLC-MOT：揚陸母艦](#aLandingMotherShip)
+  * [BSLC-BLD：戦闘揚陸艦](#aBattleLandingShip)
   
 
 

@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：陸戦攻撃機](../readme.md#aLandAirplane)
+  * [兵器分類：陸戦攻撃機](/unit/readme.md#aLandAirplane)
 
-  * 兵器標準仕様
-    * [LULA-ATK：陸戦攻撃機](#aLandAttacker)
-    * [LULA-BMB：陸戦爆撃機](#aLandBomber)
-    * [LULA-SPR：陸戦制圧機](#aLandSuppressor)
-    * [LULA-OBS：陸戦観測機](#aLandObservationAircraft)
-    * [LULA-INF：陸戦支援機](#aLandSupportAircraft)
-    * [LULA-CAG：陸戦輸送機](#aLandCargoAircraft)
-    * [LULA-LFI：局地戦闘機](#aLocalFighter)
-    * [LULA-OBT：軌道要撃機](#aOrbitalInterceptor)
+* 兵器標準仕様
+  * [LULA-ATK：陸戦攻撃機](#aLandAttacker)
+  * [LULA-BMB：陸戦爆撃機](#aLandBomber)
+  * [LULA-SPR：陸戦制圧機](#aLandSuppressor)
+  * [LULA-OBS：陸戦観測機](#aLandObservationAircraft)
+  * [LULA-INF：陸戦支援機](#aLandSupportAircraft)
+  * [LULA-CAG：陸戦輸送機](#aLandCargoAircraft)
+  * [LULA-LFI：局地戦闘機](#aLocalFighter)
+  * [LULA-OBT：軌道要撃機](#aOrbitalInterceptor)
   
 
 

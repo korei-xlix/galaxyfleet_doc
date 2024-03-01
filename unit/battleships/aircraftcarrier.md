@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：航空母艦](../readme.md#aAircraftCarrier)
+  * [兵器分類：航空母艦](/unit/readme.md#aAircraftCarrier)
 
-  * 兵器標準仕様
-    * [BSAC-STD：航空母艦](#aAircraftCarrier)
-    * [BSAC-AMD：装甲空母](#aArmoredAircraftCarrier)
-    * [BSAC-ATK：攻撃空母](#aAttackAircraftCarrier)
-    * [BSAC-MUS：多段式空母](#aMultiStageAircraftCarrier)
-    * [BSAC-BAC：戦闘空母](#aBattleAircraftCarrier)
-    * [BSAC-ICP：要撃空母](#aInterceptAircraftCarrier)
-    * [BSAC-SRK：戦略空母](#aStrikeAircraftCarrier)
-    * [BSAC-SCT：制宙艦](#aSpaceControlShip)
+* 兵器標準仕様
+  * [BSAC-STD：航空母艦](#aAircraftCarrier)
+  * [BSAC-AMD：装甲空母](#aArmoredAircraftCarrier)
+  * [BSAC-ATK：攻撃空母](#aAttackAircraftCarrier)
+  * [BSAC-MUS：多段式空母](#aMultiStageAircraftCarrier)
+  * [BSAC-BAC：戦闘空母](#aBattleAircraftCarrier)
+  * [BSAC-ICP：要撃空母](#aInterceptAircraftCarrier)
+  * [BSAC-SRK：戦略空母](#aStrikeAircraftCarrier)
+  * [BSAC-SCT：制宙艦](#aSpaceControlShip)
   
 
 

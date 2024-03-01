@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：民間衛星](../readme.md#aCivilSatellite)
-    * [CUCS-CMN：民間通信衛星](#aCivilCommunicationSatellite)
-    * [CUCS-PRV：自家用衛星](#aPrivateSatellite)
-    * [CUCS-EXP：民間探査衛星](#aCivilExplorationSatellite)
-    * [CUCS-GUD：警備衛星](#aGuardSatellite)
+* [兵器分類：民間衛星](/unit/readme.md#aCivilSatellite)
+  * [CUCS-CMN：民間通信衛星](#aCivilCommunicationSatellite)
+  * [CUCS-PRV：自家用衛星](#aPrivateSatellite)
+  * [CUCS-EXP：民間探査衛星](#aCivilExplorationSatellite)
+  * [CUCS-GUD：警備衛星](#aGuardSatellite)
 
-  * [兵器分類：公用衛星](../readme.md#aGovernmentSatellite)
-    * [CUGS-CMN：公用通信衛星](#aGovernmentCommunicationSatellite)
-    * [CUGS-EXP：公用探査衛星](#aGovernmentExplorationSatellite)
-    * [CUGS-REL：公用中継衛星](#aGovernmentRelaySatellite)
-    * [CUGS-COC：戦時監視衛星](#aCombatOversightCommitteeSatellite)
+* [兵器分類：公用衛星](/unit/readme.md#aGovernmentSatellite)
+  * [CUGS-CMN：公用通信衛星](#aGovernmentCommunicationSatellite)
+  * [CUGS-EXP：公用探査衛星](#aGovernmentExplorationSatellite)
+  * [CUGS-REL：公用中継衛星](#aGovernmentRelaySatellite)
+  * [CUGS-COC：戦時監視衛星](#aCombatOversightCommitteeSatellite)
   
 
 

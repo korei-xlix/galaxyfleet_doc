@@ -1,79 +1,155 @@
 # Galaxy Fleet
-**～特殊機能 仕様～**  
+  
+<h1>～機能仕様～</h1>  
+<h2>～Skill Specifications～</h2>  
+  
 
+**★このドキュメントの改造、流用、配布、クローンは禁止です★**  
+    **Modification, diversion, distribution, and cloning of this document are prohibited**  
+  
 
-# このドキュメントについて <a name="aHowto"></a>
-このドキュメントは「Galaxy Fleet」の特殊機能仕様を記載するものです。  
+<h1 id="aHowto">このドキュメントについて / About this document</h1>  
+このドキュメントは「Galaxy Fleet」の機能（スキル、バフ、デバフ）の種類、定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
+  
 
 
-# 目次 <a name="aMokuji"></a>
+
+
+
+<h1 id="aMokuji">目次 / Table of contents</h1>  
+
 * [readme.md](/readme.md)
+  * [スキル仕様](readme.md)
 
-* [機能種類](#iSkillKind)
-* [効果種類](#iEffectKind)
+  * [機能の定義](#aDefinitionSkill)
 
-* [攻撃機能](#iAttackSkill)
-* [防御機能](#iDefenceSkill)
-* [支援機能](#iSupportSkill)
-* [搭載機能](#iInstalledSkill)
+* [機能種類](#aSkillKind)
+  * [攻撃機能](skill_attack.md)
+  * [防御機能](skill_defence.md)
+  * [回復機能](skill_repair.md)
+  * [電子機能](skill_electric.md)
+  * [移動機能](skill_moved.md)
+  * [変形機能](skill_change.md)
+  * [搭載機能](skill_onbord.md)
+  * [戦略機能](skill_strategy.md)
 
-* [妨害効果](#iJammingEffect)
-* [制限効果](#iLimitsEffect)
-* [防御効果](#iDefenceEffect)
-* [支援効果](#iSupportEffect)
+* [効果種類](#aBuffKind)
+  * [攻撃効果](debuff_attack.md)
+  * [妨害効果](debuff_jamming.md)
+  * [支援効果](buff_support.md)
+  * [防御効果](buff_defence.md)
+  * [地形効果](terrain_effect.md)
+  
 
 
 
 
-<a id="iSkillKind"></a>
-# 機能種類
+
+<h1 id="aDefinitionSkill">機能の定義 / Definition of Skill</h1>  
+機能（スキル）は、艦船や装備品についていて、様々な上昇効果や減衰効果を生みだします。  
+  
+
+* **機能（スキル）**  
+  兵器に上昇効果や減衰効果を付与したり、追加の装備品を装備できるようにしたりする能力です。  
+  兵器に内蔵されていたり、装備品についていたり、兵器や装備品に付与したりできます。  
+  機能は３種類あります。  
+  
+  * **動的機能（アクティブスキル）**  
+    動的に発動する機能です。  
+
+  * **受的機能（パッシブスキル）**  
+    受動的に発動する機能です。  
+
+  * **装備機能**  
+    特殊な装備や固定装備を装備することができる機能です。  
+  
+
+* **上昇効果（バフ）**  
+  機能により兵器に与える上昇効果です。  
+  味方を有利にしたり、様々な支援効果を与えたりします。  
+
+* **減衰効果（デバフ）**  
+  機能により兵器に与える減衰効果です。  
+  敵を妨害したり、性能に制限を与えたりして、味方を有利に、敵を不利にします。  
+  
+
+
+
+
+
+<h1 id="aSkillKind">機能種類 / Skill Kind</h1>  
 兵器についてる機能で使用可能になる装備や、機能が発動することで発生効果が付加されます。  
-機能の用途別仕分けは以下のようになってます。  
+  
+  [目次へ戻る](#aMokuji)  
+  
 
-* 攻撃機能  
-　敵の兵器を攻撃したり、攻撃を強化するための機能です。  
+* [攻撃機能](skill_attack.md)  
+  敵の兵器を攻撃したり、攻撃を強化するための機能です。  
 
-* 防御機能  
-　発動した兵器や味方の兵器を敵の攻撃から防御したり、妨害する機能です。  
+* [防御機能](skill_defence.md)  
+  発動した兵器や味方の兵器を敵の攻撃から防御したり、妨害する機能です。  
 
-* 支援機能  
-　発動した兵器や味方の兵器に支援効果を与えたり、地形効果に影響を与える機能です。  
+* [回復機能](skill_repair.md)  
+  船体の修理、弾薬の補充、搭載機の補充など、回復に関する機能です。  
 
-* 搭載機能  
-　特殊な装備を搭載する機能です。装備することで新たな能力や効果が得られる場合があります。  
-　装備によっては特定の機能が必須となる場合があります。  
+* [電子機能](skill_electric.md)  
+  電子装置による補助、妨害、索敵、作戦指揮、通信する機能です。  
 
+* [移動機能](skill_moved.md)  
+  マップ移動の補助機能、搭載機の乗り降りや補助機能、移動の補助機能です。  
 
+* [変形機能](skill_change.md)  
+  ユニットの変形、装備換装の機能です。  
 
-<a id="iEffectKind"></a>
-# 効果種類
-"発生効果"は機能の影響を受けて発生する効果です。RPGで言うバフ、デバフです。仕分けは以下のようになってます。
+* [搭載機能](skill_onbord.md)  
+  搭載機に対する支援機能、搭載機数の拡張、搭載装備の補助機能です。  
 
-* 妨害効果  
-　機能を発動することで発生する減衰効果です。影響下にある兵器の性能を低下させたりします。  
-
-* 制限効果  
-　機能を発動したり、設備が破損することで一部機能を利用できなくなる効果です。  
-
-* 支援効果  
-　機能を発動することで発生する支援効果です。影響下にある兵器の性能を向上させたりします。  
-
-* 防御効果  
-　機能を発動することで発生する防御効果です。影響下にある兵器を敵の攻撃から防御したり、ダメージを軽減します。  
+* [戦略機能](skill_strategy.md)  
+  建築や採取に関する機能です。  
+  
 
 
 
 
+
+<h1 id="aBuffKind">効果種類 / Buff Kind</h1>  
+"発生効果"は機能の影響を受けて発生する効果です。  
+RPGで言うバフ、デバフです。仕分けは以下のようになってます。  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+* [攻撃効果](debuff_attack.md)  
+  攻撃により付加する減衰効果です。  
+  付加することでダメージを与えたり、性能や機能を制限させたり、使用不能にしたりします。  
+
+* [妨害効果](debuff_jumming.md)  
+  電子装置などで間接的に付加する減衰効果です。  
+  付加することで性能や機能を制限させます。  
+
+* [支援効果](buff_support.md)  
+  機能を発動した際に影響下にあることで付加する支援効果です。  
+  影響下にある兵器の性能を向上させたりします。  
+
+* [防御効果](buff_defence.md)  
+  機能を発動した際に影響下にあることで付加する支援効果です。  
+  影響下にある兵器を敵の攻撃から防御したり、ダメージを軽減します。  
+
+* [地形効果](terrain_effect.md)  
+  兵器が侵入している地形により付加される効果です。  
+  入った地形により、有利、不利が分かれます。  
+  
 
 
 
 
 
 ***
-[トップへ戻る](/readme.md)  
+[[トップへ戻る]](/readme.md)　/
+[[機能仕様]](/skill/readme.md)  
   
-::Project= Galaxy Fleet Document  
 ::Admin= Korei (@korei-xlix)  
-::github= https://github.com/korei-xlix/  
-::Homepage= https://koreixlix.wixsite.com/profile  
+::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
+::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
+::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

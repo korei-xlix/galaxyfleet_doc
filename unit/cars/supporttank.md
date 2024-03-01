@@ -20,19 +20,19 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：支援戦車](../readme.md#aSupportTank)
+  * [兵器分類：支援戦車](/unit/readme.md#aSupportTank)
 
-  * 兵器標準仕様
-    * [LUST-STD：支援戦車](#aSupportTank)
-    * [LUST-AMD：装甲戦車](#aArmoedTank)
-    * [LUBT-INF：歩兵戦車](#aInfantryTank)
-    * [LUST-AST：突撃戦車](#aAssaultTank)
-    * [LUST-JGP：駆逐戦車](#aJagdpanzer)
-    * [LUST-ENG：工作戦車](#aEngineerTank)
+* 兵器標準仕様
+  * [LUST-STD：支援戦車](#aSupportTank)
+  * [LUST-AMD：装甲戦車](#aArmoedTank)
+  * [LUBT-INF：歩兵戦車](#aInfantryTank)
+  * [LUST-AST：突撃戦車](#aAssaultTank)
+  * [LUST-JGP：駆逐戦車](#aJagdpanzer)
+  * [LUST-ENG：工作戦車](#aEngineerTank)
   
 
 

@@ -21,26 +21,26 @@
 
 * [readme.md](/readme.md)
   * [兵器仕様](readme.md)
-  * [兵器の区分記号](../strategypart/readme.md#aUnitClassificationSymbol)
+  * [兵器の区分記号](/strategypart/readme.md#aUnitClassificationSymbol)
   * [兵器種類](#aUnitKind)
   * [兵器分類](#aUnitClass)
   * [兵器形式](#aUnitType)
 
-  * 戦闘用の艦船
-    * [戦列艦](#aBattleShips)
-    * [護衛艦](#aEscortShips)
-    * [支援艦](#aSupportShips)
+* 戦闘用の艦船
+  * [戦列艦](#aBattleShips)
+  * [護衛艦](#aEscortShips)
+  * [支援艦](#aSupportShips)
 
-  * 戦闘兵器
-    * [機動兵器](#aMovableUnits)
-    * [陸戦兵器](#aLandUnits)
-    * [防衛兵器](#aDefenseUnits)
-    * [魔導歩兵](#aWizardInfantrys)
+* 戦闘兵器
+  * [機動兵器](#aMovableUnits)
+  * [陸戦兵器](#aLandUnits)
+  * [防衛兵器](#aDefenseUnits)
+  * [魔導歩兵](#aWizardInfantrys)
 
-  * 民間用
-    * [民間船](#aCivilShips)
-    * [民間機](#aCivilUnits)
-    * [民間施設](#aCivilFacilities)
+* 民間用
+  * [民間船](#aCivilShips)
+  * [民間機](#aCivilUnits)
+  * [民間施設](#aCivilFacilities)
   
 
 

@@ -20,19 +20,19 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：自走戦車](../readme.md#aSelfPropelledTank)
+  * [兵器分類：自走戦車](/unit/readme.md#aSelfPropelledTank)
 
-  * 兵器標準仕様
-    * [LUPT-STD：自走野戦砲](#aSelfPropelledCannon)
-    * [LUPT-AAT：自走対空砲](#aSelfPropelledAntiAirGun)
-    * [LUPT-ROC：自走ロケット](#aSelfPropelledRocket)
-    * [LUPT-MIS：自走ミサイル](#aSelfPropelledMissile)
-    * [LUPT-MIS：自走弩砲](#aSelfPropelledArchCannon)
-    * [LUMT-VER：万能戦車](#aSelfPropelledHoverCannon)
+* 兵器標準仕様
+  * [LUPT-STD：自走野戦砲](#aSelfPropelledCannon)
+  * [LUPT-AAT：自走対空砲](#aSelfPropelledAntiAirGun)
+  * [LUPT-ROC：自走ロケット](#aSelfPropelledRocket)
+  * [LUPT-MIS：自走ミサイル](#aSelfPropelledMissile)
+  * [LUPT-MIS：自走弩砲](#aSelfPropelledArchCannon)
+  * [LUMT-VER：万能戦車](#aSelfPropelledHoverCannon)
   
 
 

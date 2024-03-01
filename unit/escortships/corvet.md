@@ -20,18 +20,18 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：防護艦](../readme.md#aCorvet)
+  * [兵器分類：防護艦](/unit/readme.md#aCorvet)
 
-  * 兵器標準仕様
-    * [ESCV-STD：防護艦](#aCorvet)
-    * [ESCV-GAD：警戒艦](#aGuardShip)
-    * [ESCV-AMD：装甲防護艦](#aArmoredCorvet)
-    * [ESCV-MIS：ミサイル防護艦](#aMissileCorvet)
-    * [ESCV-DSP：通報艦](#aDispatchShip)
+* 兵器標準仕様
+  * [ESCV-STD：防護艦](#aCorvet)
+  * [ESCV-GAD：警戒艦](#aGuardShip)
+  * [ESCV-AMD：装甲防護艦](#aArmoredCorvet)
+  * [ESCV-MIS：ミサイル防護艦](#aMissileCorvet)
+  * [ESCV-DSP：通報艦](#aDispatchShip)
   
 
 

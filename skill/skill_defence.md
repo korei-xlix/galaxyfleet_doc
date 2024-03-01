@@ -1,125 +1,151 @@
 # Galaxy Fleet
-**～特殊機能 仕様～ :: 防御機能 **  
+  
+<h1>～機能仕様～ :: 防御機能</h1>  
+<h2>～Skill Specifications～ :: Defence Skill</h2>  
+  
+
+**★このドキュメントの改造、流用、配布、クローンは禁止です★**  
+    **Modification, diversion, distribution, and cloning of this document are prohibited**  
+  
+
+<h1 id="aHowto">このドキュメントについて / About this document</h1>  
+このドキュメントは「Galaxy Fleet」の機能のうち、防御機能について定義を記載するものです。  
+その他の仕様についてはreadmeの目次を確認してください。  
+  
 
 
-# 目次 <a name="aMokuji"></a>
+
+
+
+<h1 id="aMokuji">目次 / Table of contents</h1>  
+
 * [readme.md](/readme.md)
-* [特殊機能仕様](/skill/readme.md)
+* [スキル仕様](readme.md)
+
+* [物理防御](#aDefenceSkill)
+* [電子防御](#aDefenceSkill)
+* [防御支援](#aDefenceSkill)
+  
 
 
 
 
-# 防御機能
-**[Defence Skill]**  
 
 
-## 重盾展開
-**[Open Heavy Shield]**  
+
+<h1 id="aDefenceSkill">物理防御 / Defence Kind</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+<h2>重盾展開 / Open Heavy Shield</h2>  
 重盾を展開します。重盾装甲を装備してないと発動しません。  
 展開中は追加の防御バフが得られます。得られるバフは盾の性能によります。  
 　　発生効果：重盾防御  
+  
 
-
-## 迎撃準備
-**[Preparing for Interception]**  
+<h2>迎撃準備 / Preparing for Interception</h2>  
 迎撃ミサイルを発射準備態勢にセットします。装備していないと発動しません。  
 展開中は追加の防御バフが得られます。  
 　　発生効果：Ｍ迎撃  
+  
 
 
-## 潜航
-**[Dive]**  
-次元空間に潜航します。次元航行装置を装備していないと発動しません。  
-発動した次のターンには潜航します。潜航中バフがつきます。  
-急速潜航を宣言すると、そのターンのうちに潜航できますが、攻撃などはできません。  
-潜航中に再度発動すると、次のターンには浮上します。潜航中バフがとれます。  
-急速浮上を宣言すると、そのターンのうちに浮上できますが、攻撃などはできません。  
-　　発生効果：潜航中  
+
+## 迎撃
+**[Interception]**  
+電子性能が足りなくても迎撃ミサイルが装備できるようになる機能です。コストも半減します。  
+迎撃ミサイルを装備している場合、迎撃準備ができます。  
+　　追加機能：迎撃準備
 
 
-## 空母直掩（くうぼちょくえん）
-**[Air Carrier Direct Flight]**  
+## 反射板
+**[Refrection Boad]**  
+装甲反射板が使用できるようになる機能です。  
+反射板を装備している場合、反射板を展開することができます。  
+
+
+## 耐戦車砲
+**[Anti Tank Gun]**  
+耐戦車砲装甲板が搭載できるようになります。  
+
+
+
+
+
+
+
+<h1 id="aDefenceSkill">防御支援 / Defence Kind</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+<h2>空母直掩 / Air Carrier Direct Flight</h2>  
+空母直掩（くうぼちょくえん）  
 搭載中の戦闘機を発艦させて、空母を護衛させます。戦闘機が残存していないと発動しません。  
 直掩中、戦闘機が０機になると直掩は解除されます。  
 また直掩機は航空戦に参加できません。  
 　　発生効果：直掩中  
+  
 
-
-## 護衛指示
-**[Escort Instructions]**  
+<h2>護衛指示 / Escort Instructions</h2>  
 艦隊内の駆逐艦、もしくは護衛艦に自艦を護衛させます。駆逐艦、護衛艦がいないと発動しません。  
 　　発生効果：護衛中  
+  
 
-
-## 舟艇護衛
-**[Boat Direct Flight]**  
+<h2>舟艇護衛 / Boat Direct Flight</h2>  
 搭載中の装載艇を発艦させて、空母を護衛させます。装載艇が残存していないと発動しません。  
 直掩中、戦闘機が０機になると直掩は解除されます。  
 また直掩の装載艇は通常の戦闘に参加できません。  
 　　発生効果：舟護中  
+  
 
-
-## 艦隊防空
-**[Fleet Air Defense]**  
+<h2>艦隊防空 / Fleet Air Defense</h2>  
 搭載中の戦闘機を発艦させて、艦隊を護衛させます。戦闘機が残存していないと発動しません。  
 直掩中、戦闘機が０機になると直掩は解除されます。  
 また艦隊防空中の機は航空戦に参加できません。  
 　　発生効果：防空中  
+  
 
 
-## 陸戦防衛
-**[Land Warfare Defense]**  
+<h2>陸戦防衛 / Land Warfare Defense</h2>  
 搭載中の戦隊に護衛型の陸戦歩兵がいる場合、そのうちの１隊を陸防中にします。  
 所属艦隊の艦船が陸戦移乗を受けたら、陸防中の陸戦歩兵を自動派遣し、迎撃に回せます。  
 　　発生効果：陸防中  
+  
 
-
-## 陸戦阻止
-**[Stop Land Warfare]**  
+<h2>陸戦阻止 / Stop Land Warfare</h2>  
 搭載中の戦隊に護衛型の陸戦歩兵がいる場合、その艦船を陸阻中にします。  
 所属艦隊の艦船が陸戦移乗を受けたら、身代わりで対象艦と入れ替わり、搭載中の陸戦歩兵を派遣し、迎撃に回せます。  
 　　発生効果：阻止中  
+  
 
-
-## 格闘
-**[Fighting]**  
-接近戦用武器を装備している場合に発動します。  
-接近戦用武器でのダメージが 50％、命中率が 20％ 上昇します。  
-また近接レンジにいる敵の攻撃の回避率が 30％ 上昇します。  
-
-
-## 護衛後送
-**[Escort Post]**  
+<h2>護衛後送 / Escort Post</h2>  
 被弾した艦に護衛艦をつけて単独で退避させることができます。  
 また被弾した護衛艦と、手持ちの無傷の護衛艦と入れ替えできます。  
 　　発生効果：護衛・護衛中、護衛・後送中  
+  
 
-
-## 護衛増援
-**[Escort Reinforcement]**  
+<h2>護衛増援 / Escort Reinforcement</h2>  
 隣接ヘックスで護衛艦が撃沈されていたり、護衛艦の枠がある場合、  
 手持ちの無傷の護衛艦を送ることができます。  
-
-
-## 妨害無効
-**[Invalid Electronic Warfare]**  
-電子妨害の影響を受けません。  
-
-
-## 早期警戒
-**[Early Alert]**  
-範囲内でミサイルや艦載機、レーザ砲を搭載する敵艦がいたら、  
-砲撃回避や、ミサイル迎撃、航空戦が有利になりやすくなります。  
-
-
-## 先読み
-**[Lookahead]**  
-自走砲や自走ロケットで攻撃された際、攻撃前にこちらから攻撃できます。  
-地上からの遠距離射撃への回避力が 70％ 上昇します。  
-ただし、近距離からの射撃は 30％ あがってしまいます。  
+  
 
 
 
+
+
+
+
+## 装甲甲板
+**[Armor Deck]**  
+コストなしで甲板重装甲化が搭載できるようになります。  
+
+
+## 強化甲板
+**[Reinforced Deck]**  
+コストなしで強化カタパルトが搭載できるようになります。  
+　　追加機能：迎撃準備  
 
 
 
@@ -127,9 +153,10 @@
 
 
 ***
-[トップへ戻る](/readme.md) / [特殊機能仕様](/skill/readme.md)  
+[[トップへ戻る]](/readme.md)　/
+[[機能仕様]](/skill/readme.md)  
   
-::Project= Galaxy Fleet Document  
 ::Admin= Korei (@korei-xlix)  
-::github= https://github.com/korei-xlix/  
-::Homepage= https://koreixlix.wixsite.com/profile  
+::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
+::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
+::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

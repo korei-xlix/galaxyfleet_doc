@@ -20,17 +20,17 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：戦場工作艦](../readme.md#aFieldEngineerShip)
+  * [兵器分類：戦場工作艦](/unit/readme.md#aFieldEngineerShip)
 
-  * 兵器標準仕様
-    * [SSES-STD：戦場工作艦](#aFieldEngineerShip)
-    * [SSES-LAY：敷設回収艦](#aMineLayingandRecoveryShip)
-    * [SSES-TOW：曳航艦](#aTowingShip)
-    * [SSES-EBS：工作戦艦](#aFieldEngineerBattleShip)
+* 兵器標準仕様
+  * [SSES-STD：戦場工作艦](#aFieldEngineerShip)
+  * [SSES-LAY：敷設回収艦](#aMineLayingandRecoveryShip)
+  * [SSES-TOW：曳航艦](#aTowingShip)
+  * [SSES-EBS：工作戦艦](#aFieldEngineerBattleShip)
   
 
 

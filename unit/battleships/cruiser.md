@@ -20,21 +20,21 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-  * [兵器仕様](../readme.md)
-  * [兵器種類](../../strategypart/readme.md#aUnitKind)
-  * [兵器分類](../readme.md#aUnitClass)
+  * [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#aUnitKind)
+  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：巡航艦](../readme.md#aCruiser)
+  * [兵器分類：巡航艦](/unit/readme.md#aCruiser)
 
-  * 兵器標準仕様
-    * [BSCR-STD：巡航艦](#aCruiser)
-    * [BSCR-AMD：装甲巡航艦](#aArmoredCruiser)
-    * [BSCR-ADF：防空巡航艦](#aAirDefensiveCruiser)
-    * [BSCR-MIS：ミサイル巡航艦](#aMissileCruiser)
-    * [BSCR-SPT：高速巡航艦](#aSplintCruiser)
-    * [BSCR-AVI：航空巡航艦](#aAviationCruiser)
-    * [BSCR-STM：強襲巡航艦](#aStormCruiser)
-    * [BSCR-FLD：嚮導艦](#aFlotillaLeaderShip)
+* 兵器標準仕様
+  * [BSCR-STD：巡航艦](#aCruiser)
+  * [BSCR-AMD：装甲巡航艦](#aArmoredCruiser)
+  * [BSCR-ADF：防空巡航艦](#aAirDefensiveCruiser)
+  * [BSCR-MIS：ミサイル巡航艦](#aMissileCruiser)
+  * [BSCR-SPT：高速巡航艦](#aSplintCruiser)
+  * [BSCR-AVI：航空巡航艦](#aAviationCruiser)
+  * [BSCR-STM：強襲巡航艦](#aStormCruiser)
+  * [BSCR-FLD：嚮導艦](#aFlotillaLeaderShip)
   
 
 
