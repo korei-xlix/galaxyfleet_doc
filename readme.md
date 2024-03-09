@@ -149,10 +149,10 @@ AI可もみ  大型の兵器や要塞もほぼ自動化されていった結果
 | DBサーバ            | MySQL            |    |
 | python実行          | fastCGI          | web→python実行アプリ  |
 | ターミナルソフト    | Teraterm         | サーバ管理アプリ       |
-| githubアプリ        | git、gittext     |    |
-| sslアプリ           | openssl          | Homebrewで使用   |
-| データ転送アプリ    | curl             | Homebrewで使用   |
-| 仮想環境アプリ      | Homebrew         |    |
+| githubアプリ        | git、gettext     |    |
+| sslアプリ           | openssl          | git、python3で使用   |
+| データ転送アプリ    | curl             | git、python3で使用   |
+| 仮想環境            | homebrew         | pythonを実行する  |
 | エンコード          | utf-8            |    |
 | その他              | githubアカウント |    |
 
@@ -373,6 +373,8 @@ Galaxy Fleetのリポジトリは３つに分かれています。
 * [各国の軍隊一覧:wikipedia](https://bit.ly/3zEg6Wi)
 
 * [近い恒星の一覧:wikipedia](https://bit.ly/3gyiCWi)
+
+* [レンタルサーバーにパッケージ管理のHomeBrewを入れる](https://rensaba-programer.jp/2022/08/07/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%ABhomebrew%E3%82%92%E5%85%A5%E3%82%8C%E3%82%8B/)
 
 
 
