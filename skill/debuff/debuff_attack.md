@@ -1,7 +1,7 @@
-# Galaxy Fleet
+# Galaxy Fleet ～機能仕様：攻撃効果～
   
-<h1>～機能仕様～ :: 地形効果</h1>  
-<h2>～Skill Specifications～ :: Terrain Effect</h2>  
+<h1>～機能仕様：攻撃効果～</h1>  
+<h2>～Skill Specifications：Attack Debuff～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
@@ -9,7 +9,7 @@
   
 
 <h1 id="aHowto">このドキュメントについて / About this document</h1>  
-このドキュメントは「Galaxy Fleet」の機能のうち、地形効果について定義を記載するものです。  
+このドキュメントは「Galaxy Fleet」の機能のうち、攻撃効果について定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
   
 
@@ -20,7 +20,7 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-* [スキル仕様](readme.md)
+* [スキル仕様](/skill/readme.md)
 
 * [砲撃系](#aAttackSkill)
 * [雷撃系](#aAttackSkill)
@@ -31,6 +31,19 @@
 * [電子戦系](#aAttackSkill)
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 

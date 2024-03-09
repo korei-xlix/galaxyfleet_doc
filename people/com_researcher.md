@@ -1,7 +1,7 @@
-# Galaxy Fleet
+# Galaxy Fleet ～人物集：科学者・研究者～
   
-<h1>～用語集～ :: 科学者・研究者</h1>  
-<h2>～Terms～ :: Researcher</h2>  
+<h1>～人物集：科学者・研究者～</h1>  
+<h2>～Peoples：Researcher～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  

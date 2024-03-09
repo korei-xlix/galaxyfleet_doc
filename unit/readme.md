@@ -66,6 +66,9 @@
   
 
 <h2 id="aBattleShips">BS：戦列艦 / Battle Ships</h2>  
+  
+  [目次へ戻る](#aMokuji) / [戦列艦](battleships/readme.md)  
+  
 
 * **<a id="aDestroyer">[BSDS：駆逐艦　Destroyer](battleships/destroyer.md)</a>**  
   小型で小回りのきく戦列艦です。  
@@ -181,7 +184,7 @@
 
 <h2 id="aSupportShips">SS：支援艦 / Support Ships</h2>  
   
-  [目次へ戻る](#aMokuji)  
+  [目次へ戻る](#aMokuji) / [支援艦](supportships/readme.md)  
   
 
 * **<a id="aRecommendShip">[SSRE：偵察艦　Recommend Ship](supportships/recommendship.md)</a>**  
@@ -679,9 +682,9 @@
 
 * **BSMC-STM：強襲空母**  
 
-* **BSMC--MUL：商船空母**  
+* **BSMC-MUL：商船空母**  
 
-* **BSMC--SMK：対潜空母**  
+* **BSMC-SMK：対潜空母**  
 
 * **BSMC-CNT：コンテナ空母**  
 
@@ -874,15 +877,15 @@
 * **SSLS-TKR：戦車回収艦**  
 
 
-<h2>SSES：工作支援艦 / Engineer Support Support Ship</h2>  
+<h2>SSFE：戦場工作艦 / Field Engineer Ship</h2>  
 
-* **SSES-STD：戦場工作艦**  
+* **SSFE-STD：戦場工作艦**  
 
-* **SSES-LAY：敷設回収艦**  
+* **SSFE-LAY：敷設回収艦**  
 
-* **SSES-TOW：曳航艦**  
+* **SSFE-TOW：曳航艦**  
 
-* **SSES-EBS：工作戦艦**  
+* **SSFE-EBS：工作戦艦**  
 
 
 <h2>SSSS：戦略支援艦 / Strategy Support Ship</h2>  
@@ -908,7 +911,7 @@
 * **SSSS-TRG：転送ゲート艦**  
 
 
-<h2>SSWZ：魔導支援艦 / Wizard Support Ship</h2>  
+<h2>SSWZ：魔導支援艦 / Support Wizard Ship</h2>  
 
 * **SSWZ-STD：魔導支援艦**  
 

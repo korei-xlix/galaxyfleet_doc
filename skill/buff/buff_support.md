@@ -1,7 +1,7 @@
-# Galaxy Fleet
+# Galaxy Fleet ～機能仕様：支援効果～
   
-<h1>～機能仕様～ :: 支援効果</h1>  
-<h2>～Skill Specifications～ :: Support Buff</h2>  
+<h1>～機能仕様：支援効果～</h1>  
+<h2>～Skill Specifications：Support Buff～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
@@ -20,7 +20,7 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-* [スキル仕様](readme.md)
+* [スキル仕様](/skill/readme.md)
 
 * [砲撃系](#aAttackSkill)
 * [雷撃系](#aAttackSkill)
@@ -33,6 +33,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 <h1 id="aAttackSkill">砲撃系 / Attack Kind</h1>  

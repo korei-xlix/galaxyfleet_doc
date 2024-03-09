@@ -1,7 +1,7 @@
-# Galaxy Fleet
+# Galaxy Fleet ～人物集：著名人・歴史の偉人～
   
-<h1>～用語集～ :: 著名人・歴史の偉人</h1>  
-<h2>～Terms～ :: Celebrity</h2>  
+<h1>～人物集：著名人・歴史の偉人～</h1>  
+<h2>～Peoples：Celebrity～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  

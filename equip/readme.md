@@ -1,6 +1,7 @@
 # Galaxy Fleet
   
 <h1>～装備品仕様～</h1>  
+<h2>～Equip Specifications～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
@@ -8,7 +9,7 @@
   
 
 <h1 id="aHowto">このドキュメントについて / About this document</h1>  
-このドキュメントは「Galaxy Fleet」で使われる装備品の定義を記載するものです。  
+このドキュメントは「Galaxy Fleet」の装備品の種類、定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
   
 
@@ -23,6 +24,7 @@
   * [装備の区分記号](../strategypart/readme.md#aEquipClassificationSymbol)
   * [装備種類](#aEquipKind)
   * [装備分類](#aEquipClass)
+  * [装備形式](#aEquipType)
 
 * 基礎構造
   * [基礎フレーム](basic.md#aFoundationFrame)
@@ -145,20 +147,23 @@
   
 
 <h2 id="aFoundationStructure">FS：基礎構造 / Foundation Structure</h2>  
+  
+  [目次へ戻る](#aMokuji) / [基礎構造](foundation/readme.md)  
+  
 
-* **FSFF：基礎フレーム　Foundation Frame**  
+* **<a id="aFoundationFrame">[FSFF：基礎フレーム　Foundation Frame](foundation/frame.md)</a>**  
   外装やフレームなど兵器の装甲や基礎構造で、耐久性能に影響する構造です。  
   
 
-* **FSTH：スラスタ　Thruster**  
+* **<a id="aThruster">[FSTH：スラスタ　Thruster](foundation/thruster.md)</a>**  
   兵器の姿勢制御や加速、推進をおこなう装置で、機動性能に影響する構造です。  
   
 
-* **FSMC：メインコンピュータ　Main Computer**  
+* **<a id="aMainComputer">[FSMC：メインコンピュータ　Main Computer](foundation/computer.md)</a>**  
 電子機器の制御や情報統制、戦術分析などをおこなうコンピュータなどの電子装置で、電子性能に影響する構造です。  
   
 
-* **FSEG：エンジン　Engine**  
+* **<a id="aEngine">[FSEG：エンジン　Engine](foundation/computer.md)</a>**  
 エネルギーを自己生成し、兵器が活動するための力を生み出す装置で、動力性能に影響する構造です。  
   
 
@@ -193,7 +198,7 @@
   
 
 
-<h2 id="aThrowingWepon">TW：噴進武器 / Throwing Wepon</h2>  
+<h2 id="aThrowingLuncher">TW：投射武器 / Throwing Luncher</h2>  
   
   [目次へ戻る](#aMokuji)  
   
@@ -214,12 +219,20 @@
   着弾すると爆発するエネルギー弾を発射する武器です。誘導式で命中率が高いですが、威力が落ちます。  
   
 
-* **TWTP：次元転換魚雷　Tranceform Torpido Luncher**  
-  次元空間を滑走する魚雷を発射、着弾寸前に通常空間に現れ、目標を爆破する武器です。射程は短いですが、敵艦に壊滅的なダメージを与えます。  
+* **TWHT：重魚雷　Heavy Torpido Luncher**  
+  次元空間を滑走する魚雷を発射、着弾寸前に通常空間に現れ、目標を爆破する武器です。  
+  とくに大型艦艇や、建築物を攻撃するのに向いてますが、誘導性はなく命中率が悪いです。  
+  射程は短いですが、敵艦に壊滅的なダメージを与えます。  
   
 
-* **TWVE：次元転換噴進弾　Tranceform Vertical Luncher**  
-  次元空間から通常空間を噴進弾で攻撃する、潜航艦用の武器です。  
+* **TWGT：誘導魚雷　Guided Torpido Luncher**  
+  次元空間を滑走する魚雷を発射、着弾寸前に通常空間に現れ、目標を爆破する武器です。  
+  誘導性が高く、機動力の高い艦艇を攻撃するのに向きますが、重魚雷より攻撃力は低いです。  
+  
+
+* **TWTT：トランスフォームトーピード　Tranceform Torpido Luncher**  
+  次元空間を滑走する魚雷を発射、着弾寸前に通常空間に現れ、目標を爆破するエネルギー武器です。  
+  射程は短いですが、敵艦へのダメージが高いです。  
   
 
 
@@ -277,9 +290,20 @@
   主に装甲の厚い艦船や、建物を攻撃するのに向いてます。  
   
 
-* **BBMN：次元反応爆雷　Reaction Dropping Mine Luncher**  
-  次元空間に爆雷を投下し、潜航艦を攻撃する武器です。  
+* **BBTD：次元転換爆雷　Tranceform Depth Charge Luncher**  
+  次元空間に爆雷を投下し、潜航艦を攻撃する実体武器です。  
   低コストですが、潜航中の潜水艦以外には使えません。  
+  
+
+* **BBTB：トランスフォームボム　Tranceform Bomb Luncher**  
+  次元空間に爆雷を投下し、潜航艦を攻撃するエネルギー武器です。  
+  低コストですが、潜航中の潜水艦以外には使えません。  
+  
+
+* **BBRB：次元反応弾　Reaction Dropping Bomb Luncher**  
+  次元空間に投下する爆弾で、着弾すると爆発し、次元空間、通常空間とも熱とエネルギー流で目標を破壊します。  
+  通常空間の艦艇、潜航艦とも作用します。  
+  高コストです。  
   
 
 
@@ -289,8 +313,7 @@
   
 
 * **IWSP：艦船用接近戦武器　Ship Infight Weapon**  
-  護衛艦用の接近戦闘専用の武器です。  
-  艦船への移乗や、艦船の妨害や拘束に使えます。  
+  艦船用の接近戦闘用の武器です。  
   
 
 * **IWII：歩兵用接近戦武器　Infantry Infight Weapon**  
@@ -303,32 +326,12 @@
   
 
 
-<h2 id="aArmorEnhancementEquipment">AM：装甲強化装備 / Armor Enhancement Equipment</h2>  
-  
-  [目次へ戻る](#aMokuji)  
-  
-
-* **AMAA：簡易追加装甲　Easy AddOn Armor**  
-  簡易的に兵器の装甲を追加するパーツです。  
-  簡易的に装備するため耐久性が低く壊れやすいです。  
-  
-
-* **AMEP：装甲強化キット　Armor Enhancement Kit**  
-  兵器の装甲を追加、強化する改造キットです。  
-  既存の装甲を入れ替えるため故障はなく、耐久性は高いです。  
-  
-
-* **AMFR：フレーム強化キット　Frame Strengthening Kit**  
-  兵器の基礎フレームを強化する改造キットです。  
-  
-
-
 <h2 id="aElectronicWarfareDevice">EW：電子戦装備 / Electronic Warfare Device</h2>  
   
   [目次へ戻る](#aMokuji)  
   
 
-* **EWSH：電子探索装置　Electronic Search Device**  
+* **EWRD：電子探索装置　Rader Device**  
   戦場の地形や敵の存在、位置を探索したり、探索で収集したデータを分析する装置です。  
   レーダーが該当します。  
   
@@ -348,6 +351,18 @@
   電子戦装置の性能を強化したり、感度を向上するようなパーツです。  
   
 
+* **DFVR：レーダ反射設備　Visual Recognition**  
+  装甲に追加するレーダ発射素材です。  
+  
+
+* **EWCO：指令設備　Command Equipment**  
+  指令をおこなったり、指令機能を追加、強化する設備です。  
+  
+
+* **EWFC：火器管制設備　Fire Control Equipment**  
+  火器の発射管制、目標の補足、着弾観測をおこなう、攻撃支援装置です。  
+  
+
 
 <h2 id="aDefensiveEquipment">DF：防御装備 / Defensive Equipment</h2>  
   
@@ -359,7 +374,7 @@
   シールドジェネレータと接続し、シールドエネルギーが続く限り防御効果が継続します。  
   
 
-* **DFMI：ミサイル迎撃装置　Missile Interception Device**  
+* **DFMI：噴進弾迎撃装置　Missile Interception Device**  
   ミサイルを迎撃するミサイルとそのシステム一式です。  
   物理的に迎撃するので有効性が高いです。  
   
@@ -372,44 +387,65 @@
   被弾時の被害軽減と復旧をおこなうシステム一式です。  
   
 
+* **DFAM：追加装甲　Additional Armor**  
+  標準装甲の上に重ねる追加装甲ユニットです。  
+  
 
-<h2 id="aAncillaryEquipment">AC：付属設備 / Ancillary Equipment</h2>  
+
+<h2 id="aHullReinforcementEquipment">HR：船体強化装備 / Hull Reinforcement Equipment</h2>  
   
   [目次へ戻る](#aMokuji)  
   
 
-* **ACUL：兵器搭載設備　Unit Loading Equipment**  
-  兵器へ別の兵器を搭載したり、敷設兵器を設置、回収するための設備です。  
+* **HRSK：簡易船体強化キット　Simple Hull Reinforcement Kit**  
+  兵器の船体に取り付ける簡易改造キットです。  
+  簡易的に装備するため耐久性が低く壊れやすいです。  
   
 
-* **ACCL：貨物搭載設備　Cargo Loading Equipment**  
-  兵器へ貨物を搭載したり、回収するための設備です。  
+* **HRRK：船体強化交換キット　Hull Replacement Kit**  
+  兵器の船体を交換し、永続的に強化する改造キットです。  
+  既存のフレームパーツを入れ替えるため故障はなく、耐久性は高いです。  
   
 
-* **ACCO：指令設備　Command Equipment**  
-  指令をおこなったり、指令機能を追加、強化する設備です。  
+
+<h2 id="aOnBoardExpansionEquipment">OB：搭載機能拡張装備 / OnBoard Expansion Equipment</h2>  
+  
+  [目次へ戻る](#aMokuji)  
   
 
-* **ACFC：火器管制設備　Fire Control Equipment**  
-  火器の発射制御や、照準制御をおこなう設備です。  
+
+
+
+
+
+<h2 id="aSupportEquipment">SP：追加支援装備 / Additional Support Equipment</h2>  
+  
+  [目次へ戻る](#aMokuji)  
   
 
-* **ACAE：補助機関設備　Auxiliary Engine Equipment**  
-  兵器の推進制御や、動力制御をおこなったり、星間を移動するためのドライブユニットなどの設備です。  
+
+
+
+* **HRRD：リープドライブシステム　Reap Drive System**  
+  艦船単独でリープ航行を実現する追加ドライブシステムです。  
   
 
-* **ACFE：浮遊陣地用設備　Floating Encampment Equipment**  
-  浮遊兵器用の設備です。  
-  
 
-* **ACEN：陣地用設備　Encampment Equipment**  
-  陣地用の設備です。  
-  
+
+
+
+
+
 
 
 <h2 id="aStrategicClassWeapon">SW：戦略級兵器 / Strategic Class Weapon</h2>  
   
   [目次へ戻る](#aMokuji)  
+  
+
+* **SWTT：転送砲　Reap Rail Cannon**  
+  小型の転送装置で、爆弾や建造物を転送して、目標を攻撃するトンデモ兵器です。  
+  使用の制限はありませんが、艦艇塔載兵器としては巨大なため、一部の艦船にしか搭載できません。  
   
 
 * **SWVV：作戦兵器　Operational Weapon**  
@@ -541,14 +577,164 @@
 
 
 
-***
-::Game Site= [https://galaxy-fleet.koreis-labo.com/](https://galaxy-fleet.koreis-labo.com/)  
-::github= [https://github.com/korei-xlix/galaxyfleet](https://github.com/korei-xlix/galaxyfleet)  
-::Twitter= [https://twitter.com/galaxy_fleet](https://twitter.com/galaxy_fleet)  
+<h1 id="aEquipType">装備形式 / Equip Type</h1>  
+各装備種類は、さらに装備分類に分類分けされます。  
+
+<h2>FSFF：基礎フレーム / Foundation Frame</h2>  
   
-::Deverop= Samafeald (@samafeald)  
-::Twitter= [https://twitter.com/samafeald](https://twitter.com/samafeald)  
+  [目次へ戻る](#aMokuji)  
   
+
+* **FSFF-sIRO：アイアン**  
+
+* **FSFF-sALM：アルミニウム**  
+
+* **FSFF-sCAR：カーボン**  
+
+* **FSFF-sTIT：チタニウム**  
+
+* **FSFF-sRHE：レニウム**  
+
+* **FSFF-sWOL：ウォルフラム**  
+
+* **FSFF-sMAG：マグネシウム**  
+
+* **FSFF-sNAN：ナノメタル**  
+
+* **FSFF-sBAR：バリアメタル**  
+
+* **FSFF-sHAR：ハーモナイト**  
+
+* **FSFF-sADA：アダマンチウム**  
+
+* **FSFF-sUNO：アンオブタニウム**  
+  
+
+<h2>FSTH：スラスタ / Thruster</h2>  
+
+* **FSTH-sCHP：安いスラスタ**  
+
+* **FSTH-sSTD：標準スラスタ**  
+
+* **FSTH-sLWT：軽量スラスタ**  
+
+* **FSTH-sEXT：極端なスラスタ**  
+
+* **FSTH-sEFF：効率的なスラスタ**  
+
+* **FSTH-sPRT：試作スラスタ**  
+
+* **FSTH-sHIG：最高級スラスタ**  
+
+* **FSTH-sSTL：ステルススラスタ**  
+
+* **FSTH-sDIM：次元航行スラスタ**  
+
+* **FSTH-sBAS：バサードラムジェット**  
+
+* **FSTH-sTID：潮汐力スラスタ**  
+
+* **FSTH-sUNO：アンオブタナブルスラスタ**  
+  
+
+<h2>FSMC：メインコンピュータ / Main Computer</h2>  
+
+* **FSMC-sCHP：安いコンピュータ**  
+
+* **FSMC-sSTD：標準コンピュータ**  
+
+* **FSMC-sLWT：軽量コンピュータ**  
+
+* **FSMC-sEXT：極端なコンピュータ**  
+
+* **FSMC-sEFF：効率的なコンピュータ**  
+
+* **FSMC-sPRT：試作コンピュータ**  
+
+* **FSMC-sHIG：最高級コンピュータ**  
+
+* **FSMC-sPSY：精神コンピュータ**  
+
+* **FSMC-sPRS  |人格コンピュータ**  
+
+* **FSMC-sBIO  |生体コンピュータ**  
+
+* **FSMC-sDIM  |次元コンピュータ**  
+
+* **FSMC-sUNO  |アンオブタナブルコンピュータ**  
+  
+
+<h2>FSCP：CPUチップ / CPU Chip</h2>  
+
+* **FSCP-sCHP：安いCPU**  
+
+* **FSCP-sSTD：標準CPU**  
+
+* **FSCP-sEFF：効率的なCPU**  
+
+* **FSCP-sPRT：試作CPU**  
+
+* **FSCP-sHIG：最高級CPU**  
+
+* **FSCP-sCOR：コアチップ**  
+
+* **FSCP-sBRA：脳みそ**  
+  
+
+<h2>FSEG：エンジン / Engine</h2>  
+
+* **FSEG-sCHP：安いエンジン**  
+
+* **FSEG-sSTD：標準エンジン**  
+
+* **FSEG-sLWT：軽量エンジン**  
+
+* **FSEG-sEXT：極端なエンジン**  
+
+* **FSEG-sEFF：効率的なエンジン**  
+
+* **FSEG-sPRT：試作エンジン**  
+
+* **FSEG-sHIG：最高級エンジン**  
+
+* **FSEG-sREU：再利用式エンジン**  
+
+* **FSEG-sNUC：核融合エンジン**  
+
+* **FSEG-sANT：反物質エンジン**  
+
+* **FSEG-sPHA：相転移エンジン**  
+
+* **FSEG-sUNO：アンオブタナブルエンジン**  
+  
+
+<h2>FSPR：動力炉 / Power Reactor</h2>  
+
+* **FSPR-sCHP：安い動力炉**  
+
+* **FSPR-sSTD：標準動力炉**  
+
+* **FSPR-sEFF：効率的な動力炉**  
+
+* **FSPR-sPRT：試作動力炉**  
+
+* **FSPR-sHIG：最高級動力炉**  
+
+* **FSPR-sNUC：核融合炉**  
+
+* **FSPR-sANT：反物質炉**  
+
+* **FSPR-sPHA：相転移炉**  
+  
+
+
+
+
+
+
+
+
+
 
 ***
 [[トップへ戻る]](/readme.md)　/

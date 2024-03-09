@@ -1,4 +1,4 @@
-# Galaxy Fleet
+# Galaxy Fleet ～機能仕様～
   
 <h1>～機能仕様～</h1>  
 <h2>～Skill Specifications～</h2>  
@@ -25,21 +25,21 @@
   * [機能の定義](#aDefinitionSkill)
 
 * [機能種類](#aSkillKind)
-  * [攻撃機能](skill_attack.md)
-  * [防御機能](skill_defence.md)
-  * [回復機能](skill_repair.md)
-  * [電子機能](skill_electric.md)
-  * [移動機能](skill_moved.md)
-  * [変形機能](skill_change.md)
-  * [搭載機能](skill_onbord.md)
-  * [戦略機能](skill_strategy.md)
+  * [攻撃機能](skill/skill_attack.md)
+  * [防御機能](skill/skill_defence.md)
+  * [回復機能](skill/skill_repair.md)
+  * [電子機能](skill/skill_electric.md)
+  * [移動機能](skill/skill_moved.md)
+  * [変形機能](skill/skill_change.md)
+  * [搭載機能](skill/skill_onbord.md)
+  * [戦略機能](skill/skill_strategy.md)
 
 * [効果種類](#aBuffKind)
-  * [攻撃効果](debuff_attack.md)
-  * [妨害効果](debuff_jamming.md)
-  * [支援効果](buff_support.md)
-  * [防御効果](buff_defence.md)
-  * [地形効果](terrain_effect.md)
+  * [攻撃効果](debuff/debuff_attack.md)
+  * [妨害効果](debuff/debuff_jamming.md)
+  * [支援効果](buff/buff_support.md)
+  * [防御効果](buff/buff_defence.md)
+  * [地形効果](terrain/terrain_effect.md)
   
 
 
@@ -84,28 +84,28 @@
   [目次へ戻る](#aMokuji)  
   
 
-* [攻撃機能](skill_attack.md)  
+* [攻撃機能](skill/skill_attack.md)  
   敵の兵器を攻撃したり、攻撃を強化するための機能です。  
 
-* [防御機能](skill_defence.md)  
+* [防御機能](skill/skill_defence.md)  
   発動した兵器や味方の兵器を敵の攻撃から防御したり、妨害する機能です。  
 
-* [回復機能](skill_repair.md)  
+* [回復機能](skill/skill_repair.md)  
   船体の修理、弾薬の補充、搭載機の補充など、回復に関する機能です。  
 
-* [電子機能](skill_electric.md)  
+* [電子機能](skill/skill_electric.md)  
   電子装置による補助、妨害、索敵、作戦指揮、通信する機能です。  
 
-* [移動機能](skill_moved.md)  
-  マップ移動の補助機能、搭載機の乗り降りや補助機能、移動の補助機能です。  
+* [移動機能](skill/skill_moved.md)  
+  マップ移動の補助機能です。  
 
-* [変形機能](skill_change.md)  
+* [変形機能](skill/skill_change.md)  
   ユニットの変形、装備換装の機能です。  
 
-* [搭載機能](skill_onbord.md)  
-  搭載機に対する支援機能、搭載機数の拡張、搭載装備の補助機能です。  
+* [搭載機能](skill/skill_onbord.md)  
+  搭載機の搭載機能、支援機能、搭載機数の拡張、搭載装備の補助機能です。  
 
-* [戦略機能](skill_strategy.md)  
+* [戦略機能](skill/skill_strategy.md)  
   建築や採取に関する機能です。  
   
 
@@ -120,23 +120,23 @@ RPGで言うバフ、デバフです。仕分けは以下のようになって�
   [目次へ戻る](#aMokuji)  
   
 
-* [攻撃効果](debuff_attack.md)  
+* [攻撃効果](debuff/debuff_attack.md)  
   攻撃により付加する減衰効果です。  
   付加することでダメージを与えたり、性能や機能を制限させたり、使用不能にしたりします。  
 
-* [妨害効果](debuff_jumming.md)  
+* [妨害効果](debuff/debuff_jumming.md)  
   電子装置などで間接的に付加する減衰効果です。  
   付加することで性能や機能を制限させます。  
 
-* [支援効果](buff_support.md)  
+* [支援効果](buff/buff_support.md)  
   機能を発動した際に影響下にあることで付加する支援効果です。  
   影響下にある兵器の性能を向上させたりします。  
 
-* [防御効果](buff_defence.md)  
+* [防御効果](buff/buff_defence.md)  
   機能を発動した際に影響下にあることで付加する支援効果です。  
   影響下にある兵器を敵の攻撃から防御したり、ダメージを軽減します。  
 
-* [地形効果](terrain_effect.md)  
+* [地形効果](terrain/terrain_effect.md)  
   兵器が侵入している地形により付加される効果です。  
   入った地形により、有利、不利が分かれます。  
   

@@ -1,7 +1,7 @@
-# Galaxy Fleet
+# Galaxy Fleet ～機能仕様：防御効果～
   
-<h1>～機能仕様～ :: 防御効果</h1>  
-<h2>～Skill Specifications～ :: Defence Buff</h2>  
+<h1>～機能仕様：防御効果～</h1>  
+<h2>～Skill Specifications：Defence Buff～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
@@ -20,35 +20,69 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-* [スキル仕様](readme.md)
+* [スキル仕様](/skill/readme.md)
 
-* [砲撃系](#aAttackSkill)
-* [雷撃系](#aAttackSkill)
-* [対空攻撃系](#aAttackSkill)
-* [対潜攻撃系](#aAttackSkill)
-* [航空攻撃系](#aAttackSkill)
-* [歩兵攻撃系](#aAttackSkill)
-* [電子戦系](#aAttackSkill)
+* [防御上昇](#aDefenceBuff)
+* [対空防御](#aAirDefence)
+* [航空防御](#aAircraftDefence)
   
 
 
 
 
-
-<h1 id="aAttackSkill">砲撃系 / Attack Kind</h1>  
+<h1 id="aDefenceBuff">防御上昇 / Defence Buff</h1>  
   
   [目次へ戻る](#aMokuji)  
   
 
-
-## 重盾防御
-**[Guard Heavy Shield]**  
+<h2>重盾防御 / Guard Heavy Shield</h2>  
 重盾で防御態勢に入ってます。ダメージを軽減します。  
+  
+
+<h2>護衛中 / During Escort</h2>  
+護衛対象の艦船が被弾した場合、そのダメージを肩代わりします。  
+  
 
 
-## Ｍ迎撃
-**[Missile Interception]**  
+
+
+
+<h1 id="aAirDefence">対空防御 / Air Defence</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+<h2>Ｍ迎撃 / Missile Interception</h2>  
 射程に入ったミサイルを自動迎撃します。  
+  
+
+
+
+
+<h1 id="aAircraftDefence">航空防御 / Aircraft Defence</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+<h2>直掩中 / In Direct Flight</h2>  
+護衛対象の艦船が航空攻撃を受けた際、攻撃を受ける前に迎撃できます。  
+  
+
+
+
+
+
+
+
+
+## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+
+
 
 
 ## 潜航中
@@ -59,14 +93,8 @@
 同じ艦隊で潜航中以外の艦船とは随伴できなくなります。（脱落します）  
 
 
-## 直掩中
-**[In Direct Flight]**  
-護衛対象の艦船が航空攻撃を受けた際、攻撃を受ける前に迎撃できます。  
 
 
-## 護衛中
-**[During Escort]**  
-護衛対象の艦船が被弾した場合、そのダメージを肩代わりします。  
 
 
 ## 舟護中

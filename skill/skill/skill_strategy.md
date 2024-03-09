@@ -1,7 +1,7 @@
-# Galaxy Fleet
+# Galaxy Fleet ～機能仕様：戦略機能～
   
-<h1>～機能仕様～ :: 戦略機能</h1>  
-<h2>～Skill Specifications～ :: Strategy Skill</h2>  
+<h1>～機能仕様：戦略機能～</h1>  
+<h2>～Skill Specifications：Strategy Skill～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
@@ -20,25 +20,66 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-* [スキル仕様](readme.md)
+* [スキル仕様](/skill/readme.md)
 
-* [設置](#aReload)
-* [資源](#aReload)
-* [建築](#aReload)
-* [その他戦略](#aReload)
-
-
-
+* [建築](#aArchitecture)
+* [設置](#aInstallation)
+* [資源](#aMaterial)
+* [その他戦略](#aOtherStrategy)
+  
 
 
 
 
 
-
-<h1 id="aReload">設置系 / Reload</h1>  
+<h1 id="aArchitecture">建築 / Architecture</h1>  
   
   [目次へ戻る](#aMokuji)  
   
+
+<h2>建設設備 / Construction Equipment</h2>
+工作用資材の格納庫、建設作業アーム、回収保管庫のセットです。  
+設置兵器の設置、回収、基地の建設ができます。建設する際、工作用資材を消費します。  
+搭載物の修復、補充はできません。  
+　　搭載可能：設置兵器、工作用資材  
+  
+
+
+
+
+
+<h1 id="aInstallation">設置 / Installation</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+
+
+
+
+<h1 id="aMaterial">資源 / Material</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+
+
+
+
+<h1 id="aOtherStrategy">その他戦略 / Other Strategy</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+
+
+
+
+
+
+
+
+## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
@@ -81,6 +122,11 @@
   
   [目次へ戻る](#aMokuji)  
   
+
+
+
+
+
 
 
 ## 資源採掘

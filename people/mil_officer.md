@@ -1,7 +1,7 @@
-# Galaxy Fleet
+# Galaxy Fleet ～人物集：佐官・尉官～
   
-<h1>～用語集～ :: 佐官・尉官</h1>  
-<h2>～Terms～ :: Officer</h2>  
+<h1>～人物集：佐官・尉官～</h1>  
+<h2>～Peoples：Officer～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  

@@ -1,7 +1,7 @@
-# Galaxy Fleet
+# Galaxy Fleet ～機能仕様：移動機能～
   
-<h1>～機能仕様～ :: 移動機能</h1>  
-<h2>～Skill Specifications～ :: Move Skill</h2>  
+<h1>～機能仕様：移動機能～</h1>  
+<h2>～Skill Specifications：Move Skill～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
@@ -20,15 +20,60 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-* [スキル仕様](readme.md)
+* [スキル仕様](/skill/readme.md)
 
-
-
+* [マップ移動](#aMapMove)
 * [移動機能](#aMoveSkill)
-* [乗降機能](#aGettingOnOffSkill)
-* [搭載機機能](#aOnBoardUnitSupportSkill)
+* [地形対応](#aTerrainCompatibl)
+  
 
 
+
+
+
+<h1 id="aMapMove">マップ移動 / Map Move</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+<h2>上陸 / </h2>
+この機能があると、桟橋、仮桟橋がない港に接弦、乗り降りができます。  
+  
+
+<h2>爆撃降下 / </h2>  
+艦艇に搭載中の戦略爆撃機、陸戦爆撃機は、ローカルマップへ乗り降りさせることができます。  
+  
+
+
+
+
+<h1 id="aMoveSkill">移動機能 / Move Skill</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+<h2>高速艦 / </h2>
+艦船を高速化するための専用ブースターと、ターボジェネレータが装備されます。  
+また、追加機能を覚えます。  
+　　追加機能：遊撃、高速戦闘、高速突撃、高速貫通  
+  
+
+
+
+
+
+<h1 id="aTerrainCompatibl">地形対応 / Terrain Compatible</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+
+
+
+
+
+
+## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 <h1 id="aMoveSkill">移動機能 / Move Skill</h1>  
@@ -40,6 +85,8 @@
 ## 高速化
 **[Speed Tuneup]**  
 コストなしで高速艦用ブーストキットが使用できるようになる機能です。  
+高速艦用ブーストキットを装備すると、派生機能が利用できるようになります。  
+　　派生機能：高速戦闘、高速突撃、高速貫通
 
 
 ## 潜航者
@@ -142,6 +189,13 @@
   
   [目次へ戻る](#aMokuji)  
   
+
+## 船引き
+**[Burlak]**  
+艦船曳航設備が使用できるようになる機能です。  
+戦略マップで撃沈された味方艦船の回収と、港湾とドックがある施設への荷降ろしができます。  
+  
+
 
 <h2>陸揚げ / Unloading</h2>  
 戦略マップで降下地点に設定されているマスに止まっている時、戦術マップの降下地点に移動します。  

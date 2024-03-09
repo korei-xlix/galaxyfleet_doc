@@ -1,4 +1,4 @@
-# Galaxy Fleet
+# Galaxy Fleet ～セットアップ手順書～
   
 <h1>～セットアップ手順書～</h1>  
 <h2>～Setup Manual～</h2>  

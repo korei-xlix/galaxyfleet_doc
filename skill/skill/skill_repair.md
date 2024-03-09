@@ -1,7 +1,7 @@
-# Galaxy Fleet
+# Galaxy Fleet ～機能仕様：回復機能～
   
-<h1>～機能仕様～ :: 回復機能</h1>  
-<h2>～Skill Specifications～ :: Repair Skill</h2>  
+<h1>～機能仕様：回復機能～</h1>  
+<h2>～Skill Specifications：Repair Skill～</h2>  
   
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
@@ -20,14 +20,12 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [readme.md](/readme.md)
-* [スキル仕様](readme.md)
-
-
+* [スキル仕様](/skill/readme.md)
 
 * [弾薬補充](#aReload)
-* [修理補充機能](#aRepairReplenishmentSkill)
-
-
+* [修理](#aRepair)
+* [補充](#aReplenishment)
+  
 
 
 
@@ -38,6 +36,50 @@
   
   [目次へ戻る](#aMokuji)  
   
+
+<h2>重盾交換 / Change Heavy Shield</h2>  
+重盾を交換します。  
+交換できる予備盾が必要です。  
+　　前提機能：重盾  
+  
+
+<h2>砲身換装 / </h2>  
+長距離砲の砲身を交換します。  
+交換できる砲身が必要です。  
+　　前提機能：狙撃  
+  
+
+
+
+
+
+<h1 id="aRepair">修理 / Repair</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+
+
+
+
+<h1 id="aReplenishment">補充 / Replenishment</h1>  
+  
+  [目次へ戻る](#aMokuji)  
+  
+
+
+
+
+
+
+
+
+
+## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
 
 <h2>重盾 / Heavy Shield</h2>  
 重盾装甲が使用できるようになる機能です。  
