@@ -1,37 +1,36 @@
-# Galaxy Fleet
+# Galaxy Fleet：取扱説明書
+
+～ User's Manual ～  
   
-<h1>～readme 取扱説明書～</h1>  
-<h2>～readme User's Manual～</h2>  
-  
+
+## このドキュメントについて / About this document
 
 **★このリポジトリの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this repository are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメント群ではブラウザで動作する艦隊ストラテジゲーム「Galaxy Fleet」の取扱説明書です。  
   
 なお、現バージョンは要求仕様まとめ段階のものであり、今後予告なく改版されます。  
   
 　　This document group is an instruction manual for the fleet strategy game "Galaxy Fleet" that runs on a browser.  
 　　Note that the current version is at the stage of compiling required specifications and will be revised without prior notice.  
-  
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [オープニング](#aOpenning)
-  * [ゲームストーリー](#aGameStory)
-  * [システム概要](#aSystemOverview)
-  * [ゲーム概要](#aGameOverview)
+  * [オープニング](#オープニング--openning)
+  * [ゲームストーリー](#ゲームストーリー--game-story)
+  * [システム概要](#システム概要--system-overview)
+  * [ゲーム概要](#ゲーム概要--game-overview)
 
-  * [対ユーザポリシー](#aDisclaimer)
-  * [リポジトリの利用規約](#aRules)
-  * [謝辞](#aAcknowledgment)
-  * [参考資料](#aMaterial)
+  * [対ユーザポリシー](#対ユーザポリシー--for-user-policy)
+  * [リポジトリの利用規約](#リポジトリの利用規約--repository-terms)
+  * [謝辞](#謝辞--acknowledgment)
+  * [参考資料](#参考資料--reference-material)
 
 * 各仕様書
   * [ログインパート仕様](/loginpart/readme.md)
@@ -50,23 +49,22 @@
   * [世界観](/term/world.md)
   * [用語集](/term/readme.md)
   * [人物](/people/readme.md)
-  
 
 
 
 
 
-<h1 id="aSetupUpdate">セットアップ・バージョンアップなど / About setup or update</h1>  
+## セットアップ・バージョンアップなど / About setup or update
 
 システム要件、セットアップ方法については、別紙のセットアップ手順書に記載しています。よくお読みください。  
     [セットアップ手順書](readme_setup_windows.md)  
-  
 
 
 
 
 
-<h1 id="aOpenning">オープニング / Openning</h1>  
+## オープニング / Openning
+
 「Galaxy Fleet」へようこそ！あなたがこの基地へ配属されるのを心待ちにしておりました！  
 あなたにはここで宇宙戦闘艦「戦列艦」の艦隊を指揮していただきます。  
 資源を巡る覇権争いで混迷する宇宙の鎮圧をするため我々を...我々を指揮してください！！！  
@@ -84,13 +82,13 @@
 総司令部からの指令には、侵攻部隊の排除、VIPの護衛任務、輸送隊による特定資源の輸送任務など様々あります。これらを編成した艦隊を効率よく動かして達成すれば、物資の支給などが受けられますよ。え、勝つためなんだから最初からよこせ？...あの、それはメタすぎる話ですよ、司令官...（小声）  
   
 あ、司令官！ちゃっちゃとゲームをはじめてください！  
-  
 
 
 
 
 
-<h1 id="aGameStory">ゲームストーリー / Game story</h1>  
+## ゲームストーリー / Game story
+
 ゲームはとある時代のとある宇宙のとある銀河を中心が舞台  
   
 既知宇宙全域を巻き込んだ大大戦（ラグナロク）から数世紀が経った  
@@ -121,13 +119,13 @@ AI可もみ  大型の兵器や要塞もほぼ自動化されていった結果
 そして...  
   
 ここ、とある基地にも司令官として着任した人物がいる...  
-  
 
 
 
 
 
-<h1 id="aSystemOverview">システム概要 / System overview</h1>  
+## システム概要 / System overview
+
 「Galaxy Fleet」はブラウザで動作する艦隊ストラテジゲームです。  
 ブラウザ部はHTML、Javascript、CSSで記述し、nginxなどwebサーバアプリで出力の補助をおこないます。  
 ゲームの内部データ、セーブデータの加工、出力はメンテしやすいように別途処理用のサーバ（Linux系）を用意します。  
@@ -141,8 +139,8 @@ AI可もみ  大型の兵器や要塞もほぼ自動化されていった結果
 サーバはweb部とデータ部の２つ用意したほうがいいですが、サブドメイン化で運用する前提とします。  
 
 
-## システム要件（最低限）
-  
+### システム要件（最低限）
+
 |項目 |条件 |備考 |
 |:--|:--|:--|
 | OS                  | Linux            |    |
@@ -164,7 +162,7 @@ AI可もみ  大型の兵器や要塞もほぼ自動化されていった結果
   また本書の手順と異なる場合があります。ご留意ください。  
   
 
-## クライアント～サーバ アクセスイメージ
+### クライアント～サーバ アクセスイメージ
   
 
 ```text
@@ -178,7 +176,7 @@ AI可もみ  大型の兵器や要塞もほぼ自動化されていった結果
   
 
 
-## Galaxy Fleetのリポジトリ
+### Galaxy Fleetのリポジトリ
   
 Galaxy Fleetのリポジトリは３つに分かれています。  
   
@@ -192,19 +190,13 @@ Galaxy Fleetのリポジトリは３つに分かれています。
 * [galaxy_fleet_uwsgi](https://github.com/korei-xlix/galaxyfleet_uwsgi)  
   Galaxy Fleetのサーバソフトウェア。  
   主にデータベースの制御をおこないます。  
-  
 
 
 
 
 
+## ゲーム概要 / Game overview
 
-
-
-
-
-
-<h1 id="aGameOverview">ゲーム概要 / Game overview</h1>  
 プレイヤーはとある基地の司令官に着任します。  
   
 主な任務は周辺の偵察や、敵対勢力の鎮静化です。それには基地戦力が必要になります。  
@@ -267,25 +259,23 @@ Galaxy Fleetのリポジトリは３つに分かれています。
 
 ここまでがチュートリアルとなってます。  
 このように「調達・徴発」→「編成」→「出撃」→「任務完了」を繰り返すことで、ゲームを進行させていき、強力な艦隊を整備してください。  
-  
 
 
 
 
 
-<h1 id="aDisclaimer">対ユーザポリシー / for User Policy</h1>  
+## 対ユーザポリシー / for User Policy
 
-## 免責事項  
+### 免責事項  
 
 先ず、当ゲームを公開するにあたっては料金を取るつもりはありません。よってわたしと遊んでいただくユーザさんの立場は等価とみなしております。  
 よって、あなた方の呼称については"ユーザさん"とややフレンドリーに呼ばせていただきますね。  
 これに同意いただけない場合、当ゲームを遊んでいただくことはできません。  
 また、本免責事項、次項の運用ポリシー、サイト規約に準拠いただけないユーザさんは、当ゲームを遊んでいただくことはできません。  
 よろしくなー。  
-  
 
 
-## 情報セキュリティポリシー  
+### 情報セキュリティポリシー  
 
 * ゲーム開始時に登録するユーザID、ユーザ名、パスワード、ゲームを進めた結果データ（セーブデータ）については全てローカル管理となっています。  
 当方サーバに送信されることはありません。  
@@ -300,13 +290,12 @@ Galaxy Fleetのリポジトリは３つに分かれています。
 
 * なお、上記は仕様変更により将来変更される可能性があります。  
   正直いうと、情報漏らした時に社会的責任を取らされることになるので、なるたけ情報収集なんかやりたくないよね...  
-  
 
 
 
 
 
-<h1 id="aRules">リポジトリの利用規約 / Repository terms</h1>  
+## リポジトリの利用規約 / Repository terms
 
 本項目では、githubの各リポジトリの共通的な利用規約について定めます。  
 
@@ -351,31 +340,30 @@ Galaxy Fleetのリポジトリは３つに分かれています。
   * その他、仕様に関するお問い合わせ、不具合へのクレームは受け付けません。  
 
   * 第三者を介したトラブル解決の際、当方の名称を出すのはご遠慮ください。  
-  
   　　[[連絡先ページ]](https://website.koreis-labo.com/rules/address.htm)  
-  
 
 
 
 
 
+## 謝辞 / Acknowledgment
 
-<h1 id="aAcknowledgment">謝辞 / Acknowledgment</h1>  
-**※敬称略**  
+【※敬称略 / Titles omitted】  
+
 * [プリ画像](https://prcm.jp/)  
   壁紙(星空)  
-  
 
 * [オニコス(株)](https://www.onicos.co.jp/)  
   暗号化スクリプト  
-  
 
 
 
 
 
-<h1 id="aMaterial">参考資料 / Reference material</h1>  
-**※敬称略**  
+## 参考資料 / Reference material
+
+【※敬称略 / Titles omitted】  
+
 * [ゆるりーど](https://yururi-do.com/)  
   環境構築の参考。  
 
@@ -385,7 +373,6 @@ Galaxy Fleetのリポジトリは３つに分かれています。
 * [各国の軍隊一覧:wikipedia](https://bit.ly/3zEg6Wi)
 
 * [近い恒星の一覧:wikipedia](https://bit.ly/3gyiCWi)
-  
 
 
 
