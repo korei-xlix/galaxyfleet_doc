@@ -44,7 +44,7 @@
 
 
 <h1 id="aClassUpDiagram">クラスアップ図 / Class Up Diagram</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 WUSO-STD：魔導士　Sorcery  
@@ -69,7 +69,7 @@ WUSO-STD：魔導士　Sorcery
 
 
 <h1 id="aSorcery">WISO-STD：魔導士 / Sorcery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 法撃術に特化した魔導兵器です。法撃力は魔導兵器で一番あり、防御術、補助術、妨害術も使用できます。  
@@ -94,7 +94,7 @@ WUSO-STD：魔導士　Sorcery
 
 
 <h1 id="aMagus">WISO-MAG：魔術士 / Magus</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -115,7 +115,7 @@ WUSO-STD：魔導士　Sorcery
 
 
 <h1 id="aThaumaturge">WISO-THA：法術士 / Thaumaturge</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -136,7 +136,7 @@ WUSO-STD：魔導士　Sorcery
 
 
 <h1 id="aIllusionist">WISO-ILL：幻術士 / Illusionist</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 魔導士の上位兵器です。特に妨害術が強化され、召喚術も使用できます。  
@@ -161,7 +161,7 @@ WUSO-STD：魔導士　Sorcery
 
 
 <h1 id="aConjurator">WISO-CON：呪術師 / Conjurator</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 幻惑士の上位兵器です。法撃術も強化され、法撃戦による戦闘力が非常に高いです。  
@@ -185,7 +185,7 @@ WUSO-STD：魔導士　Sorcery
 
 
 <h1 id="aEnchanter">WISO-ENC：付与術士 / Enchanter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -206,7 +206,7 @@ WUSO-STD：魔導士　Sorcery
 
 
 <h1 id="aAlchemist">WISO-ALC：錬金術師 / Alchemist</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -227,7 +227,7 @@ WUSO-STD：魔導士　Sorcery
 
 
 <h1 id="aSage">WISO-SAG：賢者 / Sage</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 魔術士系魔導兵器の最上位兵器で、呪術士、精霊使いをマスターすると昇格できます。  
@@ -260,4 +260,4 @@ WUSO-STD：魔導士　Sorcery
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

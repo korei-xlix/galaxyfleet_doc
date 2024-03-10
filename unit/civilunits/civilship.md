@@ -54,7 +54,7 @@
 
 
 <h1 id="aPassengerShip">CSPA-PSG：旅客船 / Passenger Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -75,7 +75,7 @@
 
 
 <h1 id="aCivilFerryShip">CSPA-FER：民間連絡船 / Civil Ferry Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -96,7 +96,7 @@
 
 
 <h1 id="aPrivateShip">CSPA-PRV：自家用船 / Private Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -117,7 +117,7 @@
 
 
 <h1 id="aTaxiShip">CSPA-TAX：個別営業船 / Taxi Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -138,7 +138,7 @@
 
 
 <h1 id="aCorporateFerryShip">CSCO-FER：企業連絡船 / Corporate Ferry Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -159,7 +159,7 @@
 
 
 <h1 id="aCorporateCargoShip">CSCO-CAG：企業輸送船 / Corporate Cargo Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -180,7 +180,7 @@
 
 
 <h1 id="aCorporateExplorationShip">CSCO-EXP：企業探査船 / Corporate Exploration Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -201,7 +201,7 @@
 
 
 <h1 id="aCorporateMiningShip">CSCO-MIN：企業採掘船 / Corporate Mining Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -222,7 +222,7 @@
 
 
 <h1 id="aGovernmentFerryShip">CSGV-FER：公用連絡船 / Government Ferry Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -243,7 +243,7 @@
 
 
 <h1 id="aGovernmentCargoShip">CSGV-CAG：公用輸送船 / Government Cargo Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -264,7 +264,7 @@
 
 
 <h1 id="aGovernmentExplorationShip">CSGV-EXP：公用探査船 / Government Exploration Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -285,7 +285,7 @@
 
 
 <h1 id="aCombatOversightCommitteeShip">CSOF-COC：戦時監視船 / Combat Oversight Committee Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -306,7 +306,7 @@
 
 
 <h1 id="aGuardShip">CSGU-GUD：警備船 / Guard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -327,7 +327,7 @@
 
 
 <h1 id="aAmbulanceShip">CSGU-AMB：救急船 / Ambulance Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -348,7 +348,7 @@
 
 
 <h1 id="aFireShip">CSGU-FIR：消防船 / Fire Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -369,7 +369,7 @@
 
 
 <h1 id="aPatrolShip">CSGU-PAT：巡視船 / Patrol Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -396,4 +396,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

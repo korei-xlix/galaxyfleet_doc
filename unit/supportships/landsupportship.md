@@ -38,7 +38,7 @@
 
 
 <h1 id="aLandWarSupportShip">SSLS-STD：陸戦支援艦 / Land War Support Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 陸戦隊の指揮と、陸戦兵器の地上降下、引き揚げが行える支援艦です。  
@@ -63,7 +63,7 @@
 
 
 <h1 id="aLandCargoShip">SSLS-CAG：陸戦輸送艦 / Land Cargo Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 陸戦兵器の地上降下や、降下した地上部隊の補給を支援する支援艦です。  
@@ -87,7 +87,7 @@
 
 
 <h1 id="aLandAttackShip">SSLS-ATK：陸戦攻撃艦 / Land Attack Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 エリアマップを狙撃できる艦船です。  
@@ -113,7 +113,7 @@
 
 
 <h1 id="aTankRecoveryShip">SSLS-TKR：戦車回収艦 / Tank Recovery Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 破壊された戦車をエリアマップから回収する特殊な艦船です。  
@@ -143,4 +143,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

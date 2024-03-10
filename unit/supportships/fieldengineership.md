@@ -38,7 +38,7 @@
 
 
 <h1 id="aFieldEngineerShip">SSES-STD：戦場工作艦 / Field Engineer Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 土木作業や艦船の修理ができる支援艦です。  
@@ -64,7 +64,7 @@
 
 
 <h1 id="aMineLayingandRecoveryShip">SSES-LAY：敷設回収艦 / Mine Laying and Recovery Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 浮遊兵器の設置と回収ができる支援艦です。  
@@ -88,7 +88,7 @@
 
 
 <h1 id="aTowingShip">SSES-TOW：曳航艦 / Towing Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 撃沈した艦船や大型の荷物が牽引できる大型の支援艦です。民間からもリースすることができる艦船です。  
@@ -111,7 +111,7 @@
 
 
 <h1 id="aFieldEngineerBattleShip">SSES-EBS：工作戦艦 / Field Engineer Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 巡航艦の主砲と、ミサイルが搭載できる工作支援艦です。  
@@ -146,4 +146,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

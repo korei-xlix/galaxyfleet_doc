@@ -1,23 +1,20 @@
-# Galaxy Fleet
-  
-<h1>～～装備品仕様～ :: 基礎構造～</h1>  
-<h2>～Equip Specifications～ :: Foundation Structure</h2>  
-  
+# Galaxy Fleet：装備品仕様：基礎構造
+
+## Galaxy Fleet：Equip Specifications：Foundation Structure
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の装備品のうち、基礎構造の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
   * [装備品仕様](/equip/readme.md)
@@ -27,16 +24,18 @@
   * [装備種類：基礎構造](/equip/readme.md#aFoundationStructure)
 
 * 装備品一覧
-  * [FSFF：基礎フレーム](#aFoundationFrame)
-  
+  * [FSFF：基礎フレーム](#fsff基礎フレーム--foundation-frame)
+  * [FSTH：スラスタ](#fsthスラスタ--thruster)
+  * [FSMC：メインコンピュータ](#fsmcメインコンピュータ--main-computer)
+  * [FSEG：エンジン](#fsegエンジン--engine)
 
 
 
 
 
-<h1 id="aFoundationFrame">FSFF：基礎フレーム / Foundation Frame</h1>  
-  
-  [目次へ戻る](#aMokuji) / [基礎フレーム](frame.md)  
+## FSFF：基礎フレーム / Foundation Frame
+
+[目次へ戻る](#目次--table-of-contents) / [基礎フレーム](frame.md)  
   
 
 |装備形式  |装備名  |英語名  |概要  |
@@ -53,15 +52,14 @@
 |FSFF-sHAR  |ハーモナイト      |Harmonite     |  |
 |FSFF-sADA  |アダマンチウム    |Adamantium    |  |
 |FSFF-sUNO  |アンオブタニウム  |Unobtanium    |  |
-  
 
 
 
 
 
-<h1 id="aThruster">FSTH：スラスタ / Thruster</h1>  
-  
-  [目次へ戻る](#aMokuji) / [スラスタ](thruster.md)  
+## FSTH：スラスタ / Thruster
+
+[目次へ戻る](#目次--table-of-contents) / [スラスタ](thruster.md)  
   
 
 |装備形式  |装備名  |英語名  |概要  |
@@ -78,16 +76,15 @@
 |FSTH-sBAS  |バサードラムジェット      |Bassard Drumjet        |  |
 |FSTH-sTID  |潮汐力スラスタ            |Tidal Thruster         |  |
 |FSTH-sUNO  |アンオブタナブルスラスタ  |Unobtainable Thruster  |  |
-  
 
 
 
 
 
 
-<h1 id="aMainComputer">FSMC：メインコンピュータ / Main Computer</h1>  
-  
-  [目次へ戻る](#aMokuji) / [スラスタ](computer.md)  
+## FSMC：メインコンピュータ / Main Computer
+
+[目次へ戻る](#目次--table-of-contents) / [スラスタ](computer.md)  
   
 
 |装備形式  |装備名  |英語名  |概要  |
@@ -104,9 +101,9 @@
 |FSMC-sBIO  |生体コンピュータ              |Biological Computer    |  |
 |FSMC-sDIM  |次元コンピュータ              |Dimensional Computer   |  |
 |FSMC-sUNO  |アンオブタナブルコンピュータ  |Unobtainable Computer  |  |
-  
 
-<h2>FSCP：CPUチップ / CPU Chip</h2>  
+
+### FSCP：CPUチップ / CPU Chip
 
 |装備形式  |装備名  |英語名  |概要  |
 |:--|:--|:--|:--|
@@ -117,15 +114,14 @@
 |FSCP-sHIG  |最高級CPU    |Highend CPU    |  |
 |FSCP-sCOR  |コアチップ   |Core Chip      |  |
 |FSCP-sBRA  |脳みそ       |Brain          |  |
-  
 
 
 
 
 
-<h1 id="aEngine">FSEG：エンジン / Engine</h1>  
-  
-  [目次へ戻る](#aMokuji) / [エンジン](engine.md)  
+## FSEG：エンジン / Engine
+
+[目次へ戻る](#目次--table-of-contents) / [エンジン](engine.md)  
   
 
 |装備形式  |装備名  |英語名  |概要  |
@@ -142,9 +138,9 @@
 |FSEG-sANT  |反物質エンジン            |Antimatter Engine      |  |
 |FSEG-sPHA  |相転移エンジン            |Phase Drive Engine     |  |
 |FSEG-sUNO  |アンオブタナブルエンジン  |Unobtainable Engine    |  |
-  
 
-<h2>FSPR：動力炉 / Power Reactor</h2>  
+
+### FSPR：動力炉 / Power Reactor
 
 |装備形式  |装備名  |英語名  |概要  |
 |:--|:--|:--|:--|
@@ -156,7 +152,6 @@
 |FSPR-sNUC  |核融合炉        |Nuclear Fusion Reactor   |  |
 |FSPR-sANT  |反物質炉        |Antimatter Reactor       |  |
 |FSPR-sPHA  |相転移炉        |Antimatter Reactor       |  |
-  
 
 
 
@@ -169,4 +164,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

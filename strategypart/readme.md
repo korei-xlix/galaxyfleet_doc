@@ -170,7 +170,7 @@
 
 <h1 id="aUnitClassificationSymbol">兵器の区分記号 / Unit classification symbol</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 Galaxy Fleetの兵器は、兵器種類、兵器分類、兵器形式で分類されます。  
@@ -194,7 +194,7 @@ zzz：兵器形式
 <h1 id="aUnitKind">兵器種類 / Unit Kind</h1>  
 Galaxy Fleetの兵器は、兵器種類によって大きく大別されます。  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **BS：戦列艦**  
@@ -273,7 +273,7 @@ Galaxy Fleetの兵器は、兵器種類によって大きく大別されます�
 
 <h1 id="aEquipClassificationSymbol">装備品の区分記号 / Equip classification symbol</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 装備分類はさらに装備型に分類されます。  
 詳細は各タイプのファイルを参照ください。  
@@ -321,7 +321,7 @@ xxyy-pzzzr
 <h1 id="aEquipKind">装備種類 / Equip Kind</h1>  
 Galaxy Fleetの装備品は、装備種類によって大きく大別されます。  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **FS：基礎構造**  
@@ -778,4 +778,4 @@ Galaxy Fleetの装備品は、装備種類によって大きく大別されま�
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

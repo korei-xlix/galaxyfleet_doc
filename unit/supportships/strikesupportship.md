@@ -38,7 +38,7 @@
 
 
 <h1 id="aStrikeSupportShip">SSKS-STD：打撃支援艦 / Strike Support Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 長距離砲戦の火力支援と、電子戦がおこなえる支援艦です。  
@@ -67,7 +67,7 @@
 
 
 <h1 id="aHugeMissileShip">SSKS-MIS：大型ミサイル艦 / Huge Missile Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ミサイルを多数搭載する戦闘艦です。見た目ミサイルにしか見えません。  
@@ -93,7 +93,7 @@
 
 
 <h1 id="aStrategyLazerShip">SSKS-LAZ：戦術レーザ艦 / Strategy Lazer Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型の主砲を多数搭載する戦闘艦です。胴体部に高出力大口径のレーザ砲を搭載します。  
@@ -118,7 +118,7 @@
 
 
 <h1 id="aTransformWeponShip">SSKS-TRW：転送艦 / Transform Wepon Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 小型の転送装置を搭載した特殊な艦船です。  
@@ -147,4 +147,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

@@ -32,7 +32,7 @@
 
 <h1 id="aDefenceBuff">防御上昇 / Defence Buff</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>重盾防御 / Guard Heavy Shield</h2>  
@@ -49,7 +49,7 @@
 
 <h1 id="aAirDefence">対空防御 / Air Defence</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>Ｍ迎撃 / Missile Interception</h2>  
@@ -61,7 +61,7 @@
 
 <h1 id="aAircraftDefence">航空防御 / Aircraft Defence</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>直掩中 / In Direct Flight</h2>  
@@ -169,4 +169,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

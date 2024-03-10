@@ -48,7 +48,7 @@
 
 
 <h1 id="aHeavyFighter">MULG-HFI：重戦闘機 / Heavy Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空、対艦両方の性能が高い中型戦闘機です。  
@@ -78,7 +78,7 @@
 
 
 <h1 id="aHeavyAttacker">MULG-HAT：重攻撃機 / Heavy Attacker</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対艦攻撃用の中型攻撃機です。  
@@ -105,7 +105,7 @@
 
 
 <h1 id="aHeavyBomber">MULG-HBM：重爆撃機 / Heavy Bomber</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対艦攻撃用の中型爆撃機です。  
@@ -130,7 +130,7 @@
 
 
 <h1 id="aMultiRoleFighter">MULG-MRF：多用途戦闘機 / Multi Role Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 母艦搭載用で装備を切り替えることで各任務に対応できる多用途大型戦闘機です。  
@@ -166,7 +166,7 @@
 
 
 <h1 id="aEscortFighter">MULG-ESC：護衛戦闘機 / Escort Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦隊護衛用の中型戦闘機です。空母よりも母艦に搭載し、母艦搭載の航空機を護衛するのに向きます。  
@@ -191,7 +191,7 @@
 
 
 <h1 id="aLongRangeBomber">MULG-LRB：渡宙爆撃機 / Long Range Bomber</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 施設攻撃専用の超大型爆撃機です。  
@@ -218,7 +218,7 @@
 
 
 <h1 id="aStrikeBomber">MULG-SRK：戦略爆撃機 / Strike Bomber</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対艦、対地、対施設爆撃用の大型爆撃機です。  
@@ -250,7 +250,7 @@
 
 
 <h1 id="aInfantryBattleAircraft">MULG-INF：歩兵支援機 / Infantry Battle Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 母艦搭載用で歩兵の輸送と補給、航空機への空中給油がおこなえる航空機です。  
@@ -275,7 +275,7 @@
 
 
 <h1 id="aMissileInterceptorAircraft">MULG-MII：ミサイル迎撃機 / Missile Interceptor Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ミサイル迎撃用の大型航空機です。  
@@ -298,7 +298,7 @@
 
 
 <h1 id="aForcedRecommendAircraft">MULG-REC：強行偵察機 / Forced Recommend Aircraftt</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 偵察用の中型航空機です。  
@@ -323,7 +323,7 @@
 
 
 <h1 id="aEarlyWarningAircraft">MULG-EAW：早期警戒機 / Early Warning Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 偵察用の大型航空機です。  
@@ -347,7 +347,7 @@
 
 
 <h1 id="aLargeSubmarineKillerAircraft">MULG-SMK：対潜哨戒機 / Large Submarine Killer Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対潜用の大型航空機です。  
@@ -372,7 +372,7 @@
 
 
 <h1 id="aLargeElectronicWarfareAircraft">MULG-ELW：電子作戦機 / Large Electronic Warfare Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子戦能力のある大型航空機です。  
@@ -395,7 +395,7 @@
 
 
 <h1 id="aLargeSupplyCargoAircraft">MULG-CAG：大型輸送機 / Large Supply Cargo Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 航空隊への補給と、地上部隊の輸送ができる大型航空機です。  
@@ -426,4 +426,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

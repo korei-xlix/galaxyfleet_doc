@@ -38,7 +38,7 @@
 
 
 <h1 id="aSupportWizardShip">SSWZ-STD：魔導支援艦 / Support Wizard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -58,7 +58,7 @@
 
 
 <h1 id="aEngineerWizardShip">SSWZ-ENG：魔導工作艦 / Engineer Wizard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 シールド  
@@ -80,7 +80,7 @@
 
 
 <h1 id="aCommandWizardShip">SSWZ-COM：魔導指揮艦 / Command Wizard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 アンチシールド  
@@ -102,7 +102,7 @@
 
 
 <h1 id="aCargoWizardShip">SSWZ-CAG：魔導輸送艦 / Cargo Wizard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 補給＋輸送  
@@ -130,4 +130,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

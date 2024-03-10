@@ -39,7 +39,7 @@
 
 
 <h1 id="aCorvet">ESCV-STD：防護艦 / Corvet</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子戦に優れ、電子妨害による攪乱と、電子戦からの防御をおこなう護衛艦です。  
@@ -66,7 +66,7 @@
 
 
 <h1 id="aGuardShip">ESCV-GAD：警戒艦 / Guard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子妨害機能に特化した防護艦です。  
@@ -92,7 +92,7 @@
 
 
 <h1 id="aArmoredCorvet">ESCV-AMD：装甲防護艦 / Armored Corvet</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 装甲とシールドを強化した防護艦です。耐久性、防御力が高くなってます。  
@@ -117,7 +117,7 @@
 
 
 <h1 id="aMissileCorvet">ESCV-MIS：ミサイル防護艦 / Missile Corvet</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 迎撃用のミサイルを搭載する防護艦です。  
@@ -143,7 +143,7 @@
 
 
 <h1 id="aDispatchShip">ESCV-DSP：通報艦 / Dispatch Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子戦の影響を全く受けないで、電子戦や偵察活動ができる特殊な護衛艦です。  
@@ -177,4 +177,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

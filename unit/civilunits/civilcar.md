@@ -42,7 +42,7 @@
 
 
 <h1 id="aCivilWorlCar">CUCC-ENG：民間作業車 / Civil Worl Car</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -63,7 +63,7 @@
 
 
 <h1 id="aPrivateCar">CUCC-PRV：自家用車 / Private Car</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -84,7 +84,7 @@
 
 
 <h1 id="aCivilExplorationCar">CUCC-EXP：民間探査車 / Civil Exploration Car</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -105,7 +105,7 @@
 
 
 <h1 id="aCivilCargoCar">CUCC-CAG：民間輸送車 / Civil Cargo Car</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -126,7 +126,7 @@
 
 
 <h1 id="aGovernmentFerryCar">CUGC-FER：公用連絡車 / Government Ferry Car</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -147,7 +147,7 @@
 
 
 <h1 id="aGovernmentCargoCar">CUGC-CAG：公用輸送車 / Government Cargo Car</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -168,7 +168,7 @@
 
 
 <h1 id="aGovernmentExplorationCar">CUGC-EXP：公用探査車 / Government Exploration Car</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -189,7 +189,7 @@
 
 
 <h1 id="aCombatOversightCommitteeCar">CUGC-COC：戦時監視車 / Combat Oversight Committee Car</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -216,4 +216,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

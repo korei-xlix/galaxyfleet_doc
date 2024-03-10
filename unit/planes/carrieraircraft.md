@@ -48,7 +48,7 @@
 
 
 <h1 id="aFighter">MUCB-FIG：戦闘機 / Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用でとくに対空戦を得意とする戦闘機です。  
@@ -74,7 +74,7 @@
 
 
 <h1 id="aIntercepter">MUCB-ICP：要撃機 / Intercepter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で敵の戦闘機を迎撃するための戦闘機です。  
@@ -100,7 +100,7 @@
 
 
 <h1 id="aAttacker">MUCB-ATK：攻撃機 / Attacker</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で対艦攻撃を得意とする攻撃機です。  
@@ -130,7 +130,7 @@
 
 
 <h1 id="aTorpedoAttacker">MUCB-TPD：雷撃機 / Torpedo Attacker</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で魚雷での対艦攻撃を得意とする攻撃機です。  
@@ -154,7 +154,7 @@
 
 
 <h1 id="aBomber">MUCB-BMB：高速爆撃機 / Bomber</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で爆弾での対艦攻撃を得意とする爆撃機です。  
@@ -178,7 +178,7 @@
 
 
 <h1 id="aAttackFighter">MUCB-AFG：戦闘攻撃機 / Attack Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で装備を切り替えることで各任務に対応できる多用途戦闘機です。  
@@ -212,7 +212,7 @@
 
 
 <h1 id="aStrikeFighter">MUCB-SRK：戦闘爆撃機 / Strike Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用の高性能戦闘機です。  
@@ -239,7 +239,7 @@
 
 
 <h1 id="aAntiInfantryFighter">MUCB-AIF：機動戦闘機 / Anti Infantry Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用でとくに対機動歩兵戦を得意とする戦闘機です。  
@@ -263,7 +263,7 @@
 
 
 <h1 id="aMultiRoleAttacker">MUCB-MRA：多用途攻撃機 / Multi Role Attacker</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で装備を切り替えることで各任務に対応できる多用途戦闘機です。  
@@ -297,7 +297,7 @@
 
 
 <h1 id="aTacticalFighter">MUCB-TAC：戦術戦闘機 / Tactical Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用の最高性能の戦闘機です。単騎で敵地に乗り込んでいける戦闘力をもってます。  
@@ -329,7 +329,7 @@
 
 
 <h1 id="aRecommendAircraft">MUCB-REC：偵察機 / Recommend Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で偵察用の小型航空機です。  
@@ -356,7 +356,7 @@
 
 
 <h1 id="aSubmarineKillerAircraft">MUCB-SMK：対潜攻撃機 / Submarine Killer Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で対潜用の小型航空機です。  
@@ -379,7 +379,7 @@
 
 
 <h1 id="aElectronicSupportAircraft">MUCB-ELW：電子支援機 / Electronic Support Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で電子戦能力がある小型航空機です。  
@@ -404,7 +404,7 @@
 
 
 <h1 id="aSupplyCargoAircraft">MUCB-CAG：補給輸送機 / Supply Cargo Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空母搭載用で歩兵の輸送と補給、航空機への空中給油がおこなえる航空機です。  
@@ -433,4 +433,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

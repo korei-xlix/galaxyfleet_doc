@@ -44,7 +44,7 @@
 
 
 <h1 id="aMultipurposeFighter">MUML-FIG：汎用戦闘機 / Multipurpose Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 巡航艦や戦艦に搭載できるよう機構を施した対空戦用の小型航空機です。空戦の機動力に優れます。  
@@ -68,7 +68,7 @@
 
 
 <h1 id="aMultipurposeAttacker">MUML-ATK：汎用攻撃機 / Multipurpose Attacker</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空、対艦両用の汎用航空機です。空戦における機動性能は汎用戦闘機に匹敵します。  
@@ -93,7 +93,7 @@
 
 
 <h1 id="aMultipurposeTorpedoAttacker">MUML-TPD：汎用雷撃機 / Multipurpose Torpedo Attacker</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対艦攻撃用で魚雷を運用する汎用航空機です。空戦の機動性能が高めです。  
@@ -116,7 +116,7 @@
 
 
 <h1 id="aMultipurposeBomber">MUML-BMB：汎用爆撃機 / Multipurpose Bomber</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対艦攻撃用で爆弾を運用する汎用航空機です。急降下爆撃が得意で、生存性が高いです。  
@@ -140,7 +140,7 @@
 
 
 <h1 id="aMultipurposeStrikeFighter">MUML-SRK：汎用戦爆機 / Multipurpose Strike Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空、対艦両用の汎用航空機です。空戦の機動性能が高めです。  
@@ -166,7 +166,7 @@
 
 
 <h1 id="aSpecialBomber">MUML-SBM：特務爆撃機 / Special Bomber</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 胴体に子機を抱えた特殊爆撃機です。  
@@ -194,7 +194,7 @@
 
 
 <h1 id="aMultipurposeRecommendAircraft">MUML-REC：汎用偵察機 / Multipurpose Recommend Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 偵察、支援用の汎用航空機です。索敵能力、機動力が高いです。  
@@ -218,7 +218,7 @@
 
 
 <h1 id="aMultipurposeElectronicSupportAircraft">MUML-ELW：汎用電戦機 / Multipurpose Electronic Support Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 偵察、電子戦の両方ができる偵察機です。電子戦ができる上、偵察能力が高いです。  
@@ -241,7 +241,7 @@
 
 
 <h1 id="aMultipurposeSubmarineKillerAircraft">MUML-SMK：汎用哨戒機 / Multipurpose Submarine Killer Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対潜哨戒用の汎用航空機です。電子性能、潜航艦探知能力が高いです。  
@@ -265,7 +265,7 @@
 
 
 <h1 id="aMultipurposeCargoAircraft">MUML-CAG：汎用輸送機 / Multipurpose Cargo Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 補給品輸送用の汎用航空機です。電子性能も高く索敵任務にも対応できます。  
@@ -294,4 +294,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

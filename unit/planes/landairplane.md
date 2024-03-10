@@ -42,7 +42,7 @@
 
 
 <h1 id="aLandAttacker">LULA-ATK：陸戦攻撃機 / Land Attacker</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 局地専用の戦闘攻撃機です。  
@@ -70,7 +70,7 @@
 
 
 <h1 id="aLandBomber">LULA-BMB：陸戦爆撃機 / Land Bomber</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 局地専用の中型爆撃機です。  
@@ -98,7 +98,7 @@
 
 
 <h1 id="aLandSuppressor">LULA-SPR：陸戦制圧機 / Land Suppressor</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 局地専用の中型攻撃機です。垂直離着陸ができ、滑走路がなくても運用できます。  
@@ -125,7 +125,7 @@
 
 
 <h1 id="aLandObservationAircraft">LULA-OBS：陸戦観測機 / Land Observation Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 局地専用の偵察機です。垂直離着陸ができ、滑走路がなくても運用できます。  
@@ -154,7 +154,7 @@
 
 
 <h1 id="aLandSupportAircraft">LULA-INF：陸戦支援機 / Land Support Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 局地専用の小型輸送機です。垂直離着陸ができ、滑走路がなくても運用できます。  
@@ -182,7 +182,7 @@
 
 
 <h1 id="aLandCargoAircraft">LULA-CAG：陸戦輸送機 / Land Cargo Aircraft</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 局地専用の中型輸送機です。垂直離着陸ができ、滑走路がなくても運用できます。  
@@ -208,7 +208,7 @@
 
 
 <h1 id="aLocalFighter">LULA-LFI：局地戦闘機 / Local Fighter</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 局地専用の制空戦闘機です。垂直離着陸ができ、滑走路がなくても運用できます。  
@@ -235,7 +235,7 @@
 
 
 <h1 id="aOrbitalInterceptor">LULA-OBT：軌道要撃機 / Orbital Interceptor</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 局地防衛用に開発された迎撃用の戦闘機です。打上後に戦略マップで運用できます。  
@@ -269,4 +269,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

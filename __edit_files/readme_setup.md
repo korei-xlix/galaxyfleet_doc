@@ -74,7 +74,7 @@ github Desktopをインストールします。
 
 <h1 id="aSetup">環境構築</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 Galaxy Fleetを実行するための環境構築をします。  
@@ -98,7 +98,7 @@ Galaxy Fleetを実行するための環境構築をします。
 
 <h1 id="aSetup_Cygwin">Cygwinのインストール</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 仮想サーバのコンソールとして使うCygwinをインストールします。  
@@ -152,7 +152,7 @@ $ whoami
 
 <h1 id="aSetup_nginx">nxingのインストール</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 nginxをインストールします。  

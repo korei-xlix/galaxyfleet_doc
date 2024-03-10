@@ -36,7 +36,7 @@
 
 <h1 id="aDestroyer">BSDS：駆逐艦 / Destroyer</h1>  
   
-  [目次へ戻る](#aMokuji) / [駆逐艦](destroyer.md)  
+[目次へ戻る](#aMokuji) / [駆逐艦](destroyer.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -57,7 +57,7 @@
 
 <h1 id="aCruiser">BSCR：巡航艦 / Cruiser</h1>  
   
-  [目次へ戻る](#aMokuji) / [巡航艦](cruiser.md)  
+[目次へ戻る](#aMokuji) / [巡航艦](cruiser.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -78,7 +78,7 @@
 
 <h1 id="aBattleShip">BSBB：戦艦 / Battle Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -99,7 +99,7 @@
 
 <h1 id="aAircraftCarrier">BSAC：航空母艦 / Aircraft Carrier</h1>  
   
-  [目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -120,7 +120,7 @@
 
 <h1 id="aModifiedAircraftCarrier">BSMC：改造空母 / Modified Aircraft Carrier</h1>  
   
-  [目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -141,7 +141,7 @@
 
 <h1 id="aGeneralPurposeMotherShip">BSMS：汎用母艦 / General Purpose Mother Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -162,7 +162,7 @@
 
 <h1 id="aLandCarrier">BSLC：揚陸艦 / Land Carrier</h1>  
   
-  [目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -183,7 +183,7 @@
 
 <h1 id="aSubmarine">BSSB：潜航艦 / Submarine</h1>  
   
-  [目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -204,7 +204,7 @@
 
 <h1 id="aBattleWizardShip">BSWZ：魔導戦艦 / Battle Wizard Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -226,4 +226,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

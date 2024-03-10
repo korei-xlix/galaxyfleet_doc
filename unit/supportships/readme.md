@@ -36,7 +36,7 @@
 
 <h1 id="aRecommendShip">SSRE：偵察艦 / Recommend Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [偵察艦](recommendship.md)  
+[目次へ戻る](#aMokuji) / [偵察艦](recommendship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -53,7 +53,7 @@
 
 <h1 id="aElectronicSupportShip">SSEL：電子支援艦 / Electronic Support Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [電子支援艦](electronicsupportship.md)  
+[目次へ戻る](#aMokuji) / [電子支援艦](electronicsupportship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -70,7 +70,7 @@
 
 <h1 id="aSupplyCargoShip">SSSC：補給輸送艦 / Suppry Cargo Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [補給輸送艦](supprycargoship.md)  
+[目次へ戻る](#aMokuji) / [補給輸送艦](supprycargoship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -87,7 +87,7 @@
 
 <h1 id="aCommandSupportShip">SSCM：指揮支援艦 / Command Support Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [指揮支援艦](commandsupportship.md)  
+[目次へ戻る](#aMokuji) / [指揮支援艦](commandsupportship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -104,7 +104,7 @@
 
 <h1 id="aStrikeSupportShip">SSKS：打撃支援艦 / Strike Support Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [打撃支援艦](strikesupportship.md)  
+[目次へ戻る](#aMokuji) / [打撃支援艦](strikesupportship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -121,7 +121,7 @@
 
 <h1 id="aLandWarSupportShip">SSLS：陸戦支援艦 / Land War Support Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [陸戦支援艦](landsupportship.md)  
+[目次へ戻る](#aMokuji) / [陸戦支援艦](landsupportship.md)  
   
 
 |SSLS-STD  |陸戦支援艦  |  |  |
@@ -136,7 +136,7 @@
 
 <h1 id="aFieldEngineerShip">SSFE：戦場工作艦 / Field Engineer Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [戦場工作艦](fieldengineership.md)  
+[目次へ戻る](#aMokuji) / [戦場工作艦](fieldengineership.md)  
   
 
 |SSFE-STD  |戦場工作艦  |  |  |
@@ -151,7 +151,7 @@
 
 <h1 id="aStrategySupportShip">SSSS：戦略支援艦 / Strategy Support Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [戦略支援艦](strategysupportship.md)  
+[目次へ戻る](#aMokuji) / [戦略支援艦](strategysupportship.md)  
   
 
 |SSSS-STD  |戦略支援艦    |  |  |
@@ -172,7 +172,7 @@
 
 <h1 id="aSupportWizardShip">SSWZ：魔導支援艦 / Support Wizard Ship</h1>  
   
-  [目次へ戻る](#aMokuji) / [魔導支援艦](strategysupportship.md)  
+[目次へ戻る](#aMokuji) / [魔導支援艦](strategysupportship.md)  
   
 
 |SSWZ-STD  |魔導支援艦  |  |  |
@@ -192,4 +192,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

@@ -42,7 +42,7 @@
 
 
 <h1 id="aDestroyer">BSDS-STD：駆逐艦 / Destroyer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 標準性能の駆逐艦です。小回りが効いて、魚雷戦や対潜が得意です。  
@@ -69,7 +69,7 @@
 
 
 <h1 id="aArmoredDestroyer">BSDS-AMD：装甲駆逐艦 / Armored Destroyer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 装甲とシールドを強化した防御タイプの駆逐艦です。  
@@ -97,7 +97,7 @@
 
 
 <h1 id="aAirDefensiveDestroyer">BSDS-ADF：防空駆逐艦 / Air Defensive Destroyer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空戦闘力を強化し、対機動兵器戦が得意な駆逐艦です。  
@@ -125,7 +125,7 @@
 
 
 <h1 id="aMissileDestroyer">BSDS-MIS：ミサイル駆逐艦 / Missile Destroyer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ミサイルが搭載でき、長距離戦ができる駆逐艦です。  
@@ -153,7 +153,7 @@
 
 
 <h1 id="aInfantryDestroyer">BSDS-INF：歩兵駆逐艦 / Infantry Destroyer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 機動歩兵が搭載可能なようにデッキを設けた駆逐艦です。  
@@ -182,7 +182,7 @@
 
 
 <h1 id="aTorpedoDestroyer">BSDS-TPD：重雷装艦 / Torpedo Destroyer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 魚雷での攻撃力を強化した駆逐艦です。  
@@ -210,7 +210,7 @@
 
 
 <h1 id="aAssaultDestroyer">BSDS-AST：突撃艦 / Assault Destroyer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型のブースターを搭載し、高速戦闘に特化した駆逐艦です。  
@@ -239,7 +239,7 @@
 
 
 <h1 id="aSubmarineKiller">BSDS-SMK：駆潜艦 / Submarine Killer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対潜攻撃力を強化した駆逐艦です。  
@@ -274,4 +274,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

@@ -40,7 +40,7 @@
 
 
 <h1 id="aMainTank">LUMT-STD：主力戦車 / Main Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦車砲を搭載し、重い装甲で防御し、キャタピラで走行する戦闘用の車両です。  
@@ -67,7 +67,7 @@
 
 
 <h1 id="aLightTank">LUMT-LMT：軽戦車 / Light Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 重い装甲を外し、軽くした戦車です。  
@@ -94,7 +94,7 @@
 
 
 <h1 id="aHeavyTank">LUMT-HMT：重戦車 / Heavy Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 火力と装甲を強化し、戦車用の反射板を備え、生存性を高めた戦車です。  
@@ -123,7 +123,7 @@
 
 
 <h1 id="aMobillityTank">LUMT-MMT：機動戦車 / Mobillity Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 反重力推進で車体を浮遊させて移動する戦車です。  
@@ -149,7 +149,7 @@
 
 
 <h1 id="aAirTank">LUMT-AMT：空中戦車 / Air Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 砲台だけ飛行可能な戦車です。  
@@ -172,7 +172,7 @@
 
 
 <h1 id="aVersatileTank">LUMT-VER：万能戦車 / Versatile Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 時間とコストをかけて生産する最高性能の車両です。  
@@ -206,4 +206,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

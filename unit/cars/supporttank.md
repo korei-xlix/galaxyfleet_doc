@@ -40,7 +40,7 @@
 
 
 <h1 id="aSupportTank">LUST-STD：支援戦車 / Support Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -61,7 +61,7 @@
 
 
 <h1 id="aArmoedTank">LUST-AMD：装甲戦車 / Armoed Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -82,7 +82,7 @@
 
 
 <h1 id="aInfantryTank">LUBT-INF：歩兵戦車 / Infantry Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -103,7 +103,7 @@
 
 
 <h1 id="aAssaultTank">LUST-AST：突撃戦車 / Assault Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 加速力が異常に高い高速戦車です。装甲タイヤを履いています。  
@@ -130,7 +130,7 @@
 
 
 <h1 id="aJagdpanzer">LUST-JGP：駆逐戦車 / Jagdpanzer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦車を破壊するための戦車です。戦車破壊用の特殊砲を装備します。キャタピラで走行します。  
@@ -154,7 +154,7 @@
 
 
 <h1 id="aEngineerTank">LUST-ENG：工作戦車 / Engineer Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -181,4 +181,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

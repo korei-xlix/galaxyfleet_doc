@@ -35,7 +35,7 @@
 
 <h1 id="aAttackSkill">砲撃系 / Attack Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>遊撃 / Shortstop</h2>  
@@ -79,7 +79,7 @@
 
 <h1 id="aAttackSkill">雷撃系 / Attack Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>魚雷マニア / Torpedo Mania</h2>  
@@ -112,7 +112,7 @@
 
 <h1 id="aAttackSkill">ミサイル系 / Attack Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>ミサイルマニア / Missile Mania</h2>  
@@ -147,7 +147,7 @@
 
 <h1 id="aAttackSkill">対空攻撃系 / Attack Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -158,7 +158,7 @@
 
 <h1 id="aAttackSkill">対潜攻撃系 / Attack Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>爆雷マニア / Mine Mania</h2>  
@@ -194,7 +194,7 @@
 
 <h1 id="aAttackSkill">航空攻撃系 / Attack Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>要撃 / Airplane Interception</h2>  
@@ -271,7 +271,7 @@
 
 <h1 id="aAttackSkill">歩兵攻撃系 / Attack Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>歩兵移乗 / </h2>  
@@ -287,7 +287,7 @@
 
 <h1 id="aAttackSkill">その他特殊 / Attack Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -418,4 +418,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

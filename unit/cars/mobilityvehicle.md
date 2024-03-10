@@ -40,7 +40,7 @@
 
 
 <h1 id="aMobilityVehicle">LUMV-STD：機動車両 / Mobility Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 移動力に優れた軽車両です。タイヤで走行します。  
@@ -69,7 +69,7 @@
 
 
 <h1 id="aHoverBike">LUMV-HOV：ホバーバイク / Hover Bike</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 反重力推進で車体を浮遊させて移動するバイクです。  
@@ -95,7 +95,7 @@
 
 
 <h1 id="aElectronicSupportVehicle">LUMV-ELW：電子支援車 / Electronic Support Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子戦能力が高い電子戦専用の車両です。  
@@ -118,7 +118,7 @@
 
 
 <h1 id="aLandCommandVehicle">LUMV-COM：陸戦指揮車 / Land Command Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 陸戦隊の指揮機能を有する軽車両です。タイヤで走行します。  
@@ -145,7 +145,7 @@
 
 
 <h1 id="aSupplyCargoVehicle">LUMV-CAG：補給輸送車 / Supply Cargo Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 補給用の大型装甲トラックです。タイヤで走行します。  
@@ -170,7 +170,7 @@
 
 
 <h1 id="aMultipurposeVehicle">LUMV-MTP：多目的車両 / Multipurpose Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子戦能力が高い電子戦専用の車両です。  
@@ -199,4 +199,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

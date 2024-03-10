@@ -42,7 +42,7 @@
 
 
 <h1 id="aGeneralPurposeMotherShip">BSMS-STD：汎用機母艦 / General Purpose Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 比較的低コストで航空戦力が運用できるのがコンセプトの戦列艦です。汎用母艦のベースとなってます。  
 汎用航空機と機動歩兵が運用できます。汎用航空機だけの運用可能数では戦列艦のなかで一番です。  
@@ -67,7 +67,7 @@
 
 
 <h1 id="aBomberMotherShip">BSMS-BMB：爆撃機母艦 / Bomber Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 中～大型爆撃機が多数運用できる爆撃機専用の母艦です。  
 飛行能力のある爆撃機を降下地点に直接降下させる機能もあります。  
@@ -94,7 +94,7 @@
 
 
 <h1 id="aGiantAircraftMotherShip">BSMS-GIT：巨人機母艦 / Giant Aircraft Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 大型の航空機を多数運用できるように自艦も巨大化させた大型の母艦です。  
 汎用機以外の航空機すべてが運用できます。ペイロードが拡張され、航空機だけの運用可能数では戦列艦のなかで一番です。  
@@ -117,7 +117,7 @@
 
 
 <h1 id="aStormMotherShip">BSMS-STM：強襲母艦 / Storm Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 複数の装載艇が運用できる母艦です。  
 装載艇の搭載数としては戦列艦のなかでは一番です。複数の装載艇を同時に運用できるため、装載艇の分戦力が高くなります。  
@@ -142,7 +142,7 @@
 
 
 <h1 id="aInfantryMotherShip">BSMS-INF：歩兵母艦 / Infantry Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 歩兵による近接戦闘と、陸戦支援ができる歩兵輸送用の母艦です。  
 歩兵、歩兵輸送機、装載艇が運用できます。  
@@ -169,7 +169,7 @@
 
 
 <h1 id="aLandAirplaneMotherShip">BSMS-LAM：陸攻母艦 / Land Airplane Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 多数の陸戦攻撃機を輸送、運用ができる母艦です。  
 陸戦攻撃機が運用できます。  
@@ -195,7 +195,7 @@
 
 
 <h1 id="aDefenceMotherShip">BSMS-DEF：防衛兵器母艦 / Defence Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 防衛兵器を戦術兵器として運用できる母艦です。  
 解体せずに防衛兵器を運搬、展開できます。泊地への降下機能があります。  
@@ -219,7 +219,7 @@
 
 
 <h1 id="aBattleMotherShip">BSMS-BLM：戦闘母艦 / Battle Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 大型の航空機が運用でき、戦闘力がある母艦です。汎用母艦がベースとなってます。  
 中型の主砲とミサイルが搭載できます。また全ての航空機が運用できます。  
@@ -253,4 +253,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

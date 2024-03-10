@@ -44,7 +44,7 @@
 
 
 <h1 id="aSystemCore">DUSY-CCC：システムコア / System Core</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 拠点防衛用でスタンダードな兵器です。鉄と機械の塊みたいな武骨な姿をしています。  
@@ -72,7 +72,7 @@
 
 
 <h1 id="aAttackSystem">DUSY-ATT：攻撃システム / Attack System</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -93,7 +93,7 @@
 
 
 <h1 id="aInterceptSystem">DUSY-ICP：迎撃システム / Intercept System</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -114,7 +114,7 @@
 
 
 <h1 id="aGuardSystem">DUSY-DEF：防御システム / Guard System</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -135,7 +135,7 @@
 
 
 <h1 id="aRepairSystem">DUSY-RPR：修復システム / Repair System</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -156,7 +156,7 @@
 
 
 <h1 id="aPowerSystem">DUSY-POW：発電システム / Power System</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -177,7 +177,7 @@
 
 
 <h1 id="aOnboardSystem">DUSY-ONB：搭載システム / Onboard System</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -198,7 +198,7 @@
 
 
 <h1 id="aSelfSupplySystem">DUSY-SSP：自給システム / Self Supply System</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -219,7 +219,7 @@
 
 
 <h1 id="aMobillitySystem">DUSY-MOV：機動システム / Mobillity System</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -240,7 +240,7 @@
 
 
 <h1 id="aElectronicWarfareSystem">DUSY-ELW：電戦システム / Electronic Warfare System</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -267,4 +267,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

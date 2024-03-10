@@ -44,7 +44,7 @@
 
 <h1 id="aPremise">前提環境・ソフトウェア</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 readmeの[システム概要](/readme.md#システム要件最低限)をご参照ください。  
   
@@ -55,7 +55,7 @@ readmeの[システム概要](/readme.md#システム要件最低限)をご参�
 
 <h1 id="aSetup_github">github環境の構築</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 本章ではgithub環境の構築について記載します。  
@@ -84,7 +84,7 @@ github Desktopをインストールします。
 
 <h1 id="aSetup">環境構築</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 Galaxy Fleetを実行するための環境構築をします。  
@@ -109,7 +109,7 @@ Galaxy Fleetを実行するための環境構築をします。
 
 <h2 id="aSetup_Configure">インストール環境構成</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 Galaxy Fleetではpython3のライブラリを利用しますが、X Serverのレンタルサーバの場合権限がないため、そのままの環境では利用できません。  
@@ -204,7 +204,7 @@ PKG_CONFIG_PATH=/usr/lib64/pkgconfig
 
 <h2 id="aSetup_pythonVirtual">pythonの仮想環境の構築</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 pip3を使えるよう、python仮想環境を構築します。  
   
@@ -341,7 +341,7 @@ Python 3.6.8
 
 <h2 id="aSetup_OpenSSL">OpenSSLのインストール</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 作業フォルダに移動し、opensslをインストールします。  
@@ -485,7 +485,7 @@ alias openssl='${PREFIX}/bin/openssl'
 
 <h2 id="aSetup_curl">curlのインストール</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 作業フォルダに移動し、curlをインストールします。gitのインストールに必要です。  
@@ -549,7 +549,7 @@ $ which curl
 
 <h2 id="aSetup_gittext">gittextのインストール</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 作業フォルダに移動し、gittextをインストールします。gitのインストールに必要です。  
@@ -596,7 +596,7 @@ wget https://download.redis.io/redis-stable.tar.gz
 
 <h2 id="aSetup_git">gitのインストール</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 作業フォルダに移動し、gitをインストールします。  
@@ -646,7 +646,7 @@ $ cd ~
 
 <h2 id="aSetup_homebrew">homebrewのインストール</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 homebrewをインストールします。  
   
@@ -716,7 +716,7 @@ $ chmod -R go-w "$(brew --prefix)/share/zsh"
 
 <h2 id="aSetup_python3">python3のインストール</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 python3をインストールします。  
@@ -908,7 +908,7 @@ $ rm -rf ~/_tmp
 
 <h1>没操作</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -920,7 +920,7 @@ $ rm -rf ~/_tmp
 
 <h2 id="aSetup_libpsl">libpslのインストール</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ```text
@@ -980,7 +980,7 @@ exec_prefix = ${prefix}
 
 <h2 id="aSetup_pythonVirtual">pythonの仮想環境の構築</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 pip3を使えるよう、python仮想環境を構築します。  
   
@@ -1097,7 +1097,7 @@ Python 3.6.8
 
 <h2 id="aSetup_Aplication">仮想環境にアプリのインストール</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * openssl
@@ -1123,7 +1123,7 @@ pip install pyOpenSSL
 
 <h2 id="aSetup_python3">python3のインストール</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 python3をインストールします。  

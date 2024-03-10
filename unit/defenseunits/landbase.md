@@ -44,7 +44,7 @@
 
 
 <h1 id="aLandCenterBase">DUSB-CCC：防衛基地 / Land Center Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 防衛基地の中枢施設です。  
@@ -68,7 +68,7 @@
 
 
 <h1 id="aLandPlayerBase">DULB-CCP：防衛陣地 / Land Player Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 エリアマップの入り口です。  
@@ -91,7 +91,7 @@
 
 
 <h1 id="aFortress">DULD-CCF：要塞 / Fortress</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 要衝に設けられる巨大な軍事基地です。  
@@ -116,7 +116,7 @@
 
 
 <h1 id="aLandMillitaryBase">DULB-CCB：陸戦基地 / Land Millitary Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 要衝に設けられる軍事基地です。  
@@ -141,7 +141,7 @@
 
 
 <h1 id="aGarrison">DULB-GAR：駐屯地 / Garrison</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 陸戦部隊が駐留する施設です。  
@@ -165,7 +165,7 @@
 
 
 <h1 id="aAirBase">DULB-AIR：航空基地 / Air Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 陸戦攻撃機が駐留する基地です。  
@@ -189,7 +189,7 @@
 
 
 <h1 id="aLandFactory">DULB-FAC：兵器工場 / Land Factory</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦闘兵器を製造できるラインがある施設です。  
@@ -213,7 +213,7 @@
 
 
 <h1 id="aLandSupplyBase">DULB-SUP：補給基地 / Land Supply Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 補給物資を蓄積できる施設です。  
@@ -237,7 +237,7 @@
 
 
 <h1 id="aLandMiningBase">DULB-MIN：採掘基地 / Land Mining Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 資源採掘ができる施設です。  
@@ -261,7 +261,7 @@
 
 
 <h1 id="aOrbitalElevator">DULB-ELV：軌道エレベータ / Orbital Elevator</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 エリアマップとローカルマップを行き来できるエレベータです。  
@@ -292,4 +292,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

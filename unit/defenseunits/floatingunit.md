@@ -38,7 +38,7 @@
 
 
 <h1 id="aFloationBattery">DUFU-STD：浮遊砲台 / Floation Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対艦武器、対空武器が搭載できるます。近づくと自動攻撃します。
@@ -63,7 +63,7 @@
 
 
 <h1 id="aFloatingEncampment">DUFU-ECN：浮遊陣地 / Floating Encampment</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦場に展開された陣地です。機雷、防潜網、宇宙ゴミ、バリケードなどです。
@@ -88,7 +88,7 @@
 
 
 <h1 id="aFloatingMine">DUFU-MIN：浮遊機雷 / Floating Mine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -109,7 +109,7 @@
 
 
 <h1 id="aSatellite">DUFU-SAT：衛星 / Satellite</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦場に展開された衛星です。
@@ -144,4 +144,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

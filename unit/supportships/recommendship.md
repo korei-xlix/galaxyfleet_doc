@@ -38,7 +38,7 @@
 
 
 <h1 id="aRecommendShip">SSRE-STD：偵察艦 / Recommend Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 高速で航行し、索敵と敵地の偵察をおこなう支援艦です。  
@@ -65,7 +65,7 @@
 
 
 <h1 id="aRecommendSubmarine">SSRE-SMN：潜行偵察艦 / Recommend Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 潜航能力のある偵察艦です。  
@@ -89,7 +89,7 @@
 
 
 <h1 id="aRecommendMotherShip">SSRE-MOT：偵察母艦 / Recommend Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 偵察用の艦載機を運用し、広範囲の索敵と、偵察部隊からの情報収集と統制をおこなう、母艦型の偵察艦です。  
@@ -113,7 +113,7 @@
 
 
 <h1 id="aRecommendBattleShip">SSRE-RBS：偵察戦艦 / Recommend Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 巡航艦の主砲を搭載できるようにした偵察艦です。  
@@ -148,4 +148,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

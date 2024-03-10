@@ -34,7 +34,7 @@
 
 <h1 id="aReconnaissance">偵察 / Reconnaissance</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>監視者 / Observer</h2>  
@@ -48,7 +48,7 @@
 
 <h1 id="aElectricAttack">電子妨害 / Electric Attack</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -61,7 +61,7 @@
 
 <h1 id="aElectricDefence">電子防御 / Electric Defence</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -72,7 +72,7 @@
 
 <h1 id="aCommandSkill">指揮機能 / Command Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>艦隊統制 / Fleet Control</h2>  
@@ -94,7 +94,7 @@
 
 <h1 id="aAttackSkill">電子戦系 / Attack Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>妨害 / Jamming</h2>  
@@ -133,7 +133,7 @@
 
 <h1 id="aCommandSkill">指揮機能 / Command Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -215,7 +215,7 @@
 
 <h1 id="aElectronicWarfare">電子戦系 / Electronic Warfare</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ## 偵察情報共有
@@ -248,7 +248,7 @@
 
 <h1 id="aDefenceSkill">電子防御 / Defence Kind</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>妨害無効 / Invalid Electronic Warfare</h2>  
@@ -272,4 +272,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

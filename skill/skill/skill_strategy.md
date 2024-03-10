@@ -34,7 +34,7 @@
 
 <h1 id="aArchitecture">建築 / Architecture</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>建設設備 / Construction Equipment</h2>
@@ -50,7 +50,7 @@
 
 <h1 id="aInstallation">設置 / Installation</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -59,7 +59,7 @@
 
 <h1 id="aMaterial">資源 / Material</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -68,7 +68,7 @@
 
 <h1 id="aOtherStrategy">その他戦略 / Other Strategy</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -120,7 +120,7 @@
 
 <h1 id="aReload">資源系 / Reload</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -156,7 +156,7 @@
 
 <h1 id="aReload">建築系 / Reload</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -167,7 +167,7 @@
 
 <h1 id="aReload">その他戦略 / Reload</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -221,4 +221,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

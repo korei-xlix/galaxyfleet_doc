@@ -33,7 +33,7 @@
 
 <h1 id="aEquipmentReplacement">装備換装 / Equipment Replacement Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -43,7 +43,7 @@
 
 <h1 id="aTransformation">変形 / Transformation</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>甲板切替 / </h2>  
@@ -57,7 +57,7 @@
 
 <h1 id="aSeparationAndCombination">分離合体 / Separation and ombination</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -71,7 +71,7 @@
 
 <h1 id="aEquipmentReplacementSkill">装備換装機能 / Equipment Replacement Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>換装機構 / Replacement Mechanism</h2>  
@@ -111,7 +111,7 @@
 
 <h1 id="aTransformationSkill">変形機能 / Transformation Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>可変機構 / Variable Mechanism</h2>  
@@ -155,7 +155,7 @@
 
 <h1 id="aSeparationAndCombinationSkill">分離合体機能 / Separation and ombination Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>分離機構 / Separation Mechanism</h2>  
@@ -184,4 +184,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

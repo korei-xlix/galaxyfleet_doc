@@ -54,7 +54,7 @@
 
 
 <h1 id="aBattleBoat">MUMB-STD：装載艇 / Battle Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対艦戦闘用の小型舟艇です。装載艇ではこの標準タイプが一番高性能です。  
@@ -84,7 +84,7 @@
 
 
 <h1 id="aArmedGunBoat">MUMB-AMG：装甲砲撃艇 / Armed Gun Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 砲戦能力を強化した装載艇です。  
@@ -110,7 +110,7 @@
 
 
 <h1 id="aSprintMissileBoat">MUMB-MIS：高速ミサイル艇 / Sprint Missile Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 長射程攻撃力と機動性能を向上させた装載艇です。  
@@ -135,7 +135,7 @@
 
 
 <h1 id="aRocketBoat">MUMB-ROK：ロケット砲艇 / Rocket Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ロケットランチャーを多数搭載した装載艇です。  
@@ -161,7 +161,7 @@
 
 
 <h1 id="aHeavyTorpedoBoat">MUMB-PTD：重雷撃艇 / Heavy Torpedo Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 雷撃戦に特化した装載艇です。  
@@ -186,7 +186,7 @@
 
 
 <h1 id="aAirDefensiveWarningBoat">MUMB-ADW：防空警戒艇 / Air Defensive Warning Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空砲による対空戦闘と索敵能力に優れる装載艇です。  
@@ -212,7 +212,7 @@
 
 
 <h1 id="aInterceptBoat">MUMB-ICP：要撃艇 / Intercept Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦闘機やミサイルの迎撃力に特化した装載艇です。  
@@ -239,7 +239,7 @@
 
 
 <h1 id="aPatrolBoat">MUMB-PAT：巡視艇 / Patrol Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 沿岸警備や艦隊の周囲警戒に使われる小型舟艇です。軍以外では警察や沿岸警備隊でも運用されています。  
@@ -264,7 +264,7 @@
 
 
 <h1 id="aRecommendCommandBoat">MUMB-RCM：偵察指揮艇 / Recommend Command Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 広範囲の索敵と、偵察部隊からの情報収集と統制機能を備える舟艇です。  
@@ -290,7 +290,7 @@
 
 
 <h1 id="aSubmarineKillPatrolBoat">MUMB-SMK：対潜哨戒艇 / Submarine Kill Patrol Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対潜攻撃に特化した装載艇です。  
@@ -318,7 +318,7 @@
 
 
 <h1 id="aElectronicWarBoat">MUMB-ELW：電子作戦艇 / Electronic War Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 高い電子戦能力をもつ装載艇です。  
@@ -341,7 +341,7 @@
 
 
 <h1 id="aSupplyCargoBoat">MUMB-CAG：補給輸送艇 / Supply Cargo Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 航空隊への補給と、地上部隊の輸送ができる大型舟艇です。  
@@ -368,7 +368,7 @@
 
 
 <h1 id="aLandingBoat">MUMB-LND：揚陸艇 / Landing Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 揚陸用の舟艇です。  
@@ -393,7 +393,7 @@
 
 
 <h1 id="aInfantryBattleBoat">MUMB-INF：歩兵装載艇 / Infantry Battle Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 機動歩兵の輸送と、支援攻撃ができる装載艇です。  
@@ -420,7 +420,7 @@
 
 
 <h1 id="aEscoatBoat">MUMB-EST：護衛装載艇 / Escoat Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 艦隊護衛用の舟艇です。大型の火器を取り外し、装甲を強化しました。  
@@ -446,7 +446,7 @@
 
 
 <h1 id="aRescureBoat">MUMB-RES：救護艇 / Rescure Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対揚陸兵戦を重視した舟艇です。  
@@ -471,7 +471,7 @@
 
 
 <h1 id="aSubmarineBoat">MUMB-SMN：潜航艇 / Submarine Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 次元航行が可能な装載艇です。探知外の近距離から魚雷で攻撃するのを得意とします。  
@@ -495,7 +495,7 @@
 
 
 <h1 id="aEngineerBoat">MUMB-ENG：工作艇 / Engineer Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 土木作業や艦船の修理ができる大型舟艇です。  
@@ -520,7 +520,7 @@
 
 
 <h1 id="aMineSweepingBoat">MUMB-MSW：掃宙艇 / Mine Sweeping Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦場におかれた敷設兵器を回収するための装載艇です。  
@@ -545,7 +545,7 @@
 
 
 <h1 id="aSpecialAttackBoat">MUMB-SPA：特殊攻撃艇 / Special Attack Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 爆弾で自爆攻撃ができる装載艇です。  
@@ -583,4 +583,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

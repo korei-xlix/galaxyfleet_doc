@@ -1,14 +1,12 @@
-# Galaxy Fleet ～セットアップ手順書～
-  
-<h1>～セットアップ手順書～</h1>  
-<h2>～Setup Manual～</h2>  
-  
+# Galaxy Fleet：セットアップ手順書
+
+## Setup Manual
+
+## このドキュメントについて / About this document
 
 **★このリポジトリの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this repository are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメント群ではブラウザで動作する艦隊ストラテジゲーム「Galaxy Fleet」のセットアップ手順を示します。  
   
 前提としてサーバへの支援ソフト導入や、設定変更が必要で難易度は高いです。自己責任で行ってください。  
@@ -16,52 +14,51 @@
 [readme.md](https://github.com/korei-xlix/galaxy_fleet_doc/readme.md)
   
 なお、現バージョンは要求仕様まとめ段階のものであり、今後予告なく改版されます。  
-  
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
 
-* [前提環境・ソフトウェア](#aPremise)
+* [前提環境](#前提環境)
 
-* [github環境の構築](#aSetup_github)
+* [github環境の構築](#github環境の構築)
 
-* [環境構築](#aSetup)
-  * [インストール環境構成](#aSetup_Configure)
-  * [OpenSSLのインストール](#aSetup_OpenSSL)
-  * [curlのインストール](#aSetup_curl)
-  * [gettextのインストール](#aSetup_gettext)
-  * [gitのインストール](#aSetup_git)
-  * [homebrewのインストール](#aSetup_homebrew)
+* [環境構築](#環境構築)
+  * [インストール環境構成](#インストール環境構成)
+  * [OpenSSLのインストール](#opensslのインストール)
+  * [curlのインストール](#curlのインストール)
+  * [gettextのインストール](#gettextのインストール)
+  * [gitのインストール](#gitのインストール)
+  * [homebrewのインストール](#homebrewのインストール)
 
   * [python3のインストール](#aSetup_python3)
   * [Galaxy Fleet本体インストール](#aSetup_GalaxyFleet)
 
 * 没操作
   * [libpslのインストール](#aSetup_libpsl)
+
+
+
+
+
+## 前提環境
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1 id="aPremise">前提環境・ソフトウェア</h1>  
-  
-  [目次へ戻る](#aMokuji)  
-  
 readmeの[システム概要](/readme.md#システム要件最低限)をご参照ください。  
-  
 
 
 
 
 
-<h1 id="aSetup_github">github環境の構築</h1>  
-  
-  [目次へ戻る](#aMokuji)  
+## github環境の構築
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 本章ではgithub環境の構築について記載します。  
@@ -88,9 +85,9 @@ github Desktopをインストールします。
 
 
 
-<h1 id="aSetup">環境構築</h1>  
-  
-  [目次へ戻る](#aMokuji)  
+## 環境構築
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 Galaxy Fleetを実行するための環境構築をします。  
@@ -115,18 +112,17 @@ Galaxy Fleetを実行するための環境構築をします。
 
 
 
-<h2 id="aSetup_Configure">インストール環境構成</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## インストール環境構成
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 Galaxy Fleetではpython3のライブラリを利用しますが、X Serverのレンタルサーバの場合権限がないため、そのままの環境では利用できません。  
 そこで、自前のライブラリ環境を整えた上でインストールをおこないます。  
 **X Serverのレンタルサーバ以外はこの手順はスキップできます。**  
-  
 
 
-<h3>ディレクトリ構成（イメージ）</h3>  
+### ディレクトリ構成（イメージ）
 
 ```text
 home
@@ -170,7 +166,7 @@ home
   
 
 
-<h3>環境変数の変更</h3>  
+## 環境変数の変更
 
 ```text
 プロファイルをviエディタで開く
@@ -199,10 +195,9 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:${HOME}/opt/openssl/lib64:${HOME}/opt/cu
 $ source .bash_profile
 
 ```
-  
 
 
-<h3>ディレクトリ作成</h3>  
+## ディレクトリ作成
 
 ```text
 mkdirで作成していく
@@ -216,15 +211,14 @@ $ mkdir -p ~/.linuxbrew
 $ mkdir -p ~/.linuxbrew/bin
 
 ```
-  
 
 
 
 
 
-<h2 id="aSetup_OpenSSL">OpenSSLのインストール</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## OpenSSLのインストール
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 作業フォルダに移動し、opensslをインストールします。  
@@ -279,7 +273,7 @@ $ ldd ~/opt/openssl/bin/openssl
   
 
 
-<h3>OpenSSLオプションメモ</h3>  
+### OpenSSLオプションメモ
 
 ```text
 
@@ -315,15 +309,14 @@ export LOBS=""
 export PKG_CONFIG_PATH="-L$PREFIX/pkgconfig"
 
 ```
-  
 
 
 
 
 
-<h2 id="aSetup_curl">curlのインストール</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## curlのインストール
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 作業フォルダに移動し、curlをインストールします。gitのインストールに必要です。  
@@ -442,10 +435,9 @@ $ ls
 curl-8.6.0.tar.gz
 
 ```
-  
 
 
-<h3>curlオプションメモ</h3>  
+### curlオプションメモ
 
 ```text
 
@@ -467,15 +459,14 @@ OpenSSLがインストールされている最上位フォルダ
 --without-libpsl
 
 ```
-  
 
 
 
 
 
-<h2 id="aSetup_gettext">gettextのインストール</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## gettextのインストール
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 作業フォルダに移動し、gettextをインストールします。gitのインストールに必要です（本当に必要なんだろうか...？）。  
@@ -509,15 +500,14 @@ $ gettext --version
 gettext (GNU gettext-runtime) 0.22.4
 
 ```
-  
 
 
 
 
 
-<h2 id="aSetup_git">gitのインストール</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## gitのインストール
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 作業フォルダに移動し、gitをインストールします。  
@@ -587,10 +577,9 @@ usage: git clone [<options>] [--] <repo> [<dir>]
 ...
 
 ```
-  
 
 
-<h3>gitオプションメモ</h3>  
+### gitオプションメモ
 
 ```text
 
@@ -635,15 +624,14 @@ echo $LIBS
 echo $PKG_CONFIG_PATH
 
 ```
-  
 
 
 
 
 
-<h2 id="aSetup_homebrew">homebrewのインストール</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## homebrewのインストール
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 <h3>homebrewクローンの配置</h3>
@@ -761,10 +749,9 @@ make test  に時間がかかる
 
 
 ```
-  
 
 
-<h3>うまくいかない場合</h3>  
+### うまくいかない場合
 
 * 上の表示どおり進行しない場合は、どこかでエラーを起こしてる場合があります。  
   エラーログを見て、怪しいライブラリやアプリをreinstallすることで改善します。  
@@ -777,10 +764,9 @@ Reinstallに使ったコマンド集
 $ brew fetch zstd && brew reinstall zstd
 
 ```
-  
 
 
-<h3>gitオプションメモ</h3>  
+### homebrewオプションメモ
 
 ```text
 

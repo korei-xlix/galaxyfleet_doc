@@ -35,7 +35,7 @@
 
 <h1 id="aLoadedWithMaterial">資源搭載 / Loaded with Material</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>揚陸貨物庫 / </h2>
@@ -68,7 +68,7 @@
 <h1 id="aAircraftEquiped">航空機搭載 / Aircraft Equiped</h1>  
 艦船に内蔵された飛行甲板と格納庫のセットです。  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>航空甲板 / </h2>
@@ -165,7 +165,7 @@
 
 <h1 id="aInfantryEquiped">歩兵搭載 / Infantry Equiped</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>歩兵発着設備 / </h2>
@@ -188,7 +188,7 @@
 
 <h1 id="aBoatEquiped">装載艇搭載 / Boat Equiped</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>装載艇発着設備 / </h2>
@@ -203,7 +203,7 @@
 
 <h1 id="aLandUnitEquiped">陸戦搭載 / Land Unit Equiped</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>陸戦揚陸設備 / </h2>
@@ -316,4 +316,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

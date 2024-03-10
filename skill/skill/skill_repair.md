@@ -34,7 +34,7 @@
 <h1 id="aReload">弾薬補充 / Reload</h1>  
 弾薬補充機能もしくは、弾薬補充機能つきの機能です。  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>重盾交換 / Change Heavy Shield</h2>  
@@ -55,7 +55,7 @@
 
 <h1 id="aRepair">修理 / Repair</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -64,7 +64,7 @@
 
 <h1 id="aReplenishment">補充 / Replenishment</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -121,7 +121,7 @@
 
 <h1 id="aRepairReplenishmentSkill">修理補充機能 / Repair Replenishment Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 移動修理
@@ -205,4 +205,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

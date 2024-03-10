@@ -42,7 +42,7 @@
 
 
 <h1 id="aPassengerPlane">CUCP-PSG：旅客機 / Passenger Plane</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -63,7 +63,7 @@
 
 
 <h1 id="aPrivatePlane">CUCP-PRV：自家用機 / Private Plane</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -84,7 +84,7 @@
 
 
 <h1 id="aCivilExplorationPlane">CUCP-EXP：民間探査機 / Civil Exploration Plane</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -105,7 +105,7 @@
 
 
 <h1 id="aCivilCargoPlane">CUCP-CAG：民間輸送機 / Civil Cargo Plane</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -126,7 +126,7 @@
 
 
 <h1 id="aGovernmentFerryPlane">CUGP-FER：公用連絡機 / Government Ferry Plane</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -147,7 +147,7 @@
 
 
 <h1 id="aGovernmentCargoPlane">CUGP-CAG：公用輸送機 / Government Cargo Plane</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -168,7 +168,7 @@
 
 
 <h1 id="aGovernmentExplorationPlane">CUGP-EXP：公用探査機 / Government Exploration Plane</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -189,7 +189,7 @@
 
 
 <h1 id="aCombatOversightCommitteePlane">CUGP-COC：戦時監視機 / Combat Oversight Committee Plane</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -216,4 +216,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

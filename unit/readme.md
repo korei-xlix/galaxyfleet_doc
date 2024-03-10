@@ -62,12 +62,12 @@
 <h1 id="aUnitClass">兵器分類 / Unit Class</h1>  
 各兵器種類は、さらに兵器分類に分類分けされます。  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2 id="aBattleShips">BS：戦列艦 / Battle Ships</h2>  
   
-  [目次へ戻る](#aMokuji) / [戦列艦](battleships/readme.md)  
+[目次へ戻る](#aMokuji) / [戦列艦](battleships/readme.md)  
   
 
 * **<a id="aDestroyer">[BSDS：駆逐艦　Destroyer](battleships/destroyer.md)</a>**  
@@ -145,7 +145,7 @@
 
 <h2 id="aEscortShips">ES：護衛艦 / Escort Ships</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **<a id="aFrigate">[ESFG：護衛艦　Frigate](escortships/frigate.md)</a>**  
@@ -184,7 +184,7 @@
 
 <h2 id="aSupportShips">SS：支援艦 / Support Ships</h2>  
   
-  [目次へ戻る](#aMokuji) / [支援艦](supportships/readme.md)  
+[目次へ戻る](#aMokuji) / [支援艦](supportships/readme.md)  
   
 
 * **<a id="aRecommendShip">[SSRE：偵察艦　Recommend Ship](supportships/recommendship.md)</a>**  
@@ -259,7 +259,7 @@
 
 <h2 id="aMovableUnits">MU：機動兵器 / Movable Units</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **<a id="aCarrierAircraft">[MUCB：空母航空機　Carrier Aircraft](planes/carrieraircraft.md)</a>**  
@@ -307,7 +307,7 @@
 
 <h2 id="aLandUnits">LU：陸戦兵器 / Land Units</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **<a id="aLandAirplane">[LULA：陸戦攻撃機　Land Airplane](planes/landairplane.md)</a>**  
@@ -371,7 +371,7 @@
 
 <h2 id="aDefenseUnits">DU：防衛兵器 / Defense Units</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **<a id="aDefenseSystem">[DUSY：防衛システム　Defense System](defenseunits/defensesystem.md)</a>**  
@@ -423,7 +423,7 @@
 
 <h2 id="aWizardInfantrys">WI：魔導兵器 / Wizard Infantrys</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **<a id="aSorcery">[WISO：魔導士　Sorcery](wizardinfantrys/sorcery.md)</a>**  
@@ -484,7 +484,7 @@
 
 <h2 id="aCivilShips">CS：民間船 / Civil Ships</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **<a id="aPassengerShip">[CSPA：旅客船　Passenger Ship](civilunits/civilship.md)</a>**  
@@ -514,7 +514,7 @@
 
 <h2 id="aCivilUnits">CU：民間機 / Civil Units</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **<a id="aCivilPlane">[CUCP：民間機　Civil Plane](civilunits/civilplane.md)</a>**  
@@ -574,7 +574,7 @@
 
 <h2 id="aCivilFacilities">CB：民間施設 / Civil Facilities</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **<a id="aSpaceFacility">[CBSP：宇宙施設　Space Facility](civilunits/civulfacility.md)</a>**  
@@ -594,7 +594,7 @@
 
 <h2>BSDS：駆逐艦 / Destroyer</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **BSDS-STD：駆逐艦**  
@@ -761,7 +761,7 @@
 
 <h2>ESFG：護衛艦 / Frigate</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **ESFG-STD：護衛艦**  
@@ -810,7 +810,7 @@
 
 <h2>SSRE：偵察艦 / Recommend Ship</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **SSRE-STD：偵察艦**  
@@ -924,7 +924,7 @@
 
 <h2>MUCB：空母航空機 / Carrier Aircraft</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **MUCB-FIG：戦闘機**  
@@ -1089,7 +1089,7 @@
 
 <h2>LULA：陸戦攻撃機 / Land Airplane</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **LULA-ATK：陸戦攻撃機**  
@@ -1232,7 +1232,7 @@
 
 <h2>DUSY：防衛システム / Defense System</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **DUSY-CCC：システムコア**  
@@ -1380,7 +1380,7 @@
 
 <h2>WISO：魔導士 / Sorcery</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **WISO-STD：魔導士**  
@@ -1559,7 +1559,7 @@
 
 <h2>CSPA：旅客船 / Passenger Ship</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **CSPA-PSG：旅客船**  
@@ -1607,7 +1607,7 @@
 
 <h2>CUCP：民間機 / Civil Plane</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **CUCP-PSG：旅客機**  
@@ -1632,7 +1632,7 @@
 
 <h2>CUCR：民間ロボット / Civil Robot</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **CUCR-ENG：民間作業ロボット**  
@@ -1658,7 +1658,7 @@
 
 <h2>CUCB：民間舟艇  / Civil Boat</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **CUCB-FER：民間連絡艇**  
@@ -1684,7 +1684,7 @@
 
 <h2>CUCC：民間車両  / Civil Car</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **CUCC-ENG：民間作業車**  
@@ -1710,7 +1710,7 @@
 
 <h2>CUCS：民間衛星  / Civil Satellite</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **CUCS-CMN：民間通信衛星**  
@@ -1735,7 +1735,7 @@
 
 <h2>CBSP：宇宙施設  / Space Facility</h2>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * **CBSP-CCC：中枢施設**  
@@ -1781,4 +1781,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

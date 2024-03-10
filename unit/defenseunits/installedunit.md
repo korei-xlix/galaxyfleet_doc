@@ -38,7 +38,7 @@
 
 
 <h1 id="aInstallationBattery">DUIU-STD：設置砲台 / Installation Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 砲を搭載できます。近づくと自動攻撃します。
@@ -63,7 +63,7 @@
 
 
 <h1 id="aEncampment">DUIU-ECN：陣地 / Encampment</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦場に展開された陣地です。地雷、堀、阻塞、掩体壕などです。
@@ -88,7 +88,7 @@
 
 
 <h1 id="aMine">DUIU-MIN：地雷 / Mine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -109,7 +109,7 @@
 
 
 <h1 id="aCraftEquipment">DUIU-ENG：工作設備 / Craft Equipment</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦場に展開された工作用の設備です。
@@ -139,4 +139,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

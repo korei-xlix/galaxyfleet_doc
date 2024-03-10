@@ -42,7 +42,7 @@
 
 
 <h1 id="aCivilCommunicationSatellite">CUCS-CMN：民間通信衛星 / Civil Communication Satellite</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -63,7 +63,7 @@
 
 
 <h1 id="aPrivateSatellite">CUCS-PRV：自家用衛星 / Private Satellite</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -84,7 +84,7 @@
 
 
 <h1 id="aCivilExplorationSatellite">CUCS-EXP：民間探査衛星 / Civil Exploration Satellite</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -105,7 +105,7 @@
 
 
 <h1 id="aGuardSatellite">CUCS-GUD：警備衛星 / Guard Satellite</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -126,7 +126,7 @@
 
 
 <h1 id="aGovernmentCommunicationSatellite">CUGS-CMN：公用通信衛星 / Government Communication Satellite</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -147,7 +147,7 @@
 
 
 <h1 id="aGovernmentExplorationSatellite">CUGS-EXP：公用探査衛星 / Government Exploration Satellite</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -168,7 +168,7 @@
 
 
 <h1 id="aGovernmentRelaySatellite">CUGS-REL：公用中継衛星 / Government Relay Satellite</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -189,7 +189,7 @@
 
 
 <h1 id="aCombatOversightCommitteeSatellite">CUGS-COC：戦時監視衛星 / Combat Oversight Committee Satellite</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -216,4 +216,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

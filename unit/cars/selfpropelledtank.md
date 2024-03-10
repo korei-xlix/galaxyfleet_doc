@@ -40,7 +40,7 @@
 
 
 <h1 id="aSelfPropelledCannon">LUPT-STD：自走野戦砲 / Self Propelled Cannon</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型の擲弾武器を搭載し、長距離の目標を攻撃するための車両です。キャタピラで走行します。  
@@ -64,7 +64,7 @@
 
 
 <h1 id="aSelfPropelledAntiAirGun">LUPT-AAT：自走対空砲 / Self Propelled Anti Air Gun</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -85,7 +85,7 @@
 
 
 <h1 id="aSelfPropelledRocket">LUPT-ROC：自走ロケット / Self Propelled Rocket</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型のロケット砲を搭載し、長距離の目標を攻撃するための車両です。キャタピラで走行します。  
@@ -109,7 +109,7 @@
 
 
 <h1 id="aSelfPropelledMissile">LUPT-MIS：自走ミサイル / Self Propelled Missile</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -130,7 +130,7 @@
 
 
 <h1 id="aSelfPropelledArchCannon">LUPT-MIS：自走弩砲 / Self Propelled Arch Cannon</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -151,7 +151,7 @@
 
 
 <h1 id="aSelfPropelledHoverCannon">LUPT-MOV：浮遊機動砲 / Self Propelled Hover Cannon</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -178,4 +178,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

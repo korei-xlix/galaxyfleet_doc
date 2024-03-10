@@ -40,7 +40,7 @@
 
 
 <h1 id="aLandBattery">DULT-STD：野戦砲台 / Land Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 野戦砲が搭載できる砲台です。内部に突入してきた対陸戦用に使用できます。  
@@ -66,7 +66,7 @@
 
 
 <h1 id="aOrbitalBattery">DULT-OBT：軌道砲台 / Orbital Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -87,7 +87,7 @@
 
 
 <h1 id="aLandAntiAirBattery">DULT-AAC：対空砲台 / Land Anti Air Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空機関砲が搭載できる砲台です。  
@@ -113,7 +113,7 @@
 
 
 <h1 id="aAirPlaneBattery">DUST-AIR：航空デッキ / Air Plane Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -134,7 +134,7 @@
 
 
 <h1 id="aGarageBattery">DULT-GRG：車庫デッキ / Garage Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -155,7 +155,7 @@
 
 
 <h1 id="aLandMonitoringBattery">DUST-ELW：監視台 / Land Monitoring Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 レーダやジャマーなどの支援装備が搭載できる台です。  
@@ -187,4 +187,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

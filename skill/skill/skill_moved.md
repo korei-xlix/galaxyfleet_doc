@@ -33,7 +33,7 @@
 
 <h1 id="aMapMove">マップ移動 / Map Move</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>上陸 / </h2>
@@ -49,7 +49,7 @@
 
 <h1 id="aMoveSkill">移動機能 / Move Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>高速艦 / </h2>
@@ -64,7 +64,7 @@
 
 <h1 id="aTerrainCompatibl">地形対応 / Terrain Compatible</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -78,7 +78,7 @@
 
 <h1 id="aMoveSkill">移動機能 / Move Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 
@@ -106,7 +106,7 @@
 
 <h1 id="aMoveSkill">移動機能 / Move Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>潜航 / Dive</h2>  
@@ -187,7 +187,7 @@
 
 <h1 id="aGettingOnOffSkill">乗降機能 / Getting On/Off Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ## 船引き
@@ -306,7 +306,7 @@
 
 <h1 id="aOnBoardUnitSupportSkill">搭載機補助機能 / On-Board Unit Support Skill</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>潜航 / Dive</h2>  
@@ -326,4 +326,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

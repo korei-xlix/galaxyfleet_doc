@@ -48,7 +48,7 @@
 
 
 <h1 id="aSpaceCenterFacility">CBSP-CCC：中枢施設 / Space Center Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 民間施設の中枢部です。  
@@ -71,7 +71,7 @@
 
 
 <h1 id="aSpaceResidentialFacility">CBSP-RST：居住施設 / Space Residential Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 民間人が住む施設です。  
@@ -94,7 +94,7 @@
 
 
 <h1 id="aSpaceCommercialFacility">CBSP-CMM：商業施設 / Space Commercial Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 民間のショップや企業が詰める施設です。  
@@ -118,7 +118,7 @@
 
 
 <h1 id="aSpaceIndustrialFacility">CBSP-IND：工業施設 / Space Industrial Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 民間の工場や造船所などが詰める施設です。  
@@ -141,7 +141,7 @@
 
 
 <h1 id="aSpaceAdministrativeFacility">CBSP-ADM：行政施設 / Space Administrative Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 行政や自治体の団体、警備隊が詰める施設です。  
@@ -164,7 +164,7 @@
 
 
 <h1 id="aSpaceMiningFacility">CBSP-MIN：採掘施設 / Space Mining Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 資源採掘ができる施設です。  
@@ -188,7 +188,7 @@
 
 
 <h1 id="aSpaceCommunicationFacility">CBSP-CNT：通信施設 / Space Communication Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 通信機能や分析機能が詰める施設です。  
@@ -211,7 +211,7 @@
 
 
 <h1 id="aLandCenterFacility">CBLD-CCC：中枢施設 / Land Center Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 民間施設の中枢部です。  
@@ -234,7 +234,7 @@
 
 
 <h1 id="aLandResidentialFacility">CBLD-RST：居住施設 / Land Residential Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 民間人が住む施設です。  
@@ -257,7 +257,7 @@
 
 
 <h1 id="aLandCommercialFacility">CBLD-CMM：商業施設 / Land Commercial Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 民間のショップや企業が詰める施設です。  
@@ -281,7 +281,7 @@
 
 
 <h1 id="aLandIndustrialFacility">CBLD-IND：工業施設 / Land Industrial Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 民間の工場や造船所などが詰める施設です。  
@@ -304,7 +304,7 @@
 
 
 <h1 id="aLandAdministrativeFacility">CBLD-ADM：行政施設 / Land Administrative Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 行政や自治体の団体、警備隊が詰める施設です。  
@@ -327,7 +327,7 @@
 
 
 <h1 id="aLandMiningFacility">CBLD-MIN：採掘施設 / Land Mining Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 資源採掘ができる施設です。  
@@ -351,7 +351,7 @@
 
 
 <h1 id="aLandCommunicationFacility">CBLD-CNT：通信施設 / Land Communication Facility</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 通信機能や分析機能が詰める施設です。  
@@ -380,4 +380,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

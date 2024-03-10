@@ -81,7 +81,7 @@
 <h1 id="aSkillKind">機能種類 / Skill Kind</h1>  
 兵器についてる機能で使用可能になる装備や、機能が発動することで発生効果が付加されます。  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * [攻撃機能](skill/skill_attack.md)  
@@ -117,7 +117,7 @@
 "発生効果"は機能の影響を受けて発生する効果です。  
 RPGで言うバフ、デバフです。仕分けは以下のようになってます。  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 * [攻撃効果](debuff/debuff_attack.md)  
@@ -152,4 +152,4 @@ RPGで言うバフ、デバフです。仕分けは以下のようになって�
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

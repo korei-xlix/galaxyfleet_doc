@@ -42,7 +42,7 @@
 
 
 <h1 id="aLandBattleType">LULI-STD：陸戦型 / Land Battle Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 地上専用の歩兵のスタンダードタイプです。  
@@ -74,7 +74,7 @@
 
 
 <h1 id="aAirborneType">LULI-AIB：空挺型 / Airborne Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 軌道上の搭載兵器から単独で地上に降下が可能な歩兵です。  
@@ -101,7 +101,7 @@
 
 
 <h1 id="aArtilleryType">LULI-ATK：砲兵型 / Artillery Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 地上専用で砲戦に特化した歩兵です。  
@@ -132,7 +132,7 @@
 
 
 <h1 id="aEscortType">LULI-STG：護衛型 / Escort Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 拠点内、艦内防御専用の歩兵です。  
@@ -157,7 +157,7 @@
 
 
 <h1 id="aRecommendType">LULI-REC：偵察型 / Recommend Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 地上専用で偵察用の機体です。  
@@ -186,7 +186,7 @@
 
 
 <h1 id="aCombatEngineerType">LULI-CEG：戦闘工兵型 / Combat Engineer Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦闘と工作両方ができる歩兵です。  
@@ -221,7 +221,7 @@
 
 
 <h1 id="aLandEngineerType">LULI-ENG：陸戦工作型 / Land Engineer Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 作作業に特化した歩兵です。  
@@ -247,7 +247,7 @@
 
 
 <h1 id="aSpecialType">LULI-SPL：特戦型 / Special Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 時間とコストをかけて生産する地上専用の歩兵です。  
@@ -286,4 +286,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

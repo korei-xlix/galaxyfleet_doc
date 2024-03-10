@@ -38,7 +38,7 @@
 
 
 <h1 id="aVersatileType">MUVI-STD：万能型 / Versatile Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 時間とコストをかけて生産する最高性能の歩兵です。  
@@ -73,7 +73,7 @@
 
 
 <h1 id="aVariableCombatType">MUVI-VAR：可変型 / Variable Combat Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 変形可能な歩兵です。変形した形態によりボーナスが得られます。  
@@ -106,7 +106,7 @@
 
 
 <h1 id="aCombinedCombatType">MUVI-CBI：合体型 / Combined Combat Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 分離可能な歩兵です。分離中はボーナスが得られます。  
@@ -138,7 +138,7 @@
 
 
 <h1 id="aReplacementCombatType">MUVI-REP：換装型 / Replacement Combat Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 換装が可能な歩兵です。換装するとボーナスが得られます。  
@@ -180,4 +180,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

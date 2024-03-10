@@ -1,23 +1,20 @@
-# Galaxy Fleet
-  
-<h1>～～装備品仕様～ :: メインコンピュータ～</h1>  
-<h2>～Equip Specifications～ :: Main Computer</h2>  
-  
+# Galaxy Fleet：装備品仕様：メインコンピュータ
+
+## Galaxy Fleet：Equip Specifications：Main Computer
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の装備品のうち、メインコンピュータの定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
   * [装備品仕様](/equip/readme.md)
@@ -34,8 +31,9 @@
 
 
 
-<h1 id="aDestroyer">BSDS-STD：駆逐艦 / Destroyer</h1>  
-  [目次へ戻る](#aMokuji)  
+## BSDS-STD：駆逐艦 / Destroyer
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 
@@ -161,4 +159,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

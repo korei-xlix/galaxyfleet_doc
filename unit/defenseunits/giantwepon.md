@@ -44,7 +44,7 @@
 
 
 <h1 id="aSuperGiantBattleShip">DUGW-BAT：超巨大戦艦 / Super Giant Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 超巨大戦艦です。  
@@ -73,7 +73,7 @@
 
 
 <h1 id="aSuperGiantAirCarrier">DUGW-CAR：超巨大空母 / Super Giant Air Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 エリアマップの入り口です。  
@@ -96,7 +96,7 @@
 
 
 <h1 id="aSuperGiantSubmarine">DUGW-SUB：超巨大潜航艦 / Super Giant Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -117,7 +117,7 @@
 
 
 <h1 id="aSuperGiantMobillityFortress">DUGW-MFT：超機動要塞 / Super Giant Mobillity Fortress</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -138,7 +138,7 @@
 
 
 <h1 id="aSuperGiantInfantry">DUGW-INF：巨人歩兵 / Super Giant Infantry</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -159,7 +159,7 @@
 
 
 <h1 id="aSuperGiantBomber">DUGW-AIC：巨人爆撃機 / Super Giant Bomber</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -180,7 +180,7 @@
 
 
 <h1 id="aSuperGiantTank">DUGW-TAN：巨大戦車 / Super Giant Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -201,7 +201,7 @@
 
 
 <h1 id="aSuperGiantMobillityCannon">DUGW-MGN：超機動砲座 / Super Giant Mobillity Cannon</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -222,7 +222,7 @@
 
 
 <h1 id="aDevil">DUGW-DEV：魔神 / Devil</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -243,7 +243,7 @@
 
 
 <h1 id="aWizardFortress">DUGW-WIZ：魔導要塞 / Wizard Fortress</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -270,4 +270,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

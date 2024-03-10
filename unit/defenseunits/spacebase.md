@@ -44,7 +44,7 @@
 
 
 <h1 id="aSpaceCenterBase">DUSB-CCC：防衛基地 / Space Center Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 防衛基地の中枢施設です。  
@@ -68,7 +68,7 @@
 
 
 <h1 id="aSpacePlayerBase">DUSB-CCP：泊地 / Space Player Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 艦船が揚陸できる仮の港がある軍事施設です。  
@@ -92,7 +92,7 @@
 
 
 <h1 id="aFortress">DUSB-CCF：要塞 / Fortress</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 要衝に設けられる巨大な軍事基地です。  
@@ -117,7 +117,7 @@
 
 
 <h1 id="aSpaceMillitaryBase">DUSB-CCB：宇宙基地 / Space Millitary Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 要衝に設けられる軍事基地です。  
@@ -142,7 +142,7 @@
 
 
 <h1 id="aSpacePort">DUSB-CCT：軍港 / Space Port</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 艦船が係留できる港がある施設です。  
@@ -166,7 +166,7 @@
 
 
 <h1 id="aDefenseStation">DUSB-STA：防衛詰所 / Defense Station</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 歩兵や戦車などが駐留できる詰所です。  
@@ -191,7 +191,7 @@
 
 
 <h1 id="aSpaceFactory">DUSB-FAC：兵器工場 / Space Factory</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦闘兵器を製造できるラインがある施設です。  
@@ -215,7 +215,7 @@
 
 
 <h1 id="aSpaceSupplyBase">DUSB-SUP：補給基地 / Space Supply Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 補給物資を蓄積できる施設です。  
@@ -239,7 +239,7 @@
 
 
 <h1 id="aSpaceMiningBase">DUSB-MIN：採掘基地 / Space Mining Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 資源採掘ができる施設です。  
@@ -263,7 +263,7 @@
 
 
 <h1 id="aSpaceRecommendBase">DUSB-REC：偵察基地 / Space Recommend Base</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 偵察機能や部隊が詰める施設です。  
@@ -293,4 +293,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

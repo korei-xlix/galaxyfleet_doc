@@ -38,7 +38,7 @@
 
 
 <h1 id="aSuppryCargoShip">SSSC-STD：補給輸送艦 / Suppry Cargo Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大量の資源や兵器の輸送を専門におこなう大型の支援艦です。民間からもリースすることができる艦船です。  
@@ -61,7 +61,7 @@
 
 
 <h1 id="aSplintSuppryCargoShip">SSSC-SPT：高速輸送艦 / Splint Suppry Cargo Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型のブースターを搭載し、船足を強化した輸送艦です。  
@@ -86,7 +86,7 @@
 
 
 <h1 id="aCargoMotherShip">SSSC-MOT：輸送母艦 / Cargo Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大量の輸送機や輸送艇が運用できる、母艦型の輸送艦です。  
@@ -110,7 +110,7 @@
 
 
 <h1 id="aUnitCargoShip">SSSC-UCG：兵器輸送艦 / Unit Cargo Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦闘兵器を分解せずに運べる輸送艦です。  
@@ -139,4 +139,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

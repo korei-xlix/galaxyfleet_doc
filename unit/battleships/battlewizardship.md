@@ -38,7 +38,7 @@
 
 
 <h1 id="aBattleWizardShip">BSWZ-STD：魔導戦艦 / Battle Wizard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 魔導砲と魔導装甲で武装する魔導兵器の戦闘艦です。  
 
@@ -59,7 +59,7 @@
 
 
 <h1 id="aArmedWizardShip">BSWZ-AMD：魔導装甲艦 / Armed Wizard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 魔導シールドと魔導装甲で武装する防御タイプの魔導戦艦です。  
 
@@ -80,7 +80,7 @@
 
 
 <h1 id="aMissileWizardShip">BSWZ-MIS：魔導ミサイル艦 / Missile Wizard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 多数の魔導ミサイルで武装する攻撃に特化した魔導戦艦です。  
 
@@ -101,7 +101,7 @@
 
 
 <h1 id="aMotherWizardShip">BSWZ-MOS：魔導母艦 / Mother Wizard Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 多数の魔導歩兵が搭載できる母艦タイプの魔導戦艦です。  
 
@@ -128,4 +128,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

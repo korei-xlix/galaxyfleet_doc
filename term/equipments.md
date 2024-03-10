@@ -34,7 +34,7 @@
 
 <h1 id="aCommon">装備共通 / Common</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>火器 / xxxx</h2>  
@@ -49,7 +49,7 @@
 
 <h1 id="aWepon">武器 / Wepon</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>レーザ / Laser</h2>  
@@ -194,7 +194,7 @@
 
 <h1 id="aDefend">防御装備 / Defend</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>シールド / xxxx</h2>  
@@ -214,4 +214,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

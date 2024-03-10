@@ -1,23 +1,20 @@
-# Galaxy Fleet
-  
-<h1>～～装備品仕様～ :: 基礎構造～</h1>  
-<h2>～Equip Specifications～ :: Foundation Structure</h2>  
-  
+# Galaxy Fleet：装備品仕様：基礎構造
+
+## Galaxy Fleet：Equip Specifications：Foundation Structure
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の装備品のうち、基礎構造の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
   * [装備品仕様](/equip/readme.md)
@@ -32,8 +29,8 @@
 
 
 <h1 id="aMainCannon">要塞砲・戦列艦主砲 / Main Cannon</h1>  
-  
-  [目次へ戻る](#aMokuji)  
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 |  |名称                  |要 |大 |中 |小 |説明 |
@@ -65,9 +62,9 @@
 
 
 
-<h1 id="aSubCannon">戦列艦副砲・機動兵器砲 / Sub Cannon</h1>  
-  
-  [目次へ戻る](#aMokuji)  
+## 戦列艦副砲・機動兵器砲 / Sub Cannon
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 |  |名称                    |中 |小 |機 |説明 |
@@ -97,9 +94,9 @@
 
 
 
-<h1 id="aRifle">携行砲 / Rifle</h1>  
-  
-  [目次へ戻る](#aMokuji)  
+## 携行砲 / Rifle
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 |  |名称                  |説明 |
@@ -125,9 +122,9 @@
 
 
 
-<h1 id="aRifle">砲の種類と説明 / Rifle</h1>  
-  
-  [目次へ戻る](#aMokuji)  
+## 砲の種類と説明 / Rifle
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 <h2>レーザ / Laser</h2>  
@@ -333,4 +330,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

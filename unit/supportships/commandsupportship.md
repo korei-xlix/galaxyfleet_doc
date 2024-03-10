@@ -38,7 +38,7 @@
 
 
 <h1 id="aTacticalCommandShip">SSCM-STD：戦術指揮艦 / Tactical Command Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦闘の指揮全体がおこなえるよう機能が充実している旗艦タイプの支援艦です。  
@@ -66,7 +66,7 @@
 
 
 <h1 id="aAirstrikeCommandShip">SSCM-ACM：航空指揮艦 / Airstrike Command Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 空戦隊の指揮を専門とする支援艦です。  
@@ -94,7 +94,7 @@
 
 
 <h1 id="aLandWarCommandShip">SSCM-LCM：陸戦指揮艦 / Land War Command Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 陸戦隊の指揮を専門とする支援艦です。  
@@ -122,7 +122,7 @@
 
 
 <h1 id="aCommandBattleShip">SSCM-CBS：指揮戦艦 / Command Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 巡航艦の主砲と、ミサイルが搭載できる指揮支援艦です。  
@@ -157,4 +157,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

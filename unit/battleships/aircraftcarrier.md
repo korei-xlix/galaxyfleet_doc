@@ -42,7 +42,7 @@
 
 
 <h1 id="aAircraftCarrier">BSAC-STD：航空母艦 / Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 船体に巨大な飛行甲板を搭載し、艦載機を大量に運用できる大型の戦列艦です。いわゆる"空母"です。  
 ほとんどの空母航空機が運用できます。少ないですが機動歩兵も運用できます。  
@@ -71,7 +71,7 @@
 
 
 <h1 id="aArmoredAircraftCarrier">BSAC-AMD：装甲空母 / Armored Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 飛行甲板と艦体の防御力を強化した大型空母です。飛行甲板が壊れにくく、激戦でも艦載機の運用がしやすくなってます。  
 専用の装甲甲板が搭載できます。  
@@ -100,7 +100,7 @@
 
 
 <h1 id="aAttackAircraftCarrier">BSAC-ATK：攻撃空母 / Attack Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 飛行甲板を強化し、艦載機の運用能力を向上し、航空攻撃力全体を向上させた大型空母です。  
 専用の発進強化甲板が搭載できます。艦載機の連続発進ができ、航空攻撃の回数が向上します。  
@@ -129,7 +129,7 @@
 
 
 <h1 id="aMultiStageAircraftCarrier">BSAC-MUS：多段式空母 / Multi Stage Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 複数の飛行甲板と格納設備を搭載し、艦載機の搭載能力と発進能力を向上させた超大型空母です。  
 ほとんどの空母航空機、大型航空機が運用でき、機動歩兵も運用できます。運用できる航空戦力数は戦列艦のなかでで一番です。  
@@ -157,7 +157,7 @@
 
 
 <h1 id="aBattleAircraftCarrier">BSAC-BAC：戦闘空母 / Battle Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 飛行甲板の中に主砲や装備類を格納し、艦でも砲撃戦がおこなえるようにした大型空母です。  
 空母機能はそのままに、戦艦の主砲や巡航艦クラスの武装が搭載できます。  
@@ -188,7 +188,7 @@
 
 
 <h1 id="aInterceptAircraftCarrier">BSAC-ICP：要撃空母 / Intercept Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 搭載機での防空力と要撃能力を強化した大型空母です。  
 空母で捕捉している敵機動兵器がいる場合、先制攻撃ができます。  
@@ -218,7 +218,7 @@
 
 
 <h1 id="aStrikeAircraftCarrier">BSAC-SRK：戦略空母 / Strike Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 ほとんどの機動兵器が運用できる超大型空母です。建造コスト、時間がかかるため、数が少ない特別な戦列艦です。  
 すべての艦載機、汎用機以外の航空機、機動歩兵、装載艇、陸戦爆撃機が運用できます。  
@@ -250,7 +250,7 @@
 
 
 <h1 id="aSpaceControlShip">BSAC-SCT：制宙艦 / Space Control Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 主に対潜哨戒機の運用や、対潜戦闘能力が充実した大型航空母艦です。  
 電子性能が高く、空母の機能に加え、高度な対潜戦闘能力を保有します。  
@@ -288,4 +288,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

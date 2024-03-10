@@ -40,7 +40,7 @@
 
 
 <h1 id="aSpaceBattery">DUST-STD：対艦砲台 / Space Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対艦用の武器が搭載できる砲台です。  
@@ -66,7 +66,7 @@
 
 
 <h1 id="aFortressBattery">DUST-HUG：要塞砲台 / Fortress Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 防衛兵器専用の超大型要塞砲を搭載できます。  
@@ -92,7 +92,7 @@
 
 
 <h1 id="aSpaceAntiAirBattery">DUST-AAC：対空砲台 / Space Anti Air Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空機関砲が搭載できる砲台です。  
@@ -118,7 +118,7 @@
 
 
 <h1 id="aSpaceOnbordBattery">DUST-ONB：搭載デッキ / Space Onbord Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 防衛用の陸戦隊が搭載できるハッチ、格納庫、整備設備のセットです。  
@@ -144,7 +144,7 @@
 
 
 <h1 id="aSupplyBattery">DUST-SUP：補給デッキ / Supply Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 補給用品の搬入ハッチ、格納庫、作業アームのセットです。  
@@ -171,7 +171,7 @@
 
 
 <h1 id="aSpaceMonitoringBattery">DUST-ELW：監視台 / Space Monitoring Battery</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 レーダやジャマーなどの支援装備が搭載できる台です。  
@@ -203,4 +203,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

@@ -42,7 +42,7 @@
 
 
 <h1 id="aCruiser">BSCR-STD：巡航艦 / Cruiser</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 火力、装甲、偵察能力が向上した中型の戦列艦です。中型砲による砲撃戦を得意とします。  
@@ -71,7 +71,7 @@
 
 
 <h1 id="aArmoredCruiser">BSCR-AMD：装甲巡航艦 / Armored Cruiser</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 装甲とシールドを強化した防御タイプの巡航艦です。  
@@ -100,7 +100,7 @@
 
 
 <h1 id="aAirDefensiveCruiser">BSCR-ADF：防空巡航艦 / Air Defensive Cruiser</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空戦闘力を強化し、対機動兵器戦が得意な巡航艦です。  
@@ -128,7 +128,7 @@
 
 
 <h1 id="aMissileCruiser">BSCR-MIS：ミサイル巡航艦 / Missile Cruiser</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 多数のミサイルと、迎撃用のミサイルを搭載する巡航艦です。  
@@ -157,7 +157,7 @@
 
 
 <h1 id="aSplintCruiser">BSCR-SPT：高速巡航艦 / Splint Cruiser</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型のブースターを搭載し、高速戦闘に特化した巡航艦です。  
@@ -186,7 +186,7 @@
 
 
 <h1 id="aAviationCruiser">BSCR-AVI：航空巡航艦 / Aviation Cruiser</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 航空化し、大量の汎用航空機が運用できるようになった巡航艦です。  
@@ -215,7 +215,7 @@
 
 
 <h1 id="aStormCruiser">BSCR-STM：強襲巡航艦 / Storm Cruiser</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 舟艇が搭載できるようになった巡航艦です。  
@@ -243,7 +243,7 @@
 
 
 <h1 id="aFlotillaLeaderShip">BSCR-FLD：嚮導艦 / Flotilla Leader Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子戦能力と指揮能力を向上させた特殊な戦列艦です。巡洋艦がベースとなってます。  
@@ -279,4 +279,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

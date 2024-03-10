@@ -42,7 +42,7 @@
 
 
 <h1 id="aCivilFerryBoat">CUCB-FER：民間連絡艇 / Civil Ferry Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -63,7 +63,7 @@
 
 
 <h1 id="aPrivateBoat">CUCB-PRV：自家用舟艇 / Private Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -84,7 +84,7 @@
 
 
 <h1 id="aCivilExplorationBoat">CUCB-EXP：民間探査艇 / Civil Exploration Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -105,7 +105,7 @@
 
 
 <h1 id="aCivilCargoBoat">CUCB-CAG：民間輸送艇 / Civil Cargo Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -126,7 +126,7 @@
 
 
 <h1 id="aGovernmentFerryBoat">CUGB-FER：公用連絡艇 / Government Ferry Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -147,7 +147,7 @@
 
 
 <h1 id="aGovernmentCargoBoat">CUGB-CAG：公用輸送艇 / Government Cargo Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -168,7 +168,7 @@
 
 
 <h1 id="aGovernmentExplorationBoat">CUGB-EXP：公用探査艇 / Government Exploration Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -189,7 +189,7 @@
 
 
 <h1 id="aCombatOversightCommitteeBoat">CUGB-COC：戦時監視艇 / Combat Oversight Committee Boat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -216,4 +216,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

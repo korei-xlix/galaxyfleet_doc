@@ -40,7 +40,7 @@
 
 
 <h1 id="aArmoedCargoVehicle">LUAV-STD：装甲輸送車 / Armoed Cargo Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 輸送用の大型装甲トラックです。タイヤで走行します。  
@@ -67,7 +67,7 @@
 
 
 <h1 id="aAmphibiousVehicle">LUAV-AMP：両用戦車 / Amphibious Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 武器の乗せ換えなしで対戦車戦と対空戦両方できる車両です。  
@@ -95,7 +95,7 @@
 
 
 <h1 id="aAntiDefenseTank">LUAV-ADT：対物戦車 / Anti Defense Tank</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -116,7 +116,7 @@
 
 
 <h1 id="aRecommendGuardVehicle">LUAV-REC：偵察警戒車 / Recommend Guard Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 偵察用の軽車両です。タイヤで走行します。  
@@ -141,7 +141,7 @@
 
 
 <h1 id="aFieldRecoveryVehicle">LUAV-TKR：戦場回収車 / Field Recovery Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -162,7 +162,7 @@
 
 
 <h1 id="aFieldEngineeringVehicle">LUAV-ENG：戦場工作車 / Field Engineering Vehicle</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 |項目  |設定  |
@@ -189,4 +189,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

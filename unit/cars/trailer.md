@@ -46,7 +46,7 @@
 
 
 <h1 id="aTowingTractor">LUTR-TOW：牽引車 / Towing Tractor</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 被牽引車を牽引したり、防衛兵器を移動させる（牽引する）装甲トラックです。タイヤで走行します。  
@@ -69,7 +69,7 @@
 
 
 <h1 id="aCargoTrailer">LUTR-CAG：大型貨物車両 / Cargo Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大量の荷物を積載できる大型装甲トレーラです。  
@@ -92,7 +92,7 @@
 
 
 <h1 id="aFieldCannonTrailer">LUTR-FGN：野戦砲車両 / Field Cannon Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型の野戦砲を搭載するトレーラです。  
@@ -116,7 +116,7 @@
 
 
 <h1 id="aAntiAircraftGunTrailer">LUTR-AAG：対空砲車両 / Anti Aircraft Gun Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空用武器を搭載し、装甲板で防御したトレーラです。  
@@ -141,7 +141,7 @@
 
 
 <h1 id="aRocketTrailer">LUTR-ROC：ロケット車両 / Rocket Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ロケットランチャーを搭載するトレーラです。  
@@ -167,7 +167,7 @@
 
 
 <h1 id="aMissileTrailer">LUTR-MIS：対地ミサイル車両 / Missile Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ミサイルランチャーを搭載するトレーラです。  
@@ -193,7 +193,7 @@
 
 
 <h1 id="aOrbitSniperCannonTrailer">LUTR-OBT：軌道狙撃砲車両 / Orbit Sniper Cannon Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 オービットスナイパーキャノンを搭載するトレーラです。  
@@ -217,7 +217,7 @@
 
 
 <h1 id="aStrategicMissileTrailer">LUTR-SRK：戦略ミサイル車両 / Strategic Missile Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦略ミサイルを搭載するトレーラです。地上の施設や防衛兵器に壊滅的な打撃を与えます。  
@@ -241,7 +241,7 @@
 
 
 <h1 id="aMultipurposeSupportTrailer">LUTR-MUL：汎用支援車両 / Multipurpose Support Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 あらゆる戦略機能を搭載し、多用途に使える大型のトレーラです。  
@@ -273,7 +273,7 @@
 
 
 <h1 id="aTankRecyclingTrailer">LUTR-RCY：戦車回収車両 / Tank Recycling Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 破壊された陸戦兵器や防衛兵器を回収したり、現場で解体して資源化したりする作業トレーラです。  
@@ -296,7 +296,7 @@
 
 
 <h1 id="aMiningTrailer">LUTR-MNG：資源採掘車両 / Mining Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦場でも資源を採掘できる作業トレーラです。  
@@ -320,7 +320,7 @@
 
 
 <h1 id="aMobiltyBaseTrailer">LUTR-BAS：移動基地車両 / Mobilty Base Trailer</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 簡易基地を載せたトレーラです。  
@@ -355,4 +355,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

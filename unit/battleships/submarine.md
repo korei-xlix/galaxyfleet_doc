@@ -42,7 +42,7 @@
 
 
 <h1 id="aSubmarine">BSSB-STD：潜航艦 / Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 次元航行が可能で隠密性に優れた戦列艦です。探知外の近距離から魚雷で攻撃するのを得意とします。  
@@ -69,7 +69,7 @@
 
 
 <h1 id="aAttackSubmarine">BSSB-ATK：攻撃潜航艦 / Attack Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対潜航艦戦の性能を向上させた潜航艦です。  
@@ -96,7 +96,7 @@
 
 
 <h1 id="aMissileSubmarine">BSSB-MIS：ミサイル潜航艦 / Missile Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ミサイルが搭載可能な潜航艦です。  
@@ -124,7 +124,7 @@
 
 
 <h1 id="aSprintSubmarine">BSSB-SPT：高速潜航艦 / Sprint Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 潜航装置に専用のブースターを搭載し、潜航しても高速がだせるようになった潜航艦です。  
@@ -150,7 +150,7 @@
 
 
 <h1 id="aAviationSubmarine">BSSB-AVI：潜航空母 / Aviation Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 航空化し、汎用航空機が運用できるようになった潜航艦です。  
@@ -179,7 +179,7 @@
 
 
 <h1 id="aStormSubmarine">BSSB-STM：強襲潜航艦 / Storm Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 舟艇が搭載できるようになった潜航艦です。  
@@ -208,7 +208,7 @@
 
 
 <h1 id="aStrikeSubmarine">BSSB-SRK：戦略潜航艦 / Strike Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ミサイルと陸戦兵器が搭載でき、長距離戦と陸戦輸送ができる潜航艦です。  
@@ -240,7 +240,7 @@
 
 
 <h1 id="aRaidShip">BSSB-RAD：遊撃艦 / Raid Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子戦や、浮遊兵器の設置ができる特殊な戦列艦です。潜航艦がベースとなってます。建造コストが高めです。  
@@ -275,4 +275,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

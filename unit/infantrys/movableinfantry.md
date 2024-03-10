@@ -43,7 +43,7 @@
 
 
 <h1 id="aGeneralPurposeType">MUMI-STD：汎用型 / General Purpose Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 人型のロボットです。  
@@ -73,7 +73,7 @@
 
 
 <h1 id="aAttackerType">MUMI-ATK：攻撃型 / Attacker Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 防御力を犠牲に攻撃性能を重視した機体です。携行砲は肩乗せで常に装備できます。  
@@ -105,7 +105,7 @@
 
 
 <h1 id="aArmoredType">MUMI-AMD：防御型 / Armored Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 装甲や耐久性を重視した機体です。  
@@ -134,7 +134,7 @@
 
 
 <h1 id="aSplintType">MUMI-SPT：機動型 / Splint Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 ブースターや飛行パックを強化し、機動性能を重視した機体です。  
@@ -165,7 +165,7 @@
 
 
 <h1 id="aStrugglType">MUMI-SRG：格闘型 / Struggl Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 格闘戦に特化した機体です。  
@@ -193,7 +193,7 @@
 
 
 <h1 id="aHeavyArmorType">MUMI-HAM：重装型 / Heavy Armor Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 攻守ともに優れた戦闘重視の機体です。バックラーは常に装備できます。  
@@ -226,7 +226,7 @@
 
 
 <h1 id="aForcedRecommendType">MUMI-REC：強行偵察型 / Forced Recommend Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 偵察用の機体です。  
@@ -256,7 +256,7 @@
 
 
 <h1 id="aForcedRecommendType">MUMI-SMK：対潜哨戒型 / Maritime Patrol Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対潜用の機体です。  
@@ -281,7 +281,7 @@
 
 
 <h1 id="aElectronicWarType">MUMI-ELW：電子作戦型 / Electronic War Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子戦能力のある機体です。  
@@ -307,7 +307,7 @@
 
 
 <h1 id="aEngineerType">MUMI-ENG：宙域工作型 / Engineer Type</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 工作作業に特化した機体です。
@@ -341,4 +341,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

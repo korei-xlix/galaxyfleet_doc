@@ -39,7 +39,7 @@
 
 
 <h1 id="aFrigate">ESFG-STD：護衛艦 / Frigate</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空戦闘力と電子性能に優れており、艦隊の防御全般をおこなう戦闘艦です。  
@@ -72,7 +72,7 @@
 
 
 <h1 id="aSubmarineKillerFrigate">ESFG-SMK：対潜護衛艦 / Submarine Killer Frigate</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対潜攻撃に特化した護衛艦です。  
@@ -98,7 +98,7 @@
 
 
 <h1 id="aLandWarfareRescueFrigate">ESFG-RES：陸戦救護艦 / Land Warfare Rescue Frigate</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対揚陸兵戦を重視した護衛艦です。  
@@ -125,7 +125,7 @@
 
 
 <h1 id="aAntiAircraftGunboat">ESFG-ADF：対空砲艦 / Anti Aircraft Gunboat</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 対空砲による対空戦闘力を重視した護衛艦です。  
@@ -150,7 +150,7 @@
 
 
 <h1 id="aStrugglBattleShip">ESFG-SRG：格闘戦艦 / Struggl Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 格闘専用の武器による接近戦と防御を得意とする特殊な護衛艦です。  
@@ -181,4 +181,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

@@ -1,7 +1,6 @@
 # Galaxy Fleet：取扱説明書
 
-～ User's Manual ～  
-  
+## User's Manual
 
 ## このドキュメントについて / About this document
 

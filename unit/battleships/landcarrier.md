@@ -42,7 +42,7 @@
 
 
 <h1 id="aLandingShip">BSLC-STD：揚陸艦 / Landing Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 泊地へ陸戦兵器を輸送、揚陸させるための戦列艦です。  
 歩兵、装載艇、戦車が運用できます。泊地への降下機能があります。野戦砲での地上支援砲撃ができます。  
@@ -71,7 +71,7 @@
 
 
 <h1 id="aTankLandingShip">BSLC-TNK：戦車揚陸艦 / Tank Landing Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 戦闘車両のみの輸送、運用に特化した揚陸艦です。  
 戦車の搭載量が増えます。泊地への降下機能があります。野戦砲での地上支援砲撃ができます。  
@@ -98,7 +98,7 @@
 
 
 <h1 id="aConstructionLandingShip">BSLC-CST：建設揚陸艦 / Construction Landing Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 建築機能をもつ揚陸艦です。
 設置兵器が運用できます。基地施設を建築することができます。
@@ -129,7 +129,7 @@
 
 
 <h1 id="aSprintLandingShip">BSLC-SPT：高速揚陸艦 / Sprint Landing Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 大型のブースターを搭載し、船足を強化した揚陸艦です。  
 機動性能と動力性能が向上しています。専用のブースターとシールドジェネレータを搭載します。  
@@ -158,7 +158,7 @@
 
 
 <h1 id="aLandingSubmarineShip">BSLC-SMN：潜航揚陸艦 / Landing Submarine Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 潜航能力のある揚陸艦です。  
 潜航しながら戦場を移動できるため安全に泊地まで部隊を輸送できます。  
@@ -187,7 +187,7 @@
 
 
 <h1 id="aStormLandingShip">BSLC-STM：強襲揚陸艦 / Storm Landing Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 強襲揚陸能力のある揚陸艦です。  
 揚陸艇がなくても、搭載中の陸戦歩兵を敵の艦船に直接移乗させることができます。  
@@ -216,7 +216,7 @@
 
 
 <h1 id="aLandingMotherShip">BSLC-MOT：揚陸母艦 / Landing Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 陸戦攻撃機の離発着デッキがある揚陸艦です。  
 歩兵、装載艇、戦車、陸戦攻撃機、それから少数ですが戦略爆撃機、歩兵輸送機、輸送機が運用できます。  
@@ -244,7 +244,7 @@
 
 
 <h1 id="aBattleLandingShip">BSLC-BLD：戦闘揚陸艦 / Battle Landing Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 対艦用の武器を搭載し、少数の艦隊でも艦隊戦力になるようにした揚陸艦です。  
 中型主砲とロケットランチャーが搭載できます。また電子性能が向上してます。  
@@ -280,4 +280,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

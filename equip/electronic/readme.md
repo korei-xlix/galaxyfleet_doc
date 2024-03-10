@@ -1,23 +1,20 @@
-# Galaxy Fleet
-  
-<h1>～～装備品仕様～ :: 電子戦装備～</h1>  
-<h2>～Equip Specifications～ :: Electronic Warfare Device</h2>  
-  
+# Galaxy Fleet：装備品仕様：電子戦装備
+
+## Galaxy Fleet：Equip Specifications：Electronic Warfare Device
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の装備品のうち、電子戦装備の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
   * [装備品仕様](/equip/readme.md)
@@ -28,7 +25,6 @@
 
 * 装備品一覧
   * [FSFF：基礎フレーム](#aFoundationFrame)
-  
 
 
 
@@ -148,8 +144,8 @@ DVR
 
 
 <h1 id="aFoundationFrame">FSFF：基礎フレーム / Foundation Frame</h1>  
-  
-  [目次へ戻る](#aMokuji) / [基礎フレーム](frame.md)  
+
+[目次へ戻る](#目次--table-of-contents) / [基礎フレーム](frame.md)  
   
 
 |装備形式  |装備名  |英語名  |概要  |
@@ -184,4 +180,4 @@ DVR
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

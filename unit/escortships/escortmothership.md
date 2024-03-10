@@ -39,7 +39,7 @@
 
 
 <h1 id="aEscortMotherShip">ESMS-STD：護衛母艦 / Escort Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 制空用の航空機で艦隊防空ができる母艦型の護衛艦です。  
@@ -70,7 +70,7 @@
 
 
 <h1 id="aPatrolMotherShip">ESMS-SMM：哨戒母艦 / Patrol Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 偵察、対潜哨戒に機能を絞った護衛母艦です。  
@@ -98,7 +98,7 @@
 
 
 <h1 id="aStormEscortMotherShip">ESMS-STM：強襲護衛艦 / Storm Escort Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 装載艇を運用する護衛母艦です。  
@@ -125,7 +125,7 @@
 
 
 <h1 id="aAviationEscortMotherShip">ESMS-AVI：航空護衛艦 / Aviation Escort Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 支援用の航空機が運用できる護衛母艦です。  
@@ -151,7 +151,7 @@
 
 
 <h1 id="aCargoEscortMotherShip">ESMS-CAG：輸送護衛艦 / Cargo Escort Mother Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 輸送船団の護衛をおこなう護衛母艦です。  
@@ -187,4 +187,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

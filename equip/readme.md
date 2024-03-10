@@ -1,176 +1,99 @@
-# Galaxy Fleet
-  
-<h1>～装備品仕様～</h1>  
-<h2>～Equip Specifications～</h2>  
-  
+# Galaxy Fleet：装備品仕様
+
+## Galaxy Fleet：Equip Specifications
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の装備品の種類、定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
   * [装備品仕様](readme.md)
   * [装備の区分記号](../strategypart/readme.md#aEquipClassificationSymbol)
-  * [装備種類](#aEquipKind)
-  * [装備分類](#aEquipClass)
-  * [装備形式](#aEquipType)
+  * [装備種類](#装備種類--equip-kind)
+  * [装備分類](#装備分類--equip-class)
+  * [装備形式](#装備形式--equip-type)
 
-* 基礎構造
-  * [基礎フレーム](basic.md#aFoundationFrame)
-  * [スラスタ](basic.md#aThruster)
-  * [メインコンピュータ](basic.md#aMainComputer)
-  * [エンジン](basic.md#aEngine)
+* 装備分類
+  * [基礎構造](#fs基礎構造--foundation-structure)
+  * [砲](#cn砲--cannon)
+  * [投射武器](#tw投射武器--throwing-luncher)
+  * [対空武器](#aa対空武器--anti-air-wepon)
+  * [爆弾](#bb爆弾--bomb-luncher)
+  * [接近戦用武器](#iw接近戦用武器--infight-weapon)
+  * [船体強化装備](#hr船体強化装備--hull-reinforcement-equipment)
+  * [電子戦装備](#ew電子戦装備--electronic-warfare-device)
+  * [防御装備](#df防御装備--defensive-equipment)
+  * [搭載機能拡張装備](#ob搭載機能拡張装備--onboard-expansion-equipment)
+  * [追加支援装備](#sp追加支援装備--additional-support-equipment)
+  * [搭載機能拡張装備](#ob搭載機能拡張装備--onboard-expansion-equipment)
+  * [戦略級兵器](#sw戦略級兵器--strategic-class-weapon)
+  * [魔導武器](#we魔導武器--wizard-wepon)
+  * [魔導装備](#we魔導装備--wizard-equipment)
+  * [弾薬](#bl弾薬--bullet)
+  * [消耗品](#ep消耗品--expendables)
 
-* 砲
-  * [要塞砲](equip_cannon.md#iFortressCannon)
-  * [大型砲](equip_cannon.md#iLargeCannon)
-  * [中型砲](equip_cannon.md#iMiddleCannon)
-  * [小型砲](equip_cannon.md#iSmallCannon)
-  * [機関砲](equip_cannon.md#iMachineGun)
-  * [携行銃](equip_cannon.md#iHandGun)
 
-* 噴進武器
-  * [ロケットランチャー](equip_luncher.md#iRocketLuncher)
-  * [ミサイルランチャー](equip_luncher.md#iMissileLuncher)
-  * [スプレッドランチャー](equip_luncher.md#iSpreadLuncher)
-  * [モスキートランチャー](equip_luncher.md#iMosquitoLuncher)
-  * [トーピードランチャー](equip_luncher.md#iTorpido)
-  * [デプスチャージランチャー](equip_luncher.md#iDepthCharge)
 
-* 対空武器
-  * [対空砲](equip_aagun.md#iAntiAirCannon)
-  * [対空機関砲](equip_aagun.md#iAntiAirMachineGun)
-  * [ディフューズレーザ](equip_aagun.md#iDiffuseLaser)
-  * [パルスレーザ](equip_aagun.md#iPulsedLaser)
 
-* 爆弾
-  * [爆弾](equip_bomb.md#iBomb)
-  * [装甲貫通弾](equip_bomb.md#iArmorBomb)
-  * [レーザボム](equip_bomb.md#iLaserBomb)
-  * [プロミネンスボム](equip_bomb.md#iLaserBomb)
 
-* 接近戦用武器
-  * [艦船用接近戦武器](equip_infight.md#iShipInfight)
-  * [歩兵用接近戦武器](equip_infight.md#iInfantryInfight)
-  * [歩兵用補助装備](equip_infight.md#iInfantryAuxiliary)
+## 装備種類 / Equip Kind
 
-* 装甲強化装備
-  * [簡易追加装甲](equip_armor.md#iConsumableAdditionalArmor)
-  * [装甲強化キット](equip_armor.md#iModifiedAdditionalArmor)
-  * [フレーム強化キット](equip_armor.md#iModifiedAdditionalArmor)
-
-* 電子戦装備
-  * [電子探索装置](equip_electronic.md#iElectronicSupport)
-  * [次元探索装置](equip_electronic.md#iElectronicAttack)
-  * [電子攻撃装置](equip_electronic.md#iElectronicProtection)
-  * [電子防護装置](equip_electronic.md#iFireSupport)
-
-* 防御装備
-  * [シールド発生装置](equip_defence.md#iShield)
-  * [ミサイル迎撃装置](equip_defence.md#iMissileInterception)
-  * [雷撃防御装置](equip_defence.md#iTorpedoProtection)
-  * [ダメコンユニット](equip_defence.md#iTorpedoProtection)
-
-* 付属設備
-  * [兵器搭載設備](parts.md#iTemporaryParts)
-  * [貨物搭載設備](parts.md#iRemodelingParts)
-  * [指令設備](parts.md#iSpecialParts)
-  * [火器管制設備](parts.md#iSpecialParts)
-  * [補助機関設備](parts.md#iSpecialParts)
-  * [浮遊陣地用設備](parts.md#iSpecialParts)
-  * [陣地用設備](parts.md#iSpecialParts)
-
-* 戦略級兵器
-  * [作戦兵器](equip_strategic.md#iOperationalStrategicWeapon)
-  * [戦術兵器](equip_strategic.md#iRestrictedStrategicWeapon)
-  * [戦略兵器](equip_strategic.md#iRestrictedStrategicWeapon)
-
-* 魔導武器
-  * [魔導武器](sorcery.md)
-  * [法撃魔術](sorcery.md)
-  * [防御魔術](sorcery.md)
-  * [回復魔術](sorcery.md)
-  * [補助魔術](sorcery.md)
-  * [妨害魔術](sorcery.md)
-  * [召喚魔術](sorcery.md)
-
-* 魔導装備
-  * [魔導装甲](sorcery.md)
-  * [魔導小手](sorcery.md)
-  * [魔導靴](sorcery.md)
-
-* 弾薬
-  * [砲弾](equip_equipment.md#iOnboardUnit)
-  * [無誘導噴進弾](equip_equipment.md#iOnboardUnit)
-  * [誘導噴進弾](equip_equipment.md#iOnboardUnit)
-  * [次元転換魚雷](equip_equipment.md#iOnboardUnit)
-  * [次元反応爆雷](equip_equipment.md#iOnboardUnit)
-  * [爆弾](equip_equipment.md#iOnboardUnit)
-
-* 消耗品
-  * [補充用部品](equip_equipment.md#iOnboardUnit)
-  * [交換用部品](equip_equipment.md#iOnboardUnit)
-  * [支援設備用](equip_equipment.md#iOnboardUnit)
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1 id="aEquipKind">装備種類 / Equip Kind</h1>  
 装備品は大きく装備品分類により分類されます。  
   
 詳しくは戦略パート仕様をご参照ください。  
   
   [装備品種類](../strategypart/readme.md#aEquipKind)  
+
+
+
+
+
+## 装備分類 / Equip Class
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1 id="aEquipClass">装備分類 / Equip Class</h1>  
 各装備種類は、さらに装備分類に分類分けされます。  
-  
-  [目次へ戻る](#aMokuji)  
+
+
+### FS：基礎構造 / Foundation Structure
+
+[目次へ戻る](#目次--table-of-contents) / [基礎構造](foundation/readme.md)  
   
 
-<h2 id="aFoundationStructure">FS：基礎構造 / Foundation Structure</h2>  
-  
-  [目次へ戻る](#aMokuji) / [基礎構造](foundation/readme.md)  
-  
-
-* **<a id="aFoundationFrame">[FSFF：基礎フレーム　Foundation Frame](foundation/frame.md)</a>**  
+* **[FSFF：基礎フレーム　Foundation Frame](foundation/frame.md)**  
   外装やフレームなど兵器の装甲や基礎構造で、耐久性能に影響する構造です。  
   
 
-* **<a id="aThruster">[FSTH：スラスタ　Thruster](foundation/thruster.md)</a>**  
+* **[FSTH：スラスタ　Thruster](foundation/thruster.md)**  
   兵器の姿勢制御や加速、推進をおこなう装置で、機動性能に影響する構造です。  
   
 
-* **<a id="aMainComputer">[FSMC：メインコンピュータ　Main Computer](foundation/computer.md)</a>**  
-電子機器の制御や情報統制、戦術分析などをおこなうコンピュータなどの電子装置で、電子性能に影響する構造です。  
+* **[FSMC：メインコンピュータ　Main Computer](foundation/computer.md)**  
+  電子機器の制御や情報統制、戦術分析などをおこなうコンピュータなどの電子装置で、電子性能に影響する構造です。  
   
 
-* **<a id="aEngine">[FSEG：エンジン　Engine](foundation/computer.md)</a>**  
-エネルギーを自己生成し、兵器が活動するための力を生み出す装置で、動力性能に影響する構造です。  
+* **[FSEG：エンジン　Engine](foundation/computer.md)**  
+  エネルギーを自己生成し、兵器が活動するための力を生み出す装置で、動力性能に影響する構造です。  
   
 
 
-<h2 id="aCannon">CN：砲 / Cannon</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+### CN：砲 / Cannon
+
+[目次へ戻る](#目次--table-of-contents) / [砲](cannon/readme.md)  
   
 
 * **CNFT：要塞砲　Fortress Cannon**  
@@ -198,9 +121,9 @@
   
 
 
-<h2 id="aThrowingLuncher">TW：投射武器 / Throwing Luncher</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## TW：投射武器 / Throwing Luncher
+
+[目次へ戻る](#目次--table-of-contents) / [投射武器](luncher/readme.md)  
   
 
 * **TWRC：無誘導噴進弾　Rocket Luncher**  
@@ -236,9 +159,9 @@
   
 
 
-<h2 id="aAntiAirWepon">AA：対空武器 / Anti Air Wepon</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## AA：対空武器 / Anti Air Wepon
+
+[目次へ戻る](#目次--table-of-contents) / [対空武器](aagun/readme.md)  
   
 
 * **AAAC：対空砲　Anti Air Cannon**  
@@ -263,9 +186,9 @@
   
 
 
-<h2 id="aBombLuncher">BB：爆弾 / Bomb Luncher</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## BB：爆弾 / Bomb Luncher
+
+[目次へ戻る](#目次--table-of-contents) / [爆弾](bomb/readme.md)  
   
 
 * **BBUG：無誘導爆弾　Unguided Bomb Luncher**  
@@ -307,9 +230,9 @@
   
 
 
-<h2 id="aInfightWeapon">IW：接近戦用武器 / Infight Weapon</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## IW：接近戦用武器 / Infight Weapon
+
+[目次へ戻る](#目次--table-of-contents) / [接近戦用武器](infight/readme.md)  
   
 
 * **IWSP：艦船用接近戦武器　Ship Infight Weapon**  
@@ -326,9 +249,9 @@
   
 
 
-<h2 id="aElectronicWarfareDevice">EW：電子戦装備 / Electronic Warfare Device</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## EW：電子戦装備 / Electronic Warfare Device
+
+[目次へ戻る](#目次--table-of-contents) / [電子戦装備](electronic/readme.md)  
   
 
 * **EWRD：電子探索装置　Rader Device**  
@@ -364,9 +287,9 @@
   
 
 
-<h2 id="aDefensiveEquipment">DF：防御装備 / Defensive Equipment</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## DF：防御装備 / Defensive Equipment
+
+[目次へ戻る](#目次--table-of-contents) / [防御装備](defence/readme.md)  
   
 
 * **DFSH：シールド発生装置　Shield Device**  
@@ -392,9 +315,9 @@
   
 
 
-<h2 id="aHullReinforcementEquipment">HR：船体強化装備 / Hull Reinforcement Equipment</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## HR：船体強化装備 / Hull Reinforcement Equipment
+
+[目次へ戻る](#目次--table-of-contents) / [船体強化装備](enhancement/readme.md)  
   
 
 * **HRSK：簡易船体強化キット　Simple Hull Reinforcement Kit**  
@@ -408,19 +331,19 @@
   
 
 
-<h2 id="aOnBoardExpansionEquipment">OB：搭載機能拡張装備 / OnBoard Expansion Equipment</h2>  
+## OB：搭載機能拡張装備 / OnBoard Expansion Equipment
+
+[目次へ戻る](#目次--table-of-contents) / [搭載機能拡張装備](onboard/readme.md)  
   
-  [目次へ戻る](#aMokuji)  
-  
 
 
 
 
 
 
-<h2 id="aSupportEquipment">SP：追加支援装備 / Additional Support Equipment</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## SP：追加支援装備 / Additional Support Equipment
+
+[目次へ戻る](#目次--table-of-contents) / [追加支援装備](support/readme.md)  
   
 
 
@@ -438,9 +361,9 @@
 
 
 
-<h2 id="aStrategicClassWeapon">SW：戦略級兵器 / Strategic Class Weapon</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## SW：戦略級兵器 / Strategic Class Weapon
+
+[目次へ戻る](#目次--table-of-contents) / [戦略級兵器](strategic/readme.md)  
   
 
 * **SWTT：転送砲　Reap Rail Cannon**  
@@ -465,9 +388,9 @@
   
 
 
-<h2 id="aWizardWepon">WE：魔導装備 / Wizard Wepon</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## WE：魔導武器 / Wizard Wepon
+
+[目次へ戻る](#目次--table-of-contents) / [魔導武器](wizard/readme.md)  
   
 
 * **WWWP：魔導武器　Wizard Wepon**  
@@ -505,9 +428,9 @@
   
 
 
-<h2 id="aWizardEquipment">WE：魔導装備 / Wizard Equipment</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## WE：魔導装備 / Wizard Equipment
+
+[目次へ戻る](#目次--table-of-contents) / [魔導装備](wizard/readme.md)  
   
 
 * **WEAM：魔導装甲　Wizard Armor**  
@@ -526,9 +449,9 @@
   
 
 
-<h2 id="aBullet">BL：弾薬 / Bullet</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## BL：弾薬 / Bullet
+
+[目次へ戻る](#目次--table-of-contents) / [弾薬](expendables/readme.md)  
   
 
 * **BLCN：砲弾　Cannon Shell**  
@@ -556,9 +479,9 @@
   
 
 
-<h2 id="aExpendables">EP：消耗品 / Expendables</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+## EP：消耗品 / Expendables
+
+[目次へ戻る](#目次--table-of-contents) / [消耗品](expendables/readme.md)  
   
 
 * **EPSP：補充用部品　Spare Parts**  
@@ -577,12 +500,14 @@
 
 
 
-<h1 id="aEquipType">装備形式 / Equip Type</h1>  
+## 装備形式 / Equip Type
+
 各装備種類は、さらに装備分類に分類分けされます。  
 
-<h2>FSFF：基礎フレーム / Foundation Frame</h2>  
-  
-  [目次へ戻る](#aMokuji)  
+
+### FSFF：基礎フレーム / Foundation Frame
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 * **FSFF-sIRO：アイアン**  
@@ -610,7 +535,8 @@
 * **FSFF-sUNO：アンオブタニウム**  
   
 
-<h2>FSTH：スラスタ / Thruster</h2>  
+
+### FSTH：スラスタ / Thruster
 
 * **FSTH-sCHP：安いスラスタ**  
 
@@ -635,9 +561,9 @@
 * **FSTH-sTID：潮汐力スラスタ**  
 
 * **FSTH-sUNO：アンオブタナブルスラスタ**  
-  
 
-<h2>FSMC：メインコンピュータ / Main Computer</h2>  
+
+### FSMC：メインコンピュータ / Main Computer
 
 * **FSMC-sCHP：安いコンピュータ**  
 
@@ -662,9 +588,9 @@
 * **FSMC-sDIM  |次元コンピュータ**  
 
 * **FSMC-sUNO  |アンオブタナブルコンピュータ**  
-  
 
-<h2>FSCP：CPUチップ / CPU Chip</h2>  
+
+### FSCP：CPUチップ / CPU Chip
 
 * **FSCP-sCHP：安いCPU**  
 
@@ -679,9 +605,9 @@
 * **FSCP-sCOR：コアチップ**  
 
 * **FSCP-sBRA：脳みそ**  
-  
 
-<h2>FSEG：エンジン / Engine</h2>  
+
+### FSEG：エンジン / Engine
 
 * **FSEG-sCHP：安いエンジン**  
 
@@ -706,9 +632,9 @@
 * **FSEG-sPHA：相転移エンジン**  
 
 * **FSEG-sUNO：アンオブタナブルエンジン**  
-  
 
-<h2>FSPR：動力炉 / Power Reactor</h2>  
+
+### FSPR：動力炉 / Power Reactor
 
 * **FSPR-sCHP：安い動力炉**  
 
@@ -725,7 +651,7 @@
 * **FSPR-sANT：反物質炉**  
 
 * **FSPR-sPHA：相転移炉**  
-  
+
 
 
 
@@ -743,4 +669,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

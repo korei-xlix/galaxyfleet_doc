@@ -42,7 +42,7 @@
 
 
 <h1 id="aModifiedAircraftCarrier">BSMC-STD：改造空母 / Modified Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 大型の商船や客船の船体を流用して建造した大型の航空母艦です。  
 空母航空機と、少ないですが機動歩兵も運用できます。主砲が搭載できます。  
@@ -69,7 +69,7 @@
 
 
 <h1 id="aLightAircraftCarrier">BSMC-LIG：軽空母 / Light Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 小型の航空母艦です。対潜能力、対空防御に優れ、周辺宙域の哨戒や、船団護衛に向いています。  
 空母航空機と、少ないですが機動歩兵も運用できます。主砲、爆雷が搭載できます。対空砲が多めに搭載できます。  
@@ -97,7 +97,7 @@
 
 
 <h1 id="aSprintAircraftCarrier">BSMC-SPT：高速空母 / Sprint Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 高速艦を改造して建造した中型航空母艦です。高い移動性能を持ち、遠くの戦場に大型航空機を素早く展開することができます。  
 空母航空機、大型航空機と、機動歩兵が運用できます。主砲が搭載できます。  
@@ -125,7 +125,7 @@
 
 
 <h1 id="aStormAircraftCarrier">BSMC-STM：強襲空母 / Storm Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 舟艇が搭載できる大型航空母艦です。  
 装載艇が運用でき、艦載機のほか装載艇とのコンビ攻撃、支援も得られます。  
@@ -152,7 +152,7 @@
 
 
 <h1 id="aMerchantAircraftCarrier">BSMC-MUL：商船空母 / Merchant Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 貨客輸送を兼用する大型航空母艦です。空母機能に加え、大量の物資を輸送する機能をもち、主砲も搭載できます。  
 輸送船団の護衛をしながら、自らにも輸送機能があるため、輸送任務に向いています。  
@@ -179,7 +179,7 @@
 
 
 <h1 id="aSubmarineKillerAircraftCarrier">BSMC-SMK：対潜空母 / Submarine Killer Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 周辺海域の哨戒や、船団護衛用の小型航空母艦です。
 空母自体に対潜能力があり、対潜攻撃も可能です。また大型航空機の対潜哨戒機も運用できます。  
@@ -207,7 +207,7 @@
 
 
 <h1 id="aContainerAircraftCarrier">BSMC-CNT：コンテナ空母 / Container Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 廃棄品の大型コンテナや、機能モジュールを繋ぎ合わせて建造した特殊な空母です。  
 空母としての機能は他と変わりありませんが、機能コンテナを積み替えることで様々な支援機能を搭載することができます。  
@@ -238,7 +238,7 @@
 
 
 <h1 id="aGiantAircraftCarrier">BSMC-GIT：超大型空母 / Giant Aircraft Carrier</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 大型戦艦の船体や、施設の廃材をリサイクルして建造した超大型空母で、航空戦艦を究極化した姿と言われています。  
 特に攻撃機や爆撃機などの運用数を増強し、航空攻撃による打撃力が高いです。主砲が搭載できます。  
@@ -273,4 +273,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

@@ -32,7 +32,7 @@
 
 <h1 id="aWorld">世界 / World</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>ユグドシア / xxxx</h2>  
@@ -45,7 +45,7 @@
 
 <h1 id="aCountrys">国家 / Countrys</h1>  
   
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 <h2>アガルタ合衆国 / United States of Agarta</h2>  
@@ -186,4 +186,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

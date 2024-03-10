@@ -38,7 +38,7 @@
 
 
 <h1 id="aElectronicSupportShip">SSEL-STD：電子支援艦 / Electronic Support Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 電子戦に優れ、電子妨害による攪乱と、電子戦からの防御をおこなう支援艦です。巡航艦がベースとなってます。  
@@ -61,7 +61,7 @@
 
 
 <h1 id="aSprintElectronicSupportShip">SSEL-SPT：高速電戦艦 / Sprint Electronic Support Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型のブースターを搭載し、高速性に優れる電子支援艦です。  
@@ -84,7 +84,7 @@
 
 
 <h1 id="aElectronicSubmarine">SSEL-SMN：潜航電戦艦 / Electronic Submarine</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 潜航能力のある電子支援艦です。  
@@ -108,7 +108,7 @@
 
 
 <h1 id="aElectronicBattleShip">SSEL-EBS：支援戦艦 / Electronic Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦闘能力のある電子支援艦です。  
@@ -142,4 +142,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

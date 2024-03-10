@@ -44,7 +44,7 @@
 
 
 <h1 id="aStrategySupportShip">SSSS-STD：戦略支援艦 / Strategy Support Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 あらゆる戦略機能を搭載し、多用途に使える超大型の支援艦です。  
@@ -83,7 +83,7 @@
 
 
 <h1 id="aLargeConstructionShip">SSSS-CNS：大型建設艦 / Large Construction Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 土木作業ができる大型の支援艦です。  
@@ -107,7 +107,7 @@
 
 
 <h1 id="aFloatingDockShip">SSSS-DOC：浮遊ドック / Floating Dock Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 遠隔地で艦船の修理や改造ができる移動式のドック艦です。  
@@ -131,7 +131,7 @@
 
 
 <h1 id="aMiningShip">SSSS-MIN：資源採掘艦 / Mining Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦場でも資源を採掘できる支援艦です。  
@@ -155,7 +155,7 @@
 
 
 <h1 id="aMobileWorkshopShip">SSSS-WOK：移動工房艦 / Mobile Workshop Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦闘兵器の生産と補充が行えるミニ工場を搭載した超大型の支援艦です。  
@@ -181,7 +181,7 @@
 
 
 <h1 id="aWeatherObservationShip">SSSS-OBS：気象観測艦 / Weather Observation Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 戦場の地形を把握したり、気象予測ができる特殊な支援艦です。多用途支援艦がベースとなってます。  
@@ -204,7 +204,7 @@
 
 
 <h1 id="aTrainingShip">SSSS-TNG：練習艦 / Training Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 無人標的機や訓練設備を搭載し、士官やAIの育成を目的とする艦船です。戦闘支援艦がベースとなってます。  
@@ -233,7 +233,7 @@
 
 
 <h1 id="aTestShip">SSSS-TST：試験艦 / Test Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 武装や新装備のテストをおこなうための戦闘用艦船です。  
@@ -246,7 +246,7 @@
 
 
 <h1 id="aDecoyShip">SSSS-DCY：欺瞞艦 / Decoy Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 欺瞞用の艦船です。  
@@ -261,7 +261,7 @@
 
 
 <h1 id="aTransportGateShip">SSSS-TRG：転送ゲート艦 / Transport Gate Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 巨大な転送装置を搭載した特殊な艦船です。建造コスト、時間がかかる、大変希少な艦船です。  
@@ -290,4 +290,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  

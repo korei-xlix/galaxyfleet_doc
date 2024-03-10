@@ -42,7 +42,7 @@
 
 
 <h1 id="aBattleShip">BSBB-STD：戦艦 / Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型の主砲を搭載し、耐久性にも優れる戦列艦の花形です。砲撃火力、防御力を備え、砲撃戦が得意です。  
@@ -71,7 +71,7 @@
 
 
 <h1 id="aArmoredBattleShip">BSBB-AMD：装甲戦艦 / Armored Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 装甲とシールドを強化した戦艦です。耐久性、防御力がより高くなってます。  
@@ -100,7 +100,7 @@
 
 
 <h1 id="aBattleCruise">BSBB-BCR：巡航戦艦 / Battle Cruise Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 駆逐艦、巡航艦、戦艦の長所を集約し、戦闘力のバランスを計った戦艦です。  
@@ -129,7 +129,7 @@
 
 
 <h1 id="aSprintBattleShip">BSBB-SPT：高速戦艦 / Sprint Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型のブースターを搭載し、高速戦闘に特化した戦艦です。  
@@ -159,7 +159,7 @@
 
 
 <h1 id="aAviationBattleShip">BSBB-AVI：航空戦艦 / Aviation Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 航空化し、大量の汎用航空機が運用できるようになった戦艦です。  
@@ -187,7 +187,7 @@
 
 
 <h1 id="aStrikeBattleShip">BSBB-SRK：戦略打撃艦 / Strike Battle Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 要塞砲が搭載できるように設計された特殊な戦列艦です。戦艦がベースとなってます。  
@@ -217,7 +217,7 @@
 
 
 <h1 id="aHeavyGunShip">BSBB-HGN：重砲撃艦 / Heavy Gun Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 大型の主砲を増やして砲撃火力を強化した戦艦です。  
@@ -246,7 +246,7 @@
 
 
 <h1 id="aSniperGunShip">BSBB-SGN：狙撃戦艦 / Sniper Gun Ship</h1>  
-  [目次へ戻る](#aMokuji)  
+[目次へ戻る](#aMokuji)  
   
 
 超大遠距離からの砲撃に特化した特殊な戦列艦です。戦艦がベースとなってます。  
@@ -282,4 +282,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
