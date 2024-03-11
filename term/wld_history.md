@@ -1,41 +1,38 @@
-# Galaxy Fleet
-  
-<h1>～用語集～ :: 戦時憲章</h1>  
-<h2>～Terms～ :: Charter</h2>  
-  
+# Galaxy Fleet：用語集：歴史
+
+## Galaxy Fleet：Terms：History
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
-このドキュメントは「Galaxy Fleet」で使われる用語のうち、戦時憲章について定義を記載するものです。  
+このドキュメントは「Galaxy Fleet」で使われる用語のうち、歴史について定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
+
 * [用語集](/term/readme.md)
+
+
+
+
+
+
+
+## 戦略 / Strategy
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1>戦略 / Strategy</h1>  
+### xxx /xxx  
   
-
-  
-[目次へ戻る](#aMokuji)  
-  
-
-
-<h2>xxxx / xxxx</h2>  
 xxxx  
   
 

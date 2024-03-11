@@ -1,54 +1,68 @@
-# Galaxy Fleet
-  
-<h1>～用語集～ ::世界・国家</h1>  
-<h2>～Terms～ :: World</h2>  
-  
+# Galaxy Fleet：国家
+
+## Galaxy Fleet：Terms：World
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」で使われる用語のうち、世界、国家について定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
+
 * [用語集](/term/readme.md)
 
-* [世界](#aWorld)
-* [国家](#aCountrys)
+* [国際機関](#国際機関--international-organization)
+* [主要国家]())
+* [その他国家]()
+* [その他勢力]()
+
+
+
+
+
+## 国際機関 / International Organization
+
+[目次へ戻る](#目次--table-of-contents)  
+  
+
+### 戦闘監視委員会 / Combat Oversight Committee
+  
+COC（しーおーしー）と略称されます。  
+現代でいう国連平和維持軍ですが、国連よりも絶大な国際法的な権限を持っています。  
+この世界で起こる全ての戦争、紛争、内戦は、COCにより監視され、条約違反があった国には国家レベルに影響する重大なペナルティが課されます。  
+  [詳細](/term/readme.md#aCOC)  
   
 
 
 
-
-
-<h1 id="aWorld">世界 / World</h1>  
-  
-[目次へ戻る](#aMokuji)  
-  
-
-<h2>ユグドシア / xxxx</h2>  
-宇宙全域のこと。  
+国家背景については、もう少し練ることにする。  
   
 
 
 
+## 主要国家 / Countrys
 
-
-<h1 id="aCountrys">国家 / Countrys</h1>  
-  
-[目次へ戻る](#aMokuji)  
+[目次へ戻る](#目次--table-of-contents)  
   
 
-<h2>アガルタ合衆国 / United States of Agarta</h2>  
+### ユグドシア / xxxx
+  
+このゲームにおける既知宇宙全域のことです。国のことではありません。  
+ドラゴンクエストでいうアレフガルドのような感じ。  
+  
+
+
+### アガルタ合衆国 / United States of Agarta
+  
 イメージ国：アメリカ  
 自由で開かれた国家で、政治、経済、軍事とも安定した国です。  
 特に兵器の技術、開発は高水準で、各国に販売してる上、自国の最新兵器を次々生み出しています。  
@@ -57,7 +71,8 @@
   
 
 
-<h2>ノーア連合王国 / United kingdom of Noah</h2>  
+### ノーア連合王国 / United kingdom of Noah
+  
 イメージ国：イギリス  
 王国制でありながら、王室、議会、騎士団で権力分立している共和国です。  
 民衆にも武器工廠、ギルドや商会が開かれ、軍事、経済とも安定しています。  
@@ -66,15 +81,17 @@
   
 
 
-<h2>タナイス帝国 / Tanais Empire</h2>  
+### タナイス帝国 / Tanais Empire
+  
 イメージ国：ナチスドイツ  
 総統を中心とした独裁国家です。軍隊や治安組織を使ってシビリアンコントロールして政府の内外を維持しています。  
 軍事力を重視し、周辺国を軍事力で圧力をかけて制圧したり、民間船を拿捕したりして、度々国際問題になってます。  
-戦艦や重巡洋艦などの大型艦と、戦車などの地上戦力が中心ですが、近年は航空戦力も強化されています。  
+戦艦や巡航艦などの大型艦と、戦車などの地上戦力が中心ですが、近年は航空戦力も強化されています。  
   
 
 
-<h2>スヴァルト社会主義連邦 / Swart Socialist Federation</h2>  
+### スヴァルト社会主義連邦 / Swart Socialist Federation
+  
 イメージ国：ソビエト・北朝鮮  
 共産主義をかかげつつも、資本のほとんどを政府が独占している国家です。  
 旧時代から蓄積された軍事力は強大で数は揃ってますが、資本が上手く回っておらず、旧式の兵器が多くなってます。  
@@ -82,98 +99,139 @@
   
 
 
-<h2>ニザヴェッリル人民共和国 / Nizavell People's Republic</h2>  
+
+
+
+
+## その他国家 / xxxx
+
+[目次へ戻る](#目次--table-of-contents)  
+  
+
+
+
+
+
+
+## その他勢力 / Countrys
+
+[目次へ戻る](#目次--table-of-contents)  
+  
+
+
+
+
+
+
+### ニザヴェッリル人民共和国 / Nizavell People's Republic
+  
 イメージ国：中華人民共和国  
 人民党が政権を奪取して樹立した、党が主体となる共産主義国家です。実質、党の党首が独裁的な政治をおこなっています。  
   
 
 
-<h2>ギヌンガープ王国 / GuinungGap Kingdom</h2>  
+### ギヌンガープ王国 / GuinungGap Kingdom
+  
 イメージ国：イタリア、南欧（ギリシア、クロアチア、トルコ）  
   
 
 
-<h2>ヨトンハイム皇国 / Jotonheim Imperial Country</h2>  
+### ヨトンハイム皇国 / Jotonheim Imperial Country
+  
 イメージ国：日本  
   
 
 
-<h2>フォルクパン公国 / Principality of Volkpan</h2>  
+### フォルクパン公国 / Principality of Volkpan
+  
 イメージ国：フランス王国  
 元々権力分立してた共和制の国だったが、大大戦の折タナイスに侵攻を受け解体、新政権として王室主体の君主制となった国です。  
   
 
 
-<h2>自由フォルクパン / Volkpan Libre</h2>  
+### 自由フォルクパン / Volkpan Libre
+  
 イメージ国：自由フランス  
 タナイス侵攻時、フォルクパンから亡命してきた軍人により成立された、レジスタンスが建国した民主主義国家です。  
   
 
 
-<h2>ムスパル首長国 / Muspal Emirates</h2>  
+### ムスパル首長国 / Muspal Emirates
+  
 イメージ国：スペイン、中南米（ブラジル・アルゼンチン・ペルー）  
 かつて多数の艦隊と植民地を有していた強大な国だったが、大大戦を経て国力が衰退してしまった国です。  
   
 
 
-<h2>ミズガルズ連合 / Mizugalz Union</h2>  
+### ミズガルズ連合 / Mizugalz Union
+  
 イメージ国：東亜（インド・タイ）  
 国が開いた商会やギルドが中心の商業国家です。  
   
 
 
-<h2>ニーブルグ民主共和国 / Niburg Democratic Republic</h2>  
+### ニーブルグ民主共和国 / Niburg Democratic Republic
+  
 イメージ国：スカンジナビア半島  
 北ユグドシアの環境変動が激しい地域の国家が集まった共和国です。  
 長い間スヴァルトやタナイスから侵攻を受けていたため、国全体に戦場跡や要塞が点在してます。  
   
 
 
-<h2>ビフロスト解放戦線 / Bifrost Liberation Front</h2>  
+### ビフロスト解放戦線 / Bifrost Liberation Front
+  
 イメージ国：東亜（革命過激派）  
 元々民主国家だった国でしたが、民衆蜂起により政府が倒され、民衆とレジスタンスが協力して収める国です。  
   
 
 
-<h2>ハバージガルム連盟 / Huberge-Galum Federation</h2>  
+### ハバージガルム連盟 / Huberge-Galum Federation
+  
 イメージ国：台湾（中華民国）・南朝鮮  
 元々アガルタの植民地だったが、大大戦後に独立された国家です。
 政権はニザヴェッリルやスヴァルト、ヨトゥンヘイムから逃れた政治家や軍人で構成されています。  
   
 
 
-<h2>ウィグリド諸国同盟 / Wigride Alliance</h2>  
+### ウィグリド諸国同盟 / Wigride Alliance
+  
 イメージ国：アフリカ諸国  
   
 
 
-<h2>ミーミス共同連合 / Memiss Joint Coalition</h2>  
+### ミーミス共同連合 / Memiss Joint Coalition
+  
 イメージ国：南洋（共和制オーストラリア・ニュージーランド・島嶼連合）  
   
 
 
-<h2>ウルザ共和国 / Republic Urza</h2>  
+### ウルザ共和国 / Republic Urza
+  
 イメージ国：中東（イスラエル）  
   
 
 
-<h2>風紀協定 / Discipline Agreement</h2>  
+### 風紀協定 / Discipline Agreement
+  
 イメージ国：中立国家  
 ユグドシアの中央の暗礁地帯にある永世中立国家です。  
 国内は非武装化されており、外国の兵器の侵入を厳しく管理されています。非武装ですが、対抗するための軍事力は保有してます。  
   
 
 
-<h2>黒色連星団 / Black Star Cluster</h2>  
+### 黒色連星団 / Black Star Cluster
+  
 略称"黒連"。謎の集団組織で、COCには属していません。  
 高度に武装した多数の無人兵器、無人艦艇を用いますが、有人の艦艇も確認されてます。  
 対話が通じず、どの国ともコンタクトはできてなく、民間、軍船構わず襲ってきます。  
   
 
 
-<h2>戦闘監視委員会 / Combat Oversight Committee</h2>  
-  [詳細](/term/readme.md#aCOC)  
-  
+
+
+
+
+
 
 
 

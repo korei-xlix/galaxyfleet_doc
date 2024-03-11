@@ -1,43 +1,43 @@
-# Galaxy Fleet
-  
-<h1>～用語集～ :: 戦略</h1>  
-<h2>～Terms～ :: Strategy</h2>  
-  
+# Galaxy Fleet：用語集：戦略
+
+## Galaxy Fleet：Terms：Strategy
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」で使われる用語のうち、戦略について定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
+
 * [用語集](/term/readme.md)
+
+
+
+
+
+
+
+## 戦略 / Strategy
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1>戦略 / Strategy</h1>  
+### 錬金 / Alchemy
   
-[目次へ戻る](#aMokuji)  
-  
-
-<h2>錬金 / Alchemy</h2>  
 ひとつの資材を別の資材に変換することです。司令部の錬金熾烈で実行できます。  
   
 
-
-<h2>船渠 / Dock</h2>  
+### 船渠 / Dock
+  
 せんきょ。  
 艦船の建造や修理に使われるドックです。船渠に入れることを入渠（にゅうきょ）といいます。  
   

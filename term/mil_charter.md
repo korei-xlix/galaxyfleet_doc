@@ -1,0 +1,55 @@
+# Galaxy Fleet：用語集：戦時憲章
+
+## Galaxy Fleet：Terms：Charter
+
+## このドキュメントについて / About this document
+
+**★このドキュメントの改造、流用、配布、クローンは禁止です★**  
+    **Modification, diversion, distribution, and cloning of this document are prohibited**  
+  
+このドキュメントは「Galaxy Fleet」で使われる用語のうち、戦時憲章について定義を記載するものです。  
+その他の仕様についてはreadmeの目次を確認してください。  
+
+
+
+
+
+## 目次 / Table of contents
+
+* [readme.md](/readme.md)
+
+* [用語集](/term/readme.md)
+
+
+
+
+
+
+
+## 戦略 / Strategy
+
+[目次へ戻る](#目次--table-of-contents)  
+  
+
+### xxx /xxx  
+  
+xxxx  
+  
+
+
+
+
+
+
+
+
+
+
+***
+[[トップへ戻る]](/readme.md)　/
+[[用語集]](/term/readme.md)  
+  
+::Admin= Korei (@korei-xlix)  
+::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
+::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
