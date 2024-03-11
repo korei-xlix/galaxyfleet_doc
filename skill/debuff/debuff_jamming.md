@@ -1,26 +1,22 @@
-# Galaxy Fleet ～機能仕様：妨害効果～
-  
-<h1>～機能仕様：妨害効果～</h1>  
-<h2>～Skill Specifications：Jamming Debuff～</h2>  
-  
+# Galaxy Fleet：機能仕様：妨害効果
+
+## Galaxy Fleet：Skill Specifications：Jamming Debuff
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の機能のうち、妨害効果について定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-* [スキル仕様](/skill/readme.md)
 
 * [砲撃系](#aAttackSkill)
 * [雷撃系](#aAttackSkill)
@@ -33,6 +29,17 @@
 
 
 
+
+
+## 防御上昇 / Defence Buff
+
+[目次へ戻る](#目次--table-of-contents)  
+  
+
+### 重盾防御 / Guard Heavy Shield
+  
+重盾で防御態勢に入ってます。ダメージを軽減します。  
+  
 
 
 

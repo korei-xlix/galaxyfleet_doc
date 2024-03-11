@@ -1,52 +1,34 @@
-# Galaxy Fleet ～機能仕様～
-  
-<h1>～機能仕様～</h1>  
-<h2>～Skill Specifications～</h2>  
-  
+# Galaxy Fleet：機能仕様
+
+## Galaxy Fleet：Skill Specifications
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の機能（スキル、バフ、デバフ）の種類、定義を記載するものです。  
+なおシステム設計の機能仕様のことではありません。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [スキル仕様](readme.md)
 
-  * [機能の定義](#aDefinitionSkill)
-
-* [機能種類](#aSkillKind)
-  * [攻撃機能](skill/skill_attack.md)
-  * [防御機能](skill/skill_defence.md)
-  * [回復機能](skill/skill_repair.md)
-  * [電子機能](skill/skill_electric.md)
-  * [移動機能](skill/skill_moved.md)
-  * [変形機能](skill/skill_change.md)
-  * [搭載機能](skill/skill_onbord.md)
-  * [戦略機能](skill/skill_strategy.md)
-
-* [効果種類](#aBuffKind)
-  * [攻撃効果](debuff/debuff_attack.md)
-  * [妨害効果](debuff/debuff_jamming.md)
-  * [支援効果](buff/buff_support.md)
-  * [防御効果](buff/buff_defence.md)
-  * [地形効果](terrain/terrain_effect.md)
-  
+* [機能の定義](#機能の定義--definition-of-skill)
+* [機能種類](#機能種類--skill-kind)
+* [効果種類](#効果種類--buff-kind)
 
 
 
 
 
-<h1 id="aDefinitionSkill">機能の定義 / Definition of Skill</h1>  
+## 機能の定義 / Definition of Skill
+
 機能（スキル）は、艦船や装備品についていて、様々な上昇効果や減衰効果を生みだします。  
   
 
@@ -72,17 +54,17 @@
 * **減衰効果（デバフ）**  
   機能により兵器に与える減衰効果です。  
   敵を妨害したり、性能に制限を与えたりして、味方を有利に、敵を不利にします。  
+
+
+
+
+
+## 機能種類 / Skill Kind
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1 id="aSkillKind">機能種類 / Skill Kind</h1>  
 兵器についてる機能で使用可能になる装備や、機能が発動することで発生効果が付加されます。  
-  
-[目次へ戻る](#aMokuji)  
-  
 
 * [攻撃機能](skill/skill_attack.md)  
   敵の兵器を攻撃したり、攻撃を強化するための機能です。  
@@ -107,18 +89,18 @@
 
 * [戦略機能](skill/skill_strategy.md)  
   建築や採取に関する機能です。  
+
+
+
+
+
+## 効果種類 / Buff Kind
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1 id="aBuffKind">効果種類 / Buff Kind</h1>  
 "発生効果"は機能の影響を受けて発生する効果です。  
 RPGで言うバフ、デバフです。仕分けは以下のようになってます。  
-  
-[目次へ戻る](#aMokuji)  
-  
 
 * [攻撃効果](debuff/debuff_attack.md)  
   攻撃により付加する減衰効果です。  
@@ -139,7 +121,6 @@ RPGで言うバフ、デバフです。仕分けは以下のようになって�
 * [地形効果](terrain/terrain_effect.md)  
   兵器が侵入している地形により付加される効果です。  
   入った地形により、有利、不利が分かれます。  
-  
 
 
 

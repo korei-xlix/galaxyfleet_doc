@@ -1,42 +1,38 @@
-# Galaxy Fleet ～機能仕様：防御機能～
-  
-<h1>～機能仕様：防御機能～</h1>  
-<h2>～Skill Specifications：Defence Skill～</h2>  
-  
+# Galaxy Fleet：機能仕様：防御機能
+
+## Galaxy Fleet：Skill Specifications：Defence Skill
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の機能のうち、防御機能について定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-* [スキル仕様](/skill/readme.md)
 
-* [物理防御](#aDefence)
-* [迎撃](#aInterception)
-* [航空防御](#aAirDefence)
+* [物理防御](#物理防御--defence)
+* [迎撃](#迎撃--interception)
+* [航空防御](#航空防御--air-defence)
+
+
+
+
+
+## 物理防御 / Defence
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1 id="aDefence">物理防御 / Defence</h1>  
+### 重盾 / Heavy Shield
   
-[目次へ戻る](#aMokuji)  
-  
-
-<h2>重盾 / Heavy Shield</h2>  
 重盾で防御ができるようになる機能です。  
 盾部分で敵の攻撃を防げます。  
 　　前提装備：重盾装甲  
@@ -44,7 +40,8 @@
 　　発生効果：重盾防御  
   
 
-<h2>護衛指示 / Escort Instructions</h2>  
+## 護衛指示 / Escort Instructions
+  
 艦隊内の駆逐艦、もしくは護衛艦に自艦を護衛させます。  
 駆逐艦、護衛艦がいないと発動しません。  
 　　発生効果：護衛中  
@@ -53,19 +50,22 @@
 
 
 
-<h1 id="aInterception">迎撃 / Interception</h1>  
-  
-[目次へ戻る](#aMokuji)  
+
+## 迎撃 / Interception
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-<h2>迎撃 / Interception</h2>  
+### 迎撃 / Interception
+  
 電子性能が足りなくても迎撃ミサイルが装備できるようになる機能です。コストも半減します。  
 迎撃ミサイルを装備している場合、迎撃準備ができます。  
 　　前提装備：噴進弾迎撃装置、ミサイルバスター、噴進弾迎撃ポッド  
 　　追加機能：迎撃準備  
   
 
-<h2>迎撃準備 / Preparing for Interception</h2>  
+### 迎撃準備 / Preparing for Interception
+  
 迎撃ミサイルを発射準備態勢にセットします。装備していないと発動しません。  
 展開中は追加の防御バフが得られます。  
 　　発生効果：Ｍ迎撃  
@@ -75,22 +75,19 @@
 
 
 
+## 航空防御 / Air Defence
 
-
-<h1 id="aAirDefence">航空防御 / Air Defence</h1>  
-  
-[目次へ戻る](#aMokuji)  
+[目次へ戻る](#目次--table-of-contents)  
   
 
-<h2>空母直掩 / Air Carrier Direct Flight</h2>  
+### 空母直掩 / Air Carrier Direct Flight
+  
 空母直掩（くうぼちょくえん）  
 搭載中の戦闘機を発艦させて、空母を護衛させます。戦闘機が残存していないと発動しません。  
 直掩中、戦闘機が０機になると直掩は解除されます。  
 また直掩機は航空戦に参加できません。  
 　　発生効果：直掩中  
   
-
-
 
 
 

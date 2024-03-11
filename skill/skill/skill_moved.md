@@ -1,58 +1,56 @@
-# Galaxy Fleet ～機能仕様：移動機能～
-  
-<h1>～機能仕様：移動機能～</h1>  
-<h2>～Skill Specifications：Move Skill～</h2>  
-  
+# Galaxy Fleet：機能仕様：移動機能
+
+## Galaxy Fleet：Skill Specifications：Move Skill
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の機能のうち、移動機能について定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-* [スキル仕様](/skill/readme.md)
 
-* [マップ移動](#aMapMove)
-* [移動機能](#aMoveSkill)
-* [地形対応](#aTerrainCompatibl)
+* [マップ移動](#マップ移動--map-move)
+* [移動機能](#移動機能--move-skill)
+* [地形対応](#地形対応--terrain-compatible)
+
+
+
+
+
+## マップ移動 / Map Move
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1 id="aMapMove">マップ移動 / Map Move</h1>  
+### 上陸 / 
   
-[目次へ戻る](#aMokuji)  
-  
-
-<h2>上陸 / </h2>
 この機能があると、桟橋、仮桟橋がない港に接弦、乗り降りができます。  
   
 
-<h2>爆撃降下 / </h2>  
+### 爆撃降下 / 
+  
 艦艇に搭載中の戦略爆撃機、陸戦爆撃機は、ローカルマップへ乗り降りさせることができます。  
   
 
 
 
 
-<h1 id="aMoveSkill">移動機能 / Move Skill</h1>  
-  
-[目次へ戻る](#aMokuji)  
+## 移動機能 / Move Skill
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-<h2>高速艦 / </h2>
+### 高速艦 / 
+  
 艦船を高速化するための専用ブースターと、ターボジェネレータが装備されます。  
 また、追加機能を覚えます。  
 　　追加機能：遊撃、高速戦闘、高速突撃、高速貫通  
@@ -62,9 +60,9 @@
 
 
 
-<h1 id="aTerrainCompatibl">地形対応 / Terrain Compatible</h1>  
-  
-[目次へ戻る](#aMokuji)  
+## 地形対応 / Terrain Compatible
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 

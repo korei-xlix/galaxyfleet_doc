@@ -1,43 +1,39 @@
-# Galaxy Fleet ～機能仕様：電子機能～
-  
-<h1>～機能仕様：電子機能～</h1>  
-<h2>～Skill Specifications：Electric Skill～</h2>  
-  
+# Galaxy Fleet：機能仕様：電子機能
+
+## Galaxy Fleet：Skill Specifications：Electric Skill
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の機能のうち、電子機能について定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-* [スキル仕様](/skill/readme.md)
 
-* [偵察](#aReconnaissance)
-* [電子妨害](#aElectricAttack)
-* [電子防御](#aElectricDefence)
-* [指揮機能](#aCommandSkill)
+* [偵察](#偵察--reconnaissance)
+* [電子妨害](#電子妨害--electric-attack)
+* [電子防御](#電子防御--electric-defence)
+* [指揮機能](#指揮機能--command-skill)
+
+
+
+
+
+## 偵察 / Reconnaissance
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1 id="aReconnaissance">偵察 / Reconnaissance</h1>  
+### 監視者 / Observer
   
-[目次へ戻る](#aMokuji)  
-  
-
-<h2>監視者 / Observer</h2>  
 レーダを装備している場合、索敵が 30％ 向上します。  
   
 
@@ -46,22 +42,9 @@
 
 
 
-<h1 id="aElectricAttack">電子妨害 / Electric Attack</h1>  
-  
-[目次へ戻る](#aMokuji)  
-  
+## 電子妨害 / Electric Attack
 
-
-
-
-
-
-
-
-
-<h1 id="aElectricDefence">電子防御 / Electric Defence</h1>  
-  
-[目次へ戻る](#aMokuji)  
+[目次へ戻る](#目次--table-of-contents)  
   
 
 
@@ -70,12 +53,26 @@
 
 
 
-<h1 id="aCommandSkill">指揮機能 / Command Skill</h1>  
-  
-[目次へ戻る](#aMokuji)  
+
+
+## 電子防御 / Electric Defence
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-<h2>艦隊統制 / Fleet Control</h2>  
+
+
+
+
+
+
+## 指揮機能 / Command Skill
+
+[目次へ戻る](#目次--table-of-contents)  
+  
+
+### 艦隊統制 / Fleet Control
+  
 状況判定の共有機能です。  
 所属艦隊の艦が攻撃の命中、電子妨害の成功をした場合、その判定値を共有できます。  
 ただし、この機能を持ってる艦が被弾、あるいは撃沈した場合、その直後から機能は無効になります。  

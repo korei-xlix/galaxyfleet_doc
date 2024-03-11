@@ -1,52 +1,48 @@
-# Galaxy Fleet ～機能仕様：変形機能～
-  
-<h1>～機能仕様：変形機能～</h1>  
-<h2>～Skill Specifications：Change Skill～</h2>  
-  
+# Galaxy Fleet：機能仕様：変形機能
+
+## Galaxy Fleet：Skill Specifications：Change Skill
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の機能のうち、変形機能について定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-* [スキル仕様](/skill/readme.md)
 
-* [装備換装](#aEquipmentReplacement)
-* [変形](#aTransformation)
-* [分離合体](#aSeparationAndCombination)
+* [装備換装](#装備換装--equipment-replacement-skill)
+* [変形](#変形--transformation)
+* [分離合体](#分離合体--separation-and-ombination)
+
+
+
+
+
+## 装備換装 / Equipment Replacement Skill
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 
 
 
 
-<h1 id="aEquipmentReplacement">装備換装 / Equipment Replacement Skill</h1>  
-  
-[目次へ戻る](#aMokuji)  
-  
 
+## 変形 / Transformation
 
-
-
-
-
-<h1 id="aTransformation">変形 / Transformation</h1>  
-  
-[目次へ戻る](#aMokuji)  
+[目次へ戻る](#目次--table-of-contents)  
   
 
-<h2>甲板切替 / </h2>  
+### 甲板切替 / 
+  
 戦闘空母の甲板を砲撃モード、航空甲板モードに切り替えます。  
 　　前提機能：戦闘甲板  
   
@@ -55,9 +51,9 @@
 
 
 
-<h1 id="aSeparationAndCombination">分離合体 / Separation and ombination</h1>  
-  
-[目次へ戻る](#aMokuji)  
+## 分離合体 / Separation and ombination
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
 
