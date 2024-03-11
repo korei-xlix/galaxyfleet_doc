@@ -1,50 +1,47 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 戦艦</h1>  
-<h2>～Weapon Specifications～ :: Battle Ship</h2>  
-  
+# Galaxy Fleet：兵器仕様：戦艦
+
+## Galaxy Fleet：Weapon Specifications：Battle Ship
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、戦艦の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：戦艦](/unit/readme.md#aBattleShip)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/unit/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器種類：戦列艦](/unit/readme.md#bs戦列艦--battle-ships)
 
 * 兵器標準仕様
-  * [BSBB-STD：戦艦](#aBattleShip)
-  * [BSBB-AMD：装甲戦艦](#aArmoredBattleShip)
-  * [BSBB-BCR：巡航戦艦](#aBattleCruise)
-  * [BSBB-SPT：高速戦艦](#aSprintBattleShip)
-  * [BSBB-AVI：航空戦艦](#aAviationBattleShip)
-  * [BSBB-SRK：戦略打撃艦](#aStrikeBattleShip)
-  * [BSBB-HGN：重砲撃艦](#aHeavyGunShip)
-  * [BSBB-SGN：狙撃戦艦](#aSniperGunShip)
+  * [BSBB-STD：戦艦](#bsbb-std戦艦--battle-ship)
+  * [BSBB-AMD：装甲戦艦](#bsbb-amd装甲戦艦--armored-battle-ship)
+  * [BSBB-BCR：巡航戦艦](#bsbb-bcr巡航戦艦--battle-cruise-ship)
+  * [BSBB-SPT：高速戦艦](#bsbb-spt高速戦艦--sprint-battle-ship)
+  * [BSBB-AVI：航空戦艦](#bsbb-avi航空戦艦--aviation-battle-ship)
+  * [BSBB-SRK：戦略打撃艦](#bsbb-srk戦略打撃艦--strike-battle-ship)
+  * [BSBB-HGN：重砲撃艦](#bsbb-hgn重砲撃艦--heavy-gun-ship)
+  * [BSBB-SGN：狙撃戦艦](#bsbb-sgn狙撃戦艦--sniper-gun-ship)
+
+
+
+
+
+## BSBB-STD：戦艦 / Battle Ship
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aBattleShip">BSBB-STD：戦艦 / Battle Ship</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 大型の主砲を搭載し、耐久性にも優れる戦列艦の花形です。砲撃火力、防御力を備え、砲撃戦が得意です。  
 少ないですがミサイルと、汎用の航空機が搭載できます。  
 汎用性が低く、戦闘以外の目的では運用しにくいです。  
@@ -64,16 +61,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | 〇   | ×   | ▲   | ・   | ・(+6)   |
+
+
+
+
+
+## BSBB-AMD：装甲戦艦 / Armored Battle Ship
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aArmoredBattleShip">BSBB-AMD：装甲戦艦 / Armored Battle Ship</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 装甲とシールドを強化した戦艦です。耐久性、防御力がより高くなってます。  
 重盾が展開でき、艦隊の防御をおこなうことができます。  
 ミサイルが搭載できなくなりました。  
@@ -93,16 +89,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | 〇   | ×   | ×   | 〇   | ・(+6)   |
+
+
+
+
+
+## BSBB-BCR：巡航戦艦 / Battle Cruise Ship
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aBattleCruise">BSBB-BCR：巡航戦艦 / Battle Cruise Ship</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 駆逐艦、巡航艦、戦艦の長所を集約し、戦闘力のバランスを計った戦艦です。  
 魚雷が搭載できます。  
 標準的に機動性能が強化チューンされています。  
@@ -122,16 +117,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ▲   | ▲   | ・   | ・(+6)   |
+
+
+
+
+
+## BSBB-SPT：高速戦艦 / Sprint Battle Ship
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aSprintBattleShip">BSBB-SPT：高速戦艦 / Sprint Battle Ship</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 大型のブースターを搭載し、高速戦闘に特化した戦艦です。  
 砲戦で突撃ができます。専用のブースターとシールドジェネレータを搭載します。  
 主砲の搭載に制限があります。  
@@ -152,16 +146,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ・   | ▲   | 〇   | ▲(+8)   |
+
+
+
+
+
+## BSBB-AVI：航空戦艦 / Aviation Battle Ship
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aAviationBattleShip">BSBB-AVI：航空戦艦 / Aviation Battle Ship</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 航空化し、大量の汎用航空機が運用できるようになった戦艦です。  
 汎用航空機による制空、爆撃、偵察が強化できます。  
 主砲の搭載に制限があります。ミサイルが搭載できなくなってます。  
@@ -180,16 +173,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | 〇   | ×   | ・   | 〇   | ▲(+8)   |
+
+
+
+
+
+## BSBB-SRK：戦略打撃艦 / Strike Battle Ship
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aStrikeBattleShip">BSBB-SRK：戦略打撃艦 / Strike Battle Ship</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 要塞砲が搭載できるように設計された特殊な戦列艦です。戦艦がベースとなってます。  
 要塞砲の圧倒的な打撃力により、全戦列艦のうち最強の火力を持ってます。  
 コストがアホみたいにかかるので運用が難しいと思います。  
@@ -210,16 +202,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | 〇   | ×   | ・   | 〇   | ▲(+8)   |
+
+
+
+
+
+## BSBB-HGN：重砲撃艦 / Heavy Gun Ship
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aHeavyGunShip">BSBB-HGN：重砲撃艦 / Heavy Gun Ship</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 大型の主砲を増やして砲撃火力を強化した戦艦です。  
 主砲での攻撃力があがっています。また戦艦よりコストが安くなってます。  
 ミサイルが搭載できなくなっています。  
@@ -239,16 +230,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ×   | ×   | ・   | 〇(+4)   |
+
+
+
+
+
+## BSBB-SGN：狙撃戦艦 / Sniper Gun Ship
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aSniperGunShip">BSBB-SGN：狙撃戦艦 / Sniper Gun Ship</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 超大遠距離からの砲撃に特化した特殊な戦列艦です。戦艦がベースとなってます。  
 換装式の超大型砲により敵の射程の外から砲撃ができます。専用の長距離砲を搭載します。  
 ミサイルが搭載できなくなっています。  
@@ -269,7 +259,6 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ▲   | ・   | 〇   | ▲(+8)   |
-  
 
 
 

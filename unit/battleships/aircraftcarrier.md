@@ -1,48 +1,46 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 航空母艦</h1>  
-<h2>～Weapon Specifications～ :: Aircraft Carrier</h2>  
-  
+# Galaxy Fleet：兵器仕様：航空母艦
+
+## Galaxy Fleet：Weapon Specifications：Aircraft Carrier
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、航空母艦の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：航空母艦](/unit/readme.md#aAircraftCarrier)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/unit/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器種類：戦列艦](/unit/readme.md#bs戦列艦--battle-ships)
 
 * 兵器標準仕様
-  * [BSAC-STD：航空母艦](#aAircraftCarrier)
-  * [BSAC-AMD：装甲空母](#aArmoredAircraftCarrier)
-  * [BSAC-ATK：攻撃空母](#aAttackAircraftCarrier)
-  * [BSAC-MUS：多段式空母](#aMultiStageAircraftCarrier)
-  * [BSAC-BAC：戦闘空母](#aBattleAircraftCarrier)
-  * [BSAC-ICP：要撃空母](#aInterceptAircraftCarrier)
-  * [BSAC-SRK：戦略空母](#aStrikeAircraftCarrier)
-  * [BSAC-SCT：制宙艦](#aSpaceControlShip)
-  
+  * [BSAC-STD：航空母艦](#bsac-std航空母艦--aircraft-carrier)
+  * [BSAC-AMD：装甲空母](#bsac-amd装甲空母--armored-aircraft-carrier)
+  * [BSAC-ATK：攻撃空母](#bsac-atk攻撃空母--attack-aircraft-carrier)
+  * [BSAC-MUS：多段式空母](#bsac-mus多段式空母--multi-stage-aircraft-carrier)
+  * [BSAC-BAC：戦闘空母](#bsac-bac戦闘空母--battle-aircraft-carrier)
+  * [BSAC-ICP：要撃空母](#bsac-icp要撃空母--intercept-aircraft-carrier)
+  * [BSAC-SRK：戦略空母](#bsac-srk戦略空母--strike-aircraft-carrier)
+  * [BSAC-SCT：制宙艦](#bsac-sct制宙艦--space-control-ship)
 
 
 
 
 
-<h1 id="aAircraftCarrier">BSAC-STD：航空母艦 / Aircraft Carrier</h1>  
-[目次へ戻る](#aMokuji)  
+## BSAC-STD：航空母艦 / Aircraft Carrier
+
+[目次へ戻る](#目次--table-of-contents)  
   
 船体に巨大な飛行甲板を搭載し、艦載機を大量に運用できる大型の戦列艦です。いわゆる"空母"です。  
 ほとんどの空母航空機が運用できます。少ないですが機動歩兵も運用できます。  
@@ -64,14 +62,14 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | ・   | ・   | ・(+6)   |
-  
 
 
 
 
 
-<h1 id="aArmoredAircraftCarrier">BSAC-AMD：装甲空母 / Armored Aircraft Carrier</h1>  
-[目次へ戻る](#aMokuji)  
+## BSAC-AMD：装甲空母 / Armored Aircraft Carrier
+
+[目次へ戻る](#目次--table-of-contents)  
   
 飛行甲板と艦体の防御力を強化した大型空母です。飛行甲板が壊れにくく、激戦でも艦載機の運用がしやすくなってます。  
 専用の装甲甲板が搭載できます。  
@@ -93,14 +91,14 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ▲   | ・   | ・   | ・(+6)   |
-  
 
 
 
 
 
-<h1 id="aAttackAircraftCarrier">BSAC-ATK：攻撃空母 / Attack Aircraft Carrier</h1>  
-[目次へ戻る](#aMokuji)  
+## BSAC-ATK：攻撃空母 / Attack Aircraft Carrier
+
+[目次へ戻る](#目次--table-of-contents)  
   
 飛行甲板を強化し、艦載機の運用能力を向上し、航空攻撃力全体を向上させた大型空母です。  
 専用の発進強化甲板が搭載できます。艦載機の連続発進ができ、航空攻撃の回数が向上します。  
@@ -122,14 +120,14 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | ・   | ・   | ・(+6)   |
-  
 
 
 
 
 
-<h1 id="aMultiStageAircraftCarrier">BSAC-MUS：多段式空母 / Multi Stage Aircraft Carrier</h1>  
-[目次へ戻る](#aMokuji)  
+## BSAC-MUS：多段式空母 / Multi Stage Aircraft Carrier
+
+[目次へ戻る](#目次--table-of-contents)  
   
 複数の飛行甲板と格納設備を搭載し、艦載機の搭載能力と発進能力を向上させた超大型空母です。  
 ほとんどの空母航空機、大型航空機が運用でき、機動歩兵も運用できます。運用できる航空戦力数は戦列艦のなかでで一番です。  
@@ -150,14 +148,14 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | ・   | ・   | ・(+6)   |
-  
 
 
 
 
 
-<h1 id="aBattleAircraftCarrier">BSAC-BAC：戦闘空母 / Battle Aircraft Carrier</h1>  
-[目次へ戻る](#aMokuji)  
+## BSAC-BAC：戦闘空母 / Battle Aircraft Carrier
+
+[目次へ戻る](#目次--table-of-contents)  
   
 飛行甲板の中に主砲や装備類を格納し、艦でも砲撃戦がおこなえるようにした大型空母です。  
 空母機能はそのままに、戦艦の主砲や巡航艦クラスの武装が搭載できます。  
@@ -181,14 +179,14 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | ・   | ・   | ・(+6)   |
-  
 
 
 
 
 
-<h1 id="aInterceptAircraftCarrier">BSAC-ICP：要撃空母 / Intercept Aircraft Carrier</h1>  
-[目次へ戻る](#aMokuji)  
+## BSAC-ICP：要撃空母 / Intercept Aircraft Carrier
+
+[目次へ戻る](#目次--table-of-contents)  
   
 搭載機での防空力と要撃能力を強化した大型空母です。  
 空母で捕捉している敵機動兵器がいる場合、先制攻撃ができます。  
@@ -211,14 +209,14 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ・   | 〇   | ・   | ▲(+8)   |
-  
 
 
 
 
 
-<h1 id="aStrikeAircraftCarrier">BSAC-SRK：戦略空母 / Strike Aircraft Carrier</h1>  
-[目次へ戻る](#aMokuji)  
+## BSAC-SRK：戦略空母 / Strike Aircraft Carrier
+
+[目次へ戻る](#目次--table-of-contents)  
   
 ほとんどの機動兵器が運用できる超大型空母です。建造コスト、時間がかかるため、数が少ない特別な戦列艦です。  
 すべての艦載機、汎用機以外の航空機、機動歩兵、装載艇、陸戦爆撃機が運用できます。  
@@ -243,14 +241,14 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ▲   | 〇   | 〇   | ▲(+8)   |
-  
 
 
 
 
 
-<h1 id="aSpaceControlShip">BSAC-SCT：制宙艦 / Space Control Ship</h1>  
-[目次へ戻る](#aMokuji)  
+## BSAC-SCT：制宙艦 / Space Control Ship
+
+[目次へ戻る](#目次--table-of-contents)  
   
 主に対潜哨戒機の運用や、対潜戦闘能力が充実した大型航空母艦です。  
 電子性能が高く、空母の機能に加え、高度な対潜戦闘能力を保有します。  
@@ -275,7 +273,6 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | 〇   | 〇   | ▲(+8)   |
-  
 
 
 

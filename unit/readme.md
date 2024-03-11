@@ -1,209 +1,201 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～</h1>  
-<h2>～Weapon Specifications～</h2>  
-  
+# Galaxy Fleet：兵器仕様
+
+## Galaxy Fleet：Weapon Specifications
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器の種類、定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](readme.md)
-  * [兵器の区分記号](/strategypart/readme.md#aUnitClassificationSymbol)
-  * [兵器種類](#aUnitKind)
-  * [兵器分類](#aUnitClass)
-  * [兵器形式](#aUnitType)
+
+* 兵器仕様
+  * [兵器の区分記号](/strategypart/readme.md#兵器の区分記号--unit-classification-symbol)
+  * [兵器種類](#兵器種類--unit-kind)
+  * [兵器分類](#兵器分類--unit-class)
+  * [兵器形式](#兵器形式--unit-type)
 
 * 戦闘用の艦船
-  * [戦列艦](#aBattleShips)
-  * [護衛艦](#aEscortShips)
-  * [支援艦](#aSupportShips)
+  * [戦列艦](#bs戦列艦--battle-ships)
+  * [護衛艦](#es護衛艦--escort-ships)
+  * [支援艦](#ss支援艦--support-ships)
 
 * 戦闘兵器
-  * [機動兵器](#aMovableUnits)
-  * [陸戦兵器](#aLandUnits)
-  * [防衛兵器](#aDefenseUnits)
-  * [魔導歩兵](#aWizardInfantrys)
+  * [機動兵器](#mu機動兵器--movable-units)
+  * [陸戦兵器](#lu陸戦兵器--land-units)
+  * [防衛兵器](#du防衛兵器--defense-units)
+  * [魔導歩兵](#wi魔導兵器--wizard-infantrys)
 
 * 民間用
-  * [民間船](#aCivilShips)
-  * [民間機](#aCivilUnits)
-  * [民間施設](#aCivilFacilities)
+  * [民間船](#cs民間船--civil-ships)
+  * [民間機](#cu民間機--civil-units)
+  * [民間施設](#cb民間施設--civil-facilities)
+
+
+
+
+
+## 兵器種類 / Unit Kind
+
+[目次へ戻る](#目次--table-of-contents)  
   
 
-
-
-
-
-<h1 id="aUnitKind">兵器種類 / Unit Kind</h1>  
 兵器は大きく兵器分類により分類されます。  
   
 詳しくは戦略パート仕様をご参照ください。  
   
   [兵器種類](../strategypart/readme.md#aUnitKind)  
+
+
+
+
+
+## 兵器分類 / Unit Class
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aUnitClass">兵器分類 / Unit Class</h1>  
 各兵器種類は、さらに兵器分類に分類分けされます。  
-  
-[目次へ戻る](#aMokuji)  
+
+
+## BS：戦列艦 / Battle Ships
+
+[目次へ戻る](#目次--table-of-contents) / [戦列艦](battleships/readme.md)  
   
 
-<h2 id="aBattleShips">BS：戦列艦 / Battle Ships</h2>  
-  
-[目次へ戻る](#aMokuji) / [戦列艦](battleships/readme.md)  
-  
-
-* **<a id="aDestroyer">[BSDS：駆逐艦　Destroyer](battleships/destroyer.md)</a>**  
+* **[BSDS：駆逐艦　Destroyer](battleships/destroyer.md)**  
   小型で小回りのきく戦列艦です。  
   小型の火砲、魚雷、爆雷、対潜ソナーを装備し、近接での対艦戦闘と、対潜戦闘を得意とします。  
   機動性能、回避性能、高機動による索敵能力が高く、コストが安いです。  
   ただし、耐久性、装甲力が低く、被弾に弱いです。  
   　　主な武器：小型主砲、魚雷、爆雷、対空砲  
-  
 
-* **<a id="aCruiser">[BSCR：巡航艦　Cruiser](battleships/cruiser.md)</a>**  
+* **[BSCR：巡航艦　Cruiser](battleships/cruiser.md)**  
   中型で電子性能が高い戦列艦です。  
   中型の火砲を装備し、近距離から中距離の砲撃戦が得意です。  
   また高性能の電探、偵察機を装備し、電探による索敵や電子戦対空戦闘力を得意とします。  
   駆逐艦よりも耐久性、移動性能に優れますが、回避性能が劣ります。  
   　　主な武器：中型主砲、小型主砲、偵察機、対空砲  
-  
 
-* **<a id="aBattleShip">[BSBB：戦艦　Battle Ship](battleships/battleship.md)</a>**  
+* **[BSBB：戦艦　Battle Ship](battleships/battleship.md)**  
   大型で非常に戦闘力が高い戦列艦で、艦隊戦の花形です。  
   大型の火砲やミサイルを搭載し、中距離から遠距離の砲撃戦に秀でます。  
   また装甲やシールドが非常に厚く、生存性が高いです。偵察機も搭載でき、ある程度の索敵も可能です。  
   しかし大型の船体により鈍足で、機動兵器に狙われやすいです。  
   　　主な武器：大型主砲、中型主砲、ミサイル、偵察機、対空砲  
-  
 
-* **<a id="aAircraftCarrier">[BSAC：航空母艦　Aircraft Carrier](battleships/aircraftcarrier.md)</a>**  
+* **[BSAC：航空母艦　Aircraft Carrier](battleships/aircraftcarrier.md)**  
   大型で多数の艦載機を搭載、運用するための母艦型の戦列艦です。  
   母艦機能に特化しており、艦載機の整備、搭載武器の換装、修理などができます。  
   空母自体の武装は少なく、単艦での戦闘力は貧弱です。  
   カタパルトが損傷すると艦載機が発進できなくなります。  
   　　主な武器：対空砲  
-  
 
-* **<a id="aModifiedAircraftCarrier">[BSMC：改造空母　Modified Aircraft Carrier](battleships/modifiedcarrier.md)</a>**  
+* **[BSMC：改造空母　Modified Aircraft Carrier](battleships/modifiedcarrier.md)**  
   巡航艦や支援艦、大型の客船の船体をベースに建造した改装型の空母です。  
   空母としての母艦機能に加え、航空母艦よりも耐久性と経済性に優れます。  
   空母自体の武装は少なく、単艦での戦闘力は貧弱です。また航空母艦よりも鈍足です。  
   カタパルトが損傷すると艦載機が発進できなくなります。  
   　　主な武器：中型砲、小型砲、対空砲  
-  
 
-* **<a id="aGeneralPurposeMotherShip">[BSMS：汎用母艦　General Purpose Mother Ship](battleships/mothership.md)</a>**  
+* **[BSMS：汎用母艦　General Purpose Mother Ship](battleships/mothership.md)**  
   空母では運用できない大型の航空機や爆撃機、汎用戦闘機、装載艇などを運用するための特設空母です。  
   母艦機能により搭載機の整備、搭載武器の換装、修理などができます。  
   船体の構造が巨大なため、航空母艦、改造空母よりも耐久性、機動性に難があります。  
   カタパルトが損傷すると艦載機が発進できなくなります。  
   　　主な武器：小型主砲、対空砲  
-  
 
-* **<a id="aLandCarrier">[BSLC：揚陸艦　Land Carrier](battleships/landcarrier.md)</a>**  
+* **[BSLC：揚陸艦　Land Carrier](battleships/landcarrier.md)**  
   装載艇や陸戦兵器、歩兵を搭載し、泊地や要塞に揚陸させることができる戦列艦です。  
   中型で巡航艦程度の大きさの船体を持ち、装甲と機動性が高めです。  
   敵の艦船に強行接舷して歩兵を送ることもできます。  
   武装は少なく、艦船相手の戦闘力はほぼありません。  
   　　主な武器：野戦砲、対空砲  
-  
 
-* **<a id="aSubmarine">[BSSB：潜航艦　Submarine](battleships/submarine.md)</a>**  
+* **[BSSB：潜航艦　Submarine](battleships/submarine.md)**  
   亜空間潜航が可能な特殊な戦列艦です。  
   小型で駆逐艦程度の大きさの船体を持ちます。  
   潜航中はビームやミサイルなどの兵器ではダメージが与えられず、駆逐艦や対潜哨戒機などでしか攻撃できません。  
   その代わり、潜水艦も潜航中は魚雷しか使えません。  
   速度や機動性は遅いため、索敵にひっかかると逃げるのが難しくなります。  
   　　主な武器：小型主砲、魚雷、対空砲  
-  
 
-* **<a id="aBattleWizardShip">[BSWZ：魔導戦艦　Battle Wizard Ship](battleships/battlewizardship.md)</a>**  
+* **[BSWZ：魔導戦艦　Battle Wizard Ship](battleships/battlewizardship.md)**  
   魔導技術で作られた特殊な戦列艦です。  
   強力な魔導砲や魔導ミサイル、魔導兵器を搭載、運用でき、魔導エネルギーを使った戦闘ができます。  
   エネルギーの無限生成と自我をもちます。  
   運用コストは安いですが、修理や武装にかかるコストが非常に高いです。  
-  
 
 
-<h2 id="aEscortShips">ES：護衛艦 / Escort Ships</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+
+
+## ES：護衛艦 / Escort Ships
+
+[目次へ戻る](#目次--table-of-contents) / [護衛艦](escortships/readme.md)  
   
 
-* **<a id="aFrigate">[ESFG：護衛艦　Frigate](escortships/frigate.md)</a>**  
+* **[ESFG：護衛艦　Frigate](escortships/frigate.md)**  
   電子性能、防空性能に優れ、大型の艦船の接近防御、艦隊の防空を担う護衛用の中型艦艇です。  
   敵機動兵器からの対空防御、接近してくる敵艦の妨害、揚陸してきた歩兵の排除がおこなえます。  
   護衛艦としての機能は万能ですが、コストが非常に高いです。  
   レギュレーションにより、直接的な対艦攻撃をおこなう武装は搭載できません。  
   移動も単独ではおこなえず、戦列艦に近接しなくてはいけません。  
   　　主な武器：対空砲  
-  
 
-* **<a id="aCorvet">[ESCV：防護艦　Corvet](escortships/corvet.md)</a>**  
+* **[ESCV：防護艦　Corvet](escortships/corvet.md)**  
   護衛艦の機能から電子戦、機動戦に限定してコストダウンをおこなった小型の護衛艦です。  
   電子戦や機動戦による早期警戒、電子妨害や攪乱、電子妨害からの防御がおこなえます。  
   護衛艦と比較して機動性能、コストに優れますが、電子性能、対空防御力は劣ります。  
   レギュレーションにより、直接的な対艦攻撃をおこなう武装は搭載できません。  
   移動も単独ではおこなえず、戦列艦に近接しなくてはいけません。  
   　　主な武器：対空砲  
-  
 
-* **<a id="aEscortMotherShip">[ESMS：護衛母艦　Escort Mother Ship](escortships/escortmothership.md)</a>**  
+* **[ESMS：護衛母艦　Escort Mother Ship](escortships/escortmothership.md)**  
   制空、哨戒用の艦載機で艦隊の防空、対潜哨戒、周辺索敵をおこなう母艦型の護衛艦です。  
   護衛艦で艦載機を運用することで、航空機による艦隊の防空、警戒能力をあげることができます。  
   艦載機の運用に特化することでコストダウンを計っています。  
   発着艦の装置は内蔵式のため戦闘で破損することはありませんが、空母よりも発進が遅いです。  
   　　主な武器：対空砲  
-  
 
-* **<a id="aEscortWizardShip">[ESWZ：魔導護衛艦　Escort Wizard Ship](escortships/escortwizardship.md)</a>**  
+* **[ESWZ：魔導護衛艦　Escort Wizard Ship](escortships/escortwizardship.md)**  
   魔導技術で作られた護衛艦です。  
   魔導により艦隊防空、早期発見、敵艦の妨害がおこなえ、魔導装甲により艦体が守られてます。  
   エネルギーの無限生成と自我をもちます。  
   運用コストは安いですが、修理や武装にかかるコストが非常に高いです。  
-  
 
 
-<h2 id="aSupportShips">SS：支援艦 / Support Ships</h2>  
-  
-[目次へ戻る](#aMokuji) / [支援艦](supportships/readme.md)  
+
+
+
+## SS：支援艦 / Support Ships
+
+[目次へ戻る](#目次--table-of-contents) / [支援艦](supportships/readme.md)  
   
 
-* **<a id="aRecommendShip">[SSRE：偵察艦　Recommend Ship](supportships/recommendship.md)</a>**  
+* **[SSRE：偵察艦　Recommend Ship](supportships/recommendship.md)**  
   索敵能力と隠蔽能力、機動性に秀でる偵察用の支援艦です。  
   船体は巡航艦がベースになっています。  
   単艦で敵地の奥まで侵入し、敵の情報の収集、収集した情報を味方に共有します。  
   自衛用の小型砲くらいしか武装できません。  
   　　主な武器：なし  
-  
 
-* **<a id="aElectronicSupportShip">[SSEL：電子支援艦　Electronic Support Ship](supportships/electronicsupportship.md)</a>**  
+* **[SSEL：電子支援艦　Electronic Support Ship](supportships/electronicsupportship.md)**  
   電子戦による妨害工作と、対電子戦を専門とする支援艦です。  
   船体は巡航艦がベースになっています。  
   電子戦性能においては、他の艦船の追随を許しません。  
   自衛用の小型砲くらいしか武装できませんが、艦種によっては火力が高いものもあります。  
   　　主な武器：なし  
-  
 
-* **<a id="aSupplyCargoShip">[SSSC：補給輸送艦　Supply Cargo Ship](supportships/supprycargoship.md)</a>**  
+* **[SSSC：補給輸送艦　Supply Cargo Ship](supportships/supprycargoship.md)**  
   兵器や大量の資源や物資を輸送したり、艦船の補給をおこなうための支援艦です。  
   船体は戦艦や大型客船、巡航艦がベースになっています。  
   搭載容量は他の艦船よりもかなり多く、防衛兵器もバラして搭載できます。  
@@ -211,391 +203,358 @@
   ただし揚陸能力はなく、貨物の積み下ろしは大きな港がないとできません。  
   また武装は搭載しないことが多く、あっても自衛用の小型砲くらいしか武装できません。  
   　　主な武器：なし  
-  
 
-* **<a id="aCommandSupportShip">[SSCM：指揮支援艦　Command Support Ship](supportships/commandsupportship.md)</a>**  
+* **[SSCM：指揮支援艦　Command Support Ship](supportships/commandsupportship.md)**  
   戦闘の指揮や、艦隊の通信管制をおこなうための支援艦です。  
   船体は巡航艦がベースになってます。  
   指揮機能のほか、電子性能が高いです。  
   また武装は搭載しないことが多く、あっても自衛用の小型砲くらいしか武装できません。  
   　　主な武器：ビーム砲  
-  
 
-* **<a id="aStrikeSupportShip">[SSKS：打撃支援艦　Strike Support Ship](supportships/strikesupportship.md)</a>**  
+* **[SSKS：打撃支援艦　Strike Support Ship](supportships/strikesupportship.md)**  
   長距離の打撃火力を補助するための予備火力戦力を要する、戦闘支援のための艦船です。  
   船体は巡航艦がベースになってます。  
   長距離の火力が高いです。  
   装甲や機動性能は低いため、近接での打撃戦には向きません。  
-  
 
-* **<a id="aLandWarSupportShip">[SSLS：陸戦支援艦　Land War Support Ship](supportships/landsupportship.md)</a>**  
+* **[SSLS：陸戦支援艦　Land War Support Ship](supportships/landsupportship.md)**  
   軌道上から陸戦部隊を支援するための艦船です。  
   船体は巡航艦がベースになってます。  
   揚陸艦と違って陸戦部隊の揚陸機能はありませんが、桟橋に接続しなくても軌道上から支援することができます。  
   また武装は搭載しないことが多く、あっても自衛用の小型砲くらいしか武装できません。  
-  
 
-* **<a id="aFieldEngineerShip">[SSFE：戦場工作艦　Field Engineer Ship](supportships/fieldengineership.md)</a>**  
+* **[SSFE：戦場工作艦　Field Engineer Ship](supportships/fieldengineership.md)**  
   戦場の工作や、機雷の敷設回収、艦船の補修などをおこなうための支援艦です。  
   船体は巡航艦がベースになってます。  
   ドックでなくても艦船の仮補修をおこなったり、戦場に機雷を敷設したり、戦術的な機能が充実しており、装甲や耐久性にも優れます。  
   ただし、戦闘力はほぼなく、機動性が低いです。  
   また武装は搭載しないことが多く、あっても自衛用の小型砲くらいしか武装できません。  
-  
 
-* **<a id="aStrategySupportShip">[SSSS：戦略支援艦　Strategy Support Ship](supportships/strategysupportship.md)</a>**  
+* **[SSSS：戦略支援艦　Strategy Support Ship](supportships/strategysupportship.md)**  
   建物を建築したり、戦略的な情報を収集するための支援艦です。  
   船体は戦艦や大型客船がベースになってます。  
   戦略的な機能が充実してます。  
   ただし、戦闘力はほぼなく、攻撃に弱いです。また武装はしてません。  
-  
 
-* **<a id="aSupportWizardShip">[SSWZ：魔導支援艦　Support Wizard Ship](supportships/supportwizardship.md)</a>**  
+* **[SSWZ：魔導支援艦　Support Wizard Ship](supportships/supportwizardship.md)**  
   魔導技術で作られた支援艦です。  
   魔導により戦闘支援、艦隊防御、工作がおこなえ、魔導装甲により艦体が守られてます。  
   エネルギーの無限生成と自我をもちます。コストが高いです。  
-  
 
 
-<h2 id="aMovableUnits">MU：機動兵器 / Movable Units</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+
+
+## MU：機動兵器 / Movable Units
+
+[目次へ戻る](#目次--table-of-contents) / [機動兵器](movableunits/readme.md)  
   
 
-* **<a id="aCarrierAircraft">[MUCB：空母航空機　Carrier Aircraft](planes/carrieraircraft.md)</a>**  
+* **[MUCB：空母航空機　Carrier Aircraft](planes/carrieraircraft.md)**  
   航空母艦専用で運用できる小型、中型の航空機です。エリアマップでしか運用できません。  
   航空戦と対艦攻撃が得意です。  
   対空武器、機動歩兵によわいです。  
   　　主な武器：機関砲、ミサイル、爆弾、対空機関砲  
-  
 
-* **<a id="aMultipurposeAircraft">[MUML：汎用航空機　Multipurpose Aircraft](planes/multipurposesircraft.md)</a>**  
+* **[MUML：汎用航空機　Multipurpose Aircraft](planes/multipurposesircraft.md)**  
   巡航艦や戦艦で運用する小型の航空機です。  
   広大な飛行甲板でなくても運用できるよう工夫されてます。  
   戦闘力は空母航空機より低く、搭載装備も少ないです。  
   対空武器、機動歩兵によわいです。  
   　　主な武器：機関砲、ミサイル、爆弾、対空機関砲  
-  
 
-* **<a id="aLargeAircraft">[MULG：大型航空機　Large Aircraft](planes/largeaircraft.md)</a>**  
+* **[MULG：大型航空機　Large Aircraft](planes/largeaircraft.md)**  
   大型の航空機です。ペイロードが大きく高性能の武器や機能を搭載します。  
   機体が巨大なため専用の母艦や超大型の空母でしか運用できません。  
   非常に強力な兵器ですが、機動性は空母航空機より下がります。  
   対空武器、機動歩兵によわいです。  
   　　主な武器：機関砲、対空機関砲  
-  
 
-* **<a id="aMovableInfantry">[MUMI：機動歩兵　Movable Infantry](infantrys/movableinfantry.md)</a>**  
+* **[MUMI：機動歩兵　Movable Infantry](infantrys/movableinfantry.md)**  
   人型のロボットです。航空戦以外の用途でも運用できます。  
   航空機につよいです。  
   　　主な武器：機関砲、手投げ弾、接近戦用武器、対空機関砲  
-  
 
-* **<a id="aVersatileInfantry">[MUVI：万能歩兵　Versatile Infantry](infantrys/versatileinfantry.md)</a>**  
+* **[MUVI：万能歩兵　Versatile Infantry](infantrys/versatileinfantry.md)**  
   最高性能の機動歩兵です。大気圏内でも活動できます。  
   陸戦兵器によわいです。  
   　　主な武器：機関砲、手投げ弾、接近戦用武器、対空機関砲  
-  
 
-* **<a id="aMountedBoat">[MUMB：装載艇　Mounted Boat](planes/mountedboat.md)</a>**  
+* **[MUMB：装載艇　Mounted Boat](planes/mountedboat.md)**  
   艦船に搭載できる小型の舟艇です。  
   艦載用の武器が搭載できるため攻撃力が非常に高いです。  
   航空機によわいです。  
   　　主な武器：小型主砲、機関砲、対空機関砲  
-  
 
 
-<h2 id="aLandUnits">LU：陸戦兵器 / Land Units</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+
+
+## LU：陸戦兵器 / Land Units
+
+[目次へ戻る](#目次--table-of-contents) / [陸戦兵器](landunits/readme.md)  
   
 
-* **<a id="aLandAirplane">[LULA：陸戦攻撃機　Land Airplane](planes/landairplane.md)</a>**  
+* **[LULA：陸戦攻撃機　Land Airplane](planes/landairplane.md)**  
   戦術マップや要塞など極局地でのみ運用できる飛行機です。  
   航空機、機動歩兵、陸戦歩兵、戦車につよいです。  
   対空武器によわいです。  
   　　主な武器：機関砲、ロケット、爆弾、対空機関砲  
-  
 
-* **<a id="aLandInfantry">[LULI：陸戦歩兵　Land Infantry](infantrys/landinfantry.md)</a>**  
+* **[LULI：陸戦歩兵　Land Infantry](infantrys/landinfantry.md)**  
   陸戦に特化した人型のロボットです。  
   泊地や要塞への揚陸や、陸戦移譲への護衛など、特殊な状況下でのみ運用できます。  
   機動歩兵、防衛兵器につよいです。  
   陸戦攻撃機、戦車によわいです。  
   　　主な武器：機関砲、手投げ弾、接近戦用武器、対空機関砲  
-  
 
-* **<a id="aMainTank">[LUMT：主力戦車　Main Tank](cars/maintank.md)</a>**  
+* **[LUMT：主力戦車　Main Tank](cars/maintank.md)**  
   地上や要塞など極局地でのみ運用できる戦闘車両です。  
   主に戦車、車両、歩兵を攻撃するのに向いてます。  
   耐久性も高く、防御力が高いです。  
   陸戦攻撃機によわいです。  
   　　主な武器：小型主砲（小型野戦砲）、機関砲  
-  
 
-* **<a id="aSupportTank">[LUST：支援戦車 / Support Tank](cars/supporttank.md)</a>**  
+* **[LUST：支援戦車 / Support Tank](cars/supporttank.md)**  
   主力戦車から歩兵を守ったり、攻撃の支援をする戦車です。  
   主に戦車、装甲車両、歩兵を攻撃するのに向いてます。  
   耐久性、防御力は主力戦車より低いですが、歩兵からの攻撃には耐えやすいです。  
   主力戦車、陸戦攻撃機によわいです。  
-  
 
-* **<a id="aSelfPropelledTank">[LUPT：自走戦車 / Self Propelled Tank](cars/selfpropelledtank.md)</a>**  
+* **[LUPT：自走戦車 / Self Propelled Tank](cars/selfpropelledtank.md)**  
   戦車の台座に様々な火砲を搭載する火力戦車です。  
   載せる砲台によって、対地、対空に分類が分かれます。  
   耐久性、防御力は低いですが、歩兵からの攻撃にはやや耐えやすいです。  
   攻撃にはよわいです。  
-  
 
-* **<a id="aArmoedVehicle">[LUAV：装甲車両 / Armoed Vehicle](cars/armoedvehicle.md)</a>**  
+* **[LUAV：装甲車両 / Armoed Vehicle](cars/armoedvehicle.md)**  
   装甲で強化した戦闘支援用の車両です。  
   主に、支援戦車、歩兵を攻撃するのに向いてます。  
   耐久性、防御力は支援戦車より高いすが。  
   支援戦車、陸戦攻撃機によわいです。  
-  
 
-* **<a id="aMobilityVehicle">[LUMV：機動車両 / Mobility Vehicle](cars/maintank.md)</a>**  
+* **[LUMV：機動車両 / Mobility Vehicle](cars/maintank.md)**  
   機動力が高い支援用の車両です。  
   ユニットを乗せ換えることで様々な支援機能に変えることができます。  
   陸戦指揮にかかわる車両もあります。  
   攻撃にはよわいです。  
   　　主な武器：機関砲  
-  
 
-* **<a id="aTrailer">[LUTR：牽引車両　Trailer](cars/trailer.md)</a>**  
+* **[LUTR：牽引車両　Trailer](cars/trailer.md)**  
   地上や要塞など極局地でのみ運用できるトレーラーです。  
   荷台に砲や荷物を載せて運用し、牽引車両で牽引します。  
   攻撃にはよわいです。  
-  
 
 
-<h2 id="aDefenseUnits">DU：防衛兵器 / Defense Units</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+
+
+## DU：防衛兵器 / Defense Units
+
+[目次へ戻る](#目次--table-of-contents) / [防衛兵器](defenseunits/readme.md)  
   
 
-* **<a id="aDefenseSystem">[DUSY：防衛システム　Defense System](defenseunits/defensesystem.md)</a>**  
+* **[DUSY：防衛システム　Defense System](defenseunits/defensesystem.md)**  
   拠点防衛のための超巨大システムです。  
   ローカルマップの奥に設置され、ゲームではボスキャラ扱いです。  
   陸戦兵器でしか攻撃できません。特に陸戦歩兵によわいです。  
-  
 
-* **<a id="aGiantWepon">[DUGW：巨人兵器　Giant Wepon](defenseunits/giantwepon.md)</a>**  
+* **[DUGW：巨人兵器　Giant Wepon](defenseunits/giantwepon.md)**  
   拠点攻撃、防衛のための超巨大兵器です。  
   １基で数個艦隊を凌駕する戦力を持ちます。ゲームではボスキャラ扱いです。  
   外から攻撃して破壊することは非常に難しく、内部に陸戦兵器を送り込むしかないです。  
   陸戦歩兵によわいです。  
-  
 
-* **<a id="aSpaceBattery">[DUST：宇宙砲台　Space Battery](defenseunits/spacebattery.md)</a>**  
+* **[DUST：宇宙砲台　Space Battery](defenseunits/spacebattery.md)**  
   拠点防衛のための武器を置く施設です。  
   航空機、歩兵によわいです。  
-  
 
-* **<a id="aLandBattery">[DULT：野戦砲台　Land Battery](defenseunits/landbattery.md)</a>**  
+* **[DULT：野戦砲台　Land Battery](defenseunits/landbattery.md)**  
   拠点防衛のための武器を置く施設です。  
   陸戦歩兵、陸戦攻撃機によわいです。  
-  
 
-* **<a id="aFloatingUnit">[DUFU：浮遊兵器　Floating Unit](defenseunits/floatingunit.md)</a>**  
+* **[DUFU：浮遊兵器　Floating Unit](defenseunits/floatingunit.md)**  
   敷設艦で簡易的に設置できる兵器や陣地です。  
   宇宙空間でしか使えません。  
   攻撃に対しては脆弱です。  
-  
 
-* **<a id="aInstalledUnit">[DUIU：設置兵器　Installed Unit](defenseunits/installedunit.md)</a>**  
+* **[DUIU：設置兵器　Installed Unit](defenseunits/installedunit.md)**  
   陸地に簡易的に設置できる兵器や陣地です。  
   陸戦兵器の侵攻を妨害します。  
   工兵で設置できます。  
-  
 
-* **<a id="aSpaceBase">[DUBS：宇宙基地　Space Base](defenseunits/spacebase.md)</a>**  
+* **[DUBS：宇宙基地　Space Base](defenseunits/spacebase.md)**  
   エリアマップに設置できる軍事施設です。  
   建設には時間がかかります。  
-  
 
-* **<a id="aLandBase">[DULB：地上基地　Land Base](defenseunits/landbase.md)</a>**  
+* **[DULB：地上基地　Land Base](defenseunits/landbase.md)**  
   ローカルマップに設置できる軍事施設です。  
   ローカルマップにおいては拠点となります。  
   建設には時間がかかります。  
-  
 
 
-<h2 id="aWizardInfantrys">WI：魔導兵器 / Wizard Infantrys</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+
+
+## WI：魔導兵器 / Wizard Infantrys
+
+[目次へ戻る](#目次--table-of-contents) / [魔導兵器](wizardinfantrys/readme.md)  
   
 
-* **<a id="aSorcery">[WISO：魔導士　Sorcery](wizardinfantrys/sorcery.md)</a>**  
+* **[WISO：魔導士　Sorcery](wizardinfantrys/sorcery.md)**  
   攻撃、妨害、召喚の法術に優れた魔導兵器です。  
   中距離、長距離の法撃攻撃力に優れます。  
   装甲が薄く、耐久性が低いです。  
-  
 
 * **WIMO：修道士　Monk**  
   防御、回復、支援系の法術に優れた魔導兵器です。  
   術法の防御、味方の支援能力に優れ、近接戦闘も少し得意です。  
-  
 
 * **WIEM：使役士　Employer**  
   遠隔操作や召喚など、小型兵器を操ることに優れた魔導兵器です。  
   術法の防御、味方の支援能力、敵の妨害に優れ、近接戦闘も少し得意です。  
-  
 
 * **WIWA：戦士　Warrior**  
   攻防のバランスのいい戦闘力を備えた魔導兵器です。  
   近接戦用の大型装備が搭載でき、接近戦闘に特化し、前線で戦うのに向いてます。  
   装甲が若干薄いです。  
-  
 
 * **WIHU：狩人　Hunter**  
   主に攻撃に重きを与えた魔導兵器です。  
   遠距離戦用の大型装備が搭載でき、中距離～遠距離の戦闘に特化しています。  
   装甲が若干薄いです。  
-  
 
 * **WIKN：騎士　Knight**  
   重武装で特に防御力が高い魔導兵器です。  
   近接戦用の大型装備が搭載でき、接近戦闘に特化し、「騎馬」により戦場を高速で移動できます。  
   攻防に非常に優れますが、国家から許可がないとスキルが得られません。  
-  
 
 * **WIEG：技師　Engineer**  
   技術系のスキルを搭載した魔導兵器です。  
   戦術マップでの作業に向いてます。  
   戦闘には向いてません。  
-  
 
 * **WIST：一般職　Staff**  
   一般系、生活系のスキルを搭載した魔導兵器です。  
   戦闘は苦手です。  
-  
 
 * **WILH：英雄　Legend of Hero**  
   魔導の技術を結集し、カスタマイズを重ね仕上げる高性能な魔導兵器です。  
   製造手順が特殊なため数が少なく、性能がピーキーです。  
-  
 
 * **WIWH：魔導馬　Wizard Horse**  
   魔導兵器が搭乗できる馬です。  
   高速で移動したり、魔導兵器の戦闘支援、装備品の補充などが行えます。  
-  
 
 
-<h2 id="aCivilShips">CS：民間船 / Civil Ships</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+
+
+## CS：民間船 / Civil Ships
+
+[目次へ戻る](#目次--table-of-contents) / [民間装備](civilunits/readme.md)  
   
 
-* **<a id="aPassengerShip">[CSPA：旅客船　Passenger Ship](civilunits/civilship.md)</a>**  
+* **[CSPA：旅客船　Passenger Ship](civilunits/civilship.md)**  
   民間が運用する人員輸送、旅客が目的の艦船です。  
   旅客船、連絡船、自家用船、個別営業船が該当します。  
   主に人員の惑星間移動、旅行、定期船として利用されます。  
-  
 
-* **<a id="aCorporateShip">[CSCO：企業船　Corporate Ship](civilunits/civilship.md)</a>**  
+* **[CSCO：企業船　Corporate Ship](civilunits/civilship.md)**  
   民間企業が運用する艦船です。  
   連絡船、輸送船、探査船、採掘船が該当します。  
   主に人員、資源の惑星間移動、惑星開拓や調査として利用されます。  
-  
 
-* **<a id="aGovernmentShip">[CSGV：公用船　Government Ship](civilunits/civilship.md)</a>**  
+* **[CSGV：公用船　Government Ship](civilunits/civilship.md)**  
   政府機関、官公庁、戦闘監視委員会が運用する艦船です。  
   連絡船、輸送船、調査船、監視船が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
-  
 
-* **<a id="aGuardShip">[CSGU：警備船　Guard Ship](civilunits/civilship.md)</a>**  
+* **[CSGU：警備船　Guard Ship](civilunits/civilship.md)**  
   星系警察、医療機関、消防、災害対応関係の機関会が運用する艦船です。  
   警備船、救急船、消防船、巡視船が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
-  
 
 
-<h2 id="aCivilUnits">CU：民間機 / Civil Units</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+
+
+## CU：民間機 / Civil Units
+
+[目次へ戻る](#目次--table-of-contents) / [民間装備](civilunits/readme.md)  
   
 
-* **<a id="aCivilPlane">[CUCP：民間機　Civil Plane](civilunits/civilplane.md)</a>**  
+* **[CUCP：民間機　Civil Plane](civilunits/civilplane.md)**  
   民間が運用する非武装の航空機です。  
   旅客機、自家用機、探査機、輸送機が該当します。  
-  
 
-* **<a id="aGovernmentPlane">[CUGP：公用機　Government Plane](civilunits/civilplane.md)</a>**  
+* **[CUGP：公用機　Government Plane](civilunits/civilplane.md)**  
   政府、官公庁、戦時監視委員会が運用する非武装の航空機です。  
   連絡機、輸送機、探査機、監視機が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
-  
 
-* **<a id="aCivilRobot">[CUCR：民間ロボット　Civil Robot](civilunits/civilrobot.md)</a>**  
+* **[CUCR：民間ロボット　Civil Robot](civilunits/civilrobot.md)**  
   民間が運用する非武装の人型ロボットです。  
   作業ロボット、自家用ロボット、探査ロボット、警備ロボットが該当します。  
-  
 
-* **<a id="aGovernmentRobot">[CUGR：公用ロボット　Government Robot](civilunits/civilrobot.md)</a>**  
+* **[CUGR：公用ロボット　Government Robot](civilunits/civilrobot.md)**  
   政府、官公庁、戦時監視委員会が運用する非武装の人型ロボットです。  
   作業ロボット、探査ロボット、要人用ロボット、戦時監視ロボットが該当します。  
   この付近での戦闘は厳重に禁止されてます。  
-  
 
-* **<a id="aCivilBoat">[CUCB：民間舟艇　Civil Boat](civilunits/civilboat.md)</a>**  
+* **[CUCB：民間舟艇　Civil Boat](civilunits/civilboat.md)**  
   民間が運用する非武装の舟艇 です。  
   連絡艇、自家用舟艇、探査艇、輸送艇が該当します。  
-  
 
-* **<a id="aGovernmentBoat">[CUGB：公用舟艇 　Government Boat](civilunits/civilboat.md)</a>**  
+* **[CUGB：公用舟艇 　Government Boat](civilunits/civilboat.md)**  
   政府、官公庁、戦時監視委員会が運用する非武装の舟艇 です。  
   連絡艇、輸送艇、探査艇、監視艇が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
-  
 
-* **<a id="aCivilCar">[CUCC：民間車両　Civil Car](civilunits/civilcar.md)</a>**  
+* **[CUCC：民間車両　Civil Car](civilunits/civilcar.md)**  
   民間が運用する非武装の車両です。  
   作業車、自家用車、探査車、輸送車が該当します。  
-  
 
-* **<a id="aGovernmentCar">[CUGC：公用車両 　Government Car](civilunits/civilcar.md)</a>**  
+* **[CUGC：公用車両 　Government Car](civilunits/civilcar.md)**  
   政府、官公庁、戦時監視委員会が運用する非武装の車両です。  
   連絡車、輸送車、探査車、監視車が該当します。  
   この付近での戦闘は厳重に禁止されてます。  
-  
 
-* **<a id="aCivilSatellite">[CUCS：民間衛星　Civil Satellite](civilunits/civilsatellite.md)</a>**  
+* **[CUCS：民間衛星　Civil Satellite](civilunits/civilsatellite.md)**  
   民間が運用する人工衛星です。  
   通信衛星、自家用衛星、探査衛星、警備衛星が該当します。  
-  
 
-* **<a id="aGovernmentSatellite">[CUGS：公用衛星 　Government Satellite](civilunits/civilsatellite.md)</a>**  
+* **[CUGS：公用衛星 　Government Satellite](civilunits/civilsatellite.md)**  
   政府、官公庁、戦時監視委員会が運用する人工衛星です。  
   通信衛星、探査衛星、中継衛星、監視衛星が該当します。  
-  
 
 
-<h2 id="aCivilFacilities">CB：民間施設 / Civil Facilities</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+
+
+## CB：民間施設 / Civil Facilities
+
+[目次へ戻る](#目次--table-of-contents) / [民間装備](civilunits/readme.md)  
   
 
-* **<a id="aSpaceFacility">[CBSP：宇宙施設　Space Facility](civilunits/civulfacility.md)</a>**  
+* **[CBSP：宇宙施設　Space Facility](civilunits/civulfacility.md)**  
   エリアマップ（宇宙）にある民間施設です。  
-  
 
-* **<a id="aLandFacility">[CBLD：宇宙施設　Land Facility](civilunits/civulfacility.md)</a>**  
+* **[CBLD：宇宙施設　Land Facility](civilunits/civulfacility.md)**  
   ローカルマップ（地上）にある民間施設です。  
+
+
+
+
+
+## 兵器形式 / Unit Type
+
+[目次へ戻る](#目次--table-of-contents)
   
-
-
-
-
-
-<h1 id="aUnitType">兵器形式 / Unit Type</h1>  
 各兵器種類は、さらに兵器分類に分類分けされます。  
 
-<h2>BSDS：駆逐艦 / Destroyer</h2>  
-  
-[目次へ戻る](#aMokuji)  
-  
+
+### BSDS：駆逐艦 / Destroyer
 
 * **BSDS-STD：駆逐艦**  
 
@@ -612,10 +571,10 @@
 * **BSDS-AST：突撃艦**  
 
 * **BSDS-SMK：駆潜艦**  
-  
 
 
-<h2>BSCR：巡航艦 / Cruiser</h2>  
+
+### BSCR：巡航艦 / Cruiser
 
 * **BSCR-STD：巡航艦**  
 
@@ -634,7 +593,7 @@
 * **BSCR-FLD：嚮導艦**  
 
 
-<h2>BSBB：戦艦 / Battle Ship</h2>  
+### BSBB：戦艦 / Battle Ship
 
 * **BSBB-STD：戦艦**  
 
@@ -653,7 +612,7 @@
 * **BSBB-SGN：狙撃戦艦**  
 
 
-<h2>BSAC：航空母艦 / Aircraft Carrier</h2>  
+### BSAC：航空母艦 / Aircraft Carrier
 
 * **BSAC-STD：航空母艦**  
 
@@ -672,7 +631,7 @@
 * **BSAC-SCT：制宙艦**  
 
 
-<h2>BSMC：改造空母 / Modified Aircraft Carrier</h2>  
+### BSMC：改造空母 / Modified Aircraft Carrier
 
 * **BSMC-STD：改造空母**  
 
@@ -691,7 +650,7 @@
 * **BSMC-GIT：超大型空母**  
 
 
-<h2>BSMS：汎用母艦 / General Purpose Mother Ship</h2>  
+### BSMS：汎用母艦 / General Purpose Mother Ship
 
 * **BSMS-STD：汎用機母艦**  
 
@@ -710,7 +669,7 @@
 * **BSMS-BLM：戦闘母艦**  
 
 
-<h2>BSLC：揚陸艦 / Land Carrier</h2>  
+### BSLC：揚陸艦 / Land Carrier
 
 * **BSLC-STD：揚陸艦**  
 
@@ -729,7 +688,7 @@
 * **BSLC-BLD：戦闘揚陸艦**  
 
 
-<h2>BSSB：潜航艦 / Submarine</h2>  
+### BSSB：潜航艦 / Submarine
 
 * **BSSB-STD：潜航艦**  
 
@@ -748,7 +707,7 @@
 } **BSSB-RAD：遊撃艦**  
 
 
-<h2>BSWZ：魔導戦艦 / Battle Wizard Ship</h2>  
+### BSWZ：魔導戦艦 / Battle Wizard Ship
 
 * **BSWZ-STD：魔導戦艦**  
 
@@ -759,9 +718,10 @@
 * **BSWZ-MOS：魔導母艦**  
 
 
-<h2>ESFG：護衛艦 / Frigate</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+### ESFG：護衛艦 / Frigate
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **ESFG-STD：護衛艦**  
@@ -775,7 +735,7 @@
 * **ESCV-SRG：格闘戦艦**  
 
 
-<h2>ESCV：防護艦 / Corvet</h2>  
+### ESCV：防護艦 / Corvet
 
 * **ESCV-STD：防護艦**  
 
@@ -788,7 +748,7 @@
 * **ESCV-DSP：通報艦**  
 
 
-<h2>ESMS：護衛母艦 / Escort Mother Ship</h2>  
+### ESMS：護衛母艦 / Escort Mother Ship
 
 * **ESMS-STD：護衛母艦**  
 
@@ -801,16 +761,17 @@
 * **ESMS-CAG：輸送護衛艦**  
 
 
-<h2>ESWZ：魔導護衛艦 / Escort Wizard Ship</h2>  
+### ESWZ：魔導護衛艦 / Escort Wizard Ship
 
 * **ESWZ-STD：魔導護衛艦**  
 
 * **ESWZ-COV：魔導防護艦**  
 
 
-<h2>SSRE：偵察艦 / Recommend Ship</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+### SSRE：偵察艦 / Recommend Ship
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **SSRE-STD：偵察艦**  
@@ -822,7 +783,7 @@
 * **SSRE-RBS：偵察戦艦**  
 
 
-<h2>SSEL：電子支援艦 / Electronic Support Ship</h2>  
+### SSEL：電子支援艦 / Electronic Support Ship
 
 * **SSEL-STD：電子支援艦**  
 
@@ -833,7 +794,7 @@
 * **SSEL-EBS：支援戦艦**  
 
 
-<h2>SSSC：補給輸送艦 / Suppry Cargo Ship</h2>  
+### SSSC：補給輸送艦 / Suppry Cargo Ship
 
 * **SSSC-STD：補給輸送艦**  
 
@@ -844,7 +805,7 @@
 * **SSSC-UCG：兵器輸送艦**  
 
 
-<h2>SSCM：指揮支援艦 / Command Support Ship</h2>  
+### SSCM：指揮支援艦 / Command Support Ship
 
 * **SSCM-STD：戦術指揮艦**  
 
@@ -855,7 +816,7 @@
 * **SSCM-CBS：指揮戦艦**  
 
 
-<h2>SSKS：打撃支援艦 / Strike Support Ship</h2>  
+### SSKS：打撃支援艦 / Strike Support Ship
 
 * **SSKS-STD：打撃支援艦**  
 
@@ -866,7 +827,7 @@
 * **SSKS-TRW：転送艦**  
 
 
-<h2>SSLS：陸戦支援艦 / Land War Support Ship</h2>  
+### SSLS：陸戦支援艦 / Land War Support Ship
 
 * **SSLS-STD：陸戦支援艦**  
 
@@ -877,7 +838,7 @@
 * **SSLS-TKR：戦車回収艦**  
 
 
-<h2>SSFE：戦場工作艦 / Field Engineer Ship</h2>  
+### SSFE：戦場工作艦 / Field Engineer Ship
 
 * **SSFE-STD：戦場工作艦**  
 
@@ -888,7 +849,7 @@
 * **SSFE-EBS：工作戦艦**  
 
 
-<h2>SSSS：戦略支援艦 / Strategy Support Ship</h2>  
+### SSSS：戦略支援艦 / Strategy Support Ship
 
 * **SSSS-STD：戦略支援艦**  
 
@@ -911,7 +872,7 @@
 * **SSSS-TRG：転送ゲート艦**  
 
 
-<h2>SSWZ：魔導支援艦 / Support Wizard Ship</h2>  
+### SSWZ：魔導支援艦 / Support Wizard Ship
 
 * **SSWZ-STD：魔導支援艦**  
 
@@ -922,9 +883,10 @@
 * **SSWZ-CAG：魔導輸送艦**  
 
 
-<h2>MUCB：空母航空機 / Carrier Aircraft</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+### MUCB：空母航空機 / Carrier Aircraft
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **MUCB-FIG：戦闘機**  
@@ -956,7 +918,7 @@
 * **MUCB-CAG：補給輸送機**  
 
 
-<h2>MUML：汎用航空機 / Multipurpose Aircraft</h2>  
+### MUML：汎用航空機 / Multipurpose Aircraft
 
 * **MUML-FIG：汎用戦闘機**  
 
@@ -979,7 +941,7 @@
 * **MUML-CAG：汎用輸送機**  
 
 
-<h2>MULG：大型航空機 / Large Aircraft</h2>  
+### MULG：大型航空機 / Large Aircraft
 
 * **MULG-HFI：重戦闘機**  
 
@@ -1010,7 +972,7 @@
 * **MULG-CAG：大型輸送機**  
 
 
-<h2>MUMI：機動歩兵 / Movable Infantry</h2>  
+### MUMI：機動歩兵 / Movable Infantry
 
 * **MUMI-STD：汎用型**  
 
@@ -1033,7 +995,7 @@
 * **MUMI-ENG：宙域工作型**  
 
 
-<h2>MUVI：万能歩兵 / Versatile Infantry</h2>  
+### MUVI：万能歩兵 / Versatile Infantry
 
 * **MUVI-STD：万能型**  
 
@@ -1044,7 +1006,7 @@
 * **MUVI-REP：換装型**  
 
 
-<h2>MUMB：装載艇 / Mounted Boats</h2>  
+### MUMB：装載艇 / Mounted Boats
 
 * **MUMB-STD：装載艇**  
 
@@ -1087,9 +1049,10 @@
 * **MUMB-SPA：特殊攻撃艇**  
 
 
-<h2>LULA：陸戦攻撃機 / Land Airplane</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+### LULA：陸戦攻撃機 / Land Airplane
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **LULA-ATK：陸戦攻撃機**  
@@ -1109,7 +1072,7 @@
 * **LULA-OBT：軌道要撃機**  
 
 
-<h2>LULI：陸戦歩兵 / Land Infantry</h2>  
+### LULI：陸戦歩兵 / Land Infantry
 
 * **LULI-STD：陸戦型**  
 
@@ -1128,7 +1091,7 @@
 * **LULI-SPL：特戦型**  
 
 
-<h2>LUMT：主力戦車 / Main Tank</h2>  
+### LUMT：主力戦車 / Main Tank
 
 * **LUMT-STD：主力戦車**  
 
@@ -1143,7 +1106,7 @@
 * **LUMT-VER：万能戦車**  
 
 
-<h2>LUST：支援戦車 / Support Tank</h2>  
+### LUST：支援戦車 / Support Tank
 
 * **LUST-STD：支援戦車**  
 
@@ -1158,7 +1121,7 @@
 * **LUST-ENG：工作戦車**  
 
 
-<h2>LUPT：自走戦車 / Self Propelled Tank</h2>  
+### LUPT：自走戦車 / Self Propelled Tank
 
 * **LUPT-STD：自走野戦砲**  
 
@@ -1173,7 +1136,7 @@
 * **LUPT-MOV：浮遊機動砲**  
 
 
-<h2>LUAV：装甲車両 / Armoed Vehicle</h2>  
+### LUAV：装甲車両 / Armoed Vehicle
 
 * **LUAV-STD：装甲輸送車**  
 
@@ -1188,7 +1151,7 @@
 * **LUAV-ENG：戦場工作車**  
 
 
-<h2>LUMV：機動車両 / Mobility Vehicle</h2>  
+### LUMV：機動車両 / Mobility Vehicle
 
 * **LUMV-STD：機動車両**  
 
@@ -1203,7 +1166,7 @@
 * **LUMV-MTP：多目的車両**  
 
 
-<h2>LUTR：被牽引車 / Trailer</h2>  
+### LUTR：被牽引車 / Trailer
 
 * **LUTR-TOW：牽引車**  
 
@@ -1230,9 +1193,10 @@
 * **LUTR-BAS：移動基地車両**  
 
 
-<h2>DUSY：防衛システム / Defense System</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+### DUSY：防衛システム / Defense System
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **DUSY-CCC：システムコア**  
@@ -1256,7 +1220,7 @@
 * **DUSY-ELW：電戦システム**  
 
 
-<h2>DUGW：巨人兵器 / Giant Wepon</h2>  
+### DUGW：巨人兵器 / Giant Wepon
 
 * **DUGW-BAT：超巨大戦艦**  
 
@@ -1279,7 +1243,7 @@
 * **DUGW-WIZ：魔導要塞**  
 
 
-<h2>DUST：宇宙砲台 / Space Battery</h2>  
+### DUST：宇宙砲台 / Space Battery
 
 * **DUST-STD：対艦砲台**  
 
@@ -1294,7 +1258,7 @@
 * **DUST-ELW：監視台**  
 
 
-<h2>DULT：野戦砲台 / Land Battery</h2>  
+### DULT：野戦砲台 / Land Battery
 
 * **DULT-STD：野戦砲台**  
 
@@ -1309,7 +1273,7 @@
 * **DULT-ELW：監視台**  
 
 
-<h2>DUFU：浮遊兵器 / Floating Unit</h2>  
+### DUFU：浮遊兵器 / Floating Unit
 
 * **DUFU-STD：浮遊砲台**  
 
@@ -1320,7 +1284,7 @@
 * **DUFU-SAT：衛星**  
 
 
-<h2>DUIU：設置兵器 / Installed Unit</h2>  
+### DUIU：設置兵器 / Installed Unit
 
 * **DUIU-STD：設置砲台**  
 
@@ -1331,7 +1295,7 @@
 * **DUIU-ENG：工作設備**  
 
 
-<h2>DUSB：宇宙基地 / Space Base</h2>  
+### DUSB：宇宙基地 / Space Base
 
 * **DUSB-CCC：防衛基地**  
 
@@ -1354,7 +1318,7 @@
 * **DUSB-REC：偵察基地**  
 
 
-<h2>DULB：地上基地 / Land Base</h2>  
+### DULB：地上基地 / Land Base
 
 * **DULB-CCC：防衛基地**  
 
@@ -1378,9 +1342,10 @@
   
 
 
-<h2>WISO：魔導士 / Sorcery</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+### WISO：魔導士 / Sorcery
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **WISO-STD：魔導士**  
@@ -1400,7 +1365,7 @@
 * **WISO-SAG：賢者**  
 
 
-<h2>WIMO：修道士 / Monk</h2>  
+### WIMO：修道士 / Monk
 
 * **WIMO-STD：修道士**  
 
@@ -1419,7 +1384,7 @@
 * **WIMO-APO：使徒**  
 
 
-<h2>WIEM：使役士 / Employer</h2>  
+### WIEM：使役士 / Employer
 
 * **WIEM-STD：使役士**  
 
@@ -1438,7 +1403,7 @@
 * **WIEM-SUM：召喚者**  
 
 
-<h2>WIWA：戦士 / Warrior</h2>  
+### WIWA：戦士 / Warrior
 
 * **WIWA-STD：戦士**  
 
@@ -1457,7 +1422,7 @@
 * **WIWA-ARM：魔剣戦士**  
 
 
-<h2>WIHU：狩人 / Hunter</h2>  
+### WIHU：狩人 / Hunter
 
 * **WIHU-STD：狩人**  
 
@@ -1476,7 +1441,7 @@
 * **WIHU-COM：特殊隊員**  
 
 
-<h2>WIKN：騎士 / Knight</h2>  
+### WIKN：騎士 / Knight
 
 * **WIKN-SQU：騎士見習い**  
 
@@ -1495,7 +1460,7 @@
 * **WIKN-MAG：魔導騎士**  
 
 
-<h2>WIEG：技師 / Engineer</h2>  
+### WIEG：技師 / Engineer
 
 * **WIEG-ENG：機械技師**  
 
@@ -1512,7 +1477,7 @@
 * **WIEG-ADM：管理者**  
 
 
-<h2>WIST：一般職 / Staff</h2>  
+### WIST：一般職 / Staff
 
 * **WIST-GAM：遊び人**  
 
@@ -1529,7 +1494,7 @@
 * **WIST-EXE：経営者**  
 
 
-<h2>WILH：英雄 / Legend of Hero</h2>  
+### WILH：英雄 / Legend of Hero
 
 * **WILH-LOA：王者**  
 
@@ -1540,7 +1505,7 @@
 * **WILH-DEM：魔王**  
 
 
-<h2>WIWH：魔導馬 / Wizard Horse</h2>  
+### WIWH：魔導馬 / Wizard Horse
 
 * **WIWH-STD：魔導馬**  
 
@@ -1557,9 +1522,10 @@
 * **WIWH-HEL：英雄馬**  
 
 
-<h2>CSPA：旅客船 / Passenger Ship</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+### CSPA：旅客船 / Passenger Ship
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **CSPA-PSG：旅客船**  
@@ -1571,7 +1537,7 @@
 * **CSPA-TAX：個別営業船**  
 
 
-<h2>CSCO：企業船 / Corporate Ship</h2>  
+### CSCO：企業船 / Corporate Ship
 
 * **CSCO-FER：企業連絡船**  
 
@@ -1582,7 +1548,7 @@
 * **CSCO-MIN：企業採掘船**  
 
 
-<h2>CSGV：公用船 / Government Ship</h2>  
+### CSGV：公用船 / Government Ship
 
 * **CSGV-FER：公用連絡船**  
 
@@ -1593,7 +1559,7 @@
 * **CSGV-COC：戦時監視船**  
 
 
-<h2>CSGU：警備船 / Guard Ship</h2>  
+### CSGU：警備船 / Guard Ship
 
 * **CSGU-GUD：警備船**  
 
@@ -1605,9 +1571,9 @@
 
 
 
-<h2>CUCP：民間機 / Civil Plane</h2>  
-  
-[目次へ戻る](#aMokuji)  
+### CUCP：民間機 / Civil Plane
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **CUCP-PSG：旅客機**  
@@ -1619,7 +1585,7 @@
 * **CUCP-CAG：民間輸送機**  
 
 
-<h2>CUGP：公用機 / Government Plane</h2>  
+### CUGP：公用機 / Government Plane
 
 * **CUGP-FER：公用連絡機**  
 
@@ -1630,9 +1596,10 @@
 * **CUGP-COC：戦時監視機**  
 
 
-<h2>CUCR：民間ロボット / Civil Robot</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+### CUCR：民間ロボット / Civil Robot
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **CUCR-ENG：民間作業ロボット**  
@@ -1644,7 +1611,7 @@
 * **CUCR-GUD：警備ロボット**  
 
 
-<h2>CUGR：公用ロボット / Government Robot</h2>  
+### CUGR：公用ロボット / Government Robot
 
 * **CUGR-ENG：公用作業ロボット**  
 
@@ -1656,9 +1623,9 @@
 
 
 
-<h2>CUCB：民間舟艇  / Civil Boat</h2>  
-  
-[目次へ戻る](#aMokuji)  
+### CUCB：民間舟艇  / Civil Boat
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **CUCB-FER：民間連絡艇**  
@@ -1670,7 +1637,7 @@
 * **CUCB-CAG：民間輸送艇**  
 
 
-<h2>CUGB：公用舟艇  / Government Boat</h2>  
+### CUGB：公用舟艇  / Government Boat
 
 * **CUGB-FER：公用連絡艇**  
 
@@ -1682,9 +1649,9 @@
 
 
 
-<h2>CUCC：民間車両  / Civil Car</h2>  
-  
-[目次へ戻る](#aMokuji)  
+### CUCC：民間車両  / Civil Car
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **CUCC-ENG：民間作業車**  
@@ -1696,7 +1663,7 @@
 * **CUCC-CAG：民間輸送車**  
 
 
-<h2>CUGC：公用車両  / Government Car</h2>  
+### CUGC：公用車両  / Government Car
 
 * **CUGC-FER：公用連絡車**  
 
@@ -1708,9 +1675,9 @@
 
 
 
-<h2>CUCS：民間衛星  / Civil Satellite</h2>  
-  
-[目次へ戻る](#aMokuji)  
+### CUCS：民間衛星  / Civil Satellite
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **CUCS-CMN：民間通信衛星**  
@@ -1722,7 +1689,7 @@
 * **CUCS-GUD：警備衛星**  
 
 
-<h2>CUGS：公用衛星  / Government Satellite</h2>  
+### CUGS：公用衛星  / Government Satellite
 
 * **CUGS-CMN：公用通信衛星**  
 
@@ -1733,9 +1700,10 @@
 * **CUGS-COC：戦時監視衛星**  
 
 
-<h2>CBSP：宇宙施設  / Space Facility</h2>  
-  
-[目次へ戻る](#aMokuji)  
+
+### CBSP：宇宙施設  / Space Facility
+
+[目次へ戻る](#目次--table-of-contents)
   
 
 * **CBSP-CCC：中枢施設**  
@@ -1753,7 +1721,7 @@
 * **CBSP-CNT：通信施設**  
 
 
-<h2>CBLD：地上施設  / Land Facility</h2>  
+### CBLD：地上施設  / Land Facility
 
 * **CBLD-CCC：中枢施設**  
 
@@ -1768,7 +1736,6 @@
 * **CBLD-MIN：採掘施設**  
 
 * **CBLD-CNT：通信施設**  
-  
 
 
 

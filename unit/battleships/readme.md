@@ -1,42 +1,50 @@
-# Galaxy Fleet ～兵器仕様：戦列艦～
-  
-<h1>～兵器仕様：戦列艦～</h1>  
-<h2>～Weapon Specifications：Battle Ships～</h2>  
-  
+# Galaxy Fleet：兵器仕様：戦列艦
+
+## Galaxy Fleet：Weapon Specifications：Battle Ships
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、戦列艦の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器種類：戦列艦](/unit/readme.md#aBattleShips)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/unit/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器種類：戦列艦](/unit/readme.md#bs戦列艦--battle-ships)
 
 * 兵器一覧
-  * [BSDS：駆逐艦](#aDestroyer)
-  
+  * [BSDS：駆逐艦](#bsds駆逐艦--destroyer)
+  * [BSCR：巡航艦](#bscr巡航艦--cruiser)
+  * [BSBB：戦艦](#bsbb戦艦--battle-ship)
+  * [BSAC：航空母艦](#bsac航空母艦--aircraft-carrier)
+  * [BSMC：改造空母](#bsmc改造空母--modified-aircraft-carrier)
+  * [BSMS：汎用母艦](#bsms汎用母艦--general-purpose-mother-ship)
+  * [BSLC：揚陸艦](#bslc揚陸艦--land-carrier)
+  * [BSSB：潜航艦](#bssb潜航艦--submarine)
+  * [BSWZ：魔導戦艦](#bswz魔導戦艦--battle-wizard-ship)
 
 
 
 
 
-<h1 id="aDestroyer">BSDS：駆逐艦 / Destroyer</h1>  
-  
-[目次へ戻る](#aMokuji) / [駆逐艦](destroyer.md)  
+
+
+
+## BSDS：駆逐艦 / Destroyer
+
+[目次へ戻る](#目次--table-of-contents) / [駆逐艦](destroyer.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -49,15 +57,14 @@
 |BSDS-TPD  |重雷装艦        |Torpedo Destroyer        |  |
 |BSDS-AST  |突撃艦          |Assault Destroyer        |  |
 |BSDS-SMK  |駆潜艦          |Submarine Killer         |  |
-  
 
 
 
 
 
-<h1 id="aCruiser">BSCR：巡航艦 / Cruiser</h1>  
-  
-[目次へ戻る](#aMokuji) / [巡航艦](cruiser.md)  
+## BSCR：巡航艦 / Cruiser
+
+[目次へ戻る](#目次--table-of-contents) / [巡航艦](cruiser.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -70,15 +77,14 @@
 |BSCR-AVI  |航空巡航艦      |Aviation Cruiser       |  |
 |BSCR-STM  |強襲巡航艦      |Storm Cruiser          |  |
 |BSCR-FLD  |嚮導艦          |Flotilla Leader Ship   |  |
-  
 
 
 
 
 
-<h1 id="aBattleShip">BSBB：戦艦 / Battle Ship</h1>  
-  
-[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+## BSBB：戦艦 / Battle Ship
+
+[目次へ戻る](#目次--table-of-contents) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -91,15 +97,14 @@
 |BSBB-SRK  |戦略打撃艦  |Strike Battle Ship    |  |
 |BSBB-HGN  |重砲撃艦    |Heavy Gun Ship        |  |
 |BSBB-SGN  |狙撃戦艦    |Sniper Gun Ship       |  |
-  
 
 
 
 
 
-<h1 id="aAircraftCarrier">BSAC：航空母艦 / Aircraft Carrier</h1>  
-  
-[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+## BSAC：航空母艦 / Aircraft Carrier
+
+[目次へ戻る](#目次--table-of-contents) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -112,15 +117,14 @@
 |BSAC-ICP  |要撃空母    |Intercept Aircraft Carrier    |  |
 |BSAC-SRK  |戦略空母    |Strike Aircraft Carrier       |  |
 |BSAC-SCT  |制宙艦      |Space Control Ship            |  |
-  
 
 
 
 
 
-<h1 id="aModifiedAircraftCarrier">BSMC：改造空母 / Modified Aircraft Carrier</h1>  
-  
-[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+## BSMC：改造空母 / Modified Aircraft Carrier
+
+[目次へ戻る](#目次--table-of-contents) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -133,15 +137,14 @@
 |BSMC-SMK  |対潜空母      |  |  |
 |BSMC-CNT  |コンテナ空母  |  |  |
 |BSMC-GIT  |超大型空母    |  |  |
-  
 
 
 
 
 
-<h1 id="aGeneralPurposeMotherShip">BSMS：汎用母艦 / General Purpose Mother Ship</h1>  
-  
-[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+## BSMS：汎用母艦 / General Purpose Mother Ship
+
+[目次へ戻る](#目次--table-of-contents) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -154,15 +157,14 @@
 |BSMS-LAM  |陸攻母艦      |  |  |
 |BSMS-DEF  |防衛兵器母艦  |  |  |
 |BSMS-BLM  |戦闘母艦      |  |  |
-  
 
 
 
 
 
-<h1 id="aLandCarrier">BSLC：揚陸艦 / Land Carrier</h1>  
-  
-[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+## BSLC：揚陸艦 / Land Carrier
+
+[目次へ戻る](#目次--table-of-contents) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -175,15 +177,14 @@
 |BSLC-STM  |強襲揚陸艦  |  |  |
 |BSLC-MOT  |揚陸母艦    |  |  |
 |BSLC-BLD  |戦闘揚陸艦  |  |  |
-  
 
 
 
 
 
-<h1 id="aSubmarine">BSSB：潜航艦 / Submarine</h1>  
-  
-[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+## BSSB：潜航艦 / Submarine
+
+[目次へ戻る](#目次--table-of-contents) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -196,15 +197,14 @@
 |BSSB-STM  |強襲潜航艦      |  |  |
 |BSSB-SRK  |戦略潜航艦      |  |  |
 |BSSB-RAD  |遊撃艦          |  |  |
-  
 
 
 
 
 
-<h1 id="aBattleWizardShip">BSWZ：魔導戦艦 / Battle Wizard Ship</h1>  
-  
-[目次へ戻る](#aMokuji) / [戦艦](battleship.md)  
+## BSWZ：魔導戦艦 / Battle Wizard Ship
+
+[目次へ戻る](#目次--table-of-contents) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
@@ -213,7 +213,6 @@
 |BSWZ-AMD  |魔導装甲艦      |  |  |
 |BSWZ-MIS  |魔導ミサイル艦  |  |  |
 |BSWZ-MOS  |魔導母艦        |  |  |
-  
 
 
 

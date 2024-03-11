@@ -18,7 +18,7 @@
 
 * [readme.md](/readme.md)
   * [装備品仕様](readme.md)
-  * [装備の区分記号](../strategypart/readme.md#aEquipClassificationSymbol)
+  * [装備の区分記号](/strategypart/readme.md#装備品の区分記号--equip-classification-symbol)
   * [装備種類](#装備種類--equip-kind)
   * [装備分類](#装備分類--equip-class)
   * [装備形式](#装備形式--equip-type)
