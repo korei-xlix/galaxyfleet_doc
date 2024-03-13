@@ -18,9 +18,12 @@
 
 * [readme.md](/readme.md)
 
-* [装備換装](#装備換装--equipment-replacement-skill)
-* [変形](#変形--transformation)
-* [分離合体](#分離合体--separation-and-ombination)
+* [機能仕様](/skill/readme.md)
+
+* 各機能
+  * [装備換装](#装備換装--equipment-replacement-skill)
+  * [変形](#変形--transformation)
+  * [分離合体](#分離合体--separation-and-ombination)
 
 
 

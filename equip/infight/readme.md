@@ -1,14 +1,33 @@
-# Galaxy Fleet
-**～装備品仕様～ :: 艦船用接近戦武器/歩兵用接近戦武器/歩兵用補助装備 **  
+# Galaxy Fleet：装備品仕様：接近戦用武器
+
+## Galaxy Fleet：Equip Specifications：Infight Weapon
+
+## このドキュメントについて / About this document
+
+**★このドキュメントの改造、流用、配布、クローンは禁止です★**  
+    **Modification, diversion, distribution, and cloning of this document are prohibited**  
+  
+このドキュメントは「Galaxy Fleet」の装備品のうち、接近戦用武器を記載するものです。  
+その他の仕様についてはreadmeの目次を確認してください。  
 
 
-# 目次 <a name="aMokuji"></a>
+
+
+
+## 目次 / Table of contents
+
 * [readme.md](/readme.md)
-* [装備品仕様](/equip/readme.md)
 
-* [艦船用接近戦武器](#iShipInfight)
-* [歩兵用接近戦武器](#iInfantryInfight)
-* [歩兵用補助装備](#iInfantryAuxiliary)
+* [装備品仕様](/equip/readme.md)
+  * [装備種類](/strategypart/readme.md#装備種類--equip-kind)
+  * [装備分類](/equip/readme.md#装備分類--equip-class)
+
+* [装備種類：接近戦用武器](/equip/readme.md#iw接近戦用武器--infight-weapon)
+
+* 装備品一覧
+  * [艦船用接近戦武器](#iShipInfight)
+  * [歩兵用接近戦武器](#iInfantryInfight)
+  * [歩兵用補助装備](#iInfantryAuxiliary)
 
 
 
@@ -42,14 +61,13 @@
 
 
 
-## AMMD-gHSD：重盾装甲
-**[Heavy Shield Armor]**  
+### AMMD-gHSD：重盾装甲 / Heavy Shield Armor
+  
 装甲艦などで使用できる可動式の大盾です。可動アームと楯1枚のセット品です。  
-盾部分で敵の攻撃を防げます。防御できる武器は盾の性能によります。  
+重盾で攻撃を防げます。盾自体にシールドとジェネレータがあり、エネルギー兵器も防御できます。  
+防御できる武器は盾の性能によります。  
 防御を行う都度、耐久度が減りますが、換装することで復元できます。  
 　　必須機能：重盾  
-　　追加機能：重盾交換  
-　　発生効果：重盾防御  
 　　消耗品：換装用重盾  
 
 

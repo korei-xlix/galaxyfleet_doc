@@ -1,14 +1,54 @@
-# Galaxy Fleet
-**～兵器仕様～ :: 魔導兵器 **  
+# Galaxy Fleet：兵器仕様：魔導兵器
+
+## Galaxy Fleet：Weapon Specifications：Wizard Units
+
+## このドキュメントについて / About this document
+
+**★このドキュメントの改造、流用、配布、クローンは禁止です★**  
+    **Modification, diversion, distribution, and cloning of this document are prohibited**  
+  
+このドキュメントは「Galaxy Fleet」の兵器のうち、魔導兵器の定義を記載するものです。  
+その他の仕様についてはreadmeの目次を確認してください。  
 
 
-# 目次 <a name="aMokuji"></a>
+
+
+
+## 目次 / Table of contents
+
 * [readme.md](/readme.md)
-* [兵器仕様](/unit/readme.md)
 
-* [機動歩兵](#iMovableSoldier)
-* [万能歩兵](#iVersatileSoldier)
-* [陸戦歩兵](#iLandSoldier)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器種類：魔導兵器](/unit/readme.md#wu魔導兵器--wizard-unit)
+
+* 兵器一覧
+  * [BSDS：駆逐艦](#bsds駆逐艦--destroyer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

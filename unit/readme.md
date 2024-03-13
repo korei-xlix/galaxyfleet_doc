@@ -20,7 +20,7 @@
 
 * 兵器仕様
   * [兵器の区分記号](/strategypart/readme.md#兵器の区分記号--unit-classification-symbol)
-  * [兵器種類](#兵器種類--unit-kind)
+  * [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)
   * [兵器分類](#兵器分類--unit-class)
   * [兵器形式](#兵器形式--unit-type)
 
@@ -33,7 +33,7 @@
   * [機動兵器](#mu機動兵器--movable-units)
   * [陸戦兵器](#lu陸戦兵器--land-units)
   * [防衛兵器](#du防衛兵器--defense-units)
-  * [魔導歩兵](#wi魔導兵器--wizard-infantrys)
+  * [魔導兵器](#wu魔導兵器--wizard-unit)
 
 * 民間用
   * [民間船](#cs民間船--civil-ships)
@@ -53,7 +53,7 @@
   
 詳しくは戦略パート仕様をご参照ください。  
   
-  [兵器種類](../strategypart/readme.md#aUnitKind)  
+  [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)  
 
 
 
@@ -71,68 +71,77 @@
 [目次へ戻る](#目次--table-of-contents) / [戦列艦](battleships/readme.md)  
   
 
-* **[BSDS：駆逐艦　Destroyer](battleships/destroyer.md)**  
-  小型で小回りのきく戦列艦です。  
-  小型の火砲、魚雷、爆雷、対潜ソナーを装備し、近接での対艦戦闘と、対潜戦闘を得意とします。  
-  機動性能、回避性能、高機動による索敵能力が高く、コストが安いです。  
-  ただし、耐久性、装甲力が低く、被弾に弱いです。  
-  　　主な武器：小型主砲、魚雷、爆雷、対空砲  
+### [BSDS：駆逐艦 / Destroyer](battleships/destroyer.md)
+  
+小型で小回りのきく戦列艦です。  
+小型の火砲、魚雷、爆雷、対潜ソナーを装備し、近接での対艦戦闘と、対潜戦闘を得意とします。  
+機動性能、回避性能、高機動による索敵能力が高く、コストが安いです。  
+ただし、耐久性、装甲力が低く、被弾に弱いです。  
+　　主な武器：小型砲、魚雷、爆雷、対空砲  
 
-* **[BSCR：巡航艦　Cruiser](battleships/cruiser.md)**  
-  中型で電子性能が高い戦列艦です。  
-  中型の火砲を装備し、近距離から中距離の砲撃戦が得意です。  
-  また高性能の電探、偵察機を装備し、電探による索敵や電子戦対空戦闘力を得意とします。  
-  駆逐艦よりも耐久性、移動性能に優れますが、回避性能が劣ります。  
-  　　主な武器：中型主砲、小型主砲、偵察機、対空砲  
+### [BSCR：巡航艦 / Cruiser](battleships/cruiser.md)
+  
+中型で電子性能が高い戦列艦です。  
+中型の火砲を装備し、近距離から中距離の砲撃戦が得意です。  
+また高性能の電探、偵察機を装備し、電探による索敵や電子戦対空戦闘力を得意とします。  
+駆逐艦よりも耐久性、移動性能に優れますが、回避性能が劣ります。  
+　　主な武器：中型主砲、小型主砲、偵察機、対空砲  
 
-* **[BSBB：戦艦　Battle Ship](battleships/battleship.md)**  
-  大型で非常に戦闘力が高い戦列艦で、艦隊戦の花形です。  
-  大型の火砲やミサイルを搭載し、中距離から遠距離の砲撃戦に秀でます。  
-  また装甲やシールドが非常に厚く、生存性が高いです。偵察機も搭載でき、ある程度の索敵も可能です。  
-  しかし大型の船体により鈍足で、機動兵器に狙われやすいです。  
-  　　主な武器：大型主砲、中型主砲、ミサイル、偵察機、対空砲  
+### [BSBB：戦艦 / Battle Ship](battleships/battleship.md)
+  
+大型で非常に戦闘力が高い戦列艦で、艦隊戦の花形です。  
+大型の火砲やミサイルを搭載し、中距離から遠距離の砲撃戦に秀でます。  
+また装甲やシールドが非常に厚く、生存性が高いです。偵察機も搭載でき、ある程度の索敵も可能です。  
+しかし大型の船体により鈍足で、機動兵器に狙われやすいです。  
+　　主な武器：大型主砲、中型主砲、ミサイル、偵察機、対空砲  
 
-* **[BSAC：航空母艦　Aircraft Carrier](battleships/aircraftcarrier.md)**  
-  大型で多数の艦載機を搭載、運用するための母艦型の戦列艦です。  
-  母艦機能に特化しており、艦載機の整備、搭載武器の換装、修理などができます。  
-  空母自体の武装は少なく、単艦での戦闘力は貧弱です。  
-  カタパルトが損傷すると艦載機が発進できなくなります。  
-  　　主な武器：対空砲  
+### [BSAC：航空母艦 / Aircraft Carrier](battleships/aircraftcarrier.md)
+  
+大型で多数の艦載機を搭載、運用するための母艦型の戦列艦です。  
+母艦機能に特化しており、艦載機の整備、搭載武器の換装、修理などができます。  
+空母自体の武装は少なく、単艦での戦闘力は貧弱です。  
+カタパルトが損傷すると艦載機が発進できなくなります。  
+　　主な武器：対空砲  
 
-* **[BSMC：改造空母　Modified Aircraft Carrier](battleships/modifiedcarrier.md)**  
-  巡航艦や支援艦、大型の客船の船体をベースに建造した改装型の空母です。  
-  空母としての母艦機能に加え、航空母艦よりも耐久性と経済性に優れます。  
-  空母自体の武装は少なく、単艦での戦闘力は貧弱です。また航空母艦よりも鈍足です。  
-  カタパルトが損傷すると艦載機が発進できなくなります。  
-  　　主な武器：中型砲、小型砲、対空砲  
+### [BSMC：改造空母 / Modified Aircraft Carrier](battleships/modifiedcarrier.md)
+  
+巡航艦や支援艦、大型の客船の船体をベースに建造した改装型の空母です。  
+空母としての母艦機能に加え、航空母艦よりも耐久性と経済性に優れます。  
+空母自体の武装は少なく、単艦での戦闘力は貧弱です。また航空母艦よりも鈍足です。  
+カタパルトが損傷すると艦載機が発進できなくなります。  
+　　主な武器：中型砲、小型砲、対空砲  
 
-* **[BSMS：汎用母艦　General Purpose Mother Ship](battleships/mothership.md)**  
-  空母では運用できない大型の航空機や爆撃機、汎用戦闘機、装載艇などを運用するための特設空母です。  
-  母艦機能により搭載機の整備、搭載武器の換装、修理などができます。  
-  船体の構造が巨大なため、航空母艦、改造空母よりも耐久性、機動性に難があります。  
-  カタパルトが損傷すると艦載機が発進できなくなります。  
-  　　主な武器：小型主砲、対空砲  
+### [BSMS：汎用母艦 / General Purpose Mother Ship](battleships/mothership.md)
+  
+空母では運用できない大型の航空機や爆撃機、汎用戦闘機、装載艇などを運用するための特設空母です。  
+母艦機能により搭載機の整備、搭載武器の換装、修理などができます。  
+船体の構造が巨大なため、航空母艦、改造空母よりも耐久性、機動性に難があります。  
+カタパルトが損傷すると艦載機が発進できなくなります。  
+　　主な武器：小型主砲、対空砲  
 
-* **[BSLC：揚陸艦　Land Carrier](battleships/landcarrier.md)**  
-  装載艇や陸戦兵器、歩兵を搭載し、泊地や要塞に揚陸させることができる戦列艦です。  
-  中型で巡航艦程度の大きさの船体を持ち、装甲と機動性が高めです。  
-  敵の艦船に強行接舷して歩兵を送ることもできます。  
-  武装は少なく、艦船相手の戦闘力はほぼありません。  
-  　　主な武器：野戦砲、対空砲  
+### [BSLC：揚陸艦 / Land Carrier](battleships/landcarrier.md)
+  
+装載艇や陸戦兵器、歩兵を搭載し、泊地や要塞に揚陸させることができる戦列艦です。  
+中型で巡航艦程度の大きさの船体を持ち、装甲と機動性が高めです。  
+敵の艦船に強行接舷して歩兵を送ることもできます。  
+武装は少なく、艦船相手の戦闘力はほぼありません。  
+　　主な武器：野戦砲、対空砲  
 
-* **[BSSB：潜航艦　Submarine](battleships/submarine.md)**  
-  亜空間潜航が可能な特殊な戦列艦です。  
-  小型で駆逐艦程度の大きさの船体を持ちます。  
-  潜航中はビームやミサイルなどの兵器ではダメージが与えられず、駆逐艦や対潜哨戒機などでしか攻撃できません。  
-  その代わり、潜水艦も潜航中は魚雷しか使えません。  
-  速度や機動性は遅いため、索敵にひっかかると逃げるのが難しくなります。  
-  　　主な武器：小型主砲、魚雷、対空砲  
+### [BSSB：潜航艦 / Submarine](battleships/submarine.md)
+  
+亜空間潜航が可能な特殊な戦列艦です。  
+小型で駆逐艦程度の大きさの船体を持ちます。  
+潜航中はビームやミサイルなどの兵器ではダメージが与えられず、駆逐艦や対潜哨戒機などでしか攻撃できません。  
+その代わり、潜水艦も潜航中は魚雷しか使えません。  
+速度や機動性は遅いため、索敵にひっかかると逃げるのが難しくなります。  
+　　主な武器：小型主砲、魚雷、対空砲  
 
-* **[BSWZ：魔導戦艦　Battle Wizard Ship](battleships/battlewizardship.md)**  
-  魔導技術で作られた特殊な戦列艦です。  
-  強力な魔導砲や魔導ミサイル、魔導兵器を搭載、運用でき、魔導エネルギーを使った戦闘ができます。  
-  エネルギーの無限生成と自我をもちます。  
-  運用コストは安いですが、修理や武装にかかるコストが非常に高いです。  
+### [BSWZ：魔導戦艦 / Battle Wizard Ship](battleships/battlewizardship.md)
+  
+魔導技術で作られた特殊な戦列艦です。  
+強力な魔導砲や魔導ミサイル、魔導兵器を搭載、運用でき、魔導エネルギーを使った戦闘ができます。  
+エネルギーの無限生成と自我をもちます。  
+運用コストは安いですが、修理や武装にかかるコストが非常に高いです。  
 
 
 
@@ -396,53 +405,53 @@
 
 
 
-## WI：魔導兵器 / Wizard Infantrys
+## WU：魔導兵器 / Wizard Unit
 
 [目次へ戻る](#目次--table-of-contents) / [魔導兵器](wizardinfantrys/readme.md)  
   
 
-* **[WISO：魔導士　Sorcery](wizardinfantrys/sorcery.md)**  
+* **[WUSO：魔導士　Sorcery](wizardinfantrys/sorcery.md)**  
   攻撃、妨害、召喚の法術に優れた魔導兵器です。  
   中距離、長距離の法撃攻撃力に優れます。  
   装甲が薄く、耐久性が低いです。  
 
-* **WIMO：修道士　Monk**  
+* **WUMO：修道士　Monk**  
   防御、回復、支援系の法術に優れた魔導兵器です。  
   術法の防御、味方の支援能力に優れ、近接戦闘も少し得意です。  
 
-* **WIEM：使役士　Employer**  
+* **WUEM：使役士　Employer**  
   遠隔操作や召喚など、小型兵器を操ることに優れた魔導兵器です。  
   術法の防御、味方の支援能力、敵の妨害に優れ、近接戦闘も少し得意です。  
 
-* **WIWA：戦士　Warrior**  
+* **WUWA：戦士　Warrior**  
   攻防のバランスのいい戦闘力を備えた魔導兵器です。  
   近接戦用の大型装備が搭載でき、接近戦闘に特化し、前線で戦うのに向いてます。  
   装甲が若干薄いです。  
 
-* **WIHU：狩人　Hunter**  
+* **WUHU：狩人　Hunter**  
   主に攻撃に重きを与えた魔導兵器です。  
   遠距離戦用の大型装備が搭載でき、中距離～遠距離の戦闘に特化しています。  
   装甲が若干薄いです。  
 
-* **WIKN：騎士　Knight**  
+* **WUKN：騎士　Knight**  
   重武装で特に防御力が高い魔導兵器です。  
   近接戦用の大型装備が搭載でき、接近戦闘に特化し、「騎馬」により戦場を高速で移動できます。  
   攻防に非常に優れますが、国家から許可がないとスキルが得られません。  
 
-* **WIEG：技師　Engineer**  
+* **WUEG：技師　Engineer**  
   技術系のスキルを搭載した魔導兵器です。  
   戦術マップでの作業に向いてます。  
   戦闘には向いてません。  
 
-* **WIST：一般職　Staff**  
+* **WUST：一般職　Staff**  
   一般系、生活系のスキルを搭載した魔導兵器です。  
   戦闘は苦手です。  
 
-* **WILH：英雄　Legend of Hero**  
+* **WULH：英雄　Legend of Hero**  
   魔導の技術を結集し、カスタマイズを重ね仕上げる高性能な魔導兵器です。  
   製造手順が特殊なため数が少なく、性能がピーキーです。  
 
-* **WIWH：魔導馬　Wizard Horse**  
+* **WUWH：魔導馬　Wizard Horse**  
   魔導兵器が搭乗できる馬です。  
   高速で移動したり、魔導兵器の戦闘支援、装備品の補充などが行えます。  
 
@@ -1343,183 +1352,183 @@
 
 
 
-### WISO：魔導士 / Sorcery
+### WUSO：魔導士 / Sorcery
 
 [目次へ戻る](#目次--table-of-contents)
   
 
-* **WISO-STD：魔導士**  
+* **WUSO-STD：魔導士**  
 
-* **WISO-MAG：魔術士**  
+* **WUSO-MAG：魔術士**  
 
-* **WISO-THA：法術士**  
+* **WUSO-THA：法術士**  
 
-* **WISO-ILL：幻術士**  
+* **WUSO-ILL：幻術士**  
 
-* **WISO-CON：呪術師**  
+* **WUSO-CON：呪術師**  
 
-* **WISO-ENC：付与術士**  
+* **WUSO-ENC：付与術士**  
 
-* **WISO-ALC：錬金術師**  
+* **WUSO-ALC：錬金術師**  
 
-* **WISO-SAG：賢者**  
+* **WUSO-SAG：賢者**  
 
 
-### WIMO：修道士 / Monk
+### WUMO：修道士 / Monk
 
-* **WIMO-STD：修道士**  
+* **WUMO-STD：修道士**  
 
-* **WIMO-PAS：司祭**  
+* **WUMO-PAS：司祭**  
 
-* **WIMO-BIS：司教**  
+* **WUMO-BIS：司教**  
 
-* **WIMO-PRI：神官**  
+* **WUMO-PRI：神官**  
 
-* **WIMO-CRU：聖戦士**  
+* **WUMO-CRU：聖戦士**  
 
-* **WIMO-SAN：修道拳士**  
+* **WUMO-SAN：修道拳士**  
 
-* **WIMO-MAR：神拳士**  
+* **WUMO-MAR：神拳士**  
 
-* **WIMO-APO：使徒**  
+* **WUMO-APO：使徒**  
 
 
-### WIEM：使役士 / Employer
+### WUEM：使役士 / Employer
 
-* **WIEM-STD：使役士**  
+* **WUEM-STD：使役士**  
 
-* **WIEM-TRA：動物使い**  
+* **WUEM-TRA：動物使い**  
 
-* **WIEM-BEA：魔獣使い**  
+* **WUEM-BEA：魔獣使い**  
 
-* **WIEM-BOY：言霊使い**  
+* **WUEM-BOY：言霊使い**  
 
-* **WIEM-ELE：精霊使い**  
+* **WUEM-ELE：精霊使い**  
 
-* **WIEM-SHA：祈祷師**  
+* **WUEM-SHA：祈祷師**  
 
-* **WIEM-NEC：死霊使い**  
+* **WUEM-NEC：死霊使い**  
 
-* **WIEM-SUM：召喚者**  
+* **WUEM-SUM：召喚者**  
 
 
-### WIWA：戦士 / Warrior
+### WUWA：戦士 / Warrior
 
-* **WIWA-STD：戦士**  
+* **WUWA-STD：戦士**  
 
-* **WIWA-BER：狂戦士**  
+* **WUWA-BER：狂戦士**  
 
-* **WIWA-AVE：聖戦士**  
+* **WUWA-AVE：聖戦士**  
 
-* **WIWA-FEN：剣士**  
+* **WUWA-FEN：剣士**  
 
-* **WIWA-GLA：剣闘士**  
+* **WUWA-GLA：剣闘士**  
 
-* **WIWA-ROG：悪党**  
+* **WUWA-ROG：悪党**  
 
-* **WIWA-PIR：海賊**  
+* **WUWA-PIR：海賊**  
 
-* **WIWA-ARM：魔剣戦士**  
+* **WUWA-ARM：魔剣戦士**  
 
 
-### WIHU：狩人 / Hunter
+### WUHU：狩人 / Hunter
 
-* **WIHU-STD：狩人**  
+* **WUHU-STD：狩人**  
 
-* **WIHU-SHO：銃術士**  
+* **WUHU-SHO：銃術士**  
 
-* **WIHU-GUN：砲撃術師**  
+* **WUHU-GUN：砲撃術師**  
 
-* **WIHU-ARC：弓戦士**  
+* **WUHU-ARC：弓戦士**  
 
-* **WIHU-SNI：弓闘士**  
+* **WUHU-SNI：弓闘士**  
 
-* **WIHU-SEE：探索者**  
+* **WUHU-SEE：探索者**  
 
-* **WIHU-ASS：暗殺者**  
+* **WUHU-ASS：暗殺者**  
 
-* **WIHU-COM：特殊隊員**  
+* **WUHU-COM：特殊隊員**  
 
 
-### WIKN：騎士 / Knight
+### WUKN：騎士 / Knight
 
-* **WIKN-SQU：騎士見習い**  
+* **WUKN-SQU：騎士見習い**  
 
-* **WIKN-STD：騎士**  
+* **WUKN-STD：騎士**  
 
-* **WIKN-FRE：自由騎士**  
+* **WUKN-FRE：自由騎士**  
 
-* **WIKN-ROY：近衛騎士**  
+* **WUKN-ROY：近衛騎士**  
 
-* **WIKN-PAL：聖騎士**  
+* **WUKN-PAL：聖騎士**  
 
-* **WIKN-SHA：暗黒騎士**  
+* **WUKN-SHA：暗黒騎士**  
 
-* **WIKN-DRA：竜騎士**  
+* **WUKN-DRA：竜騎士**  
 
-* **WIKN-MAG：魔導騎士**  
+* **WUKN-MAG：魔導騎士**  
 
 
-### WIEG：技師 / Engineer
+### WUEG：技師 / Engineer
 
-* **WIEG-ENG：機械技師**  
+* **WUEG-ENG：機械技師**  
 
-* **WIEG-PHA：薬剤師**  
+* **WUEG-PHA：薬剤師**  
 
-* **WIEG-FAR：農民**  
+* **WUEG-FAR：農民**  
 
-* **WIEG-MIN：炭鉱夫**  
+* **WUEG-MIN：炭鉱夫**  
 
-* **WIEG-BLA：鍛冶屋**  
+* **WUEG-BLA：鍛冶屋**  
 
-* **WIEG-COK：料理人**  
+* **WUEG-COK：料理人**  
 
-* **WIEG-ADM：管理者**  
+* **WUEG-ADM：管理者**  
 
 
-### WIST：一般職 / Staff
+### WUST：一般職 / Staff
 
-* **WIST-GAM：遊び人**  
+* **WUST-GAM：遊び人**  
 
-* **WIST-MER：商人**  
+* **WUST-MER：商人**  
 
-* **WIST-BAR：詩人**  
+* **WUST-BAR：詩人**  
 
-* **WIST-DAN：舞踏家**  
+* **WUST-DAN：舞踏家**  
 
-* **WIST-PER：演奏家**  
+* **WUST-PER：演奏家**  
 
-* **WIST-SCH：学者**  
+* **WUST-SCH：学者**  
 
-* **WIST-EXE：経営者**  
+* **WUST-EXE：経営者**  
 
 
-### WILH：英雄 / Legend of Hero
+### WULH：英雄 / Legend of Hero
 
-* **WILH-LOA：王者**  
+* **WULH-LOA：王者**  
 
-* **WILH-HER：隠者**  
+* **WULH-HER：隠者**  
 
-* **WILH-BRA：勇者**  
+* **WULH-BRA：勇者**  
 
-* **WILH-DEM：魔王**  
+* **WULH-DEM：魔王**  
 
 
-### WIWH：魔導馬 / Wizard Horse
+### WUWH：魔導馬 / Wizard Horse
 
-* **WIWH-STD：魔導馬**  
+* **WUWH-STD：魔導馬**  
 
-* **WIWH-CAG：運搬馬**  
+* **WUWH-CAG：運搬馬**  
 
-* **WIWH-BAT：戦闘馬**  
+* **WUWH-BAT：戦闘馬**  
 
-* **WIWH-ARM：装甲馬**  
+* **WUWH-ARM：装甲馬**  
 
-* **WIWH-SPT：競走馬**  
+* **WUWH-SPT：競走馬**  
 
-* **WIWH-GUN：砲座馬**  
+* **WUWH-GUN：砲座馬**  
 
-* **WIWH-HEL：英雄馬**  
+* **WUWH-HEL：英雄馬**  
 
 
 

@@ -18,9 +18,12 @@
 
 * [readme.md](/readme.md)
 
-* [弾薬補充](#弾薬補充--reload)
-* [修理](#修理--repair)
-* [補充](#弾薬補充--reload)
+* [機能仕様](/skill/readme.md)
+
+* 各機能
+  * [弾薬補充](#弾薬補充--reload)
+  * [修理](#修理--repair)
+  * [補充](#弾薬補充--reload)
 
 
 

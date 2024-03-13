@@ -1,50 +1,47 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 駆逐艦</h1>  
-<h2>～Weapon Specifications～ :: Destroyer</h2>  
-  
+# Galaxy Fleet：兵器仕様：駆逐艦
+
+## Galaxy Fleet：Weapon Specifications：Destroyer
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、駆逐艦の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：駆逐艦](/unit/readme.md#aDestroyer)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器分類：駆逐艦](/unit/readme.md#bsds駆逐艦--destroyer)
 
 * 兵器標準仕様
-  * [BSDS-STD：駆逐艦](#aDestroyer)
-  * [BSDS-AMD：装甲駆逐艦](#aArmoredDestroyer)
-  * [BSDS-ADF：防空駆逐艦](#aAirDefensiveDestroyer)
-  * [BSDS-MIS：ミサイル駆逐艦](#aMissileDestroyer)
-  * [BSDS-INF：歩兵駆逐艦](#aInfantryDestroyer)
-  * [BSDS-TPD：重雷装艦](#aTorpedoDestroyer)
-  * [BSDS-AST：突撃艦](#aAssaultDestroyer)
-  * [BSDS-SMK：駆潜艦](#aSubmarineKiller)
+  * [BSDS-STD：駆逐艦](#bsds-std駆逐艦--destroyer)
+  * [BSDS-AMD：装甲駆逐艦](#bsds-amd装甲駆逐艦--armored-destroyer)
+  * [BSDS-ADF：防空駆逐艦](#bsds-adf防空駆逐艦--air-defensive-destroyer)
+  * [BSDS-MIS：ミサイル駆逐艦](#bsds-misミサイル駆逐艦--missile-destroyer)
+  * [BSDS-INF：歩兵駆逐艦](#bsds-inf歩兵駆逐艦--infantry-destroyer)
+  * [BSDS-TPD：重雷装艦](#bsds-tpd重雷装艦--torpedo-destroyer)
+  * [BSDS-AST：突撃艦](#bsds-ast突撃艦--assault-destroyer)
+  * [BSDS-SMK：駆潜艦](#bsds-smk駆潜艦--submarine-killer)
+
+
+
+
+
+## BSDS-STD：駆逐艦 / Destroyer
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aDestroyer">BSDS-STD：駆逐艦 / Destroyer</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 標準性能の駆逐艦です。小回りが効いて、魚雷戦や対潜が得意です。  
 また輸送ペイロードがあり、輸送任務も可能です。  
 小型の主砲しか搭載できないため、中型以上の艦との撃ち合いに不利です。  
@@ -62,16 +59,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+
+
+
+
+
+## BSDS-AMD：装甲駆逐艦 / Armored Destroyer
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aArmoredDestroyer">BSDS-AMD：装甲駆逐艦 / Armored Destroyer</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 装甲とシールドを強化した防御タイプの駆逐艦です。  
 専用の重盾装甲が展開でき、艦隊の防御をおこなうことができます。  
 装甲が増えた分重量が増したため、機動力が落ちます。  
@@ -90,16 +86,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ・   | ▲   | ×   | ▲   | 〇(+4)   |
+
+
+
+
+
+## BSDS-ADF：防空駆逐艦 / Air Defensive Destroyer
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aAirDefensiveDestroyer">BSDS-ADF：防空駆逐艦 / Air Defensive Destroyer</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 対空戦闘力を強化し、対機動兵器戦が得意な駆逐艦です。  
 ミサイル迎撃能力があります。機動兵器に先制攻撃ができます。  
 主砲の搭載に制限があります。  
@@ -118,16 +113,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | 〇   | ▲   | ・(+6)   |
+
+
+
+
+
+## BSDS-MIS：ミサイル駆逐艦 / Missile Destroyer
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aMissileDestroyer">BSDS-MIS：ミサイル駆逐艦 / Missile Destroyer</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 ミサイルが搭載でき、長距離戦ができる駆逐艦です。  
 ミサイルが多く搭載できます。  
 主砲、魚雷、爆雷の搭載に制限があります。  
@@ -141,21 +135,20 @@
 |      |小型対空砲、小型電子探索装置  |
 |      |小型フォースフィールド発生装置  |
 |機能  |ソナーマン、ミサイルマニア  |
-|      |先制発射、拡散発射、集中発射  |
+|      |先制発射、多重発射、集約発射  |
 
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | ・   | 〇   | ▲   | ・(+6)   |
+
+
+
+
+
+## BSDS-INF：歩兵駆逐艦 / Infantry Destroyer
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aInfantryDestroyer">BSDS-INF：歩兵駆逐艦 / Infantry Destroyer</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 機動歩兵が搭載可能なようにデッキを設けた駆逐艦です。  
 性能諸元は標準の駆逐艦と変わりないです。  
 主砲の搭載に制限があります。貨物が搭載できなくなりました。  
@@ -163,7 +156,7 @@
 |項目  |設定  |
 |:--|:--|
 |武器  |小型砲、魚雷、爆雷、対空砲  |
-|標準  |小型ビームカノン  |
+|標準  |小型ビームカノンx2  |
 |      |小型誘導魚雷  |
 |      |小型次元転換爆雷、小型次元探索装置  |
 |      |小型対空砲、小型電子探索装置  |
@@ -175,16 +168,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
+
+
+
+
+
+## BSDS-TPD：重雷装艦 / Torpedo Destroyer
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aTorpedoDestroyer">BSDS-TPD：重雷装艦 / Torpedo Destroyer</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 魚雷での攻撃力を強化した駆逐艦です。  
 魚雷の一斉発射ができます。魚雷が多く搭載できます。  
 主砲、爆雷の搭載に制限があります。  
@@ -203,16 +195,15 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ・   | ×   | ・(+6)   |
+
+
+
+
+
+## BSDS-AST：突撃艦 / Assault Destroyer
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aAssaultDestroyer">BSDS-AST：突撃艦 / Assault Destroyer</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 大型のブースターを搭載し、高速戦闘に特化した駆逐艦です。  
 砲戦で突撃ができます。  
 専用のブースターとシールドジェネレータを搭載します。  
@@ -226,22 +217,21 @@
 |      |小型次元転換爆雷、小型次元探索装置  |
 |      |小型対空砲、小型電子探索装置  |
 |      |小型シールド発生装置  |
-|機能  |ソナーマン、高速艦  |
-|      |遊撃、高速戦闘、高速突撃、高速貫通  |
+|機能  |ソナーマン、高速移動  |
+|      |遊撃、突撃、貫通  |
 
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ・   | ・(+6)   |
+
+
+
+
+
+## BSDS-SMK：駆潜艦 / Submarine Killer
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aSubmarineKiller">BSDS-SMK：駆潜艦 / Submarine Killer</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 対潜攻撃力を強化した駆逐艦です。  
 潜水艦に対して先制攻撃ができます。  
 爆雷が多く搭載できます。専用のソナーを搭載します。  
@@ -261,7 +251,6 @@
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | 〇   | ▲   | ▲(+8)   |
-  
 
 
 

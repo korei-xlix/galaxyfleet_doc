@@ -18,10 +18,10 @@
 
 * [readme.md](/readme.md)
   * [装備品仕様](/equip/readme.md)
-  * [装備種類](/strategypart/readme.md#aEquipKind)
-  * [装備分類](/equip/readme.md#aEquipClass)
+  * [装備種類](/equip/readme.md#装備種類--equip-kind)
+  * [装備分類](/equip/readme.md#装備分類--equip-class)
 
-  * [装備種類：対空武器](/equip/readme.md#aAntiAirWepon)
+* [装備種類：対空武器](/equip/readme.md#aa対空武器--anti-air-wepon)
 
 * 装備品一覧
   * [FSFF：基礎フレーム](#aFoundationFrame)

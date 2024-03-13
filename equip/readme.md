@@ -17,9 +17,10 @@
 ## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [装備品仕様](readme.md)
+
+* 装備品仕様
   * [装備の区分記号](/strategypart/readme.md#装備品の区分記号--equip-classification-symbol)
-  * [装備種類](#装備種類--equip-kind)
+  * [装備種類](/strategypart/readme.md#装備種類--equip-kind)
   * [装備分類](#装備分類--equip-class)
   * [装備形式](#装備形式--equip-type)
 
@@ -65,33 +66,35 @@
 
 [目次へ戻る](#目次--table-of-contents)  
   
-
 各装備種類は、さらに装備分類に分類分けされます。  
 
 
-### FS：基礎構造 / Foundation Structure
+## FS：基礎構造 / Foundation Structure
 
 [目次へ戻る](#目次--table-of-contents) / [基礎構造](foundation/readme.md)  
   
 
-* **[FSFF：基礎フレーム　Foundation Frame](foundation/frame.md)**  
+### [FSFF：基礎フレーム / Foundation Frame](foundation/frame.md)
+  
   外装やフレームなど兵器の装甲や基礎構造で、耐久性能に影響する構造です。  
-  
 
-* **[FSTH：スラスタ　Thruster](foundation/thruster.md)**  
+### [FSTH：スラスタ / Thruster](foundation/thruster.md)
+  
   兵器の姿勢制御や加速、推進をおこなう装置で、機動性能に影響する構造です。  
-  
 
-* **[FSMC：メインコンピュータ　Main Computer](foundation/computer.md)**  
+### [FSMC：メインコンピュータ / Main Computer](foundation/computer.md)
+  
   電子機器の制御や情報統制、戦術分析などをおこなうコンピュータなどの電子装置で、電子性能に影響する構造です。  
-  
 
-* **[FSEG：エンジン　Engine](foundation/computer.md)**  
+### [FSEG：エンジン / Engine](foundation/computer.md)
+  
   エネルギーを自己生成し、兵器が活動するための力を生み出す装置で、動力性能に影響する構造です。  
-  
 
 
-### CN：砲 / Cannon
+
+
+
+## CN：砲 / Cannon
 
 [目次へ戻る](#目次--table-of-contents) / [砲](cannon/readme.md)  
   
@@ -299,7 +302,7 @@
 
 * **DFMI：噴進弾迎撃装置　Missile Interception Device**  
   ミサイルを迎撃するミサイルとそのシステム一式です。  
-  物理的に迎撃するので有効性が高いです。  
+  物理的に迎撃するので有効性が高いですが、装備するのに高い電子性能が必要です。  
   
 
 * **DFTP：雷撃防御装置　Torpedo Protection Device**  

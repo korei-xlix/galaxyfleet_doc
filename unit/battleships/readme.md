@@ -19,7 +19,7 @@
 * [readme.md](/readme.md)
 
 * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/unit/readme.md#兵器種類--unit-kind)
+  * [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)
   * [兵器分類](/unit/readme.md#兵器分類--unit-class)
 
 * [兵器種類：戦列艦](/unit/readme.md#bs戦列艦--battle-ships)
@@ -39,14 +39,10 @@
 
 
 
-
-
-
 ## BSDS：駆逐艦 / Destroyer
 
 [目次へ戻る](#目次--table-of-contents) / [駆逐艦](destroyer.md)  
   
-
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
 |BSDS-STD  |駆逐艦          |Destroyer                |  |
@@ -69,14 +65,14 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|BSCR-STD  |巡航艦          |Cruiser                |  |
-|BSCR-AMD  |装甲巡航艦      |Armored Cruiser        |  |
-|BSCR-ADF  |防空巡航艦      |Air Defensive Cruiser  |  |
-|BSCR-MIS  |ミサイル巡航艦  |Missile Cruiser        |  |
-|BSCR-SPT  |高速巡航艦      |Splint Cruiser         |  |
-|BSCR-AVI  |航空巡航艦      |Aviation Cruiser       |  |
-|BSCR-STM  |強襲巡航艦      |Storm Cruiser          |  |
-|BSCR-FLD  |嚮導艦          |Flotilla Leader Ship   |  |
+|BSCR-STD  |巡航艦          |Cruiser                |  |*
+|BSCR-AMD  |装甲巡航艦      |Armored Cruiser        |  |*
+|BSCR-ADF  |防空巡航艦      |Air Defensive Cruiser  |  |*
+|BSCR-MIS  |ミサイル巡航艦  |Missile Cruiser        |  |*
+|BSCR-SPT  |高速巡航艦      |Splint Cruiser         |  |*
+|BSCR-AVI  |航空巡航艦      |Aviation Cruiser       |  |*
+|BSCR-STM  |強襲巡航艦      |Storm Cruiser          |  |*
+|BSCR-FLD  |嚮導艦          |Flotilla Leader Ship   |  |*
 
 
 
@@ -89,14 +85,14 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|BSBB-STD  |戦艦        |Battle Ship           |  |
-|BSBB-AMD  |装甲戦艦    |Armored Battle Ship   |  |
-|BSBB-BCR  |巡航戦艦    |Battle Cruise Ship    |  |
-|BSBB-SPT  |高速戦艦    |Sprint Battle Ship    |  |
-|BSBB-AVI  |航空戦艦    |Aviation Battle Ship  |  |
-|BSBB-SRK  |戦略打撃艦  |Strike Battle Ship    |  |
-|BSBB-HGN  |重砲撃艦    |Heavy Gun Ship        |  |
-|BSBB-SGN  |狙撃戦艦    |Sniper Gun Ship       |  |
+|BSBB-STD  |戦艦        |Battle Ship           |  |*
+|BSBB-AMD  |装甲戦艦    |Armored Battle Ship   |  |*
+|BSBB-BCR  |巡航戦艦    |Battle Cruise Ship    |  |*
+|BSBB-SPT  |高速戦艦    |Sprint Battle Ship    |  |*
+|BSBB-AVI  |航空戦艦    |Aviation Battle Ship  |  |*
+|BSBB-SRK  |戦略打撃艦  |Strike Battle Ship    |  |*
+|BSBB-HGN  |重砲撃艦    |Heavy Gun Ship        |  |*
+|BSBB-SGN  |狙撃戦艦    |Sniper Gun Ship       |  |*
 
 
 
@@ -109,14 +105,14 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|BSAC-STD  |航空母艦    |Aircraft Carrier              |  |
-|BSAC-AMD  |装甲空母    |Armored Aircraft Carrier      |  |
-|BSAC-ATK  |攻撃空母    |Attack Aircraft Carrier       |  |
-|BSAC-MUS  |多段式空母  |Multi Stage Aircraft Carrier  |  |
-|BSAC-BAC  |戦闘空母    |Battle Aircraft Carrier       |  |
-|BSAC-ICP  |要撃空母    |Intercept Aircraft Carrier    |  |
-|BSAC-SRK  |戦略空母    |Strike Aircraft Carrier       |  |
-|BSAC-SCT  |制宙艦      |Space Control Ship            |  |
+|BSAC-STD  |航空母艦    |Aircraft Carrier              |  |*
+|BSAC-AMD  |装甲空母    |Armored Aircraft Carrier      |  |*
+|BSAC-ATK  |攻撃空母    |Attack Aircraft Carrier       |  |*
+|BSAC-MUS  |多段式空母  |Multi Stage Aircraft Carrier  |  |*
+|BSAC-BAC  |戦闘空母    |Battle Aircraft Carrier       |  |*
+|BSAC-ICP  |要撃空母    |Intercept Aircraft Carrier    |  |*
+|BSAC-SRK  |戦略空母    |Strike Aircraft Carrier       |  |*
+|BSAC-SCT  |制宙艦      |Space Control Ship            |  |*
 
 
 
@@ -213,6 +209,15 @@
 |BSWZ-AMD  |魔導装甲艦      |  |  |
 |BSWZ-MIS  |魔導ミサイル艦  |  |  |
 |BSWZ-MOS  |魔導母艦        |  |  |
+
+
+WS：魔導艦
+　　魔導戦艦
+　　魔導護衛艦
+　　魔導支援艦
+
+
+
 
 
 

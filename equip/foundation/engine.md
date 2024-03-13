@@ -17,11 +17,12 @@
 ## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [装備品仕様](/equip/readme.md)
-  * [装備種類](/strategypart/readme.md#aEquipKind)
-  * [装備分類](/equip/readme.md#aEquipClass)
 
-  * [装備分類：エンジン](/equip/readme.md#aEngine)
+* [装備品仕様](/equip/readme.md)
+  * [装備種類](/strategypart/readme.md#装備種類--equip-kind)
+  * [装備分類](/equip/readme.md#装備分類--equip-class)
+
+* [装備分類：エンジン](/equip/readme.md#fsegエンジン--engine)
 
 * 装備品標準仕様
   * [BSDS-STD：駆逐艦](#aDestroyer)
