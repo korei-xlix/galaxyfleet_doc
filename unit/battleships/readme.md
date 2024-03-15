@@ -65,14 +65,14 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|BSCR-STD  |巡航艦          |Cruiser                |  |*
-|BSCR-AMD  |装甲巡航艦      |Armored Cruiser        |  |*
-|BSCR-ADF  |防空巡航艦      |Air Defensive Cruiser  |  |*
-|BSCR-MIS  |ミサイル巡航艦  |Missile Cruiser        |  |*
-|BSCR-SPT  |高速巡航艦      |Splint Cruiser         |  |*
-|BSCR-AVI  |航空巡航艦      |Aviation Cruiser       |  |*
-|BSCR-STM  |強襲巡航艦      |Storm Cruiser          |  |*
-|BSCR-FLD  |嚮導艦          |Flotilla Leader Ship   |  |*
+|BSCR-STD  |巡航艦          |Cruiser                |  |
+|BSCR-AMD  |装甲巡航艦      |Armored Cruiser        |  |
+|BSCR-ADF  |防空巡航艦      |Air Defensive Cruiser  |  |
+|BSCR-MIS  |ミサイル巡航艦  |Missile Cruiser        |  |
+|BSCR-SPT  |高速巡航艦      |Splint Cruiser         |  |
+|BSCR-AVI  |航空巡航艦      |Aviation Cruiser       |  |
+|BSCR-STM  |強襲巡航艦      |Storm Cruiser          |  |
+|BSCR-FLD  |嚮導艦          |Flotilla Leader Ship   |  |
 
 
 
@@ -85,14 +85,14 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|BSBB-STD  |戦艦        |Battle Ship           |  |*
-|BSBB-AMD  |装甲戦艦    |Armored Battle Ship   |  |*
-|BSBB-BCR  |巡航戦艦    |Battle Cruise Ship    |  |*
-|BSBB-SPT  |高速戦艦    |Sprint Battle Ship    |  |*
-|BSBB-AVI  |航空戦艦    |Aviation Battle Ship  |  |*
-|BSBB-SRK  |戦略打撃艦  |Strike Battle Ship    |  |*
-|BSBB-HGN  |重砲撃艦    |Heavy Gun Ship        |  |*
-|BSBB-SGN  |狙撃戦艦    |Sniper Gun Ship       |  |*
+|BSBB-STD  |戦艦        |Battle Ship           |  |
+|BSBB-AMD  |装甲戦艦    |Armored Battle Ship   |  |
+|BSBB-BCR  |巡航戦艦    |Battle Cruise Ship    |  |
+|BSBB-SPT  |高速戦艦    |Sprint Battle Ship    |  |
+|BSBB-AVI  |航空戦艦    |Aviation Battle Ship  |  |
+|BSBB-SRK  |戦略打撃艦  |Strike Battle Ship    |  |
+|BSBB-HGN  |重砲撃艦    |Heavy Gun Ship        |  |
+|BSBB-SGN  |狙撃戦艦    |Sniper Gun Ship       |  |
 
 
 
