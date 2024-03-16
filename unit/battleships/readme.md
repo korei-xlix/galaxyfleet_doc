@@ -33,7 +33,7 @@
   * [BSMS：汎用母艦](#bsms汎用母艦--general-purpose-mother-ship)
   * [BSLC：揚陸艦](#bslc揚陸艦--land-carrier)
   * [BSSB：潜航艦](#bssb潜航艦--submarine)
-  * [BSWZ：魔導戦艦](#bswz魔導戦艦--battle-wizard-ship)
+  * [BSWZ：魔導戦艦](#bswz魔導戦艦--wizard-battle-ship)
 
 
 
@@ -105,14 +105,14 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|BSAC-STD  |航空母艦    |Aircraft Carrier              |  |*
-|BSAC-AMD  |装甲空母    |Armored Aircraft Carrier      |  |*
-|BSAC-ATK  |攻撃空母    |Attack Aircraft Carrier       |  |*
-|BSAC-MUS  |多段式空母  |Multi Stage Aircraft Carrier  |  |*
-|BSAC-BAC  |戦闘空母    |Battle Aircraft Carrier       |  |*
-|BSAC-ICP  |要撃空母    |Intercept Aircraft Carrier    |  |*
-|BSAC-SRK  |戦略空母    |Strike Aircraft Carrier       |  |*
-|BSAC-SCT  |制宙艦      |Space Control Ship            |  |*
+|BSAC-STD  |航空母艦    |Aircraft Carrier              |  |
+|BSAC-AMD  |装甲空母    |Armored Aircraft Carrier      |  |
+|BSAC-ATK  |攻撃空母    |Attack Aircraft Carrier       |  |
+|BSAC-MUS  |多段式空母  |Multi Stage Aircraft Carrier  |  |
+|BSAC-BAC  |戦闘空母    |Battle Aircraft Carrier       |  |
+|BSAC-ICP  |要撃空母    |Intercept Aircraft Carrier    |  |
+|BSAC-SRK  |戦略空母    |Strike Aircraft Carrier       |  |
+|BSAC-SCT  |制宙艦      |Space Control Ship            |  |
 
 
 
@@ -165,14 +165,14 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|BSLC-STD  |揚陸艦      |  |  |
-|BSLC-TNK  |戦車揚陸艦  |  |  |
-|BSLC-CST  |建設揚陸艦  |  |  |
-|BSLC-SPT  |高速揚陸艦  |  |  |
-|BSLC-SMN  |潜航揚陸艦  |  |  |
-|BSLC-STM  |強襲揚陸艦  |  |  |
-|BSLC-MOT  |揚陸母艦    |  |  |
-|BSLC-BLD  |戦闘揚陸艦  |  |  |
+|BSLC-STD  |揚陸艦      |Landing Ship               |  |
+|BSLC-TNK  |戦車揚陸艦  |Tank Landing Ship          |  |
+|BSLC-ENG  |建築揚陸艦  |Architecture Landing Ship  |  |
+|BSLC-SPT  |高速揚陸艦  |Sprint Landing Ship        |  |
+|BSLC-SMN  |潜航揚陸艦  |Submarine Landing Ship     |  |
+|BSLC-STM  |強襲揚陸艦  |Storm Landing Ship         |  |
+|BSLC-MOT  |揚陸母艦    |Mother Landing Ship        |  |
+|BSLC-BLD  |戦闘揚陸艦  |Battle Landing Ship        |  |
 
 
 
@@ -198,26 +198,17 @@
 
 
 
-## BSWZ：魔導戦艦 / Battle Wizard Ship
+## BSWZ：魔導戦艦 / Wizard Battle Ship
 
 [目次へ戻る](#目次--table-of-contents) / [戦艦](battleship.md)  
   
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|BSWZ-STD  |魔導戦艦        |  |  |
-|BSWZ-AMD  |魔導装甲艦      |  |  |
-|BSWZ-MIS  |魔導ミサイル艦  |  |  |
-|BSWZ-MOS  |魔導母艦        |  |  |
-
-
-WS：魔導艦
-　　魔導戦艦
-　　魔導護衛艦
-　　魔導支援艦
-
-
-
+|BSWZ-STD  |魔導戦艦        |Wizard Battle Ship   |  |
+|BSWZ-AMD  |魔導装甲艦      |Wizard Armed Ship    |  |
+|BSWZ-MIS  |魔導ミサイル艦  |Wizard Missile Ship  |  |
+|BSWZ-MOS  |魔導母艦        |Wizard Mother Ship   |  |
 
 
 

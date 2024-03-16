@@ -22,7 +22,7 @@
   * [兵器種類](/unit/readme.md#兵器種類--unit-kind)
   * [兵器分類](/unit/readme.md#兵器分類--unit-class)
 
-* [兵器種類：戦列艦](/unit/readme.md#bsbb戦艦--battle-ship)
+* [兵器種類：戦艦](/unit/readme.md#bsbb戦艦--battle-ship)
 
 * 兵器標準仕様
   * [BSBB-STD：戦艦](#bsbb-std戦艦--battle-ship)
