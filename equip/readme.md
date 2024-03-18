@@ -238,17 +238,22 @@
 [目次へ戻る](#目次--table-of-contents) / [接近戦用武器](infight/readme.md)  
   
 
-* **IWSP：艦船用接近戦武器　Ship Infight Weapon**  
-  艦船用の接近戦闘用の武器です。  
+### IWSW：艦船近接戦用武器 / Ship Grapple Wepon
   
+艦船用の接近戦闘用の武器です。  
 
-* **IWII：歩兵用接近戦武器　Infantry Infight Weapon**  
-  歩兵用の接近戦闘専用の武器です。  
-  武器の使用が制限される艦内や要塞戦で使えます。  
+### IWSA：艦船近接戦用装甲 / Ship Grapple Armor
   
+艦船用の接近戦闘用の装甲や補助装備です。  
 
-* **IWIA：歩兵用補助装備　Infantry Auxiliary Equipment**  
-  歩兵を補助するための装備です。  
+### IWIW：歩兵接近戦用武器 / Infantry Grapple Weapon
+  
+歩兵用の接近戦闘専用の武器です。  
+武器の使用が制限される艦内や要塞戦で使えます。  
+
+### IWIA：歩兵近接戦用防具 / Infantry Grapple Armor
+  
+歩兵を補助するための装甲や補助装備です。  
   
 
 

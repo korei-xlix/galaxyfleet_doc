@@ -165,14 +165,14 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|BSLC-STD  |揚陸艦      |Landing Ship               |  |
-|BSLC-TNK  |戦車揚陸艦  |Tank Landing Ship          |  |
-|BSLC-ENG  |建築揚陸艦  |Architecture Landing Ship  |  |
-|BSLC-SPT  |高速揚陸艦  |Sprint Landing Ship        |  |
-|BSLC-SMN  |潜航揚陸艦  |Submarine Landing Ship     |  |
-|BSLC-STM  |強襲揚陸艦  |Storm Landing Ship         |  |
-|BSLC-MOT  |揚陸母艦    |Mother Landing Ship        |  |
-|BSLC-BLD  |戦闘揚陸艦  |Battle Landing Ship        |  |
+|BSLC-STD  |揚陸艦      |Landing Ship            |  |
+|BSLC-TNK  |戦車揚陸艦  |Tank Landing Ship       |  |
+|BSLC-ENG  |工作揚陸艦  |Engineer Landing Ship   |  |
+|BSLC-SPT  |高速揚陸艦  |Sprint Landing Ship     |  |
+|BSLC-SMN  |潜航揚陸艦  |Submarine Landing Ship  |  |
+|BSLC-STM  |強襲揚陸艦  |Storm Landing Ship      |  |
+|BSLC-MOT  |揚陸母艦    |Mother Landing Ship     |  |
+|BSLC-BLD  |戦闘揚陸艦  |Battle Landing Ship     |  |
 
 
 

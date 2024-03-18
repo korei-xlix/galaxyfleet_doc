@@ -57,10 +57,10 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|SSEL-STD  |電子支援艦  |  |  |
-|SSEL-SPT  |高速電戦艦  |  |  |
-|SSEL-SMN  |潜航電戦艦  |  |  |
-|SSEL-EBS  |支援戦艦    |  |  |
+|SSEL-STD  |電子支援艦  |Electronic Support Ship         |  |
+|SSEL-SPT  |高速電戦艦  |Sprint Electronic Support Ship  |  |
+|SSEL-SMN  |潜航電戦艦  |Electronic Submarine            |  |
+|SSEL-EBS  |支援戦艦    |Electronic Battle Ship          |  |
 
 
 
@@ -73,10 +73,10 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|SSSC-STD  |補給輸送艦  |Suppry Cargo Ship  |  |
-|SSSC-SPT  |高速輸送艦  |  |  |
-|SSSC-MOT  |輸送母艦    |  |  |
-|SSSC-UCG  |兵器輸送艦  |  |  |
+|SSSC-STD  |補給輸送艦  |Suppry Cargo Ship         |  |
+|SSSC-SPT  |高速輸送艦  |Splint Suppry Cargo Ship  |  |
+|SSSC-MOT  |輸送母艦    |Cargo Mother Ship         |  |
+|SSSC-UCG  |兵器輸送艦  |Unit Cargo Ship           |  |
 
 
 
@@ -133,10 +133,10 @@
 [目次へ戻る](#目次--table-of-contents) / [戦場工作艦](fieldengineership.md)  
   
 
-|SSFE-STD  |戦場工作艦  |  |  |
-|SSFE-LAY  |敷設回収艦  |  |  |
-|SSFE-TOW  |曳航艦      |Towing Ship  |  |
-|SSFE-EBS  |工作戦艦    |  |  |
+|SSFE-STD  |戦場工作艦  |Field Engineer Ship         |  |
+|SSFE-LAY  |敷設回収艦  |Mine Laying Ship            |  |
+|SSFE-TOW  |曳航艦      |Towing Ship                 |  |
+|SSFE-EBS  |工作戦艦    |Field Engineer Battle Ship  |  |
 
 
 
