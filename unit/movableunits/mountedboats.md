@@ -1,30 +1,28 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 装載艇</h1>  
-<h2>～Weapon Specifications～ :: Mounted Boats</h2>  
-  
+# Galaxy Fleet：兵器仕様：装載艇
+
+## Galaxy Fleet：Weapon Specifications：Destroyer
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、装載艇の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：装載艇](/unit/readme.md#aMountedBoats)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器分類：装載艇](/unit/readme.md#mumb装載艇--mounted-boats)
 
 * 兵器標準仕様
   * [MUMB-STD：装載艇](#aBattleBoat)
@@ -47,7 +45,6 @@
   * [MUMB-ENG：工作艇](#aEngineerBoat)
   * [MUMB-MSW：掃宙艇](#aMineSweepingBoat)
   * [MUMB-SPA：特殊攻撃艇](#aSpecialAttackBoat)
-  
 
 
 
