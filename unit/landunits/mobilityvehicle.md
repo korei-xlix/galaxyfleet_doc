@@ -1,30 +1,28 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 機動車両</h1>  
-<h2>～Weapon Specifications～ :: Mobility Vehicle</h2>  
-  
+# Galaxy Fleet：兵器仕様：機動車両
+
+## Galaxy Fleet：Weapon Specifications：Mobility Vehicle
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、機動車両の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：機動車両](/unit/readme.md#aMobilityVehicle)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/unit/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器種類：機動車両](/unit/readme.md#lumv機動車両--mobility-vehicle)
 
 * 兵器標準仕様
   * [LUMV-STD：機動車両](#aMobilityVehicle)
@@ -33,7 +31,6 @@
   * [LUMV-COM：陸戦指揮車](#aLandCommandVehicle)
   * [LUMV-CAG：補給輸送車](#aSupplyCargoVehicle)
   * [LUMV-MTP：多目的車両](#aMultipurposeVehicle)
-  
 
 
 
@@ -117,10 +114,10 @@
 
 
 
-<h1 id="aLandCommandVehicle">LUMV-COM：陸戦指揮車 / Land Command Vehicle</h1>  
-[目次へ戻る](#aMokuji)  
-  
+## LUMV-COM：陸戦指揮車 / Land Command Vehicle
 
+[目次へ戻る](#目次--table-of-contents)  
+  
 陸戦隊の指揮機能を有する軽車両です。タイヤで走行します。  
 ほかの陸戦隊との連携がより機能するようになります。  
 補給機能があります。また通信機能もあり、援軍が呼べます。  
@@ -128,17 +125,15 @@
 
 |項目  |設定  |
 |:--|:--|
-|武器  |機関砲  |
-|標準  |プラズマガン  |
-|      |補給用設備  |
-|機能  |陸戦指揮、陸戦補給、陸戦援軍  |
-|      |補給係  |
-|搭載  |補給用物資  |
+|武器  |機関砲、ミサイル（対地）、対空機関砲  |
+|標準  |ビーム機関砲x2、小型誘導噴進弾  |
+|      |小型対空機関砲、中型電子探索装置  |
+|機能  |陸戦指揮  |
+|      |陸戦援軍、陸戦索敵、陸戦補給  |
 
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ▲   | ×   | 〇(+4)   |
-  
 
 
 

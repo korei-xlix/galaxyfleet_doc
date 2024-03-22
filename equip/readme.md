@@ -344,9 +344,14 @@
 [目次へ戻る](#目次--table-of-contents) / [搭載機能拡張装備](onboard/readme.md)  
   
 
+### OBEH：拡張格納庫 / Extended Hangar  
+  
+搭載機が増える拡張倉庫です。  
 
-
-
+### OBES：拡張資材庫 / Expansion Material Storage  
+  
+保有資材が増える拡張倉庫です。  
+  
 
 
 ## SP：追加支援装備 / Additional Support Equipment

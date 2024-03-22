@@ -25,10 +25,10 @@
 * [兵器種類：戦場工作艦](/unit/readme.md#ssfe戦場工作艦--field-engineer-ship)
 
 * 兵器標準仕様
-  * [SSES-STD：戦場工作艦](#aFieldEngineerShip)
-  * [SSES-LAY：敷設回収艦](#aMineLayingandRecoveryShip)
-  * [SSES-TOW：曳航艦](#aTowingShip)
-  * [SSES-EBS：工作戦艦](#aFieldEngineerBattleShip)
+  * [SSES-STD：戦場工作艦](#sses-std戦場工作艦--field-engineer-ship)
+  * [SSES-LAY：敷設回収艦](#sses-lay敷設回収艦--mine-laying-ship)
+  * [SSES-TOW：曳航艦](#sses-tow曳航艦--towing-ship)
+  * [SSES-EBS：工作戦艦](#sses-ebs工作戦艦--field-engineer-battle-ship)
 
 
 
