@@ -1,30 +1,28 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 機動歩兵</h1>  
-<h2>～Weapon Specifications～ :: Movable Infantry</h2>  
-  
+# Galaxy Fleet：兵器仕様：機動歩兵
+
+## Galaxy Fleet：Weapon Specifications：Movable Infantry
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、機動歩兵の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：機動歩兵](/unit/readme.md#aMovableInfantry)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器分類：機動歩兵](/unit/readme.md#mumi機動歩兵--movable-infantry)
 
 * 兵器標準仕様
   * [MUMI-STD：汎用型](#aGeneralPurposeType)
@@ -36,37 +34,33 @@
   * [MUMI-REC：強行偵察型](#aForcedRecommendType)
   * [MUMI-ELW：電子作戦型](#aElectronicWarType)
   * [MUMI-ENG：宙域工作型](#aEngineerType)
+
+
+
+
+
+## MUMI-STD：汎用型 / General Purpose Type
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aGeneralPurposeType">MUMI-STD：汎用型 / General Purpose Type</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 人型のロボットです。  
 機動歩兵としての性能は平凡ですが、コストが低いです。  
 全体的に平凡で特徴がありません。  
 
 |項目  |設定  |
 |:--|:--|
-|武器１|接近戦用武器、手投げ弾、バックラー  |
-|武器２|携行砲、手投げ弾、バックラー  |
+|武器１|接近武器*、砲*、爆弾*、ロケット、盾*  |
+|武器２|接近武器*、砲*、爆弾*、ミサイル、盾*  |
 |武器固|機関砲、対空機関砲  |
-|標準  |ブレード  |
-|      |手榴弾  |
-|      |携行ビームガン  |
-|      |ビームガン  |
-|      |小型対空機関砲  |
-|      |バックラー  |
-|機能  |(なし)  |
+|標準  |長剣、小盾、手投げ爆弾  |
+|      |携行無誘導噴進弾(x4)、携行誘導噴進弾(x2)  |
+|      |ビーム機関砲(x2)、ビームライフル  |
+|      |小型対空機関砲、小型対空電子探索装置  |
+|機能  |装備換装、持ち替え  |
 
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ・   | ×   | ▲   | 〇(+4)   |
-  
 
 
 

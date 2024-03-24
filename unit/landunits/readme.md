@@ -62,14 +62,14 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|LULI-STD  |陸戦型  |  |  |
-|LULI-AIB  |空挺型  |  |  |
-|LULI-ATK  |砲兵型  |  |  |
-|LULI-STG  |護衛型  |  |  |
-|LULI-REC  |偵察型  |  |  |
+|LULI-STD  |陸戦型      |Land Battle Type    |  |
+|LULI-AIB  |空挺型      |  |  |
+|LULI-ATK  |砲兵型      |  |  |
+|LULI-STG  |護衛型      |  |  |
+|LULI-REC  |偵察型      |  |  |
 |LULI-CEG  |戦闘工兵型  |  |  |
 |LULI-ENG  |陸戦工作型  |  |  |
-|LULI-SPL  |特戦型  |  |  |
+|LULI-SPL  |特戦型      |  |  |
 
 
 
@@ -79,9 +79,9 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|LUMT-STD  |主力戦車  |  |  |
-|LUMT-LMT  |軽戦車  |  |  |
-|LUMT-HMT  |重戦車  |  |  |
+|LUMT-STD  |主力戦車  |Main Tank        |  |
+|LUMT-LMT  |軽戦車    |Light Tank       |  |
+|LUMT-HMT  |重戦車    |Heavy Tank       |  |
 |LUMT-MMT  |機動戦車  |  |  |
 |LUMT-AMT  |空中戦車  |  |  |
 |LUMT-VER  |万能戦車  |  |  |
@@ -94,9 +94,9 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|LUST-STD  |支援戦車  |  |  |
-|LUST-AMD  |装甲戦車  |  |  |
-|LUBT-INF  |歩兵戦車  |  |  |
+|LUST-STD  |支援戦車  |Support Tank     |  |
+|LUST-AMD  |装甲戦車  |Armoed Tank      |  |
+|LUBT-INF  |歩兵戦車  |Infantry Tank    |  |
 |LUST-AST  |突撃戦車  |  |  |
 |LUST-JGP  |駆逐戦車  |  |  |
 |LUST-ENG  |工作戦車  |  |  |
@@ -109,12 +109,12 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|LUPT-STD  |自走野戦砲  |  |  |
-|LUPT-AAT  |自走対空砲  |  |  |
-|LUPT-ROC  |自走ロケット  |  |  |
+|LUPT-STD  |自走野戦砲    |Self Propelled Cannon        |  |
+|LUPT-AAT  |自走対空砲    |Self Propelled Anti Air Gun  |  |
+|LUPT-ROC  |自走ロケット  |Self Propelled Rocket        |  |
 |LUPT-MIS  |自走ミサイル  |  |  |
-|LUPT-MIS  |自走弩砲  |  |  |
-|LUPT-MOV  |浮遊機動砲  |  |  |
+|LUPT-MIS  |自走弩砲      |  |  |
+|LUPT-MOV  |浮遊機動砲    |  |  |
 
 
 
@@ -125,8 +125,8 @@
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
 |LUAV-STD  |装甲輸送車  |  |  |
-|LUAV-AMP  |両用戦車  |  |  |
-|LUAV-ADT  |対物戦車  |  |  |
+|LUAV-AMP  |両用戦車    |  |  |
+|LUAV-ADT  |対物戦車    |  |  |
 |LUAV-REC  |偵察警戒車  |  |  |
 |LUAV-TKR  |戦場回収車  |  |  |
 |LUAV-ENG  |戦場工作車  |  |  |

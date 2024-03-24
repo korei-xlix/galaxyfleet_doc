@@ -1,30 +1,28 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 支援戦車</h1>  
-<h2>～Weapon Specifications～ :: Support Tank</h2>  
-  
+# Galaxy Fleet：兵器仕様：支援戦車
+
+## Galaxy Fleet：Weapon Specifications：Support Tank
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、支援戦車の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：支援戦車](/unit/readme.md#aSupportTank)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器分類：支援戦車](/unit/readme.md#lust支援戦車--support-tankg)
 
 * 兵器標準仕様
   * [LUST-STD：支援戦車](#aSupportTank)
@@ -33,70 +31,84 @@
   * [LUST-AST：突撃戦車](#aAssaultTank)
   * [LUST-JGP：駆逐戦車](#aJagdpanzer)
   * [LUST-ENG：工作戦車](#aEngineerTank)
+
+
+
+
+
+## LUST-STD：支援戦車 / Support Tank
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aSupportTank">LUST-STD：支援戦車 / Support Tank</h1>  
-[目次へ戻る](#aMokuji)  
-  
+主力戦車から歩兵を守ったり、攻撃の支援をおこなう戦車です。キャタピラで走行します。  
+ロケット、ミサイルを装備し、戦車、走行車両、歩兵を攻撃するのに向いてます。  
+歩兵、主力戦車、支援戦車、自走戦車につよいです。
+主力戦車、陸戦攻撃機によわいです。
 
 |項目  |設定  |
 |:--|:--|
-|武器  |xxx  |
-|標準  |xxx  |
-|      |xxx  |
-|機能  |xxx  |
-|搭載  |xxx  |
+|武器  |ロケット、ミサイル（対地）、機関砲  |
+|標準  |小型無誘導噴進弾(x3)、小型誘導噴進弾x2、重機関砲(x2)x2  |
+|      |小型電子探索装置  |
+|機能  |防弾装甲、キャタピラ装備  |
+|      |対戦車攻撃、対歩兵攻撃  |
 
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | xxx   | xxx   | xxx   | xxx   | xxx(xxx)   |
+
+
+
+
+
+## LUST-AMD：装甲戦車 / Armoed Tank
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aArmoedTank">LUST-AMD：装甲戦車 / Armoed Tank</h1>  
-[目次へ戻る](#aMokuji)  
-  
+主力戦車用の装甲が装備できる支援戦車です。キャタピラで走行します。  
+耐久性能が高く、その分機動性能が落ちます。  
+ロケット、ミサイルを装備し、戦車、走行車両、歩兵を攻撃するのに向いてます。  
+歩兵、主力戦車、支援戦車、自走戦車につよいです。
+主力戦車、陸戦攻撃機によわいです。
 
 |項目  |設定  |
 |:--|:--|
-|武器  |xxx  |
-|標準  |xxx  |
-|      |xxx  |
-|機能  |xxx  |
-|搭載  |xxx  |
+|武器  |ロケット、ミサイル（対地）、機関砲  |
+|標準  |小型無誘導噴進弾(x3)、小型誘導噴進弾x2、機関砲(x2)  |
+|      |小型電子探索装置  |
+|機能  |戦車装甲、キャタピラ装備  |
+|      |対戦車攻撃、対歩兵攻撃  |
 
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | xxx   | xxx   | xxx   | xxx   | xxx(xxx)   |
+
+
+
+
+
+## LUBT-INF：歩兵戦車 / Infantry Tank
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aInfantryTank">LUBT-INF：歩兵戦車 / Infantry Tank</h1>  
-[目次へ戻る](#aMokuji)  
-  
+歩兵を搭載できる支援戦車です。キャタピラで走行します。  
+ロケット、ミサイルを装備し、戦車、走行車両、歩兵を攻撃するのに向いてます。  
+歩兵、主力戦車、支援戦車、自走戦車につよいです。
+主力戦車、陸戦攻撃機によわいです。
 
 |項目  |設定  |
 |:--|:--|
-|武器  |xxx  |
-|標準  |xxx  |
-|      |xxx  |
-|機能  |xxx  |
-|搭載  |xxx  |
+|武器  |ロケット、▲ミサイルミサイル（対地）、機関砲  |
+|標準  |小型無誘導噴進弾(x3)、小型誘導噴進弾、重機関砲(x2)  |
+|      |小型電子探索装置  |
+|機能  |防弾装甲、陸兵乗降設備、キャタピラ装備  |
+|      |対戦車攻撃、対歩兵攻撃  |
+|塔載  |陸戦歩兵  |
 
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | xxx   | xxx   | xxx   | xxx   | xxx(xxx)   |
-  
+
 
 
 

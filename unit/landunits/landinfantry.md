@@ -1,30 +1,28 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 陸戦歩兵</h1>  
-<h2>～Weapon Specifications～ :: Land Infantry</h2>  
-  
+# Galaxy Fleet：兵器仕様：陸戦歩兵
+
+## Galaxy Fleet：Weapon Specifications：Land Infantry
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、陸戦歩兵の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：陸戦歩兵](/unit/readme.md#aLandInfantry)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器分類：陸戦歩兵](/unit/readme.md#luli陸戦歩兵--land-infantry)
 
 * 兵器標準仕様
   * [LULI-STD：陸戦型](#aLandBattleType)
@@ -35,39 +33,34 @@
   * [LULI-CEG：戦闘工兵型](#aCombatEngineerType)
   * [LULI-ENG：陸戦工作型](#aLandEngineerType)
   * [LULI-SPL：特戦型](#aSpecialType)
+
+
+
+
+
+## LULI-STD：陸戦型 / Land Battle Type
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aLandBattleType">LULI-STD：陸戦型 / Land Battle Type</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 地上専用の歩兵のスタンダードタイプです。  
 陸上での戦闘、防衛兵器を壊すのに向いています。  
 携行砲、携行ロケット砲も装備できます。  
 
 |項目  |設定  |
 |:--|:--|
-|武器１|接近戦用武器、手投げ弾、バックラー  |
-|武器２|携行砲、手投げ弾、バックラー、  |
-|武器３|携行ロケットランチャー  |
+|武器１|接近武器*、砲*、爆弾*、ロケット、盾*  |
+|武器２|接近武器*、砲*、爆弾*、ミサイル、盾*  |
 |武器固|機関砲、対空機関砲  |
-|標準  |ブレード  |
-|      |手榴弾  |
-|      |携行野戦砲  |
-|      |携行式単装ロケットランチャー  |
-|      |プラズマガン  |
-|      |小型対空機関砲  |
-|      |バックラー  |
-|機能  |(なし)  |
+|標準  |長剣、小盾、手投げ爆弾  |
+|      |携行無誘導噴進弾(x4)、携行誘導噴進弾(x2)  |
+|      |重機関砲(x2)、重機関銃  |
+|      |小型対空機関砲、小型対空電子探索装置  |
+|機能  |装備換装、持ち替え  |
+|      |対施設攻撃、対防攻撃  |
 
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ・   | ×   | ▲   | 〇(+4)   |
-  
 
 
 

@@ -353,8 +353,8 @@
   
 戦車の台座に様々な火砲を搭載する火力戦車です。  
 載せる砲台によって、対地、対空に分類が分かれます。  
-耐久性、防御力は低いですが、歩兵からの攻撃にはやや耐えやすいです。  
-攻撃にはよわいです。  
+耐久性、防御力は低いです。  
+近距離からの攻撃には更に弱いです。  
 
 ### [LUAV：装甲車両 / Armoed Vehicle](cars/armoedvehicle.md)
   
@@ -586,7 +586,7 @@
 各兵器種類は、さらに兵器分類に分類分けされます。  
 
 
-### BSDS：駆逐艦 / Destroyer
+### BSDS：駆逐艦　Destroyer
 
 * **BSDS-STD：駆逐艦**  
 
@@ -606,7 +606,7 @@
 
 
 
-### BSCR：巡航艦 / Cruiser
+### BSCR：巡航艦　Cruiser
 
 * **BSCR-STD：巡航艦**  
 
@@ -625,7 +625,7 @@
 * **BSCR-FLD：嚮導艦**  
 
 
-### BSBB：戦艦 / Battle Ship
+### BSBB：戦艦　Battle Ship
 
 * **BSBB-STD：戦艦**  
 
@@ -644,7 +644,7 @@
 * **BSBB-SGN：狙撃戦艦**  
 
 
-### BSAC：航空母艦 / Aircraft Carrier
+### BSAC：航空母艦　Aircraft Carrier
 
 * **BSAC-STD：航空母艦**  
 
@@ -663,7 +663,7 @@
 * **BSAC-SCT：制宙艦**  
 
 
-### BSMC：改造空母 / Modified Aircraft Carrier
+### BSMC：改造空母　Modified Aircraft Carrier
 
 * **BSMC-STD：改造空母**  
 
@@ -682,7 +682,7 @@
 * **BSMC-GIT：超大型空母**  
 
 
-### BSMS：汎用母艦 / General Purpose Mother Ship
+### BSMS：汎用母艦　General Purpose Mother Ship
 
 * **BSMS-STD：汎用機母艦**  
 
@@ -701,7 +701,7 @@
 * **BSMS-BLM：戦闘母艦**  
 
 
-### BSLC：揚陸艦 / Land Carrier
+### BSLC：揚陸艦　Land Carrier
 
 * **BSLC-STD：揚陸艦**  
 
@@ -720,7 +720,7 @@
 * **BSLC-BLD：戦闘揚陸艦**  
 
 
-### BSSB：潜航艦 / Submarine
+### BSSB：潜航艦　Submarine
 
 * **BSSB-STD：潜航艦**  
 
@@ -739,7 +739,7 @@
 } **BSSB-RAD：遊撃艦**  
 
 
-### BSWZ：魔導戦艦 / Wizard Battle Ship
+### BSWZ：魔導戦艦　Wizard Battle Ship
 
 * **BSWZ-STD：魔導戦艦**  
 
@@ -751,7 +751,7 @@
 
 
 
-### ESFG：護衛艦 / Frigate
+### ESFG：護衛艦　Frigate
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -767,7 +767,7 @@
 * **ESCV-SRG：格闘戦艦**  
 
 
-### ESCV：防護艦 / Corvet
+### ESCV：防護艦　Corvet
 
 * **ESCV-STD：防護艦**  
 
@@ -780,7 +780,7 @@
 * **ESCV-DSP：通報艦**  
 
 
-### ESMS：護衛母艦 / Escort Mother Ship
+### ESMS：護衛母艦　Escort Mother Ship
 
 * **ESMS-STD：護衛母艦**  
 
@@ -793,7 +793,7 @@
 * **ESMS-CAG：輸送護衛艦**  
 
 
-### ESWZ：魔導護衛艦 / Wizard Escort Ship
+### ESWZ：魔導護衛艦　Wizard Escort Ship
 
 * **ESWZ-STD：魔導護衛艦**  
 
@@ -801,7 +801,7 @@
 
 
 
-### SSRE：偵察艦 / Recommend Ship
+### SSRE：偵察艦　Recommend Ship
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -815,7 +815,7 @@
 * **SSRE-RBS：偵察戦艦**  
 
 
-### SSEL：電子支援艦 / Electronic Support Ship
+### SSEL：電子支援艦　Electronic Support Ship
 
 * **SSEL-STD：電子支援艦**  
 
@@ -826,7 +826,7 @@
 * **SSEL-EBS：支援戦艦**  
 
 
-### SSSC：補給輸送艦 / Suppry Cargo Ship
+### SSSC：補給輸送艦　Suppry Cargo Ship
 
 * **SSSC-STD：補給輸送艦**  
 
@@ -837,7 +837,7 @@
 * **SSSC-UCG：兵器輸送艦**  
 
 
-### SSCM：指揮支援艦 / Command Support Ship
+### SSCM：指揮支援艦　Command Support Ship
 
 * **SSCM-STD：戦術指揮艦**  
 
@@ -848,7 +848,7 @@
 * **SSCM-CBS：指揮戦艦**  
 
 
-### SSKS：打撃支援艦 / Strike Support Ship
+### SSKS：打撃支援艦　Strike Support Ship
 
 * **SSKS-STD：打撃支援艦**  
 
@@ -859,7 +859,7 @@
 * **SSKS-TRW：転送艦**  
 
 
-### SSLS：陸戦支援艦 / Land War Support Ship
+### SSLS：陸戦支援艦　Land War Support Ship
 
 * **SSLS-STD：陸戦支援艦**  
 
@@ -870,7 +870,7 @@
 * **SSLS-TKR：戦車回収艦**  
 
 
-### SSFE：戦場工作艦 / Field Engineer Ship
+### SSFE：戦場工作艦　Field Engineer Ship
 
 * **SSFE-STD：戦場工作艦**  
 
@@ -881,7 +881,7 @@
 * **SSFE-EBS：工作戦艦**  
 
 
-### SSSS：戦略支援艦 / Strategy Support Ship
+### SSSS：戦略支援艦　Strategy Support Ship
 
 * **SSSS-STD：戦略支援艦**  
 
@@ -904,7 +904,7 @@
 * **SSSS-TRG：転送ゲート艦**  
 
 
-### SSWZ：魔導支援艦 / Wizard Support Ship
+### SSWZ：魔導支援艦　Wizard Support Ship
 
 * **SSWZ-STD：魔導支援艦**  
 
@@ -916,7 +916,7 @@
 
 
 
-### MUCB：空母航空機 / Carrier Aircraft
+### MUCB：空母航空機　Carrier Aircraft
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -950,7 +950,7 @@
 * **MUCB-CAG：補給輸送機**  
 
 
-### MUML：汎用航空機 / Multipurpose Aircraft
+### MUML：汎用航空機　Multipurpose Aircraft
 
 * **MUML-FIG：汎用戦闘機**  
 
@@ -973,7 +973,7 @@
 * **MUML-CAG：汎用輸送機**  
 
 
-### MULG：大型航空機 / Large Aircraft
+### MULG：大型航空機　Large Aircraft
 
 * **MULG-HFI：重戦闘機**  
 
@@ -1004,7 +1004,7 @@
 * **MULG-CAG：大型輸送機**  
 
 
-### MUMI：機動歩兵 / Movable Infantry
+### MUMI：機動歩兵　Movable Infantry
 
 * **MUMI-STD：汎用型**  
 
@@ -1027,7 +1027,7 @@
 * **MUMI-ENG：宙域工作型**  
 
 
-### MUVI：万能歩兵 / Versatile Infantry
+### MUVI：万能歩兵　Versatile Infantry
 
 * **MUVI-STD：万能型**  
 
@@ -1038,7 +1038,7 @@
 * **MUVI-REP：換装型**  
 
 
-### MUMB：装載艇 / Mounted Boats
+### MUMB：装載艇　Mounted Boats
 
 * **MUMB-STD：装載艇**  
 
@@ -1082,7 +1082,7 @@
 
 
 
-### LULA：陸戦攻撃機 / Land Airplane
+### LULA：陸戦攻撃機　Land Airplane
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1117,7 +1117,7 @@
   
 
 
-### LULI：陸戦歩兵 / Land Infantry
+### LULI：陸戦歩兵　Land Infantry
 
 * **LULI-STD：陸戦型**  
 
@@ -1136,7 +1136,7 @@
 * **LULI-SPL：特戦型**  
 
 
-### LUMT：主力戦車 / Main Tank
+### LUMT：主力戦車　Main Tank
 
 * **LUMT-STD：主力戦車**  
 
@@ -1151,7 +1151,7 @@
 * **LUMT-VER：万能戦車**  
 
 
-### LUST：支援戦車 / Support Tank
+### LUST：支援戦車　Support Tank
 
 * **LUST-STD：支援戦車**  
 
@@ -1166,7 +1166,7 @@
 * **LUST-ENG：工作戦車**  
 
 
-### LUPT：自走戦車 / Self Propelled Tank
+### LUPT：自走戦車　Self Propelled Tank
 
 * **LUPT-STD：自走野戦砲**  
 
@@ -1181,7 +1181,7 @@
 * **LUPT-MOV：浮遊機動砲**  
 
 
-### LUAV：装甲車両 / Armoed Vehicle
+### LUAV：装甲車両　Armoed Vehicle
 
 * **LUAV-STD：装甲輸送車**  
 
@@ -1196,7 +1196,7 @@
 * **LUAV-ENG：戦場工作車**  
 
 
-### LUMV：機動車両 / Mobility Vehicle
+### LUMV：機動車両　Mobility Vehicle
 
 * **LUMV-STD：機動車両**  
 
@@ -1211,7 +1211,7 @@
 * **LUMV-MTP：多目的車両**  
 
 
-### LUTR：被牽引車 / Trailer
+### LUTR：被牽引車　Trailer
 
 * **LUTR-TOW：牽引車**  
 
@@ -1239,7 +1239,7 @@
 
 
 
-### DUSY：防衛システム / Defense System
+### DUSY：防衛システム　Defense System
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1265,7 +1265,7 @@
 * **DUSY-ELW：電戦システム**  
 
 
-### DUGW：巨人兵器 / Giant Wepon
+### DUGW：巨人兵器　Giant Wepon
 
 * **DUGW-BAT：超巨大戦艦**  
 
@@ -1288,7 +1288,7 @@
 * **DUGW-WIZ：魔導要塞**  
 
 
-### DUST：宇宙砲台 / Space Battery
+### DUST：宇宙砲台　Space Battery
 
 * **DUST-STD：対艦砲台**  
 
@@ -1303,7 +1303,7 @@
 * **DUST-ELW：監視台**  
 
 
-### DULT：野戦砲台 / Land Battery
+### DULT：野戦砲台　Land Battery
 
 * **DULT-STD：野戦砲台**  
 
@@ -1318,7 +1318,7 @@
 * **DULT-ELW：監視台**  
 
 
-### DUFU：浮遊兵器 / Floating Unit
+### DUFU：浮遊兵器　Floating Unit
 
 * **DUFU-STD：浮遊砲台**  
 
@@ -1329,7 +1329,7 @@
 * **DUFU-SAT：衛星**  
 
 
-### DUIU：設置兵器 / Installed Unit
+### DUIU：設置兵器　Installed Unit
 
 * **DUIU-STD：設置砲台**  
 
@@ -1340,7 +1340,7 @@
 * **DUIU-ENG：工作設備**  
 
 
-### DUSB：宇宙基地 / Space Base
+### DUSB：宇宙基地　Space Base
 
 * **DUSB-CCC：防衛基地**  
 
@@ -1363,7 +1363,7 @@
 * **DUSB-REC：偵察基地**  
 
 
-### DULB：地上基地 / Land Base
+### DULB：地上基地　Land Base
 
 * **DULB-CCC：防衛基地**  
 
@@ -1388,7 +1388,7 @@
 
 
 
-### WUSO：魔導士 / Sorcery
+### WUSO：魔導士　Sorcery
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1410,7 +1410,7 @@
 * **WUSO-SAG：賢者**  
 
 
-### WUMO：修道士 / Monk
+### WUMO：修道士　Monk
 
 * **WUMO-STD：修道士**  
 
@@ -1429,7 +1429,7 @@
 * **WUMO-APO：使徒**  
 
 
-### WUEM：使役士 / Employer
+### WUEM：使役士　Employer
 
 * **WUEM-STD：使役士**  
 
@@ -1448,7 +1448,7 @@
 * **WUEM-SUM：召喚者**  
 
 
-### WUWA：戦士 / Warrior
+### WUWA：戦士　Warrior
 
 * **WUWA-STD：戦士**  
 
@@ -1467,7 +1467,7 @@
 * **WUWA-ARM：魔剣戦士**  
 
 
-### WUHU：狩人 / Hunter
+### WUHU：狩人　Hunter
 
 * **WUHU-STD：狩人**  
 
@@ -1486,7 +1486,7 @@
 * **WUHU-COM：特殊隊員**  
 
 
-### WUKN：騎士 / Knight
+### WUKN：騎士　Knight
 
 * **WUKN-SQU：騎士見習い**  
 
@@ -1505,7 +1505,7 @@
 * **WUKN-MAG：魔導騎士**  
 
 
-### WUEG：技師 / Engineer
+### WUEG：技師　Engineer
 
 * **WUEG-ENG：機械技師**  
 
@@ -1522,7 +1522,7 @@
 * **WUEG-ADM：管理者**  
 
 
-### WUST：一般職 / Staff
+### WUST：一般職　Staff
 
 * **WUST-GAM：遊び人**  
 
@@ -1539,7 +1539,7 @@
 * **WUST-EXE：経営者**  
 
 
-### WULH：英雄 / Legend of Hero
+### WULH：英雄　Legend of Hero
 
 * **WULH-LOA：王者**  
 
@@ -1550,7 +1550,7 @@
 * **WULH-DEM：魔王**  
 
 
-### WUWH：魔導馬 / Wizard Horse
+### WUWH：魔導馬　Wizard Horse
 
 * **WUWH-STD：魔導馬**  
 
@@ -1568,7 +1568,7 @@
 
 
 
-### CSPA：旅客船 / Passenger Ship
+### CSPA：旅客船　Passenger Ship
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1582,7 +1582,7 @@
 * **CSPA-TAX：個別営業船**  
 
 
-### CSCO：企業船 / Corporate Ship
+### CSCO：企業船　Corporate Ship
 
 * **CSCO-FER：企業連絡船**  
 
@@ -1593,7 +1593,7 @@
 * **CSCO-MIN：企業採掘船**  
 
 
-### CSGV：公用船 / Government Ship
+### CSGV：公用船　Government Ship
 
 * **CSGV-FER：公用連絡船**  
 
@@ -1604,7 +1604,7 @@
 * **CSGV-COC：戦時監視船**  
 
 
-### CSGU：警備船 / Guard Ship
+### CSGU：警備船　Guard Ship
 
 * **CSGU-GUD：警備船**  
 
@@ -1616,7 +1616,7 @@
 
 
 
-### CUCP：民間機 / Civil Plane
+### CUCP：民間機　Civil Plane
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1630,7 +1630,7 @@
 * **CUCP-CAG：民間輸送機**  
 
 
-### CUGP：公用機 / Government Plane
+### CUGP：公用機　Government Plane
 
 * **CUGP-FER：公用連絡機**  
 
@@ -1642,7 +1642,7 @@
 
 
 
-### CUCR：民間ロボット / Civil Robot
+### CUCR：民間ロボット　Civil Robot
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1656,7 +1656,7 @@
 * **CUCR-GUD：警備ロボット**  
 
 
-### CUGR：公用ロボット / Government Robot
+### CUGR：公用ロボット　Government Robot
 
 * **CUGR-ENG：公用作業ロボット**  
 
@@ -1668,7 +1668,7 @@
 
 
 
-### CUCB：民間舟艇  / Civil Boat
+### CUCB：民間舟艇 　Civil Boat
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1682,7 +1682,7 @@
 * **CUCB-CAG：民間輸送艇**  
 
 
-### CUGB：公用舟艇  / Government Boat
+### CUGB：公用舟艇 　Government Boat
 
 * **CUGB-FER：公用連絡艇**  
 
@@ -1694,7 +1694,7 @@
 
 
 
-### CUCC：民間車両  / Civil Car
+### CUCC：民間車両 　Civil Car
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1708,7 +1708,7 @@
 * **CUCC-CAG：民間輸送車**  
 
 
-### CUGC：公用車両  / Government Car
+### CUGC：公用車両 　Government Car
 
 * **CUGC-FER：公用連絡車**  
 
@@ -1720,7 +1720,7 @@
 
 
 
-### CUCS：民間衛星  / Civil Satellite
+### CUCS：民間衛星 　Civil Satellite
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1734,7 +1734,7 @@
 * **CUCS-GUD：警備衛星**  
 
 
-### CUGS：公用衛星  / Government Satellite
+### CUGS：公用衛星 　Government Satellite
 
 * **CUGS-CMN：公用通信衛星**  
 
@@ -1746,7 +1746,7 @@
 
 
 
-### CBSP：宇宙施設  / Space Facility
+### CBSP：宇宙施設 　Space Facility
 
 [目次へ戻る](#目次--table-of-contents)
   
@@ -1766,7 +1766,7 @@
 * **CBSP-CNT：通信施設**  
 
 
-### CBLD：地上施設  / Land Facility
+### CBLD：地上施設 　Land Facility
 
 * **CBLD-CCC：中枢施設**  
 

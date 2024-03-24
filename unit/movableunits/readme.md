@@ -115,7 +115,7 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|MUMI-STD  |汎用型      |  |  |
+|MUMI-STD  |汎用型      |General Purpose Type  |  |
 |MUMI-ATK  |攻撃型      |  |  |
 |MUMI-AMD  |防御型      |  |  |
 |MUMI-SPT  |機動型      |  |  |
@@ -164,8 +164,8 @@
 |MUMB-RCM  |偵察指揮艇      |  |  |
 |MUMB-SMK  |対潜哨戒艇      |  |  |
 |MUMB-ELW  |電子作戦艇      |  |  |
-|MUMB-CAG  |補給輸送艇      |  |  |
-|MUMB-LND  |揚陸艇          |  |  |
+|MUMB-CAG  |補給輸送艇      |Supply Cargo Boat          |  |
+|MUMB-LND  |揚陸艇          |Landing Boat               |  |
 |MUMB-INF  |歩兵装載艇      |  |  |
 |MUMB-EST  |護衛装載艇      |  |  |
 |MUMB-RES  |救護艇          |  |  |
