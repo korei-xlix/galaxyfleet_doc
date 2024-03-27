@@ -124,12 +124,12 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|LUAV-STD  |装甲輸送車  |  |  |
+|LUAV-STD  |装甲輸送車  |Armoed Cargo Vehicle       |  |
 |LUAV-AMP  |両用戦車    |  |  |
 |LUAV-ADT  |対物戦車    |  |  |
-|LUAV-REC  |偵察警戒車  |  |  |
+|LUAV-REC  |偵察警戒車  |Recommend Guard Vehicle    |  |
 |LUAV-TKR  |戦場回収車  |  |  |
-|LUAV-ENG  |戦場工作車  |  |  |
+|LUAV-ENG  |戦場工作車  |Field Engineering Vehicle  |  |
 
 
 
@@ -139,12 +139,12 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|LUMV-STD  |機動車両  |  |  |
+|LUMV-STD  |機動車両      |  |  |
 |LUMV-HOV  |ホバーバイク  |  |  |
-|LUMV-ELW  |電子支援車  |  |  |
-|LUMV-COM  |陸戦指揮車  |  |  |
-|LUMV-CAG  |補給輸送車  |  |  |
-|LUMV-MTP  |多目的車両  |  |  |
+|LUMV-ELW  |電子支援車    |  |  |
+|LUMV-COM  |陸戦指揮車    |Land Command Vehicle  |  |
+|LUMV-CAG  |補給輸送車    |Supply Cargo Vehicle  |  |
+|LUMV-MTP  |多目的車両    |  |  |
 
 
 
@@ -154,18 +154,18 @@
 
 |兵器形式  |兵器名  |英語名  |概要  |
 |:--|:--|:--|:--|
-|LUTR-TOW  |牽引車  |  |  |
-|LUTR-CAG  |大型貨物車両  |  |  |
-|LUTR-FGN  |野戦砲車両  |  |  |
-|LUTR-AAG  |対空砲車両  |  |  |
-|LUTR-ROC  |ロケット車両  |  |  |
+|LUTR-TOW  |牽引車            |Towing Truck          |  |
+|LUTR-CAG  |大型貨物車両      |Cargo Trailer         |  |
+|LUTR-FGN  |野戦砲車両        |  |  |
+|LUTR-AAG  |対空砲車両        |  |  |
+|LUTR-ROC  |ロケット車両      |  |  |
 |LUTR-MIS  |対地ミサイル車両  |  |  |
-|LUTR-OBT  |軌道狙撃砲車両  |  |  |
+|LUTR-OBT  |軌道狙撃砲車両    |  |  |
 |LUTR-SRK  |戦略ミサイル車両  |  |  |
-|LUTR-MUL  |汎用支援車両  |  |  |
-|LUTR-RCY  |戦車回収車両  |  |  |
-|LUTR-MNG  |資源採掘車両  |  |  |
-|LUTR-BAS  |移動基地車両  |  |  |
+|LUTR-MUL  |汎用支援車両      |  |  |
+|LUTR-RCY  |戦車回収車両      |  |  |
+|LUTR-MNG  |資源採掘車両      |  |  |
+|LUTR-BAS  |移動基地車両      |  |  |
 
 
 

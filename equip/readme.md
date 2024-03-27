@@ -28,7 +28,6 @@
   * [基礎構造](#fs基礎構造--foundation-structure)
   * [砲](#cn砲--cannon)
   * [投射武器](#tw投射武器--throwing-luncher)
-  * [対空武器](#aa対空武器--anti-air-wepon)
   * [爆弾](#bb爆弾--bomb-luncher)
   * [接近戦用武器](#iw接近戦用武器--infight-weapon)
   * [船体強化装備](#hr船体強化装備--hull-reinforcement-equipment)
@@ -159,33 +158,6 @@
 * **TWTT：トランスフォームトーピード　Tranceform Torpido Luncher**  
   次元空間を滑走する魚雷を発射、着弾寸前に通常空間に現れ、目標を爆破するエネルギー武器です。  
   射程は短いですが、敵艦へのダメージが高いです。  
-  
-
-
-## AA：対空武器 / Anti Air Wepon
-
-[目次へ戻る](#目次--table-of-contents) / [対空武器](aagun/readme.md)  
-  
-
-* **AAAC：対空砲　Anti Air Cannon**  
-  実体弾を用いた対空戦闘専用の武器です。主に戦列艦に搭載されます。  
-  基本的に照準は自動照準となります。  
-  
-
-* **AAMG：対空機関砲　Anti Air Machine Gun**  
-  実体弾を用いた対空戦闘専用の武器です。  
-  対空砲より小型で、機動兵器などに搭載されます。  
-  
-
-* **AADL：ディフューズレーザ　Diffuse Laser**  
-  レーザを拡散照射する、対空戦闘専用のレーザ砲です。  
-  命中率が高いですが、搭載スペースと重量を食います。  
-  基本的に照準は自動照準となります。  
-  
-
-* **AAPL：パルスレーザ　Pulsed Laser**  
-  短い周期で連続発射できる対空戦闘用のレーザ砲です。  
-  低出力ですが、命中率が高いです。  
   
 
 

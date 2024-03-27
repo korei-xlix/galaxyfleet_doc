@@ -1,30 +1,28 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 装甲車両</h1>  
-<h2>～Weapon Specifications～ :: Main Tank</h2>  
-  
+# Galaxy Fleet：兵器仕様：装甲車両
+
+## Galaxy Fleet：Weapon Specifications：Armoed Vehicle
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、装甲車両の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：装甲車両](/unit/readme.md#aArmoedVehicle)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/strategypart/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器分類：装甲車両](/unit/readme.md#luav装甲車両--armoed-vehicle)
 
 * 兵器標準仕様
   * [LUAV-STD：装甲輸送車](#aArmoedCargoVehicle)
@@ -33,34 +31,31 @@
   * [LUAV-REC：偵察警戒車](#aRecommendGuardVehicle)
   * [LUAV-TKR：戦場回収車](#aFieldRecoveryVehicle)
   * [LUAV-ENG：戦場工作車](#aFieldEngineeringVehicle)
+
+
+
+
+
+## LUAV-STD：装甲輸送車 / Armoed Cargo Vehicle
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aArmoedCargoVehicle">LUAV-STD：装甲輸送車 / Armoed Cargo Vehicle</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 輸送用の大型装甲トラックです。タイヤで走行します。  
-歩兵や大量の資材、バラした防衛兵器などが輸送できます。  
-設置兵器を設置することもできます。設置兵器を載せてるときは他の物資の搭載ができません。  
-戦闘力は低いです。  
+歩兵、資材、バラした防衛兵器などが輸送できます。  
+歩兵につよいです。戦闘力は低いです。  
 
 |項目  |設定  |
 |:--|:--|
-|武器１|機関砲            |
-|武器２|機関砲、設置兵器  |
-|標準  |プラズマガン  |
-|      |貨物室設備、設置用設備  |
-|機能  |作業員、設置、運び屋  |
-|搭載  |陸戦歩兵、防衛兵器、設置兵器、工作用資材  |
+|武器  |機関砲  |
+|標準  |機関砲(x2)x2  |
+|      |小型電子探索装置  |
+|機能  |輸送車貨物庫、防弾装甲、タイヤ装備  |
+|      |対歩兵攻撃  |
+|搭載  |陸戦歩兵、防衛兵器（輸送）  |
 
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ×   | ×   | 〇(+4)   |
-  
 
 
 
@@ -115,26 +110,25 @@
 
 
 
-<h1 id="aRecommendGuardVehicle">LUAV-REC：偵察警戒車 / Recommend Guard Vehicle</h1>  
-[目次へ戻る](#aMokuji)  
-  
+## LUAV-REC：偵察警戒車 / Recommend Guard Vehicle
 
+[目次へ戻る](#目次--table-of-contents)  
+  
 偵察用の軽車両です。タイヤで走行します。  
-対歩兵用のロケット弾が搭載できます。陸戦兵器のなかでは電子性能が高い上、機動力での索敵能力も高いです。  
-味方長距離砲の着弾観測をおこない、砲撃への情報支援がおこなえます。  
-戦闘力は低いです。  
+ロケットが搭載できます。陸戦兵器のなかでは電子性能が高い上、機動力での索敵能力も高いです。  
+歩兵につよいです。戦闘力は低いです。  
 
 |項目  |設定  |
 |:--|:--|
 |武器  |ロケット、機関砲  |
-|標準  |プラズマガン  |
-|      |小型単装ロケットランチャー（対歩兵弾）  |
-|機能  |着弾観測  |
+|標準  |小型無誘導噴進弾(x3)、機関砲(x2)  |
+|      |小型電子探索装置  |
+|機能  |地上探索、対歩兵攻撃、タイヤ装備  |
+|      |陸戦索敵、深部探索、地形探索、着弾観測  |
 
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ×   | 〇   | ・   | ▲   | ・(+6)   |
-  
 
 
 
@@ -161,22 +155,28 @@
 
 
 
-<h1 id="aFieldEngineeringVehicle">LUAV-ENG：戦場工作車 / Field Engineering Vehicle</h1>  
-[目次へ戻る](#aMokuji)  
+## LUAV-ENG：戦場工作車 / Field Engineering Vehicle
+
+[目次へ戻る](#目次--table-of-contents)  
   
+土木作業や兵器の修理ができる特殊車両です。キャタピラで走行します。  
+基地施設を建築することができます。専用の工具箱を搭載します。  
+設置兵器が運用できます。また設置兵器の回収ができます。  
+戦車の装甲を装備し、耐久性能が高いですが、機動性能は低いです。  
+武器はありません。  
 
 |項目  |設定  |
 |:--|:--|
-|武器  |xxx  |
-|標準  |xxx  |
-|      |xxx  |
-|機能  |xxx  |
-|搭載  |xxx  |
+|武器  |(なし)  |
+|標準  |(なし)  |
+|機能  |戦車装甲、工事設備、修理工具箱、キャタピラ装備  |
+|      |施設建築、施設修理、施設解体  |
+|      |兵器設置、兵器修理、兵器回収、応急修理  |
+|搭載  |設置兵器  |
 
 |耐久  |機動  |電子  |動力  |評価値    |
 |:--|:--|:--|:--|:--|
 | xxx   | xxx   | xxx   | xxx   | xxx(xxx)   |
-  
 
 
 

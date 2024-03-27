@@ -1,30 +1,28 @@
-# Galaxy Fleet
-  
-<h1>～兵器仕様～ :: 牽引車両</h1>  
-<h2>～Weapon Specifications～ :: Main Tank</h2>  
-  
+# Galaxy Fleet：兵器仕様：牽引車両
+
+## Galaxy Fleet：Weapon Specifications：Trailer
+
+## このドキュメントについて / About this document
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このドキュメントは「Galaxy Fleet」の兵器のうち、牽引車両の定義を記載するものです。  
 その他の仕様についてはreadmeの目次を確認してください。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
 * [readme.md](/readme.md)
-  * [兵器仕様](/unit/readme.md)
-  * [兵器種類](/strategypart/readme.md#aUnitKind)
-  * [兵器分類](/unit/readme.md#aUnitClass)
 
-  * [兵器分類：牽引車両](/unit/readme.md#aTrailer)
+* [兵器仕様](/unit/readme.md)
+  * [兵器種類](/unit/readme.md#兵器種類--unit-kind)
+  * [兵器分類](/unit/readme.md#兵器分類--unit-class)
+
+* [兵器種類：牽引車両](/unit/readme.md#lutr牽引車両--trailer)
 
 * 兵器標準仕様
   * [LUTR-TOW：牽引車](#aTowingTractor)
@@ -39,16 +37,15 @@
   * [LUTR-RCY：戦車回収車両](#aTankRecyclingTrailer)
   * [LUTR-MNG：資源採掘車両](#aMiningTrailer)
   * [LUTR-BAS：移動基地車両](#aMobiltyBaseTrailer)
+
+
+
+
+
+## LUTR-TOW：牽引車 / Towing Truck
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aTowingTractor">LUTR-TOW：牽引車 / Towing Tractor</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
 被牽引車を牽引したり、防衛兵器を移動させる（牽引する）装甲トラックです。タイヤで走行します。  
 牽引車自体の戦闘力はありません。  
 
@@ -56,36 +53,36 @@
 |:--|:--|
 |武器  |(なし)  |
 |標準  |(なし)  |
-|      |貨物牽引用設備  |
-|機能  |車両牽引、牽引、チカラもち  |
+|機能  |防弾装甲、車両牽引、タイヤ装備  |
 
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | 〇   | ×   | ×   | 〇(+4)   |
+
+
+
+
+
+## LUTR-CAG：大型貨物車両 / Cargo Trailer
+
+[目次へ戻る](#目次--table-of-contents)  
   
-
-
-
-
-
-<h1 id="aCargoTrailer">LUTR-CAG：大型貨物車両 / Cargo Trailer</h1>  
-[目次へ戻る](#aMokuji)  
-  
-
-大量の荷物を積載できる大型装甲トレーラです。  
-牽引車両で牽引します。  
+大量の荷物を積載できる大型装甲トレーラです。タイヤで走行し、牽引車で牽引されます。  
+陸戦兵器への補給ができます。  
+また貨物、陸戦歩兵も搭載できます。  
+戦闘力はありません。  
 
 |項目  |設定  |
 |:--|:--|
 |武器  |(なし)  |
-|標準  |貨物室設備  |
-|機能  |運び屋  |
-|搭載  |陸戦歩兵、防衛兵器  |
+|標準  |(なし)  |
+|機能  |被牽引、大型補給車貨物庫、防弾装甲、タイヤ装備  |
+|      |陸戦補給  |
+|搭載  |陸戦歩兵、防衛兵器（輸送）  |
 
 |生存  |機動  |電子  |稼働  |評価値    |
 |:--|:--|:--|:--|:--|
 | ▲   | ×   | ×   | ×   | 〇(+4)   |
-  
 
 
 
